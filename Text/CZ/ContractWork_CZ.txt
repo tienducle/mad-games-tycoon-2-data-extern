@@ -1,0 +1,80 @@
+﻿Optimalizovat grafický modul<0>
+Naprogramovat audio systém<0>
+Dokončit vývoj Level editoru<0>
+Optimalizovat herní fyziku<0>
+Naskriptovat questy<0>
+Optimalizovat nepřátelskou UI<0>
+Optimalizovat dobu načítání<0>
+Naprogramovat paměťový systém0>
+Vytvořit uživatelské rozhraní<0>
+Naprogramovat systém databáze<0>
+Vytvořit prototyp hry<0>
+Vytvořit lokalizační nástroj<0>
+Vytvořit diagnostický nástroj<0>
+Zkomprimovat soubory hry<0>
+Naprogramovat systém dialogů<0>
+Vytvořit kolizní systém<0>
+Naprogramovat Prohlížeč souborů<0>
+Naprogramovat Level loader<0>
+Naprogramovat správce vstupů<0>
+Naprogramovat Spritemanager<0>
+Vytvořit řadič ladění<0>
+Naprogramovat Event Manager<0>
+Vytvořit systém animací<0>
+Vytvořit sprite editor<0>
+Vytvořit ovladače<0>
+Realizovat ochranu proti zkopírování<0>
+Optimalizovat kontrolní systém<1>
+Navrhnout úrovně<1>
+Obecný test chyb<1>
+Otestovat questy<1>
+Vytvořit koncept hry<1>
+Test kompatibility HW<1>
+Test stability hry<1>
+Analýza výkonu hry<1>
+Test herních aktualizací<1>
+Optimalizovat vyvážení ve hře<1>
+Test přídavků<1>
+Analýza prototypu<1>
+Test uživatelského rozhraní<1>
+Vytvořit scénář<1>
+Sepsat dialogy<1>
+Vytvořit herní ikonky<2>
+Nakreslit pozadí<2>
+Nakreslit Předměty<2>
+Nakreslit uživatelské rozhraní<2>
+Vytvořit grafický koncept<2>
+Nakreslit environment objects<2>
+Vytvořit speciální efekty<2>
+Nakreslit cover image<2>
+Vytvořit herní úrovně<2>
+Navrhnout fonty<2>
+Vytvořit animace postav<2>
+Vytvořit soundtracky<3>
+Vytvořit zvuky postav<3>
+Nahrát zvuky zbraní<3>
+Vytvořit zvuky uživatelského rozhraní<3>
+Vytvořit dynamické zvuky<3>
+Vytvořit zvuky prostředí<3>
+Vytvořit zvuky kouzel<3>
+Nahrát zvuky zvířat<3>
+Vytvořit engine zvuku<3>
+Nahrát klasickou hudbu<3>
+Vytvořit robotické zvuky<3>
+Namixovat zvuky explozí<3>
+Nahrát základní pohyby<4>
+Nahrát animace soubojů<4>
+Vytvořit animace v Cutscéně<4>
+Vytvořit animace zvířat<4>
+Nahrát animace šermu<4>
+Vytvořit animace monster<4>
+Vytvořit tanečních animací<4>
+Nahrát hráče fotbalu<4>
+Vytvořit animace emocí<4>
+Nahrát animace robotů<4>
+Oprava konzolí<7>
+Navrhnout prototyp konzole<7>
+Diagnostikovat prototyp konzoly<7>
+Revize základní desky konzole<7>
+Testovat výkon prototypu<7>
+Optimalizovat chladicí systém<7>

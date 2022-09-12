@@ -1,0 +1,188 @@
+﻿-;-
+Birou I;Birou pentru dezvoltare. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Incalzire;Angajatii carora le este frig devin mai repede nemultumiti.
+Lampa I;Angajatii sunt mai motivati atunci cand<br>lucrează în birouri bine echipate.
+Cos; Pastrati-va întotdeauna birourile curate,<br>altfel angajatii nu vor fi multumiti.
+Distribuitor de apa;Angajatii insetati devin mai repede nemultumiti.
+Birou I;Birou de cercetare. Cu cat este mai mare calitatea,<br>cu atat rezultatul muncii este mai bun.
+Planta;Angajatii sunt mai motivati cand<br>lucreaza în birouri bine echipate.
+Cactus;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate
+Planta tropicala;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Toaleta;Aici sunt satisfacute cele mai importante nevoi.
+Chiuveta;Mainile ar trebui spalate tot timpul!
+Afis OZN;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Afis Robot;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Afis Aleon;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Afis Retro;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Afis nava Star;Angajatii dvs. sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Disc de Aur;Primesti acest premiu pentru fiecare joc<br>care a vandut cel putin 1.000.000 de unitati.
+Desen artistic I;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Desen artistic II;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Desen artistic III;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Desen artistic IV;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Desen artistic V;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Uscator electric;Faci zgomot, vant si usuca-ti minile
+Cabinet Arcade I;Cu acest obiect, angajatii dvs.<br>pot obtine o noua motivatie.
+Banca - Maro deschis;Aici angajatii se pot<br>aseza pentru o pauza.
+Banca - Maro inchis;Aici angajatii se pot<br>aseza pentru o pauza.
+Banca - Verde;Aici angajatii se pot<br>aseza pentru o pauza.
+Raft I;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Raft II;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Raft III;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Arhiva;Angajatii sunt mai motivati cand<br>lucreaza un birouri bine echipate.
+Sputnik 3000 Cleaner;Acest robot ultramodern, curata toata murdaria.
+Fotoliu I - Maro;Cu acest obiect angajatii pot obtine noi motivatii.
+Fotoliu I - Negru;Cu acest obiect angajatii pot obtine noi motivatii.
+Fotoliu I - Verde;Cu acest obiect angajatii pot obtine noi motivatii.
+Masina de productie I;Cu aceasta masina poti produce jocuri.
+Cabinet Arcade II;Cu acest obiect angajatii pot obtine noi motivatii.
+Cabinet Arcade III;Cu acest obiect angajatii pot obtine noi motivatii.
+Ceas;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Fotoliu II - Gri;Cu acest obiect angajatii pot obtine noi motivatii.
+Fotoliu II - Albastru;Cu acest obiect angajatii pot obtine noi motivatii.
+Fotoliu II - Portocaliu;Cu acest obiect angajatii pot obtine noi motivatii.
+Dart;Cu acest obiect angajatii pot obtine noi motivatii.
+Lampa II;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Intex Server;Sunt necesare servere pentru jocurile MMO si F2P.<br>Acest server poate gestiona <b><color=blue><NUM></color> </b> jucatori.
+Aer Conditionat;Util pentru reglarea temperaturii in camerele serverelor.
+Raft rezistent I;Aici sunt arhivate jocurile produse. <br> Pe acest raft poti arhiva <b><color=blue>25.000</color> </b> jocuri.
+Birou I;Birou departamentul marketing. Cu cat este mai mare calitatea,<br>cu atat rezultatul muncii este mai bun.
+Lampa III;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Birou II;Birou pentru dezvoltare. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou III;Birou pentru dezvoltare. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou IV;Birou pentru dezvoltare. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou V;Birou pentru dezvoltare. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Banc I;Va permite sa formati angajatii.<br>Cu cat este mai mare calitatea, cu atat rezultatul este mai bun.
+Tabla alba;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Birou II;Birou de cercetare. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou II;Birou departamentul marketing. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou III;Birou departamentul marketing. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou IV;Birou departamentul marketing. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Birou V;Birou departamentul marketing. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Birou I;Biroul departamentului de asistenta. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Birou II;Biroul departamentului de asistenta. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Birou III;Biroul departamentului de asistenta. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Birou IV;Biroul departamentului de asistenta. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Birou V;Biroul departamentului de asistenta. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Birou III;Birou de cercetare. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Birou IV;Birou de cercetare. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Birou V;Birou de cercetare. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun. 
+Fotoliu III - Rosu;Cu acest obiect angajatii pot obtine noi motivatii.
+Fotoliu III - Verde;Cu acest obiect angajatii pot obtine noi motivatii.
+Fotoliu III - Albastru;Cu acest obiect angajatii pot obtine noi motivatii.
+Cutie cu medicamente;Permite angajatilor bolnavi sa se trateze singuri.<br>Angajatii bolnavi sunt mai lenti.
+Incalzire electrica;Angajatii infrigurati devin mai nemultumiti.<br>Acest incalzitor poate fi asezat oriunde.
+Birou I;Birou pentru asigurarea calitatii. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou I;Birou pentru studioul grafic. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou I;Birou pentru studioul de sunet. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou I;Birou pentru studioul de captare a miscarii. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Tastatura;Cu acest obiect angajatii pot obtine noi motivatii.
+Raft rezistent II;Aici sunt arhivate jocurile produse. <br> Pe acest raft poti arhiva <b><color=blue>50.000</color> </b> jocuri.
+Raft rezistent III;Aici sunt arhivate jocurile produse. <br> Pe acest raft poti arhiva <b><color=blue>100.000</color> </b> jocuri.
+Birou II;Biroul pentru studioul de sunet. Cu cat este mai mare calitatea, <br> cu atat rezultatul este mai bun.
+Birou III;Biroul pentru studioul de sunet. Cu cat este mai mare calitatea, <br> cu atat rezultatul este mai bun.
+Tablou cu animale I;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Tablou cu animale II;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Tablou cu animale III;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Tablou cu animale IV;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Tablou cu animale V;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Birou II;Birou pentru asigurarea calitatii. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou III;Birou pentru asigurarea calitatii. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou IV;Birou pentru asigurarea calitatii. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou V;Birou pentru asigurarea calitatii. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Masina ta sport;Ar trebui sa-ti vinzi vechea masina sport pentru a castiga niste bani.
+Covor I;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Covor II;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Covor III;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Covor IV;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Covor V;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Covor VI;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Frigider;Ideal pentru depozitarea alimentelor perisabile.
+TV;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+TV modern;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Radio;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Birou II;Birou pentru studioul grafic. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou III;Birou pentru studioul grafic. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou IV;Birou pentru studioul grafic. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou V;Birou pentru studioul grafic. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Radio modern;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Dulapior I;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Dulapior II;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Dulapior III;Angajatii sunt mai motivati cand<br>lucreaza in birouri bine echipate.
+Banc II;Va permite sa formati angajatii.<br>Cu cat este mai mare calitatea, cu atat rezultatul este mai bun.
+Banc III;Va permite sa formati angajatii.<br>Cu cat este mai mare calitatea, cu atat rezultatul este mai bun.
+Banc IV;Va permite sa formati angajatii.<br>Cu cat este mai mare calitatea, cu atat rezultatul este mai bun.
+Banc V;Va permite sa formati angajatii.<br>Cu cat este mai mare calitatea, cu atat rezultatul este mai bun.
+Masina de productie II;Cu aceasta masina poti produce jocuri.
+Masina de productie III;Cu aceasta masina poti produce jocuri.
+Masina de productie IV;Cu aceasta masina poti produce jocuri.
+Masina de productie V;Cu aceasta masina poti produce jocuri.
+Birou IV;Biroul pentru studioul de sunet. Cu cat este mai mare calitatea, <br> cu atat rezultatul este mai bun.
+Birou V;Biroul pentru studioul de sunet. Cu cat este mai mare calitatea, <br> cu atat rezultatul este mai bun.
+Birou II;Birou pentru studioul de captare a miscarii. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou III;Birou pentru studioul de captare a miscarii. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou IV;Birou pentru studioul de captare a miscarii. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Birou V;Birou pentru studioul de captare a miscarii. Cu cat este mai mare calitatea,<br>cu atat rezultatul este mai bun.
+Server G-Electic;Sunt necesare servere pentru jocurile MMO si F2P.<br>Acest server poate gestiona <b><color=blue><NUM></color> </b> jocatori.
+Metrics Server;Sunt necesare servere pentru jocurile MMO si F2P.<br>Acest server poate gestiona <b><color=blue><NUM></color> </b> jucatori.
+Server DivoTech;Sunt necesare servere pentru jocurile MMO si F2P.<br>Acest server poate gestiona <b><color=blue><NUM></color> </b> jucatori.
+Server IBN;Sunt necesare servere pentru jocurile MMO si F2P.<br>Acest server poate gestiona <b><color=blue><NUM></color> </b> jucatori.
+Disc de Platina;Primesti acest premiu pentru fiecare joc<br>care a vandut cel putin 5.000.000 de unitati.
+Disc de Diamant;Primesti acest premiu pentru fiecare joc<br>care a vandut cel putin 10.000.000 de unitati.
+Filtru de cafea; alimentul de bază al unui dezvoltator de jocuri este cafeaua. <br> Cel mai modern filtru de cafea provine de la „Gronky Industries” și <br> poate menține cu ușurință cafeaua caldă timp de 17 ore.
+Premiul „Jocul anului”; primiți acest premiu, <br> când unul dintre jocurile dvs. este ales ca „Jocul anului”.
+Premiul „Dezvoltatorul anului”; primiți acest premiu, <br> atunci când studioul dvs. este ales ca „Dezvoltatorul anului”.
+Premiul „Cea mai bună coloană sonoră”; primiți acest premiu, <br> când unul dintre jocurile dvs. primește premiul „Cea mai bună coloană sonoră”.
+Premiul „Cea mai bună grafică”; primiți acest premiu, <br> atunci când unul dintre jocurile dvs. primește premiul „Cea mai bună grafică”.
+Dulap foarte mic I; Angajații dvs. sunt mai motivați atunci când <br> lucrează în birouri bine echipate.
+Dulap foarte mic II; Angajații dvs. sunt mai motivați când <br> lucrează în birouri bine echipate.
+Dulap foarte mic III; Angajații dvs. sunt mai motivați atunci când <br> lucrează în birouri bine echipate.
+Covor VII; Angajații dvs. sunt mai motivați când <br> lucrează în birouri bine echipate.
+Covor VIII; Angajații dvs. sunt mai motivați când <br> lucrează în birouri bine echipate.
+Covor IX; Angajații dvs. sunt mai motivați când <br> lucrează în birouri bine echipate.
+Premiul „Trendsetter”; Veți primi acest premiu, <br> dacă unul dintre jocurile dvs. devine un trendetter.
+Premiul „Editorul anului”; primiți acest premiu, <br> atunci când studioul dvs. este ales „Editorul anului”.
+Locul de muncă I; Locul de muncă pentru atelier. Cu cât este mai mare calitatea, <br> cu atât rezultatul este mai bun.
+Locul de muncă II; Locul de muncă pentru atelier. Cu cât este mai mare calitatea, <br> cu atât rezultatul este mai bun.
+Locul de muncă III; Locul de muncă pentru atelier. Cu cât calitatea este mai înaltă, cu atât rezultatul este mai bun.
+Locul de muncă IV; Locul de muncă pentru atelier. Cu cât calitatea este mai înaltă, cu atât rezultatul este mai bun.
+Locul de muncă V; Locul de muncă pentru atelier. Cu cât calitatea este mai înaltă, cu atât rezultatul este mai bun.
+Locul de muncă I; Locul de muncă pentru dezvoltarea consolei. Cu cât calitatea este mai înaltă, cu atât rezultatul este mai bun.
+Locul de muncă II; Locul de muncă pentru dezvoltarea consolei. Cu cât calitatea este mai înaltă, cu atât rezultatul este mai bun.
+Locul de muncă III; Locul de muncă pentru dezvoltarea consolei. Cu cât este mai mare calitatea, <br> cu atât rezultatul este mai bun.
+Locul de muncă IV; Locul de muncă pentru dezvoltarea consolei. Cu cât este mai mare calitatea, <br> cu atât rezultatul este mai bun.
+Locul de muncă V; Locul de muncă pentru dezvoltarea consolei. Cu cât calitatea este mai înaltă, cu atât rezultatul este mai bun.
+Aer condiționat modern; Util pentru reglarea temperaturii în camerele serverelor.
+Scaun - Verde; Cu acest obiect angajații dvs. pot obține o nouă motivație.
+Scaun - portocaliu; Cu acest obiect angajații dvs. pot obține o nouă motivație.
+Scaun - Albastru; Cu acest obiect angajații dvs. pot obține o nouă motivație.
+Tabelul I; Angajații dvs. sunt mai motivați atunci când <br> lucrează în birouri bine echipate.
+Tabelul II; Angajații dvs. sunt mai motivați când <br> lucrează în birouri bine echipate.
+Tabelul III; Angajații dvs. sunt mai motivați atunci când <br> lucrează în birouri bine echipate.
+Fotoliu - maro deschis; aici angajații dvs. pot <br> să se așeze pentru o pauză.
+Fotoliu - Maro închis; Aici angajații dvs. pot <br> să se așeze pentru o pauză.
+Fotoliu - Monetărie; Aici angajații dvs. pot <br> să se așeze pentru o pauză.
+Mini Golf; Cu acest obiect angajații tăi pot obține o nouă motivație.
+Imagine Arhitectura I;Angajații tăi sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Imagine Arhitectura II;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Imagine Arhitectura III;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Imagine Arhitectura IV;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Imagine Arhitectura V;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Imagine floreala I;Angajații tăi sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Imagine floreala II;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Imagine floreala III;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Imagine floreala IV;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Imagine floreala V;Angajații tăi sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Covor VII;Angajații tăi sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Covor VIII;Angajații tăi sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Covor IX;Angajații tăi sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Lampa IV;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Lampa V;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.eiten.
+Lampa VI;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.beiten.
+Floarea-soarelui; Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Ball Cactus; Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Palmă; Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Tabelul IV;Angajații dumneavoastră sunt mai motivați atunci când<br>lucrează în birouri bine echipate.
+Sistem de încălzire modern;Acest sistem de încălzire foarte eficient<br>este potrivit în special pentru birourile în plan deschis.
+Toaletă de lux;O vizită la această toaletă luxoasă<br>chiar crește motivația.
+Luxury Sink;This sink is so refreshing<br>that it even increases motivation.

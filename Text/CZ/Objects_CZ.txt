@@ -1,0 +1,188 @@
+﻿-;-
+Pracovní stůl I;Pracovní stůl pro vývojáře. Vyšší kvalita stolu,<br>lepší konečné výsledky vývoje.
+Topení;Zaměstnanci, kterým je zima, jsou pomalejší a nespokojeni.
+Lampa I;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Odpadkový koš;Udržujte své kanceláře vždy čisté,<br>jinak budou vaši zaměstnanci nespokojení.
+Zásobník vody;Žízniví zaměstnanci jsou rychleji nespokojeni.
+Pracovní stůl I;Pracovní stůl pro výzkum. Vyšší kvalita stolu,<br>lepší konečné výsledky výzkumu.
+Rostlina;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Kaktus;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Tropická rostlina;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Toaleta;Zde jsou uspokojeny nejdůležitější potřeby.
+Umyvadlo;Vždy byste si měli umýt ruce!
+Obraz UFO;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Obraz Robot;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Obraz Aleon;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Obraz Retro;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Obraz Star Shipr;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Zlatá deska;Toto ocenění získáte za každou hru <br>, které se prodalo alespoň 1 000 000 kusů.
+Umělecká malba I;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Umělecká malba II;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Umělecká malba III;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Umělecká malba IV;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Umělecká malba V;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Vysoušeč rukou;Hluk, vítr a suché ruce.
+Herní automat I;S tímto objektem mohou vaši<br>zaměstnanci nabrat novou motivaci.
+Lavice - Světle hnědá;Zde si můžou vaši zaměstnanci<br>sednout a odpočinout si při pauze.
+Lavice - Tmavě hnědá;Zde si můžou vaši zaměstnanci<br>sednout a odpočinout si při pauze.
+Lavice - Zelená;Zde si můžou vaši zaměstnanci<br>sednout a odpočinout si při pauze.
+Skříň I;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Skříň II;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Skříň III;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Kartotéka;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Uklízeč Sputnik 3000;Tento ultra-moderní uklízecí robot dokáže vyčistit každou špínu.
+Křeslo I - Hnědé;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Křeslo I - Černé;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Křeslo I - Zelené;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Výrobní stroj I;S tímto strojem můžete vyrábět hry.
+Herní automat II;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Herní automat III;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Hodiny;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Křeslo II - Šedé;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Křeslo II - Modré;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Křeslo II - Oranžové;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Šipky;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Lampa II;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Server Intex;Servery potřebné pro MMO a F2P hry.<br>Tento server utáhne <b><color=blue><NUM></color></b> hráčů.
+Klimatizace;Užitečné k regulaci teploty v serverovnách.
+Pevná police I;Zde jsou uloženy vaše vyrobené hry.<br>Můžete zde uložit až <b><color=blue>25.000</color></b> her.
+Pracovní stůl I;Pracovní stůl pro oddělení marketingu. Vyšší kvalita,<br>lepší výsledky.
+Lampa III;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Pracovní stůl II;Pracovní stůl pro vývojáře. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl III;Pracovní stůl pro vývojáře. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl IV;Pracovní stůl pro vývojáře. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl V;Pracovní stůl pro vývojáře. Vyšší kvalita,<br>lepší výsledky.
+Školicí stůl I;Zde se nechávají zaměstnanci školit.<br>Vyšší kvalita, lepší výsledky.
+Tabule;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Pracovní stůl II;Pracovní stůl pro výzkum. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl II;Pracovní stůl pro oddělení marketingu. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl III;Pracovní stůl pro oddělení marketingu. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl IV;Pracovní stůl pro oddělení marketingu. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl V;Pracovní stůl pro oddělení marketingu. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl I;Pracovní stůl pro oddělení podpory. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl II;Pracovní stůl pro oddělení podpory. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl III;Pracovní stůl pro oddělení podpory. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl IV;Pracovní stůl pro oddělení podpory. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl V;Pracovní stůl pro oddělení podpory. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl III;Pracovní stůl pro výzkum. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl IV;Pracovní stůl pro výzkum. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl V;Pracovní stůl pro výzkum. Vyšší kvalita,<br>lepší výsledky.
+Křeslo III - Červené;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Křeslo III - Zelené;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Křeslo III - Modré;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Lékárnička;Lze použít pokud je někdo zraněný.<br>Zranění zaměstnanci se tak rychleji uzdraví.
+Přímotop;Zaměstnanci, kterým je zima, jsou pomalejší a nespokojeni.<br>Tento přímotop lze umístit na libovolné místo.
+Pracovní stůl I;Pracovní stůl pro kontrolu kvality. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl I;Pracovní stůl pro grafické studio. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl I;Pracovní stůl pro zvukové studio. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl I;Pracovní stůl pro animátory. Vyšší kvalita,<br>lepší výsledky.
+Klávesy;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Pevná police II;Zde jsou uloženy vaše vyrobené hry.<br>Můžete zde uložit až <b><color=blue>50.000</color></b> her.
+Pevná police III;Zde jsou uloženy vaše vyrobené hry.<br>Můžete zde uložit až <b><color=blue>100.000</color></b> her.
+Pracovní stůl II;Pracovní stůl pro zvukové studio. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl III;Pracovní stůl pro zvukové studio. Vyšší kvalita,<br>lepší výsledky.
+Zvířecí malba I;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Zvířecí malba II;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Zvířecí malba III;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Zvířecí malba IV;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Zvířecí malba V;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Pracovní stůl II;Pracovní stůl pro kontrolu kvality. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl III;Pracovní stůl pro kontrolu kvality. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl IV;Pracovní stůl pro kontrolu kvality. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl V;Pracovní stůl pro kontrolu kvality. Vyšší kvalita,<br>lepší výsledky.
+Váš sporťák;Měl byste prodat svůj<br>starý sporťák pro získání pěnez.
+Koberec I;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Koberec II;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Koberec III;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Koberec IV;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Koberec V;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Koberec VI;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Lednice;Ideální pro skladování potravin podléhajících rychlé zkáze.
+TV;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Moderní TV;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Rádio;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Pracovní stůl II;Pracovní stůl pro grafické studio. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl III;Pracovní stůl pro grafické studio. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl IV;Pracovní stůl pro grafické studio. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl V;Pracovní stůl pro grafické studio. Vyšší kvalita,<br>lepší výsledky.
+Moderní rádio;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Malá skříňka I;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Malá skříňka II;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Malá skříňka III;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Školicí stůl II;Zde se nechávají zaměstnanci školit.<br>Vyšší kvalita, lepší výsledky.
+Školicí stůl III;Zde se nechávají zaměstnanci školit.<br>Vyšší kvalita, lepší výsledky.
+Školicí stůl IV;Zde se nechávají zaměstnanci školit.<br>Vyšší kvalita, lepší výsledky.
+Školicí stůl V;Zde se nechávají zaměstnanci školit.<br>Vyšší kvalita, lepší výsledky.
+Výrovbní stroj II;S tímto strojem můžete vyrábět hry.
+Výrovbní stroj III;S tímto strojem můžete vyrábět hry.
+Výrovbní stroj IV;S tímto strojem můžete vyrábět hry.
+Výrovbní stroj V;S tímto strojem můžete vyrábět hry.
+Pracovní stůl IV;Pracovní stůl pro zvukové studio. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl V;Pracovní stůl pro zvukové studio. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl II;Pracovní stůl pro animátory. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl III;Pracovní stůl pro animátory. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl IV;Pracovní stůl pro animátory. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl V;Pracovní stůl pro animátory. Vyšší kvalita,<br>lepší výsledky.
+Server G-Eletric;Servery potřebné pro MMO a F2P hry.<br>Tento server utáhne <b><color=blue><NUM></color></b> hráčů.
+Server Metrics;Servery potřebné pro MMO a F2P hry.<br>Tento server utáhne <b><color=blue><NUM></color></b> hráčů.
+Server DivoTech;Servery potřebné pro MMO a F2P hry.<br>Tento server utáhne <b><color=blue><NUM></color></b> hráčů.
+Server IBN;Servery potřebné pro MMO a F2P hry.<br>Tento server utáhne <b><color=blue><NUM></color></b> hráčů.
+Platinová deska;Toto ocenění získáte za každou hru <br>, které se prodalo alespoň 5.000.000 kusů.
+Diamantová deska;Toto ocenění získáte za každou hru <br>, které se prodalo alespoň 10.000.000 kusů.
+Kávovar;Základní strava vývojáře je šálek kávy.<br>Nejmodernější kávovar vyrábí „Gronky Industries“, <br> protože udrží kávu teplou až po dobu 17 hodin.
+Cena "Hra roku";Toto ocenění získáte,<br> když je některá z vašich her vybrána jako "Hra roku".
+Cena "Vývojář roku";Toto ocenění získáš,<br>když tvoje studio bude vybráno jako "Vývojář roku".
+Cena "Nejlepší Soundtrack";Toto ocenění získáš,<br>když jedna s vašich her dostane ocenění "Nejlepší Soundtrack".
+Cena "Nejlepší Grafika";Toto ocenění získáš,<br>když jedna s vašich her dostane ocenění "Nejlepší Grafika".
+Malý kredenc I;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Malý kredenc II;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Malý kredenc III;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Koberec VII;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Koberec VIII;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Koberec IX;Vaši zaměstnanci mají větší motivaci,<br>když pracují v dobře vybavených kancelářích.
+Cena "Určovatel Trendů";Toto ocenění získáš,<br>pokud se některá z vašich her stane určovatelem trendů.
+Cena "Vydavatel roku";Toto ocenění získáš,<br>když bude tvoje studio vybráno jako "Vydavatel roku".
+Pracovní stůl I;Pracovní stůl do dílny. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl II;Pracovní stůl do dílny. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl III;Pracovní stůl do dílny. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl IV;Pracovní stůl do dílny. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl V;Pracovní stůl do dílny. Vyšší kvalita,<br>lepší výsledky.
+Pracovní stůl I; Pracoviště pro vývoj konzolí. Čím vyšší kvalita, tím lepší výsledek práce.
+Pracovní stůl II;Pracoviště pro vývoj konzolí. Čím vyšší kvalita,<br> tím lepší výsledek práce.
+Pracovní stůl III;Pracoviště pro vývoj konzolí. Čím vyšší kvalita,<br> tím lepší výsledek práce.
+Pracovní stůl IV;Pracoviště pro vývoj konzolí. Čím vyšší kvalita,<br> tím lepší výsledek práce.
+Pracovní stůl V;Pracoviště pro vývoj konzolí. Čím vyšší kvalita,<br> tím lepší výsledek práce.
+Moderní klimatizace;Slouží k regulaci teploty v serverovnách.
+Stolička - zelená;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Stolička - oranžová;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Stolička - Modrá;S tímto objektem mohou vaši zaměstnanci nabratt novou motivaci.
+Stůl I;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Stůl II;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Stůl III;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Křeslo - světle hnědé;Zde si mohou vaši zaměstnanci<br>sednout na přestávku.
+Křeslo - tmavě hnědé;Zde si vaši zaměstnanci mohou<br>sednout na přestávku.
+Křeslo - zelené;Zde si mohou vaši zaměstnanci<br>sednout na přestávku.
+Minigolf;S tímto objektem mohou vaši zaměstnanci nabrat novou motivaci.
+Obrázek architektury I; Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Obrázek architektury II; Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Obrázek architektury III; Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Obrázek architektury IV; Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Obrázek architektury V; Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Květinový obrázek I;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Květinový obrázek II;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Květinový obrázek III;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Květinový obrázek IV;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Květinový obrázek V;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Koberec X;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Koberec XI;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Koberec XII;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Lampa IV; Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Lampa V;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Lampa VI;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Slunečnice;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Kulovitý kaktus;zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Palma;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Stůl IV;Vaši zaměstnanci mají větší motivaci, když<br>pracují v dobře vybavených kancelářích.
+Moderní vytápění;Tento vysoce účinný systém vytápění<br>je vhodný zejména pro otevřené kancelářské prostory.
+Luxusní toaleta;Návštěva této luxusní toalety<br>ještě více zvyšuje motivaci.
+Luxury Sink;This sink is so refreshing<br>that it even increases motivation.

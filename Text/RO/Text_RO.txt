@@ -1,0 +1,2076 @@
+﻿<b>Creaza camere</b><br>Aici poti construi camere.
+-
+-
+-
+Nivel tehnologic
+Experienta
+Costuri de dezvoltare
+$
+Crescand nivelul de experienta, costurile de dezvoltare se reduc.<br>In plus, iti creste gameplay-ul, grafica, tehnologia si sunetul.
+Grafica
+Sunet
+Inteligenta Artificiala
+Fizica
+Gameplay
+Game control
+Multiplayer
+Activeaza / Dezactiveaza tot
+Construieste o camera
+Inchide
+Dezvoltare
+Cercetare
+Studio-ul Beta testing
+Studio-ul grafic
+Studio-ul de sunet
+Marketing
+Suport
+Console development
+Magazie
+Studio-ul Motion Capture 
+Baie
+Sala relax
+Sala de instruire
+Productie
+Server room
+La <color=blue>dezvoltare</color> poti dezvolta jocuri si motoare.
+In aceasta camera poti dezvolta noi tehnologii.
+Cu <color=blue>Studio-ul Beta testing</color> poti imbunatati<br>gameplayng-ul jocurilor tale si elimini bug-urile.
+Cu <color=blue>Studio-ul grafic</color> poti crea grafica profesionala pentru jocurile tale.
+In <color=blue> Studio-ul de sunet</color> poti crea sunetul profesional pentru jocurile tale.
+In <color=blue> Marketing</color> iti poti promova jocurile.
+In <color=blue>sectiunea Suport</color> iti vei sustine fanii.
+The <color=blue>console development</color> is needed to develop your own consoles.
+In <color=blue>magazie</color> vor fi arhivate jocurile tale.
+In <color=blue>Studio-ul Motion Capture</color> se vor inregistra animatiile profesionale.
+Iar <color=blue>baile</color> ar trebui sa fie disponibile peste tot.
+In <color=blue>sala relax </color> angajatii <br> se vor motiva cu ajutorul relaxarii.
+In <color=blue>sala de instruire</color> e ideal <br> ca angajatii sa fie bine instruiti.
+In aceasta camera vei putea crea jocurile tale.
+Iar <color=blue>server room</color> este necesar ca sa faci jocuri MMO.
+Deblocheaza pentru dezvoltare*
+Deblocheaza pentru cercetare*
+Poti cauta studio-ul Beta testing in sectiunea <color=blue>"Diverse"</color>.
+Poti cauta studio-ul grafic in sectiunea <color=blue>"Diverse"</color>.
+Poti cauta studio-ul de sunet in sectiunea <color=blue>"Diverse"</color>.
+Poti cauta oficiul de marketing in sectiunea <color=blue>"Diverse"</color>.
+Poti cauta oficiul support in sectiunea <color=blue>"Diverse"</color>.
+Puteți cerceta dezvoltarea consolei la rubrica <color = blue> „Diverse” </color>.
+Magazia va fi deblocata dupa ce vei cerceta <color=blue>Productia</color>.
+Acesta va fi deblocat <color=blue>Noiembrie 1993</color>.
+Deblocheaza pentru baie*
+Deblocheaza pentru sala relax*
+Poti cauta sala de instruire la sectiunea <color=blue>"Diverse"</color>.
+Poti cauta studio-ul de productie la sectiunea <color=blue>"Diverse"</color>.
+Va fi deblocat daca au cercetat <color=blue>Multiplayer</color>.
+Aspect
+<b>Design-ul camerei</b><br> Poti apasa <color=blue>tasta Shift stanga</color><br> pentru a elimina camera.
+<b>Elimina camera</b><br> Alternativ poti apasa <color=blue>tasta Shift stanga</color><br> pentru a elimina camera.
+<b>Pozitioneaza usa</b><br> Usa trebuie sa fie conectata la coridor. <br>Cu <color=blue>tasta CANC</color> poti elimina usa.
+<b>Pozitionarea ferestrei</b><br> Tine apasat <color=blue>tasta Shift stanga</color><br> pentru a elimina fereastra.
+Accepta
+Pret pe metru patrat
+Metri patrati
+mq
+▪ Nu toate camerele sunt accesibile.
+Tehnologia
+▪ Marimea trebuie sa fie de cel putin <NUM>.
+▪ Lipseste o usa.
+<b>Cumpara obiecte</b><br>Aici poti achizitiona obiecte pentru camerele tale.
+Cumpara obiecte
+Roteste obiectul
+Pozitioneaza obiectul
+Ai gresit camera!
+Esti in afara cladirii!
+Snapping
+Muta obiectul
+Vinde obiectul
+Concediaza angajatul
+Comanda rapida:
+Pret la vanzare
+<b>Management</b><br> Aici vei gasi toate functiile necesare pentru a-ti gestiona compania.
+<b>Statistici</b><br> Aici vei gasi toate statisticile financiare, jocuri sau platforme .
+<b>Angajati</b><br> Aici poti adauga angajati si gestiona grupuri.
+Coridor
+Acest lucru va permite sa dezactivati ridicarea angajatilor.
+Acest lucru va permite sa dezactivati ridicarea obiectelor.
+Dezactivati afisarea tuturor camerelor.
+Bani
+Fani
+Lasa IA sa iti controleze angajatii.
+▲
+▼
+■
+Y
+M
+W
+Pauza
+Viteza normala
+Viteza maxima
+<b>Cumpara articole pentru aceasta camera</b>
+Motivare
+NIMIC
+NIMIC
+NIMIC
+Descriere Magazie
+Descriere Server
+Descriere Masina
+Pastreaza curatenia in birouri! <br>Din cauza mizeriei angajatii isi dau demisia<br> si nici un angajat nu va dori sa lucreze pentru tine.
+Angajati
+Sterge angajatii
+Gamedesign
+Programare
+Desen grafic
+Muzica si sunet
+Suport si marketing
+Gametesting
+Hardware si inginerie
+Cercetare
+Salariu
+Concediaza angajatii
+<b>Star designer</b><br> Star designer creeaza hype pentru jocurile la care lucreaza.
+<b>Inepuizabil</b><br> Angajatii inepuizabili nu au nevoie de pauze.
+<b>Exemplar</b><br> Angajatii exemplari nu vor crea bug-uri.
+<b>Fidel</b><br> Angajatii fideli nu vor renunta niciodata.
+<b>Talentat</b><br> Angajatii talentati invata mai repede.
+<b>Noroc</b><br> Critica lucrarilor va aparea mult mai frecvent.
+<b>Sportiv</b><br> Viteza de miscare elevata.
+<b>Ordonat</b><br> Angajatii ordonati nu produc mizerie si dezordine.
+Proiectant de jocuri
+Programator
+Artist grafic
+Artist de sunet
+Angajat
+Tester de joc
+Tehnic
+Oameni de stiinta
+Pune in pauza/reia lucrarea in curs
+Angajari repartizati in aceasta camera
+Dezactiveaza IA pentru camera asta
+Redenumeste camera
+Remodelati
+Demolati camera
+Introdu numele camerei
+Anuleaza
+Vrei sa demolezi camera? <br>Daca vinzi inventarul vei obtine <color=green><NUM></color>.
+Cerceteaza
+Cerceteaza in automat
+<NUM> Puncte de cercetare
+Continua cercetarea
+Genuri
+Teme
+Caracteristicile motorului
+Caracteristicile jocului
+Hardware
+Diverse
+Sunt disponibile noi cercetari
+Cautare completata
+Anuleaza activitatea
+Muta activitatea
+Finalizare automatizata
+Automatizare activata
+Sterge toate mesajele
+Chipset
+Controler
+Memorie externa
+Memorie interna
+RAM
+Case
+Monitor
+Carcasa portabila
+Pentru a muta activitatea, da click pe o camera de acelasi tip cu <color=blue> butonul stang al mouse-lui</color>.
+Elimina
+Elimina usa
+<b>Motivare</b><br> Angajatii nemotivati sunt mai lenti.
+Nume
+<NUM> Angajati
+Concediaza angajatii
+Vrei sa inchizi <NAME>?
+Prezentare generala a angajatilor
+Arata cati angajati muncesc in aceasta zona.
+Angajati fara sarcini
+Motivatie
+Angajari  
+Gestiunea grupului
+Abgajati in aceasta camera
+Detaliile angajatului
+Angajare
+Concediere
+Selecteaza
+<NUM> CV-uri
+Detalii
+Lunar <NUM>
+Angajati neatribuiti
+Grup
+Selecteaza grupul
+Gestiune
+Cumpara un kit de dezvoltare
+Cumpara motor
+Cumpara portectie impotriva copierii
+Cumpara licente
+Oferte editoriale
+Banca
+Imobiliare
+Numele si locul societatii
+Retrage jocul de pe piata
+Kit de dezvoltare disponibil
+Kit de dezvoltare detinut
+Producator
+Data lansarii
+Pret
+Cota de piata
+Jocuri disponibile
+Ianuarie
+Februarie
+Martie
+Aprilie
+Mai
+Iunie
+Iulie
+August
+Septembrie
+Octombrie
+Noiembrie
+Decembrie
+Acest dispozitiv nu mai este disponibil.
+Nu ai destui bani!
+Esti sigur ca vrei sa cumperi kit-ul de dezvoltare?
+O noua platforma disponibila
+O platforma a fost retrasa de pe piata
+Arata platforme retrase de pe piata
+Atribuie grupul
+Dezvolta motoare
+Dezvolta un nou motor
+Actualizeana vechiul motor
+Numele motorului
+Nume cazual
+Gen special
+Oferta motor de vanzare
+Incepe dezvoltarea
+<color=red>???</color>
+Activeaza / Dezactiveaza tot
+Note
+Trebuie sa alegi genul special!
+Trebuie sa-i dai un nume motorului!
+Trebuie sa adaugi cel putin o functie motorului!
+<color=black>Gameplay: <NUM></color>
+<color=black>Grafica: <NUM></color>
+<color=black>Sunet: <NUM></color>
+<color=black>Tehnologie: <NUM></color>
+Motoare proprii
+Ce motor vrei sa actualizezi?
+Impartirea profitului
+Jocuri cu acest motor
+Motor propriu
+Selectioneaza caracteristicile motorului
+Selectioneaza genul special
+Este disponibil un motor nou
+Motoare in vanzare
+Motoare cumparate
+Licente vandute
+Detaliile motorului
+Achizitionare
+Jocuri
+Caracteristici
+Gen
+Dezvoltator
+Unitati vandute
+Vanzari
+Examineaza rezultatul
+Revizuire
+UN SUCCES!
+GUNOI!
+Numele societatii
+Logo
+Alege logo-ul societatii tale.
+Motor finalizat
+Ascunde protectia copierii invechita
+Eficacitate
+Protectie impotriva copierii disponibila
+Protectie impotriva copierii cumparata
+Este disponibila o noua protectie impotriva copierii
+Esti sigur ca vrei sa cumperi Protectia impotriva copierii?
+Cumpara o noua licenta
+Vinde licenta
+Jocurile cu licenta oficiala pot creste cifra de vanzare.
+Cu motoarele tale poti economisi costurile licentelor. Poti si vinde motearele concurentei
+Licente de cumparare
+Licente cumparate
+<NUM> Jocuri
+Licenta cinematografica
+Licenta de carte
+Licenta sportiva
+Aceasta licenta poate fi utilizata pentru <NUM> jocuri.
+Popularitate
+Lista este goala!
+Tip de licenta
+Foloseste
+Esti sigur ca vrei sa cumperi licenta?
+Cumparat
+Esti sigur ca vrei sa vinzi licenta?
+<b>Iubitor de natura</b><br> Iubitorii naturii au nevoie de plante langa ei. <br> Motivatia lor creste cand isi uda plantele.
+Costuri lunare
+Interior design
+Caldura
+Regenerarea motivatiei
+Mergi la:
+Uzat:
+Creeaza un joc
+Numele jocului
+Joc nou
+Continuare
+Remasterizare
+Vrei sa creezi un joc nou sau? Sau vrei sa faci o continuare/remasterizare a unui vechi joc?
+Joc standard
+Multiplayer online masiv
+Free to play
+Tip de joc
+Selectioneaza tipul de joc. Pentru jocurile MMO si F2P ai nevoie de "Multiplayer online".
+Marimea jocului
+Cu cat este mai mare jocul, cu atat poate fi mai dezvoltat.
+B
+B+
+A
+AA
+AAA
+Caracteristici maxime
+Infinit
+Fasa de varsta
+Copii
+Adolescenti
+Adulti
+Batrani
+Pentru toti
+Selecteaza marja de varsta pentru jocul tau.
+Gen principal
+Subgenul
+Elimina genul
+Se va debloca daca ai cercetat <color= blue>Multiplayer online</color>.
+Se va debloca daca ai cercetat <color=blue>Multiplayer online</color>.
+Poti cauta alte dimensiuni de joc in categoria <color=blue>"Diverse" </color>.
+Poti cauta subgenul in <color=blue>"Diverse"</color>.
+Poti cauta subtopicul in <color=blue>"Diverse" </color>.
+Se va debloca daca ai <color=blue>$ 1.000.000</color>.
+Argumentul principal
+Subtopic
+Elimina argumentul
+Alfabet
+Licenta
+Elimina licenta
+Fara licenta
+Numele trebuie folosit ca nume al jocului?
+Platforma principala
+Platforma 2
+Platforma 3
+Platforma 4
+Joc exclusiv
+▪Jocurile exclusive pot fi publicate pe o singura platforma.<br> Prin exclusivitate, cifrele de vanzari ale platformei pot creste.
+cota de piata totala:
+Va fi deblocat daca unul din jocurile tale obtine o evaluare generala <br>de cel putin <color=blue>70%</color>.
+Se va debloca in <color=blue>Aprilie 1986</color>.
+Motor
+Platforme
+Se va debloca daca ai publicat cel putin <color=blue>5 jocuri</color>.
+Se va debloca daca ai publicat cel putin <color=blue>10 jocuri</color>.
+Se va debloca daca ai publicat cel putin <color=blue>15 jocuri</color>.
+Elimina platforma
+Costuri de dezvoltare
+Nivelul minim tehnologic
+Arata platforme ascunse
+Nivelul tehnologic al platformei este prea mic.<br> Poti selecta doar platforme cu un nivel tehnologic egal sau superior al motorului.
+Platforma asta a fost deja selectata.
+Aceste platforme au fost sterse deoarece nu au nivelul tehnologic cerut:
+Protectie Copyright
+Elimina protectia Copyright
+Fara protectie Copyright
+Nici un <color=blue>software de protectie Copyright</color> nu a fost elaborat.
+Prioritate de proiectare
+Prioritate de munca
+Limbi
+Gameplay
+Grafica
+Poveste
+Durata jocului
+Atmosfera
+Continut
+Foarte dificil
+Potrivit pentru incepatori
+Jucator inrait
+Jucator ocazional
+Pentru orice limba costurile traducerii sunt de <color=red>$ 5.000</color>.
+Activeaza/Dezactiveaza toate limbile
+Prioritatea de lucru nu poate depasi 100%!
+Trebuie sa selectezi un Gen principal!
+Trebuie sa selectezi un Argument principal!
+Trebuie sa selectezi o Platforma principala!
+Trebuie sa selectezi cel putin o limba!
+Conceptul jocului
+Analiza jocului
+Scrisorile fanilor
+Aceasta caracteristica nu a fost inca adaugata.
+Activeaza/Dezactiveaza toate caracteristicile
+Cantitate
+Au fost activate prea multe caracteristici. <br>Daca vrei sa adaugi alte caracteristici in joc<br> trebuie modificata dimensiunea jocului.
+Trebuie sa dai un nume jocului!
+Tipul caracteristicii
+Costuri de cercetare
+Puncte de cercetare
+Prioritatea de lucru este sub 100%!
+Joc completat
+Dezvoltarea acestui joc a fost terminata si este <color=blue>pregatit de lansare</color>. Daca vrei, poti continua sa lucrezi la joc si sa il imbunatatesti. Oricum, in <color=blue> faza de finisare</color> munca este redusa iar bug-urile sunt eliminate usor.
+Nou record!
+Cauta editor
+Autodistribuire
+Elimina produs
+Continua dezvoltarea
+Bug
+Programare finalizata
+Noua legenda a dezvoltatorilor de jocuri
+La Angajari este disponibil<NOME>.
+Experienta cu genurile afecteaza gameplay-ul.
+Experienta cu argumente afecteaza gameplay-ul.
+Experienta pe platforma are un impact la grafica, sunet si tehnologie.
+Concurent nou
+Editor
+Hype
+Puterea pietei
+Relatii
+Plata
+Fanbase
+Da
+Experienta acumulata
+Nici o experienta acumulata
+Prezentare generala, cate jocuri sunt disponibile care au si genul <color=blue><GENRE></color> sau argumentul <color=blue><THEME></color>.
+Analiza de piata
+Total [Gen]
+Total [Argument]
+Pe platforma [Gen]
+Pe platforma [Argument]
+Raport de dezvoltare
+Schimba platforma
+Screenshot actual
+Progres
+Costuri de dezvoltare la zi:
+Evaluare curenta estimata:
+Descrierea comenzii: Gameplay 1
+Descrierea comenzii: Gameplay 2
+Descrierea comenzii: Gameplay 3
+Descrierea comenzii: Gameplay 4
+Descrierea comenzii: Gameplay 5
+Descrierea comenzii: Gameplay 6
+Descrierea comenzii: Sunet 1
+Descrierea comenzii: Sunet 2
+Descrierea comenzii: Sunet 3
+Descrierea comenzii: Sunet 4
+Descrierea comenzii: Sunet 5
+Descrierea comenzii: Sunet 6
+Descrierea comenzii: Grafica 1
+Descrierea comenzii: Grafica 2
+Descrierea comenzii: Grafica 3
+Descrierea comenzii: Grafica 4
+Descrierea comenzii: Grafica 5
+Descrierea comenzii: Grafica 6
+MoCap [Animatii jucator]
+MoCap [Animatii NPC]
+Pentru a sustine o alta echipa, faceti click pe o camera de acelasi tip cu <color=blue>butonul stang de la mouse</color>.
+Suport
+Anuleaza suport
+Asteapta...
+<b>Reputatia cu clientii</b><br>Cu cat reputatia este mai mare, cu atat vei avea mai multe oferte<br>In plus, plata este mai mare.
+Motivatia medie a angajatilor
+Genul <color=green><NAME1></color> si argumentul <color=green><NAME2></color> sunt in trend.
+Genul <color=red><NAME1></color>si argumentul <color=red><NAME2></color> nu sunt populare momentan.
+Acest trend va dura <color=blue><TIME></color> saptamani.
+Moda noua
+Saptamana
+Total
+Arata de cat timp este jocul deja pe piata.
+Joc
+Micsoreaza / Mareste fereastra
+Joc retras de pe piata
+Profit
+Cifra de vanzare <color=blue><NAME></color> a scazut drastic, asadar produsul a fost scos de pe piata.
+Saptamana reducerii
+Costuri de marketing
+Tariful motorului
+<color=blue><NAME1> </color> a publicat jocul <color=blue><NAME2></color>.
+Editorul a demarat o campanie de marcheting pentru <color=blue><NAME1></color>.
+Arata calitatea birourilor tale.
+Arata nivelul de poluare al birourilor tale.
+Acesta iti permite sa vezi daca birourile tale sunt reci.
+Aici poti seta mesajele care vor fi afisate.
+<color=blue><NAME1></color> a folosit licenta motorului tau <color=blue><NAME2></color>.
+Desfasurator
+Dezvoltatorul <color=blue><NAME1></color> a folosit licenta motorului tau pentru <color=blue><NAME2> </color>. Ti-a trimis factura.
+Distribuie in procente
+Distribuie pe joc
+<b>CEO</b><br> Personajul tau nu pierde motivarea.
+Personajul jucatorului
+Nici o camera atribuita
+Angajatul si-a dat demisia
+Departamentul de personal arata ca <color=blue><NAME></color> a demisionat. Ar trebui sa acorzi mai multa atentie necesitatilor angajatilor pentru a evita perioade lungi de criza si lipsa de motivatie.
+Racire
+Campania de marketing
+Ce campanie de marketing vrei sa demarezi?
+Consola
+Campanie de marketing pentru un joc
+Campanie de marketing pentru o consola
+Opreste-te sa mai faci marketing cand hype-ul e la maxim
+Repetare automata
+Afis
+Reviste cu jocuri
+Radio
+Anunturi online
+Top streamer
+TV
+Hype maxim care poate fi generat cu aceasta campanie.
+Se va debloca in <color=blue>Februarie 2005</color>.
+Se va debloca in <color=blue>Martie 1993</color>.
+Deblocat
+In curs de dezvoltare
+Campania de marketing pentru <NAME1> a fost completata
+Costuri de productie
+Costurile pentru server
+Calitate
+Premiu de rezultat: <NUM>%
+Va fi deblocat daca ai cercetat <color=blue>o caracteristica a motorului</color>.
+Este disponibil din anul <NUM>
+Incepe cursul de instruire
+Cursuri de instruire
+Game design pentru incepatori
+Game design pentru avansati
+Game design pentru profesionisti
+Programare pentru incepatori
+Programare pentru avansati
+Programare pentru profesionisti
+Graphic design pentru incepatori
+Graphic design pentru avansati
+Graphic design pentru profesionisti
+Muzica si sunet pentru incepatori
+Muzica si sunet pentru avansati
+Muzica si sunet pentru profesionisti
+Marketing si suport pentru incepatori
+Marketing si suport pentru avansati
+Marketing si suport pentru profesionisti
+Gametesting pentru incepatori
+Gametesting pentru avansati
+Gametesting pentru profesionisti
+Hardware si tehnologie pentru incepatori
+Hardware si tehnologie pentru avansati
+Hardware si tehnologie pentru profesionisti
+Cercetare pentru incepatori
+Cercetare pentru avansati
+Cercetare pentru profesionisti
+Nivel maxim: <color=blue><NUM></color>
+Eficacitate: <color=blue>Bassa</color>
+Eficacitate: <color=blue>Media</color>
+Eficacitate: <color=blue>Alta</color>
+Curs de instruire "<NAME>" completat
+Esti sigur ca vrei sa stergi acest produs? Acest proces este ireversibil!
+Esti sigur ca vrei sa anulezi activitatea curenta?
+Vei fi despagubit <color=green><NUM></color>.
+Licente
+GFX [Grafica ambientala]
+GFX [Interfata grafica]
+GFX [Imagini de fundal]
+GFX [Efecte speciale]
+GFX [Personaje]
+GFX [Cut Sequences]
+SFX [Efecte sonore]
+SFX [UI sounds]
+SFX [Musica]
+SFX [Sunete ambientale]
+SFX [Sunete dinamice]
+SFX [Inregistrare vocala]
+MC [Animatii Jucator I]
+MC [Animatii Jucator II]
+MC [Animatii Jucator III]
+MC [Animatii NPC I]
+MC [Animatii NPC II]
+MC [Animatii NPC III]
+BT [Echilibru]
+BT [Control]
+BT [Performanta]
+BT [User Interface]
+BT [Mecanica jocului]
+BT [Level design]
+Comanda de lucru
+Ce fel de ordin vrei sa faci?
+Misiuni scurte
+Joc pe contract
+Elaboreaza totul in automat
+Plata
+Penalitati contractuale
+Termen limita
+Volum de munca
+Client
+Expira in: <b><NUM> saptamani</b>
+Elimina lucrarea
+Lucrarea comandata a fost finalizata: <NAME><br> Plata: <NUM>
+Trebuie sa platesti penalizari contractuale de <color=red><NUM>$</color>.
+Saptamani: <NUM>
+Lucrare comandata nereusita: <NAME><br> Penalizare contractuala: <NUM>
+Selecteaza jocul
+Jocuri disponibile
+Hype generat la inceputul dezvoltarii.
+Din ce joc ar trebui dezvoltata continuarea?
+<b>Continuare</b><br>I continuarile jocurilor beneficiaza de succesul predecesorilor lor.<br>La inceputul dezvoltarii se genereaza un hype,<br>si exista un bonus pe cifrele vanzarilor.<br>The development of a sequel may negatively<br>affect the sales figures of the predecessor.
+<b>Remaster</b><br>The development costs for remasters are reduced.<br>Only games can be remastered,<br>which have already been taken off the market.
+<b>Joc nou</b><br> Cand creezi un joc nou, <br>poti ulterior sa faci o continuare sau sa il remasterizezi.
+Numele jocului este deja existent!
+Ce joc vrei sa remasterizezi? Pot fi selectionate doar jocurile care au fost deja retrase de pe piata.
+Remasterizat
+Aur
+Reincarcat
+Deluxe
+<color=black>(<NUM>)</color>
+Platforma
+Evaluarea minima pentru plata bonusului: <b><NUM>%</b>
+Bonus
+Preda jocul
+▪ Joc pe contract ▪ <br> Desvoltarea acestui joc a fost finalizata. Poti livra jocul clientului, sau poti sa lucrezi la el in continuare.
+Clientul ti-a transferat suma de <color=blue><NUM1></color>. Vei primi plata bonusului de <color=blue><NUM2></color> imediat dupa finalizare si dupa ce presa a evaluat cel putin <color=blue><NUM3></color>.
+Nu poti accepta aceasta comanda pentru ca nu ai kit-ul de dezvoltare necesar.
+Ai primit ultima factura pentru jocul pe contract.
+Salariul total
+Termenul limita a fost respectat
+Poti schimba doar platforme care au fost retrase de pe piata.
+Costuri suplimentare de portabilitate
+Pentru jocurile pe contract nu este posibila schimbarea platformei!
+Trebuie sa anulezi activitatea curenta pe aceasta camera!
+<b>Numarul de servicii contractuale</b><br><br>
+Numarul jocurilor pe contract
+Aceasta fereastra iti arata daca unui angajat <br>nu i-a fost alocata nici o camera. <br><br><color=blue>Fa click pentru a selecta angajatul</color>
+Actualizari/Addon
+Ce fel de actualizare sau addon doresti sa dezvolti?
+Actualizare gratuita
+Addon cu plata
+Addon MMO
+Selectati continutul actualizarii gratuite.
+Pentru ce joc trebuie sa fie dezvoltata actualizarea gratuita?
+Numarul actualizarilor
+Limbi
+Continut
+Patch
+O noua modalitate de joc
+Noi misiuni
+Noi obiecte ambientale
+O noua grafica de fundal
+Noi efecte sonore
+O noua muzica
+Imbunatateste performanta
+Imbunatateste controlul
+Maximum
+Nu ai ales nici un continut pentru actualizare!
+A fost finalizata o actualizare pentru <NAME>.
+Ce tipologie de joc ai dori sa vezi?
+Copiaza tipologia jocului
+Setari de baza
+Motorul selectat are un nivel tehnologic prea scazut!
+Scrisorile fanilor pentru <b><NAME></b>
+Statistici
+Grafici
+Finante
+Propriile jocuri
+Informatii si Istoric
+Editor si Dezvoltator
+Propriile console
+Motoare
+Graficul general
+Graficul saptamanal
+Descarca graficul F2P
+Graficul abonamentelor MMO
+Toate platformele disponibile
+La dispozitie
+Concurentii care actioneaza ca editori
+Concurentii care actioneaza ca dezvoltatori
+Bunavointa
+Actionariat
+Experienta in studio
+Nici un gen
+Toate motoarele disponibile
+Ai pus in vanzare acest motor.
+Arata doar motoarele tale
+Recenzii
+Grupuri
+Jocuri de la filiale
+Istoric
+Total vanzari
+Total descarcari
+Ultimele 24 de luni
+Luna curenta
+Diferenta (24 luni)
+Luna trecuta
+Total inscrisi
+Total
+Sold lunar
+Sold anual
+Bilant anual
+Costuri de constructie
+Elemente
+Produse de la terti
+Sanctiuni contractuale
+Cheltuieli
+Venit
+Incasarile jocului
+Licente motor
+Serviciu comandat
+Jocuri pe contract
+Premii
+Anul trecut
+Anul curent
+An
+Evenimente din ultimii ani
+Jocuri actual disponibile cu gen sau argument
+Raportare lunara
+Profit total
+Hype per campanie / Hype-ul maxim care poate fi generat cu aceasta campanie
+Astepta pana ce hype-ul scade sub <NUM>.
+Daca vrei ca actualizarile sa fie create automat, trebuie sa selectezi cel putin un continut nou de joc!
+Automatizarea a fost intrerupta! <br>Nu ai suficienti bani.
+Automatizarea a fost intrerupta! <br>S-au terminat ordinele.
+Automatizarea a fost intrerupta! <br>Hype-ul este maxim.
+Incepe campania fanilor
+Limita de credit
+Credit anual
+Dobanda lunara
+Luati un imprumut
+Plateste creditul
+Credit
+Evenimentul fanilor
+Pentru a atrage fanii poti organiza un eveniment. Cu cat este mai spectaculos evenimentul, cu atat vei atrage mai multi fani.
+Sondaj de opinie
+Impartiti bilete autografate
+Loterie
+Viziteaza studio-ul
+Campionatul scorurilor
+Conventia de jocuri
+Serviciu Clienti
+Suport si marketing
+Campania fanilor <NAME> finalizata
+Fanshop
+<b>Numarul de apeluri, scrisori si e-mail </b><br>pentru a le raspunde fanilor, <br>trebuie creat un departament de suport. <br><br> ▪ Daca nu vei raspunde la multe intrebari , vei pierde fani. <br> ▪ Evita jocurile cu bug.<br> ▪ De la 5.000 de fani, este necesar un departament de suport pentru a gestiona toate intrebarile.
+Cu cat sunt mai multe apeluri, scrisori si mail-uri fara raspuns, cu atat fanii vor ramane dezamagiti.
+Deschide asistenta pentru clienti
+Volum de munca
+Volum de munca scazut
+Volum de munca foarte scazut
+Volum de munca mediu
+Volum de munca elevat
+Intrebari fara raspuns: <NUM>
+Disc de aur primit
+Jocul tau <color=blue><NAME></color> este considerat un reper revoluționar în industria jocurilor video și a stabilit o nouă tendință.
+Creator de tendinte
+Premiile Mad Games
+<NUM> Fani
+Premii pozitive
+Premii negative
+Cea mai buna coloana sonora
+Cea mai buna grafica
+Dezvoltatorul anului
+Editorul anului
+Jocul anului
+Cel mai prost joc al anului
+Discul de Aur
+Bolnav
+<b>Miracol medical</b><br> Angajatii cu un sistem imunitar bun, nu se imbolnavesc niciodata .
+Utilizat la luna: <NUM>
+Joc nou
+Incarca jocul
+Optiuni
+Multumiri
+Iesi din joc
+Mad Games Tycoon®<br>© 2020 Eggcode Games
+Esti sigur ca vrei sa inchizi jocul?
+<Gol>
+Elimina Salveaza partida
+Incarcare...
+Esti sigur ca vrei sa stergi aceasta salvare?
+Salveaza automat
+Mad Games Tycoon 2
+Salveaza jocul
+Iesi din joc
+Vrei sa te intorci la meniul de pornire?
+Intoarcete la meniul de pornire
+Vrei sa suprascrii peste jocul salvat?
+Jocul a fost salvat
+Numele jucatorului
+Numele companiei aleatoriu
+Sediul companiei
+Nivel de dificultate
+Anul de inceput
+Viteza de joc
+Salveaza jocul, incarca jocul, optiuni
+Foarte usor
+Usor
+Mediu
+Dificil
+Legendar
+Lent
+Normal
+Rapid
+Foarte rapid
+<b>Selecteaza sediul firmei</b><br> Fiecare stat are un gen special, ceea ce inseamna un bonus de <color=blue>+ 3%</color> pe vanzari.
+Gen special: <color=blue><TEXT></color>
+Personajul tau ▪ CEO
+Trebuie introdus numele companiei pentru studioul tau !
+Corporatura
+Par
+Ochi/Ochelari
+Barba
+Culoarea pielii
+Culoarea parului
+Culoare bluzei
+Culoare pantalonilor
+Culoare extra
+Trebuie sa ii dai un nume personajului tau!
+Masculin
+Feminin
+Aspect
+Competente
+Avantaje
+<NUM> skill points ramase
+Trebuie sa folosesti toate skill points!
+Arunca zarurile
+Joc nou ▪ Setari de joc
+Dezactiveaza tutorial
+Popularitatea aleatorie a platformei
+Setarile conceptului de joc aleator
+Nici un eveniment aleator
+<size=20>Mad Games Tycoon 2</size><br><br> Va multumim pentru achizitie <color=blue>Mad Games Tycoon 2</color>. Aveti in vedere ca in versiunea cu acces anticipat lipsesc multe caracteristici, jocul este dezechilibrat si pe alocuri pot aparea si bug-uri. De asemenea traducerile nu sunt finalizate. <br><br> Distractie placuta!
+Cu cat viteza jocului este mai redusa, cu atat angajatii pot indeplini mai multe sarcini intr-o saptamana.<brAsta face jocul mai usor.
+Nivelul de dificultate afecteaza in special<br>pe cifra de vanzari a jocurilor tale.
+Pentru a incepe jocul la un nivel mai performant, <br>poti selecta un an de inceput mai recent.
+O actualizare pentru <NAME>a fost anulata<br>pentru ca jocul a fost retras de pe piata.
+<b>Eschimos</b><br>Angajatilor cu aceasta caracteristica nu le este frig niciodata.
+<b>Modest</b><br>Angajatii modesti nu au nevoie de<br>echipamente de birou de inalta calitate.
+<b>Rezistenti</b><br>Acesti angajati nu merg<br>la baie in timpul orarului de servici.
+Este necesar sa selectezi cel putin o caracteristica de joc!
+Noutati
+Un concurent publica un joc
+Concurenta noua
+O protectie pentru copyright noua
+A fost lansat noul motor NPC
+O noua cercetare disponibila
+O noua platforma disponibila
+Platforme retrase de pe piata
+Primesti un disc de Aur
+Setarile jocului
+Setari grafice
+Setari audio
+Audio
+Volum Master
+Muzica
+Volumul muzicii
+Rezolutie Desktop
+Full screen
+Maximum frame rate
+VSync
+SSAO
+Screen Space Reflections
+Bloom
+Ambient Occlusion
+Gradatia culorilor
+Umbre realistice
+Limba
+Dimensiunile GUI
+Revino la setarile initiale
+-
+-
+-
+<b>Marketing [Streamer] a fost deblocat</b><br><br>Cat mai multi oameni urmaresc jocuri pe internet pe masura ce jucatorii isi petrec timpul pe jocurile lor preferate. Daca o facem corect, o putem folosi pentru a ne promova jocurile si a duce targhetul direct la tinta.
+<b>Marketing [Internet] a fost deblocat</b><br><br>Internetul devine tot maiimportant pentru campaniile publicitare. Asadar, ar trebui sa luam in considerare si desfasurarea campaniilor publicitare pe internet.
+<b>Remasterizarea a fost deblocata</b><br><br>Nu ar fi o buna idee sa lasi un joc vechi sa straluceasca intr-o noua lumina? Bani rapizi si jucatori fericiti!
+<b>MMO si Server room sunt deblocate</b><br><br>Acum poti dezvolta jocuri MMO si poti construi Server room-ul.
+-
+<b>Licentele au fost deblocate</b><br><br>Acum ai destui bani pentru a cumpara licente. Chiar si jocurile cu un gameplay slab dar au o licenta oficiala se vand destul de bine.
+<b>Motion Capture Studio a fost deblocat</b><br><br> Pentru a perfectiona animatiile, trebuie sa cumparam un Motion Capture Studio. Desi costa destul de mult, acesta va fi foarte profitabil. Ce parere ai?
+-
+-
+-
+-
+-
+-
+<b>2. Platforma a fost deblocata</b><br><br>Acum poti dezvolta jocuri pe 2 platforme. Asta iti va garanta o gama de clienti mai ampla.
+<b>3. Platforma a fost deblocata</b><br><br>Acum poti dezvolta jocuri pe 3 platforme. Asta iti va garanta o gama de clienti mai ampla.
+<b>4. Platforma a fost deblocata</b><br><br>Acum poti dezvolta jocuri pe 4 platforme. Asta iti va garanta o gama de clienti mai ampla.
+<b>Protectia copyright a fost deblocata</b><br>Astazi a fost lansata prima protectie copyright eficienta. Acum poti tine in siguranta jocurile tale cu protectia copyright.
+<b>Continuarea a fost deblocata</b><br><br>Unul din jocurile tale a primit o evaluare buna din partea presei. . Cred ca ar trebui sa i facem o continuare ulterior.
+-
+-
+Bugfixing
+Imbunatateste gameplay-ul
+Creaza un raport de joc
+Joc Multiplatform
+Joc retro
+▪ Jocurile Multiplatform pot fi publicate pe orice platforma.<br>In acest mod jocul poate fi oferit unui public vast.
+▪ Jocurile retro pot fi publicate doar pe platformele care<br>au fost deja retrase de pe piata.<br>Aceste jocuri genereaza o multime de fani, iar recenzorii nu le evalueaza atat de riguros.
+Jocurile retro pot fi lansate doar pe platforme ce au fost deja retrase de pe piata!
+Nu se pot schimba platformele intr-un joc retro!
+Retro
+A iesit un joc nou exclusiv pentru <NAME>. Sa vedem daca se merisa achizitia.<br>
+Retro Special! Proprietarii <NOME> se pot astepta la un joc nou. Sa vedem daca bucuria este justificata.<br>
+Ce joc ar trebui sa fie controlat si corectat?
+Imbunatatirea jocului a fost deja facuta
+In curs
+Nu ai selectat o imbunatatire a jocului!
+Imbunatatirea gameplay-ului <NAME1> finalizata
+Reatribuiti Support-ul
+Grafica high quality
+Imbunatatirea grafica pentru <NAME1> finalizata
+Cere caracteristica de joc <color=yellow><NAME></color>
+Sunet high quality
+Imbunatatirea audio pentru <NAME1> finalizata
+Animatii high quality
+Inregistrarea Motion Capture pentru <NAME1> finalizata
+Afisati conexiunile camerei
+UI-Dropup (joc in pauza)
+Vizualizati rapoartele jocului
+Cand creezi un raport al jocului, poti verifica setarile pozitive si negative ale conceptului de joc.
+Creaza in automat rapoarte de joc
+Raport de joc pentru <NAME1> finalizat
+Prioritati pentru recenziile jocului
+Argumentele si target-ul grupului sunt potrivite pentru <color=yellow><NAME></color>?
+Niciun subtopic
+Subgenuri potrivite pentru <color=yellow><NAME></color>
+Setari design perfecte
+Concedierea angajatilor poate cauza <br> o dispozitie proasta tuturor angajatilor!
+Dispozitie proasta
+Concedierea unui angajat a cauzat o dispozitie proasta. Angajatii se tem pentru locul de munca si motivatia le-a scazut.
+Ti-ar place sa participi la <color=blue>Mad Games Convention</color> anul acesta?
+Alege dimensiunea standului tau. Cu cat este mai mare standul, cu atat poti prezenta mai multe produse. In plus, standurile mari, atrag mai multa atentie.
+Stand mic
+Stand mediu
+Stand mare
+Consola de jocuri
+Nu participa
+Mad Games Convention
+Marimea standului
+Cate produse ai dori sa expui la <color=blue>Mad Games Convention</color>?
+Selecteaza jocul
+Selecteaza consola
+Elimia produsul
+Trebuie sa alegi cel putin un produs care va fi expun la <color=blue>Mad Games Convention</color>!
+Numarul de vizitatori ai standului tau
+Anul acesta sunt asteptati pana la <color=blue><NUM></color> vizitatori.
+Organizatorul spune ca <color=blue><NUM></color> bilete pentru eveniment au fost vandute.
+Pentru ce joc ar trebui dezvoltat un Addon cu plata?
+Numarul de Addon
+Numele addon-ului
+Cele mai vandute jocuri economice
+Cele mai vandute addon-uri
+Cele mai vandute pachete
+Noi caracteristici de joc
+Continut Addon
+Addon
+Noi obiecte
+Noi provocari
+Noi inamici
+Noi moduri de joc
+Noi personaje de joc 
+Noi mecanizari de joc
+O noua lume de joc
+O noua campanie
+Addon inca nu are continuturi noi!
+Trebuie sa-i dai un nume addon-ului!
+Au fost selectate prea multe caracteristici de joc!
+Numarul concurentilor
+Dezvolta continut nou
+Pachet de jocuri
+Buget joc
+Addon autonom
+▪ Addon-urile normale necesita jocul principal.<br>Maresc vanzarile jocului principal,<br>dar nu pot depasi vanzarile jocului principal.<br><br>▪Stand-alone addons nu necesita jocul principal, ci o noua campanie.<br>Cifrele vanzarii a jocului principal nu vor fi afectate.<br>Dar cifra de vanzari poate fi superioara a jocului principal.
+Addon finalizat
+Dezvoltarea acestui addon a fost finalizata. Daca jocul principal este vandut de un editor, atunci esti obligat sa i-l dai acestuia.
+Editori interesati
+Da-i un addon editorului
+Jocul principal
+Si in final scurte  recenzii a ultimilor addon a jocurilor tale preferate. Ca de obicei, iti aratam care addon merita!
+Clasificare dupa varsta stimata
+Lead designer
+Vizualizarea software-ului Mad Games
+Clasificare de varsta
+<color=blue><NAME></color> a primit urmatoarea clasificare de varsta de la MGSR:
+Angajati disponibili
+▪ Lead designer-ul ar trebui sa detina un nivel inalt de cunostina in <color=blue>game design</color>. <br> Toti angajatii care lucreaza la acest joc, vor primi un bonus, <br>in functie de aceasta valoare.<br>< br>▪ Lead designer-ul trebuie sa fie in aceasta camera.
+Numeste ca Lead designer
+Progresul dezvoltarii
+Setarile angajatilor
+Descrierea jocului
+Facultativ, poti scrie o descriere pentru joc.
+O noua descriere pentru joc
+Niciun lead designer selectionat!
+Evenimente istorice aleatorii
+Multe pauze
+Cateva pauze
+Putine pauze
+Exercitati putina presiune
+Aplicati o presiune medie
+Exercitati o presiune elevata
+Numarul pauzelor
+Presiunea exercitata pe angajati
+Cautarea motivatiei de la:
+Gustare
+Automatizeaza negocierile salariale
+Cu cat mai putine pauze sunt permise,<br>cu atat mai repede scade motivatia.
+Presiunea ridicata de lucru va face angajatii sa munceasca mai mult.<br>Dar calitatea produsului va avea de suferit.
+Aici poti seta nivelui motivatiei<br>al angajatilor tai pentru a folosi sala relax.
+Acest lucru va permite sa determinati in ce stadiu de dezvoltare incepe perioada de criza.<br>In perioada de criza, toate necesitatile angajatilor sunt ignorate.<br><br>Dar fi atent! In perioadele dificile, angajatii tind sa renunte.
+Profesia decide ce abilitate poate fi dezvoltata in <color= blue>100</color>.<br>Toate celelalte abilitati au o limita de <color=blue>50</color>.
+Profesie
+Caracteristici de joc necesare
+Platformele selectate becesita urmatoarele caracteristici de joc:
+Contract exclusiv al editorului
+Niciun editor nu iti ofera un contract. raportul cu editorii trebuie maximalizat!
+Durata contractului
+Plata instantanee
+Multiplayer
+Asteptand jucatorii...
+Lobby-ul jucatorilor
+Iesi din lobby
+Incepe jocul
+Lobbi-ul e plin
+Asteapta sa inceapa jocul...
+Datele jucatorului
+Trebuie sa introduceti un jucator si numele companiei!
+Creaza joc
+Participa
+Alatura-te jocului ca si client
+Gazduieste jocul ca server
+IP-ul gazdei
+Serverul s-a deconectat!
+Asteptand jucatorii ...
+Conexiunea a fost intrerupta deoarece versiunile sunt diferite.
+Clasifica [Multiplayer]
+Chat [Multiplayer]
+>> Iti plateste <NUM> taxe de licenta pentru motor <<
+>> A cumparat motorul tau cu <NUM> <<
+Finalizat [Finisare]
+Finalizati dezvoltarea
+<NUM> Luni
+Esti sigur ca vrei sa semnezi un contract de excluzivitate cu <NOME>?
+Ai deja un contract exclusiv cu <NAME>! Durata ramasa este de <NUM> luni.
+Produsul a devenit <NOME> un contract exclusiv! Durata ramasa este de <NUM> luni.
+Preda <color=blue><NAME></color>
+Contractul exclusiv cu <NAME> a expirat. Acum iti poti vinde jocurile sau gaseste un alt editor.
+<b>Sef</b><br>Angajații cu abilități puternice de conducere oferă un bonus dacă sunt angajați ca lider în dezvoltare.
+<b>Polivalent</b><br>Limita de abilitati secundare a crescut.
+Nu ai selectat inca toate avantajele!
+Harta
+Parcul industrial-A
+Cabinet Arcade
+Joc pe telefon
+▪ Arcade cabinet games can only be developed for "Arcade System Boards".
+▪ Mobile games can only be published on cell phones.
+Portabilitatea jocului
+Esti sigur ca vrei sa cumperi acest imobil?
+Această clădire are o suprafață de <color=blue><NUM1></color> metri patrati. Costă <color=red><NUM2></color>.
+Un virus a șters unele dintre fișierele grafice pentru jocul curent. Graficii încearcă să compenseze pierderea.
+Un star al muzicii,prieten al unui angajat a compus o coloană sonoră gratuită pentru jocul tău actual.
+Un programator obosit a petrecut ultimele ore refacând câteva elemente fundamentale. Din păcate, a fost atât de obosit încât s-au strecurat niște bug-uri.
+Unul dintre programatori dorește probabil să fie „angajatul lunii” și a lucrat în schimbul de noapte. Rezultatul are o creștere semnificativă a performanței jocului.
+În timpul unei sesiuni spontane de brainstorming cu personalul, s-au născut câteva idei bune pentru noul joc. Dezvoltatorii au început imediat să lucreze și au implementat unele dintre aceste idei.
+O revistă de jocuri cu tiraj mare a publicat un articol negativ despre jocul actual. Din păcate, acest lucru a făcut ca interesul să scadă puțin.
+Unul dintre dezvoltatori a trimis ilegal screenshots și informații despre jocul curent către o revistă de jocuri cunoscută. Din fericire, articolul tipărit a fost bine primit și a crescut interesul.
+O piesă muzicală pentru jocul actual seamănă prea mult cu un hit din topuri. Pentru a evita un proces, această piesă muzicală a fost eliminată.
+Au existat probleme cu driverele actuale pentru diferite dispozitive de intrare. Unele funcții trebuie rescrise imediat.
+Unul dintre designerii de nivel a suprascris accidental un nivel care a fost deja finalizat. Nivelul complet trebuie acum recreat.
+Programatorii tăi sunt norocoși. Unele rapoarte de erori s-au dovedit a fi greșite. Acest lucru ne economisește mult timp.
+Unul dintre designerii grafici a continuat să lucreze la joc în timpul liber. Ca rezultat, multe grafici inferioare au fost îmbunătățite.
+Unul dintre specialiștii tăi în sunet a găsit o piesă muzicală veche pe care a creat-o în biblioteca sa. Această piesă se potrivește extraordinar de bine jocului actual.
+Programatorii au primit cel mai recent SDK și l-au actualizat imediat. În acest fel, unele probleme tehnice ar putea fi rezolvate.
+<b>Criza industriei<br><color=blue>-50% de jocuri vandute</color></b><br><br>Piata jocurilor pentru PC a cazut.<br>In urmatoarele luni, cifrele vanzarilor pentru toate jocurile vor diminui drastic.<br>Se spera ca piata se va restabili in curand.
+<b>Boom-ul jocurilor video<br><color=blue>+ 50% de jocuri vandute</color></b><br><br>Industri jocurilor pentru PC se confrunta cu o puternica recuperare.<br>In lunile urmatoare, toate jocurile se vor vinde mult mai bine.
+<b>Stagnarea comenzilor<br><color=blue>nici o comanda noua</color></b><br><br> A izbucnit o scadere globala a comenzilor.<br>Nu vi se vor oferi alte ordine un viitorul apropiat.
+<b>Lipsa fortei de munca<br><color=blue>nici un CV nu a fost depus</color></b><br><br> Sectorul IT se plange de o mare lipsa de angajati.<br>Niciun angajat nu va depune candidatura in viitorul apropiat.
+<b>Criza bancara <br><color=blue>+ 200% ratele dabanzii</color></b><br><br>A izbucnit o criza bancara mondiala.<br>Toate bancile acum cer dobanzi cu mult mai mari la imprumuturi.
+<b>Era Legendelor<br><color=blue>+ 200% posibilitate ca legendele sa isi depuna candidatura</color></b><br><br>Multi angajati experti cauta un nou loc de munca.<br>in urmatoarele luni alte legende ale dezvoltarii de jocuri isi vor depune candidatura.
+<b>Boom-ul imobiliar<br><color=blue>+ 100% la pretul imobiliar</color></b><br><br>Un boom imobiliar global a crescut semnificativ pretul imobilelor.<br >Chiar si pentru cladirile care trebuiesc demolate se cer niste sume enorme.
+<b>Pandemia<br><color=blue>+ 300% posibil ca angajatii sa se imbolnaveasca</color></b><br><br>O pandemie globală lovește în mod neașteptat sectorul muncii.<br>Din fericire, este o gripa usoara, cu toate acestea performanța muncii scade semnificativ.
+<b>Criza energetica<br><color=blue>+ 100% costuri de operare pentru servere</color></b><br><br>O criză energetică determină creșterea prețurilor la electricitate.<br>În viitorul apropiat, costurile de operare pentru servere vor crește cu 100%.
+<b>Semiconductor shortage<br><color=blue>+$100 production costs for consoles</color></b><br><br>The prices for semiconductors have risen abruptly.<br>In the near future, the production costs for consoles will increase enormously.
+Manualul jocului b/n
+Manualul jocului colorat
+Editie
+Afis
+Sticker
+Harta lumii de joc
+Jocuri de cărți
+Broşă
+Breloc
+Coloana sonoră
+Figuri de colecție
+Prețurile și conținutul pachetului
+Costurile productiei
+Editie Standard
+Ediție de lux
+Editie de colectie
+Conținutul ediției
+Ediție oferită spre vânzare
+Costuri de bază
+Cele mai bune ediții obțin automat conținutul edițiilor mai mici.
+Se va debloca in <color=blue> Februarie 2003 </color>.
+Prețul de vânzare en-detail
+Costuri de productie
+Oferta Standard Edition
+Ofertă Deluxe-Edition
+Ofertă Editie de colectie
+Ofertă versiunea digitală
+Jocuri F2P și versiuni digitale
+<b>Jocurile F2P și distribuția digitală au fost deblocate</b><br><br>Acum poti dezvolta jocuri F2P și distribui jocurile online ca versiuni digitale.
+Nu ai pus in vanzare o versiune en-detail sau digitala.
+Ediția Deluxe trebuie să aibă mai mult conținut decât acea standard.
+Editia de colectie trebuie sa aiba mai mult continut decat editiile mai mici.
+Peste cat timp va iesi jocul?
+<NUM> saptamani
+Magazie
+Ordine
+Versiune digitala
+▪ Ediția standard și versiunea digitală trebuie să aibă același preț.<br>▪ Cele mai bune editii trebuie sa coste cu cel putin 10$ in plus <br>comparativ cu ediția inferioară.<br>▪Jocurile economice pot costa maximum 10$ si<br>poate fi publicat doar ca ediție standard.
+Dezvoltare finalizata
+Doar versiunea digitală
+Ordin de producție
+Produce joc
+Marketing secundar
+Pret de baza
+Selectați cantitatea de producție dorită pentru fiecare ediție.
+Producție automată
+Dacă nu ați activat un automat, trebuie să determinați cantitatea de producție.
+Productie pentru <NAME1> finalizata
+Opțiuni de distribuție
+<b>Opțiuni de distribuție</b><br>Aici vă puteți gestiona distribuția.
+Conținutul poate fi schimbat numai dacă stocul este gol!
+Ștergeți automat jocurile de pe piață
+Sigur doriți să scoateți jocul de pe piață?
+Ati retras manual <color=blue><NAME></color> de pe piata. Produsul nu mai este disponibil.
+Anti-Cheat Software
+Cumpara Anti-Cheat Software
+Vinde produse
+Nu există spațiu de stocare disponibil.
+Vindeți tot stocul
+Esti sigur ca vrei sa vinzi tot stocul? Un editor de jocuri economice ti-a facut o oferta.
+Ce joc vrei sa publici din nou <color=blue>joc economic</color>? Pot fi selectate doar jocurile care nu au fost disponibile timp de<color=blue>un an</color>.
+<color=blue><NUM></color> saptamani a fi disponibile
+Saptamani dispozitie
+Cu ce eticheta doriti sa lansati versiunea economica?
+Clasic
+Argint
+Prima clasa
+Platina
+<color=blue>Reimprimare posibilă</color>
+Nu puteți alege conținut de jocuri economice!
+Fanii sunt împărțiți în funcție de genul lor preferat.
+Cercetare de piață
+Total fani
+Realizarea de noi cercetări de piață
+Nu s-a efectuat încă nicio cercetare de piață. Începeți o cercetare de piață pentru a afla care <color=blue>genere</color> va fi tendenta sau ce <color=blue>platforma</color> este interesata la targhetul grupului.
+Cercetarea de piata finalizata
+Cercetările de piață au arătat că platforma <color=blue><NAME></color> va vinde mai mult.
+Raportul final de la <color=blue><NAME></color>
+Targhetul de grup are cel mai mic interes față de platforma <color=blue><NAME></color>.
+Cercetarea de piata a aratat ca <color=blue><NUM1></color> jucatorii prefera o <color=blue>versiune en-detail</color> si <color=blue><NUM2></color> o <color=blue>versiune digitala</color>.
+Am observat ca, <color=blue><NUM1></color>cumparatorii sunt interesati de o <color=blue>editie Deluxe </color> iar <color=blue><NUM2></color> la o <color=blu> ediztie de colectie</color>.
+Urmatoarea tendenta cu o probabilitate de<color=blue>80%</color> este <color=blue><NAME1></color> si <color=blue><NAME2></color>.
+În curând nepopular cu<color=blue>80%</color>de probabilitate <color=blue><NAME1></color> si <color=blue><NAME2></color>.
+Puteți efectua cercetări de piață în departamentul de marketing.
+Dacă doriți să vindeți motorul, trebuie să setați prețul de vânzare sau tarifele licenței.
+Dezactivați sunetul pictogramei de lucru
+Cele mai bune jocuri din toate timpurile
+Achiziții în App
+Articole cosmetice și Skin-uri
+Animale de companie și monturi
+Booster-Packs
+Articole puternice
+Personaje speciale de joc
+Instanțe și teritorii
+Finanțare
+Cere caracteristica de joc <color=orange>Achizitii in App</color>
+Costuri de bază
+Tehnologie
+Conținut și caracteristici
+Costul total
+Taxe și licențe
+Reducerile bugetare pot avea un efect <br> negativ asupra calității jocului.
+Imprumutul nu poate fi redus pentru <color=orange>jocurile pe contract</color>.
+Din păcate, jocul arată că bugetul a fost redus pe alocuri.
+[Nivelul tehnologic al motorului este prea ridicat]
+Fanii tăi așteaptă deja continuarea <NAME>. Ați primit un hype bonus.
+<b>Articolele de nivelul II au fost deblocate</b><br><br>Acum vă puteți echipa birourile cu articole de ultimă generație.
+<b>Articolele de nivelul III au fost deblocate</b><br><br>Acum vă puteți echipa birourile cu articole de ultimă generație.
+<b>Articolele de nivelul IV au fost deblocate</b><br><br>Acum vă puteți echipa birourile cu articole de ultimă generație.
+<b>Articolele de nivelul V au fost deblocate</b><br><br>Acum vă puteți echipa birourile cu articole de ultimă generație.
+Articolele de nivelul II
+Articolele de nivelul III
+Articolele de nivelul IV
+Articolele de nivelul V.
+<b>Complexitate</b><br>Cu cât este mai greu să te dezvolți pe o platformă,<br>cu atat dureaza mai mult dezvoltarea jocului. 
+Modul multiplayer este încă într-o stare inițială. Unele funcții importante lipsesc și conexiunea poate fi întreruptă.
+Niciun <color=blue>Anti-Cheat Software</color> nu a fost inca lansat.
+<b>Anti-Cheat Software fost deblocat</b><br>Pentru a combate numărul tot mai mare de software piratat, a fost lansat astăzi un software profesional Anti-Cheat.Acum poti adauga un Anti-Cheat Software la jocurile tale.
+Anti-Cheat Software de cumparat
+Anti-Cheat Software cumparat
+Ascunde Anti-Cheat Software vechi
+Esti sigur ca vrei sa cumperi acest Anti-Cheat Software?
+Elimina Anti-Cheat Software
+Niciun Anti-Cheat Software
+Doar in jocurile multiplayer are sens sa adaugi un Anti-Cheat Software.
+Cu protectia copyright, sunt cu mult mai putine jocuri piratate.
+Un nou Anti-Cheat Software disponibil
+Acest obiect nu este inca disponibil.
+Platforma speciala
+Alege o plathorma speciala!
+Nivelul tehnologic al motorului este mai mare decât nivelul tehnologic al platformei speciale!
+Nici o platforma
+Genul de specialitate si platforma sporesc<br>sansa de a obtine rezultate critice ale jobului.
+Arata speech bubbles
+Când semnați un contract exclusiv cu un distribuitor, sunteți obligat să distribuiți toate jocurile de către aceștia.
+Se așteaptă serverul ...
+Salvare joc inexistentă!
+Gazda vrea să salveze jocul.
+Portul: 7777
+Pretul abonamentului
+Model de afaceri F2P
+Conversie MMO in F2P
+Porneste/Stinge serverul
+Arata/Ascunde peretii
+Dacă doriți să găzduiți un joc, trebuie să deschideți portul 7777.
+Daca vrei sa dezvolti un joc <color=blue>MMO sau F2P</color>, trebuie adaugata caracteristica de joc <color=blue>Multiplayer online</color>.
+Abonamente
+Vă rugăm să setați prețul pentru abonamentul lunar.
+Incasari totale
+Vanzari
+Esti sigur ca vrei sa inchizi serverele? Vei pierde toate abonamentele de pe acest server.
+Vrei sa pornesti serverele? Va trebui sa platesti din nou toate costurile lunare.
+A picat server-ul
+Game Pass
+MMO
+F2P
+Pentru ce MMO vrei sa dezvolti add-on?
+Limita nivelului maxim
+Obiecte noi
+Noi animale de companie si monturi
+Noi misiuni secundare
+Noi inamici
+Personaje și clase noi de jucător
+Noua lume a jocului și instanțe
+Noua serie de misiuni principale
+<b>Opțiuni speciale pentru jocurile standard</b><br>▪Crearea Addons si Stand-Alone Addons<br>▪Crearea unui remaster<br>▪Lansare ca joc economic<br>▪Lansare in bundle
+<b>Optiuni speciale MMO</b><br>▪Crearea unui Addon MMO
+<b>Optiuni speciale pentru F2P</b><br>▪ Creaza Addons F2P<br>▪ Doar distribuire digitală<br>▪ Nu necesita editor.
+Trebuie să alegeți cel puțin 3 conținuturi noi pentru l'MMO-Addon!
+Dezvoltarea addon-ului MMO <NAME> a fost anulata,<br>pentru ca jocul principal a fost scos de pe piata
+Serverele se supraîncălzesc!<br><color=red>prestatie de -50%</color>
+Platforma este pregătită pentru internet
+Daca vrei sa dezvolti un joc MMO sau F2P,toate platformele trebuie să fie predispuse pentru internet!
+Tutorial
+Inainte
+Inapoi
+Pune in pauza automat
+Jocul se oprește automat atunci când un jucător deschide un meniu.
+<color=green> >> A cumparat o proprietate noua << </color>
+<color=green> >> Lansarea jocului "<NAME>" << </color>
+<color=green> >> Lansarea motorului "<NAME>" << </color>
+Banca v-a informat că contul companiei are un sold negativ de câteva luni. Vi se va acorda o perioadă de <color=blue>12 luni</color> pentru a reintra in pozitiv. In caz contrar va intra in insolventa <color=blue></color>.
+Avertisment
+Numarul de luni pana cand trebuie sa echilibrati contul.
+Game Over
+<b>Compania ta este insolvabila!</b><br><br>Jocul s-a terminat! Din pacate, compania ta este acum îngropată în cimitirul aglomerat al companiilor de tehnologie.<br>Mai mult noroc data viitoare!
+Factor aleatoriu crescut pentru recenzii
+Studio de <NAME>
+Cauta
+Actualizeaza automat cu cele mai bune articole
+Sigur doriți să actualizați toate articolele din această cameră?
+Această funcție este disponibilă numai în multiplayer.
+Puteți susține sau sabota un jucător. Ce vreți să faceți?
+Sustin
+Sabotez
+Angajatul îngheață!
+Toate obiectele sunt actualizate!
+Angajatul este prea murdar aici!
+Angajatului i se pare incomod aici!
+Analizele utilizatorului
+Recenzii de presă
+Utilizator
+Presa
+Începutul dezvoltării
+Marcați ca favorit
+Favorită
+Derulare pe marginea ecranului
+Dezactivați facturarea motorului
+Deschideți / închideți toate GameTabs-urile
+<b>Perioada de Craciun</b><br> + 50% de unitati vandute
+<b>Colaps estiv</b><br> -30% de unitati vandute
+In <NAME> următoarele profesii sunt cele mai eficiente: <color=blue><TEXT> </color>.
+<b>Fani plictisiti</b><br> Fanii tăi se plictisesc pentru că lansezi în continuare jocuri cu același gen (<color= blue><NAME></color>).<br>▪-50% de unitati vandute< br>▪Nici un fan nou
+Angajatul crede că, camera este prea aglomerată!
+Dezactivați pictogramele lucrătorilor
+Opriți reclamațiile lucrătorilor
+Interzis
+Costurile de traducere depind de dimensiunea jocului.
+Uşă
+Discul de platină
+Discul de diamant
+Discul platină primit
+Discul de diaman primit
+Vânzător de sisteme: <color=blue>+<NUM> <NAME></color>
+<b>Joc exclusiv </b><br> Prin acest joc, o estimare de <color=blue><NUM> <NAME></color> a fost vanduta
+Dezactivați efectele meteorologice
+<b>Colapsul imobiliar<br><color=blue> -50% din pretul cladirilor </color></b><br><br> Prețurile proprietăților scad în toată lumea. Experții vorbesc deja despre o criză îngrijorătoare. <br>Desigur, acest lucru nu ne deranjează. Suntem mulțumiți de prețurile favorabile de achiziție.
+Motor third-party
+<b>Fani suparati</b><br> Fanii tăi sunt supărați că ai lansat un joc extrem de defect. <br>▪-30% de unitati vandute <br>▪niciun fan nou
+<b>Dezordonat</b><br> Acestor angajati nu le pasa daca lucreaza intr-um birou murdar.
+<b>Filantrop</b><br> Acești angajați nu se plâng de birouri aglomerate.
+Sprijin financiar
+Asistență în cercetare
+Furnizați motorul
+Dă licență
+Jucători
+Valoarea sprijinului financiar
+>> A furnizat <NUM> sprijin financiar <<
+Ai furnizat <color=blue><NAME></color> sprijin financiar în valoare de <color=blue><NUM></color>.
+Ai furnizat <color=blue><NAME1> </color> motorul <color=blue>"<NAME2>"</color> gratuit.
+>> Ti-a dat motorul "<NAME>" <<
+Ai transferat <color=blue><NAME1></color>licenta <color=blue>"<NAME2>"</color> gratuit.
+>> Ti-a dat licenta "<NOME>" <<
+Dezactiveaza pauza in automat [Single player]
+Timp de afișare a scrisorilor fanilor
+Maraton
+Ștergeți toate salvările jocului
+ATENTIE! <br> Vrei cu adevărat să ștergi definitiv toate salvările jocului?
+I-ai furnizat <color=blue><NAME1></color> tehnologia <color=blue>"<NAME2>"</color>.
+>> Ti-a dat tehnologia "<NOME>" <<
+Puteți folosi doar jocuri care au fost lansate ca <color=blue>Budget Edition</color> si au fost deja <color=blue>retrase de pe piata</color>.
+Numele pachetului
+Calitatea pachetului
+Trebuie sa selectezi cel putin doua jouri!
+Niciun joc selectat
+Slot gratuit
+Trebuie sa-i pui un nume pachetului!
+Pentru pachete nu puteți alege niciun conținut!
+Pachete cu jocuri anterioare au fost lansate și în această lună. Să aruncăm o privire atentă asupra conținutului și să vă spunem dacă îl puteți obține.
+Aceste jocuri sunt incluse în pachet
+Pachet addon
+Edițiile Jocului Anului
+Pentru un pachet addon trebuie să selectați un <color=blue>joc principal</color> si macar <color=blue>un addon corespunzator</color>. Toate produsele trebuie să fie deja <color=blue>retrase de pe piata</color>.
+Addons
+Pachet adaugator
+Mai întâi trebuie să alegeți jocul principal!
+Produse disponibile
+Trebuie să selectați cel puțin un joc principal și un addon!
+Editie completa
+Ediția GOTY
+În ce joc ați dori să repostați <color=blue>editia GOTY</color>? poti alege doar jocurile ce au fost premiate cu <color=blue>Jocul anului</color>si<color=blue> au fost deja scoase de pe piata</color>.
+G.O.T.Y.
+Cum ar trebui sa fie numita editia?
+Reglare viteza de lucru
+Afiseaza doar numele jocului in pictograma minimizata
+Marketing special
+Este posibil sa castigi mai multi bani prin achizitiile in-app. <br>Preocuparea ca un model de business agresiv<br>va fi primit cu negativism de jucatori.
+Incasari stimate utilizator / luna
+Impopularitatea modelului de afaceri
+Pentru achizitiile in-app ai nevoie de caracteristicile de joc <color=blue>Achizitii in-app si multiplayer online</color>!
+Incasari din abonamente
+Incasari din achizitii in-app
+Gestioneaza achizitiile in-app
+Se deblocheaza dupa ce ai cercetat caracteristica jocului<br><color=blue>Achizitii in-app</color>.
+Elimina Aplicatia
+Nu poti seta achizitiile in-app pentru <color=orange>jocuri pe contract</color>.
+Modul automat a fost anulat!<br>Nu sunt disponibile alte cercetari.
+Datorita unei serii de jocuri cu licenta slaba, increderea in randul licentiatilor a scazut.<br>Momentan toti licentiati refuza sa colaboreze cu industria jocurilor video.
+Finisare
+Ce joc ar trebui sa fie imbunatatit? Rifinire e basta aumenta la qualità del gioco <color=blue>lentamente </color>.
+Popularitatea genurilor
+Tendenta
+Nepopular
+Aici iti va arata <br> daca unei camere nu i s-a atribuit o sarcina. <br><br><color=blue>Da click pentru a merge la camera</color>
+<b>Atac Hacker<br><color=blue>-30% Capacitatea Serverului</color></b><br><br>Un grup anonim de hackeri a lansat un atac global asupra rețelelor.<br>Toate serverele din lume au fost afectate, iar performanța lor a fost sever limitată.
+Nu astepta
+Redenumeste grupul
+Vă rugăm să introduceți numele grupului.
+Pentru <color=blue>jocuri F2P</color> trebuie oferită cel puțin o achiziție în App!
+Distribuiți online
+În câte săptămâni ar trebui lansat jocul pe toate platformele online?
+Saptamani pana la descarcare
+Jucători activi
+Actualizare F2P
+Modul Full Screen
+Fereastra Full Screen
+Exclusive Full Screen
+Fereastra maximizată
+Ce MMO doriți să convertiți într-un joc F2P? Puteți converti numai MMO-uri care au fost <color=blue>deja scoase de pe piață</color> sau care tu <color=blue>le distribui singur</color>.
+Chiar vrei să transformi <color=blue>MMO</color> intr-un joc <color=blue>F2P</color>?
+Costuri de conversie
+[F2P]
+Pauza automatizata [Multiplayer]
+Start automatizat
+Aveți deja ediția bugetară pe piață. Vă rugăm să așteptați până când ediția bugetară este eliminată de pe piață.
+Aveți deja ediția GOTY pe piață. Vă rugăm să așteptați până când ediția GOTY este eliminată de pe piață.
+Costul actualizărilor
+Porniți automat remedierea erorilor
+Începeți să lustruiți automat
+Arhiva
+Conceptele, motoarele sau rapoartele de joc arhivate sunt ascunse în toate listele și meniurile.
+Disponibil
+În arhivă
+Marketingul special este ieftin, dar poate avea și un <color = blue> efect negativ </color>. Fiecare acțiune poate fi utilizată <color = blue> per joc doar 1x </color>.
+Lansare demo beta
+Pre-lansare pentru presă
+Creați suprahype
+Recenzii false ale utilizatorilor
+În timpul dezvoltării
+După lansarea jocului
+O demonstrație poate crea hype sau reduce hype <br> în funcție de calitatea jocului.
+Dacă trimiteți o versiune pre-lansare către presă, <br> aceasta poate avea un impact pozitiv sau negativ asupra evaluării jocului.
+Puteți genera overhype, numai dacă jocul dvs. are o hype de cel puțin 90. <br> Aveți grijă că fanii dvs. pot fi dezamăgiți, <br> dacă jocul dvs. nu primește un rating foarte mare.
+Dacă creați recenzii false ale utilizatorilor și sunteți prinși, <br> nu face o impresie bună.
+Acest lucru a fost deja făcut
+Campanie specială de marketing pentru <NAME1> finalizată
+Am analizat toate comentariile și am constatat că mulți jucători sunt nemulțumiți de demo-ul beta. Jocul tău pierde ceva hype din cauza asta.
+Am primit în mare parte comentarii pozitive pentru demo-ul beta. Fanii tăi așteaptă cu nerăbdare lansarea jocului. Hype-ul jocului tău este în creștere.
+Presa a testat versiunea de previzualizare a jocului tău. Din păcate, previzualizările au fost în mare parte negative. Trebuie să ne așteptăm ca acest lucru să aibă un impact negativ asupra ratingului final.
+Presa a testat versiunea pre-lansare a jocului tău. Jocul a fost foarte apreciat în toate previzualizările. Putem presupune că acest rezultat va avea un impact pozitiv asupra ratingului final.
+Din păcate, nu am reușit să facem jocul atât de mult pe cât ne-am fi dorit. Hype-ul jocului rămâne la un nivel normal.
+Am putut crește extrem de mult hype-ul jocului. Sperăm că nu vom dezamăgi fanii cu un produs mediu.
+Unii jucători au observat că multe recenzii ale utilizatorilor sunt false. Datorită acestei fraude am pierdut un număr mare de fani.
+Departamentul nostru de marketing a creat câteva recenzii ale utilizatorilor pentru acest joc. Din fericire, nimeni nu a observat această înșelătorie.
+Publică un demo
+Mulți jucători sunt dezamăgiți de calitatea versiunii demo. Jocul tău pierde ceva hype din cauza asta.
+Mulți jucători se distrează cu versiunea demo și, prin urmare, vor să cumpere jocul în curând. Hype-ul jocului tău este în creștere.
+Din păcate, jocul nu a putut fi la înălțimea hype-ului. Mulți fani sunt dezamăgiți și se așteaptă la mult mai mult. Pierzi mulți fani și hype-ul jocului scade la un nivel normal.
+Potrivire
+Nu toate caracteristicile de joc sunt potrivite pentru un gen. <br> Caracteristicile deosebit de potrivite, <br> au un bonus de 50%. <br> Caracteristicile nepotrivite au doar un efect de 10%.
+Angajaților nu li se permite să părăsească clădirea
+Nu mai afișa mesajul
+Sigur doriți să dezactivați ridicarea obiectelor?
+Sigur doriți să dezactivați selecția angajaților?
+Vă rugăm să alegeți genul special al companiei dvs. Genul special oferă un bonus de <color = blue> + 3% </color> la rezultatul recenziei jocurilor tale.
+Activați / dezactivați toate caracteristicile adecvate
+„Sputnik 3000 Cleaners” nu are voie să părăsească clădirea
+Creați Lobby Steam
+Salvare automata
+La fiecare 12 luni
+La fiecare 9 luni
+La fiecare 6 luni
+La fiecare 3 luni
+Prietenia pentru începători
+Inovaţie
+Design de personaje
+Proiectare nivel
+Proiectarea misiunii
+Nonviolent
+Conținut explicit
+Uşor
+Greu
+Focalizarea designului
+Direcția de proiectare
+Trebuie să cheltuiți toate punctele de proiectare disponibile!
+Ați cheltuit prea multe puncte de proiectare!
+Ora de afișare a mesajului
+Compania garajului necunoscută
+Compania garajului
+Studio independent
+Dezvoltator de jocuri mici
+Dezvoltator obișnuit de jocuri
+Studio de joc stabilit
+Studio de jocuri prestigios
+Studio de jocuri popular
+Companie de jocuri cunoscuta
+Companie de jocuri influențială
+Companie de jocuri legendara
+Nou rating de studio
+Calculator
+Consolă
+Handheld
+Telefon mobil
+Mil
+Tipul platformei
+Utilizatori activi
+Interes
+Când interesul jocurilor F2P scade, <br> ar trebui să dezvolți o actualizare. <br> Acest lucru va crește din nou interesul <br> și durata de viață a jocului va fi crescută.
+Actualizarea unui joc F2P crește interesul și prelungește viața jocului. Actualizările F2P sunt oferite jucătorilor gratuit.
+Pentru ce joc F2P ar trebui dezvoltată o actualizare?
+Noi caracteristici sociale
+O actualizare F2P pentru <NAME> a fost finalizată.
+Numărul total de utilizatori activi pentru platformele selectate.
+Evaluarea în studio afectează jocurile autodistribuite.
+Copiați doar setările de proiectare
+Când interesul jocurilor MMO scade, <br> ar trebui să dezvolți un supliment MMO. <br> Acest lucru va crește interesul din nou <br> și viața jocului va fi crescută.
+Nu puteți dezvolta jocuri mobile până când distribuția digitală nu este deblocată!
+Jocuri mobile - Diagrame pentru toate timpurile
+Vânzări totale de jocuri mobile
+Nou joc mobil
+Nou joc Arcade Cabinet
+<b> Joc mobil nou </b> <br> Costurile de dezvoltare pentru jocurile mobile sunt semnificativ mai mici.
+La ce preț ar trebui oferit jocul mobil în magazinele de aplicații?
+Preț stabilit
+Nu puteți lansa suplimentul până când jocul principal nu este lansat.
+MadMobileGames.com
+<b> Jocurile mobile au fost deblocate </b> <br> <br> Primul smartphone a fost lansat. Acum puteți dezvolta jocuri mobile.
+Va fi deblocat în momentul lansării primului <color = blue> smartphone </color>.
+Atelier
+Atelierul pentru a putea realiza jocuri cabinet arcade, <br> îl puteți cerceta la rubrica <color = blue> „Altele” </color>.
+Produce dulap arcade
+Jocuri arcade vândute
+În atelierul <color = blue> </color> vă puteți produce jocurile cabinet arcade.
+Placă de sistem Arcade
+Nu puteți seta achiziții în aplicație pentru <color = orange> jocuri de cabinet arcade </color>.
+Arcade
+<b> Joc Arcade </b> <br> ▪ Nu este nevoie de editor <br> ▪ Nu este posibilă completarea <br> ▪ MMO-urile și F2P-urile nu sunt posibile <br> ▪ Slumpul de vară nu are efect <br> ▪ Nu generează apeluri și e-mailuri <br> ▪ Nu există software anti-cheat și protecție împotriva copierii <br> ▪ Nu este posibilă relansarea <br> ▪ Indiferent de cota de piață a platformei
+<b> Joc mobil </b> <br> ▪ Nu este nevoie de un editor <br> ▪ Costuri de dezvoltare semnificativ mai mici <br> ▪ Nu este posibilă completarea <br> ▪ Nu este posibilă relansarea
+<b> Joc pentru computer și consolă </b> <br> ▪ Valabil pentru contract exclusiv pentru editori
+Joc Arcade - Diagramele All Time
+Vânzări totale de jocuri arcade
+Vânzări totale de jocuri pentru PC și consolă
+Cercetările de piață au arătat că următoarele platforme sunt cele mai solicitate:
+Grupul țintă a manifestat cel mai puțin interes față de următoarele platforme:
+La ce preț ar trebui vândut jocul cabinet arcade?
+Calitatea componentelor
+Caz
+Ecran
+Dispozitiv de intrare
+Sistem audio
+Prețuri pentru jocuri cabinet arcade
+Prețuri pentru jocuri mobile
+Nu este posibil să schimbați calitatea componentelor ulterior.
+<color=blue><NUM> </color> al grupului țintă joacă în mod regulat <color = blue> jocuri cabinet arcade </color>.
+Nu faci profit! Creșteți prețul jocului dvs. cabinet arcade.
+Spin off
+<b> Spin-off </b> <br> Un spin-off beneficiază de succesul seriei principale. <br> Bonusul de hype nu este la fel de mare, <br> ca la o continuare. <br> Dar este posibil să creați spin-off-uri nelimitate <br> și să schimbați genul principal.
+Deblocat când unul dintre jocurile dvs. <br> a fost vândut de cel puțin <color = blue> 50.000 </color> ori.
+<b> Spin-off-ul a fost deblocat </b> <br> <br> Cifrele de vânzări ale unuia dintre jocurile tale sunt excelente. Ar trebui să aveți un spin-off dezvoltat. Poate că succesul se poate repeta.
+Această recenzie este despre continuarea lui <NAME>. Vă verificăm dacă merită cea mai nouă parte a seriei.
+Am primit un eșantion de test al spin-off-ului de la <NAME>. Aici puteți afla dacă spin-off-ul merită o privire.
+De la care IP doriți să dezvoltați un spin-off?
+Fanii tăi sunt mulțumiți de spin-off-ul <NAME>. Jocul a primit un bonus de hype.
+Ce joc ar trebui să fie portat pe un alt tip de platformă?
+Pe ce tip de platformă ar trebui portat <color=blue><NAME> </color>?
+Computer și consolă de jocuri
+Jocul este deja disponibil pe acest tip de platformă.
+<b> Joc de port </b> <br> ▪ Este posibilă o singură portare pentru fiecare tip de platformă <br> ▪ Hype este preluat din jocul original <br> ▪ Costurile de dezvoltare sunt mai mici <br> ▪ Porturi pentru dulapuri arcade au un efect pozitiv asupra cifrelor de vânzări ale jocului original
+Nu pot fi portate MMO-uri și jocuri F2P pe un cabinet arcade.
+[P]
+Fanii dvs. sunt mulțumiți de portul <NAME> de pe alt sistem. Jocul primește hype-ul actual al jocului original.
+Arată câte jocuri cu această temă sunt pe piață.
+IP-urile mele
+Vanzari totale
+Veniturile totale
+Popularitatea IP
+<b> Popularitatea IP </b> <br> Popularitatea afectează toate jocurile IP. <br> Jocurile cu un rating bun sau <br> jocurile care primesc un premiu sporesc popularitatea.
+Toate jocurile de pe <color=blue><NAME> </color> IP
+Mil
+Număr de jocuri și suplimente:
+Produce jocuri cabinet arcade
+Motor intern
+<b> Lacomi </b> <br> Angajații care sunt lacomi solicită salarii semnificativ mai mari.
+<b> Imunocompromiși <br> <br> Angajații cu deficiențe imune se îmbolnăvesc mult mai des.
+<b> Relaxat </b> <br> Angajații care nu  se streseaza fac pauze în perioadele dificile.
+<b> Nefocalizat </b> <br> Acești angajați fac greșeli mai des și <br> creează astfel erori mai frecvent.
+<b> Netalentat </b> <br> Angajații netalentați învață mai încet decât colegii lor de muncă.
+<b> Pixel artist </b> <br> Acești angajați generează puncte grafice mai mari atunci când dezvoltă un joc retro.
+<b> Specialist în portare </b> <br> Acești angajați generează puncte tehnologice superioare atunci când un joc este portat.
+<b> Creativ </b> <br> Angajații cu o imaginație dezvoltată au în mod constant idei noi pentru continuare. <br> Când se dezvoltă o continuare, acești angajați generează puncte de joc mai mari.
+<b> Expert în motoare </b> <br> Acești angajați pot dezvolta motoare mult mai repede.
+Cel mai bun joc
+Cel mai prost joc
+Scor mediu
+Statistici totale
+Costul total
+<b> Ghinionist </b> <br> Acești angajați nu au niciodată rezultate de muncă critice.
+<b> Silitor </b> <br> Acești angajați pot finaliza munca contractuală mult mai repede.
+<b> Eficient </b> <br> Angajații eficienți pot îndeplini toate sarcinile marginal mai repede.
+Puteți modifica prețul numai dacă nu există precomenzi.
+Numele consolei
+Dezvoltați consola
+Ce tip de consolă doriți să dezvoltați? O consolă staționară pentru sufragerie? Sau o consolă mobilă pentru deplasare?
+Consolă staționară nouă
+Nou portabil
+Puteți preinstala un joc deja lansat pe consolă. <br> Emularea jocului pe această consolă se face automat.
+Cu cât sunt adăugate mai multe dispozitive de intrare în consolă, cu atât costurile de producție sunt mai mari.
+O consolă modernă din punct de vedere vizual poate avea un efect pozitiv asupra comportamentului de cumpărare.
+Procesor principal
+Memoria principala
+Cip grafic
+Cip de sunet
+Memorie internă / externă
+Sistem de răcire
+Operator de date
+Ecran
+Cea mai veche componentă din punct de vedere tehnologic decide <br> nivelul tehnologic final al consolei.
+Dispozitiv de intrare
+Caz
+Funcție Consolă
+Este necesar doar pentru dispozitive portabile
+Este necesar doar pentru consolele staționare
+Numai pentru dispozitive portabile
+Numai pentru consolele staționare
+Evaluarea componentelor
+Componenta consolei
+Uite
+Joc clasic preinstalat
+Numărul de dispozitive de intrare atașate
+Prin amestecarea componentelor învechite și noi, <br> complexitatea consolei crește. <br> Acest lucru mărește efortul de dezvoltare și costurile.
+Componenta care îmbunătățește performanța
+Look sau dispozitiv suplimentar
+Puncte de performanță
+Nuanţă
+Saturare
+Niciun joc selectat
+Eliminați jocul
+Caracteristici ale consolei
+Necesită capacitate de internet
+Activați / dezactivați toate funcțiile
+Capacitate Internet
+Consola poate fi conectată la Internet
+Unele funcții ale consolei necesită acces la Internet.
+Nu este încă disponibil
+Trebuie să dai un nume consolei!
+Numele consolei a fost deja atribuit!
+Fără timp de criză
+Luminozitate
+Numele opțional al adresei IP
+<color = green> >> A publicat consola „<NAME>”. << </color>
+Tehnician principal
+▪ Tehnicianul principal ar trebui să aibă cunoștințe ridicate în <color = blue> Hardware & Engineering </color>. <br> Tot personalul care lucrează pe această consolă, <br> va primi un bonus în funcție de această valoare. <br> Acest lucru poate reduce timpul de dezvoltare. <br> <br> ▪ Tehnicianul principal trebuie să fie în această cameră.
+Folosiți ca tehnician principal
+Platforma este încă în curs de dezvoltare!
+Nu toate platformele au fost lansate încă! <br> Pentru a lansa acest produs, toate platformele țintă trebuie să fie disponibile comercial.
+Consola a fost finalizată
+Publicați consola
+Aruncați consola
+Departamentul dvs. hardware a finalizat un prototip al consolei dvs. gata de piață. Puteți lansa consola acum sau puteți amâna lansarea la o dată ulterioară.
+Sigur doriți să aruncați această consolă? Această operațiune nu poate fi anulată!
+Prețul de vânzare al consolei
+Costurile actuale de producție ale consolei
+Procese de producție optimizate și scăderea costurilor hardware, <br> reduc costurile de producție în timp.
+Kit de dezvoltare
+La ce preț vrei să vinzi consola?
+Kit de dezvoltare Preț
+Permiteți jocuri de la terți
+Setați automat prețul de vânzare
+Reducerea costurilor actuale
+Evaluare consolă
+Presa a comparat performanța și pachetul general al noii dvs. console cu console deja disponibile.
+Eliminați consola de pe piață
+Rata de performanta
+Evaluarea generală a consolei
+Sigur doriți să scoateți consola de pe piață?
+Producția consolei
+Dezvoltarea consolei
+Performanță comparativ cu alte console
+>> Ați achiziționat setul de dezvoltare pentru <NUM>. <<
+<color=blue><NAME1> </color> a achiziționat DevKit de la <color=blue><NAME2> </color>.
+Nu puteți publica jocul deoarece nu este selectată nicio platformă principală! Mai întâi selectați o platformă principală în meniul „Schimbați platforma”.
+Detalii consolă
+<NUM> Console
+Componente tehnice
+Nu afișați caseta de mesaj pentru „Anulați sarcina”
+Suprasaturarea pieței
+Maxim
+Actualizați automat obiectele din fiecare cameră.
+Sigur doriți să actualizați articolele din toate camerele?
+Cea mai înaltă poziție a graficului
+Aplicați automat setările optime cunoscute.
+Locuri de muncă
+Indică câți angajați pot lucra în această cameră, fără a se plânge de supraaglomerare.
+<DATE1> până la <DATE2>
+Acest joc de salvare este depășit. <br> Pot apărea erori cu jocuri de salvare depășite, <br> și este posibil ca unele funcții să nu funcționeze.
+Toate Consolele
+Console staționare
+Handhelds
+Cele mai vândute console
+Istoricul vânzărilor
+Concurenta lansează un joc pentru consola ta
+Supraaglomerarea de la <b> <NUM> </b> locuri de muncă
+<NUM> Avantaje ramase
+Așteptați până când sunt disponibile noi contracte
+Se așteaptă un nou contract
+Foarte greu
+Anulări
+Du-te în cameră
+Publică mai târziu
+Mențineți automat prețul de vânzare la profitul <color = blue> <NUM> </color>
+Închideți meniurile cu butonul din dreapta al mouse-ului
+Cel puțin o caracteristică a motorului are un nivel tehnologic mai ridicat decât platformele selectate.
+Nivelul tehnologic al motorului selectat
+Nivelul tehnologic al celei mai slabe platforme
+Joc exclusiv producător
+▪ Jocurile exclusiv producătorilor pot fi lansate numai pe propriile console. <br> Exclusivitatea poate crește puțin vânzările consolelor dvs.
+Puteți alege propriile console numai dacă doriți să dezvoltați un joc exclusiv pentru producător!
+<b> Joc exclusiv producător </b> <br> Prin acest joc, s-au vândut o estimare <color = blue> <NUM> </color> a consolei dvs.
+Așteptați până când sunt disponibile noi jocuri
+Așteptați până când noul raport de joc poate fi creat
+Continua
+Prindere pentru rotație
+Vindeți automat stocul rămas
+Deselectați elementul
+În coadă
+Dezvoltare completă
+Finalizați dezvoltarea și lansați produsul <br> la o dată ulterioară.
+Căutare angajați
+Experienta profesionala
+Anunț locuri de muncă
+Tineri profesioniști
+Muncitor calificat
+Specialist
+Șansa de succes
+Timp cerut
+▪ Cu cât este necesară mai multă experiență de muncă, <br> cu atât este mai mică șansa de a găsi un angajat. <br> ▪ Un rating ridicat de studio poate crește șansele de succes. <br> ▪ Timpul necesar pentru a găsi un angajat potrivit <br > depinde de experiența de lucru selectată.
+Costuri: <NUM>
+<color = blue> <NAME> </color> s-a aplicat postării noastre de locuri de muncă. Vrei să angajezi această persoană?
+<b> Căutare angajați </b> <br> Din păcate, nu a fost găsit niciun angajat adecvat.
+Căutarea angajaților a fost finalizată cu succes
+Setați automat prețurile de vânzare
+Hardware-ul consolei este depășit. <br> Aceasta crește costurile de producție.
+Caracteristici de joc
+Efectuat
+Aveți prea multe funcții de joc activate.
+Jucătorul este gata
+Gata
+Oferta de publicare
+Ce joc doriți să distribuiți?
+▪ Cu cât reputația dvs. de studio este mai mare, cu atât vi se vor oferi mai multe jocuri. <br> ▪ Nu obțineți experiență pentru aceste jocuri. <br> ▪ IP-ul și conceptul de joc rămân proprietatea <br> a dezvoltatorului. Prin urmare, nu puteți dezvolta succesori, addonuri, actualizări sau portarea jocului.
+Suma garanției
+Ponderea cifrei de afaceri
+Calitate estimată
+Numărul de oferte de publicare
+Oferta de contract
+Trimiteți dezvoltatorului <color = blue> <NAME1> </color> o ofertă de contract pentru jocul <color = blue> <NAME2> </color>.
+Dispozitie
+Fa o ofertă
+Negocierile contractuale au eșuat! Dezvoltatorul va căuta un alt editor.
+Semneaza contractul
+Enervat
+Tensiune
+Mulțumit
+Șterge
+Distribuție
+Jocuri distribuite
+Retail + Digital
+Doar Retail
+Doar Digital
+Nu puteți distribui acest joc ca o versiune în cutie.
+Nu puteți distribui acest joc digital.
+Puteți trimite o ofertă dezvoltatorului doar o dată pe săptămână.
+Competențe medii
+Angajați de profesie
+Competențe totale
+Aplicanti pe profesie
+Nu este necesar să se producă toate edițiile. <br>Dacă nu este produsă nicio ediție Deluxe sau Collectors<br>cumpărătorii vor achiziționa automat ediția Standard.
+Disfuncționalitate comercială
+În ciuda ratingurilor bune, <color=blue><NAME></color> nu se poate menține pe piață și pare să devină un eșec comercial.
+Bug-uri detectate
+Cumpărătorii jocului <color=blue><NAME></color> au raportat bug-uri pe care controlul nostru de calitate le-a trecut cu vederea. O perioadă mai lungă de lustruire reduce șansele ca bug-urile să rămână nedetectate. Ar fi recomandabil să se dezvolte un patch cât mai curând posibil.
+Jocul conține bug-uri
+Lovitură surpriză
+Norocul este de partea noastră. Cifrele de vânzări de <color=blue><NAME></color> sunt mult mai mari decât se aștepta. Acest joc ar putea fi lovitura surpriză a anului.
+Cele mai bune Competențe
+Ultimii aplicanți
+<b>O combinație de gen nou</b><br>▪ +10% Unități vândute
+<b>O combinație de subiecte noi</b><br>▪ +3% Unități vândute
+O nouă combinație de genuri
+Noua combinație de subiecte
+Parc industrial
+Palm Beach Resort
+[Tutorial disponibil]
+Giant Warehouse
+Ascundeți jocurile contractuale
+Timp de dezvoltare: <color=blue><NUM>săptămâni</color>
+Selectați automat cel mai bun angajat
+Nu a fost selectat niciun tehnician principal!
+Cele mai populare IP-uri
+F2P Download-uri
+Computer & Consola Jocuri
+Opțiuni de filtrare pentru jocuri
+Jocuri standard
+Ips
+Acţiuni
+Afișați toate
+Afișați numai jocuri pe PC și consolă
+Afișați numai mașini arcade
+Afișați numai jocuri mobile
+Afișați numai consolele proprii
+Combinații aleatorii de gen
+Componente
+Afișați numai jocurile în coadă
+Cele mai jucate jocuri F2P
+Jocuri buget
+Pachete de jocuri
+Jocuri mobile
+Mașini arcade
+Realizari
+Ascundeți realizările deblocate
+<NUM1>de <NUM2>Realizari
++<NUM>% din jocurile pe PC și consolă vândute
++<NUM>% jocuri de mașini arcade vândute
++<NUM>% jocuri mobile vândute
++<NUM>% addons vândute
++<NUM>% vânzări de marketing secundar
++<NUM>% achiziții în aplicație
++<NUM>% console proprii vândute
++<NUM>% fani generați prin jocuri
++<NUM>% viteză de antrenament
++<NUM>% rată de lucru
+Bonus total
+Dezvoltarea nu poate fi începută pentru că această comandă a fost deja acceptată de un alt jucător.
+Comanda nu poate fi acceptată pentru că nu ați cercetat încă genul corespunzător.
+Comanda nu poate fi acceptată deoarece nu ați cercetat încă dimensiunea corespunzătoare a jocului.
+Ați folosit motorul pentru contractul de joc <color=blue><NAME1></color>. Acest lucru vă dă dreptul la o parte din profituri.
+Un / toata arhiva
+Protecție la copiere & Anti-Cheat
+Puteți schimba protecția împotriva copierii și software-ul Anti-Cheat în timpul dezvoltării.
+Costuri suplimentare de dezvoltare
+Din ce <color=blue>IP</color> ar trebui oferită marfa?
+Cel puțin un articol de marfă este în afara stocului!
+Articolele de marfă sunt reordonate automat
+▪ Cantitatea minimă de comandă pe articol este de 5.000 de bucăți. <br>▪ Cu cât un IP este mai bine cunoscut, cu atât mai multe articole pot fi vândute. <br>▪ Numărul fanilor crește cifrele de vânzări.
+Ceașcă
+Tricou
+Carte de arta
+Colier
+Șapcă
+Semn staniu
+Monedă
+Figură de colecție
+Articol
+Cantitatea comenzii
+Prețul de achiziție
+Cifre de vânzări
+Costul comenzii
+Reordonarea automată
+Săptămâna trecută: <b><NUM1></b><br>Total:<b><NUM2></b>
+Aplicarea prețurilor de vânzare pentru toate IP-urile
+Prețurile de vânzare au fost adoptate pentru <NUM>IP.
+Articol de comandă
+Marfă
+Marfa în cantitate de <NUM>a fost comandată pentru <NAME>.
+Reordonarea automată pentru toate IP-urile
+Comutați automat pentru toate IP-urile
+Profit marfa
+Popularitatea necesară a proprietății intelectuale
+Administrează Fan Shop
+Preluarea comenzilor
+Cerere
+Curent și luna trecută
+Dezactivați vânzarea
+Nicio marfă nu va fi vândută pentru acest IP.
+Marfa este vândută pentru acest IP.
+Comutarea vânzării pentru toate IP-urile
+IP-uri și prețuri
+Angajații dumneavoastră trebuie să ia <color=blue>orders</color> elementelor <color=blue>marfa</color>. Cu cât este mai mare <color=blue>cererea</color>, cu atât este nevoie de mai mulți angajați.
+Pentru ce tip de platformă se va dezvolta continuarea <NAME>?
+Pentru ce tip de platformă va fi dezvoltată <NAME>spin-off?
+Cu cât este mai mare valoarea unei rubrici, cu atât este mai mare <br>cumpărarea că angajatul va câștiga puncte pentru acea rubrică.
+Puteți schimba prioritatea de proiectare în timpul dezvoltării. Acest lucru este recomandat mai ales dacă o secțiune a fost grav neglijată.
+Rotirea camerei cu 90 de grade
+Jocuri exclusive
+Săptămâna viitoare
+Jocuri auto-dezvoltate
+Birouri
+Dulapuri
+Televizoare & Radiouri
+Imagini
+Covoare
+Premii
+Tabele
+Plante
+Lămpi
+Divers
+Relaxare
+Robot de curățare
+Obiecte sanitare
+Divertisment
+Maşini
+Server
+Sisteme de răcire
+Locuri de depozitare
+Obiecte de antrenament
+Studiouri de sunet
+Captarea mișcării
+Banci
+Locuri de muncă
+<b> Blocaje de aprovizionare cu energie globală<br><color=blue>-50% vânzare de mărfuri pentru fani</color></b><br><br>Problemele de artă apar la nivel mondial din cauza lipsei de materii prime.<br> Ca urmare, cererea de marfă nu poate fi satisfăcută.
+Afișați numai jocurile care au fost deja eliminate de pe piață
+Deblocat după ce publicați <color=blue>doar jocul</color>.
+Afișați numai platforme cu nivel de tehnologie potrivit
+Ascunderea subiectelor care nu se potrivesc
+Potrivirea subiectelor
+Nepotrivirea subiectelor
+[A]
+Jocuri cu cele mai mari venituri
+Neglijarea proprietății intelectuale
+Cel mai recent joc a fost lansat în urmă cu <NUM> săptămâni.
+Ascunderea porturilor
+Ascunde addons
+Toate genurile
+Cele mai mari abonamente
+Cel mai mare număr de jucători
+Vârf
+Abonamente curente
+Numerele curente ale jucătorilor
+Mic
+Mediu
+Mare
+Genurile celor mai recente jocuri publicate. <br>Dacă folosești același gen prea des, fanii tăi se vor plictisi. <br>Un gen special <NAME>este exclus din aceasta.
+Nu este de vânzare
+Rezilierea contractului
+Pentru a rezilia contractul mai devreme, va trebui să plătiți o penalizare de <NUM>. În plus, relația cu acest editor se va deteriora.
+Chiar vrei să anulezi contractul de exclusivitate cu <NAME>?
+Eroare critica! Nu există nicio conexiune la Steam.
+Popularitatea platformei mărește durata de viață a platformei
+Când dezvoltați un joc exclusiv, primiți o subvenție financiară de la producătorul platformei pentru a reduce costurile de dezvoltare.
+Nu este posibilă schimbarea platformelor pentru un joc exclusiv!
+„Nu afișa „Mad Games Convention”.
+„Nu arătați „Mad Games Awards”.
+Nu afișa evenimente aleatorii
+Filialele
+Filială
+Ascunde filialele
+Reducere exclusivă pentru jocuri
+Cumpara firma
+Chiar doriți să cumpărați <NUME> la prețul de achiziție de <NUM>?
+Setări studio
+Cota ta din venituri
+Deschide/Închide filială
+Această companie a fost închisă
+Această filială nu este un editor!
+Costuri lunare de administrare
+Filiala de upgrade
+Faceți upgrade la Publisher
+Faceți upgrade la dezvoltator
+Chiar doriți să faceți upgrade la <NAME>? Costul upgrade-ului este <NUM>.
+Chiar doriți să faceți upgrade la <NAME> la Publisher? Costul upgrade-ului este <NUM>.
+Chiar doriți să faceți upgrade la <NAME> la dezvoltator? Costul upgrade-ului este <NUM>.
+Nu ați introdus un nume de companie!
+Siglele companiei
+Ce instrucțiuni ar trebui să urmeze filiala dvs.?
+Progres
+Activitate
+Timp de dezvoltare permis
+Aproape de finalizare
+Lansarea produsului în aprox. <NUM> săptămâni
+Niciun joc în dezvoltare
+Mărimea jocului prioritizat
+Gen prioritizat
+Autopublicare jocuri
+Dezvoltați doar jocuri exclusive pentru propriile console
+Permite dezvoltarea de jocuri MMO
+Permite dezvoltarea jocurilor F2P
+Permite dezvoltarea de suplimente și suplimente MMO
+Nu dezvoltați jocuri de mașină arcade
+Nu dezvoltați jocuri pentru mobil
+Nu dezvolta jocuri retro
+Nu dezvoltați porturi de joc
+Nu publica jocuri cu buget
+Nu publicați edițiile GOTY
+Mic de statura
+Echilibrat
+Generos
+Fara specificatii
+Nu dezvolta remasteri
+Nu dezvoltați spin-off
+Închis
+Aplicați setările pentru toate filialele
+Vindem subsidiara
+Setările au fost aplicate tuturor filialelor.
+Jocuri dezvoltate de filiale
+Chiar doriți să vă vindeți filiala <NAME> pentru <NUM>?
+Compania respinge toate ofertele de preluare. Încercați din nou la o dată ulterioară.
+Filiala dvs. <NAME> are un produs nou gata de lansare. Doriți să îl distribuiți singur sau ar trebui filiala dvs. să se ocupe de lansare?
+Compania subsidiară publică jocul
+Publicați singur jocul
+Produs gata de lansare
+Evaluare estimată:
+<b>Sucursala publică jocul</b><br>▪ Compania subsidiară va căuta un editor dacă este necesar.<br>▪ Obțineți <NUM>% din toate vânzările.
+<b>Auto-distribuție</b><br>▪ Cota din venit este de <NUM>%.<br>▪ Jocurile de tip arcade, jocurile mobile și F2P sunt întotdeauna distribuite de filială.
+Împărțirea veniturilor cu dezvoltatorii
+Ascunde jocurile eliminate de pe piață
+Jocuri ale filialelor pe piață
+Împărțirea profitului dvs
+Joc subsidiar
+Filiala ta <NAME1> ți-a trimis o declarație pentru jocul <NAME2>.
+Nu afișați declarațiile filialelor dvs
+Deduceri
+Când această filială distribuie un joc,<br>dezvoltatorul primește <NUM> pentru fiecare joc vândut.
+Subiect prioritizat
+Concentrați-vă pe următorul IP
+Preferă distribuirea prin propriile edituri
+Nu prezentați demisiile angajaților dvs
+Eliminați IP-ul
+Utilizați motorul intern
+Scoateți motorul
+Evaluare estimată
+Toate jocurile care sunt mai slabe decât evaluarea estimată<br>sunt publicate automat de filiala dvs.
+Copiați elementul
+Concentrați-vă pe următoarele platforme
+Marcați jocurile de la filiale [★]
+Jucător
+Afișați numai jocuri dezvoltate de sine
+▪ <b>Jocul anului</b><br>Trebuie să fii dezvoltatorul și să obții un scor general ridicat.<br><br>▪<b>Cel mai bun sunet</b><br>Trebuie să fii dezvoltatorul și obțineți o evaluare ridicată a sunetului.<br><br>▪ <b>Cea mai bună grafică</b><br>Trebuie să fiți dezvoltatorul și să obțineți o evaluare grafică ridicată.<br><br>▪ <b>Editorul de anul</b><br>Trebuie să distribuiți și să vindeți o mulțime de jocuri de înaltă calitate.<br><br>▪ <b>Cel mai bun dezvoltator</b><br>Trebuie să dezvoltați o mulțime de jocuri de înaltă calitate. jocuri de calitate.<br><br>▪ <b>Cel mai prost joc al anului</b><br>Trebuie să fii dezvoltatorul și jocul tău nu ar trebui să fie distractiv.
+Transfer IP
+Ce IP doriți să atribuiți companiei dvs. sau unei filiale?
+Un produs este în curs de dezvoltare pentru acest IP. Mai întâi trebuie să anulați dezvoltarea pentru a putea transfera IP-ul.
+Transferul IP-ului nu este posibil în prezent.
+<b>Mad Games Awards - Câștigător</b><br>Fanii tăi sunt încântați că ai fost onorat la „Mad Games Awards”.<br>+<NUM>% jocuri vândute<br>
+Conacul European
+Din cauza creșterii prețului, precomenzile <NUM> au fost anulate!
+Activat automat
+Nu a fost cercetat
+Genul nu a fost cercetat!
+Genul sau subiectul nu a fost cercetat!
+Tipul de joc nu a fost cercetat!
+Gen potrivit
+Gen nepotrivit
+Jucărie
+Joc de masă
+Comic
+<color=blue><NUM></color> dintre jucători au acces la <color=blue>Internet</color>.
+Nici o informatie disponibila!
+<b>Jocuri pentru consolă și computer</b><br>Dacă vânzările săptămânale scad sub <color=blue><NUM></color>, jocul<br>este eliminat automat de pe piață.
+Deschideți meniul „Joc finalizat” când toate erorile au fost eliminate
+Proiectul actual
+Această filială nu este un dezvoltator
+Setați viteza jocului
+Fiecare jucător are permisiunea de a seta viteza de joc.<br>Dacă această funcție este dezactivată,<br>numai gazda poate seta viteza de joc.
+Show result of market research
+Calls are chargeable <color=blue>[2$]</color>
+If the support is paid, you will lose<br>significantly more dissatisfied fans.
+You can perform customer support in the support department.
+Number of products
+Standard prices
+Standard prices for newly created IPs
+Propose salary
+-
+Salary negotiation
+An employee asks for a salary increase
+If your employee is angry,<br>he will stop the negotiation
+I would like a monthly salary of <NUM>.
+Willingness to negotiate
+Accept salary increase
+No willingness to negotiate!
+You haven't chosen a main genre yet!
+Remove all
+OK. I agree with your offer. (monthly salary: <NUM>).
+Last chance! I want a monthly salary in the amount of <NUM>.
+Arcade Machines [Orders]
+No platform is <color=blue>internet enabled</color>.
+▪ The better your game is, the higher the chance that you will level up.<br>▪ Addons have a lower chance of getting XP.
+<b>Disappointed fans</b><br>Your fans are disappointed because you released a series of bad games.<br>▪ -40% units sold<br>▪ No new fans
+Announced game
+No game was announced
+<color=blue><NAME1></color> has announced the game <color=blue><NAME2></color>.
+NPC developer announces a game
+Announced games
+Game mode
+▪ In sandbox mode, some stuff is already unlocked and<br>you have infinite money.<br><br>▪ No Steam achievements are unlocked in sandbox mode.
+Standard game
+Sandbox
+<size=20>∞</size>
+This review is about the port of <NAME>. We check how the game performs on the system.
+Automatically place furniture
+Improved pathfinding for your employees [Beta]
+Bigger games have a longer development time.
+You need at least <NUM> gameplay features for the <NAME> game size.
+Min.
+Development time
+Standard
+Realistic
+▪ As the experience level increases, the development costs decrease.<br>▪ The gameplay, graphics, technology and sound points increase.<br>▪ The development time is reduced.<br>▪ Fewer bugs are generated.

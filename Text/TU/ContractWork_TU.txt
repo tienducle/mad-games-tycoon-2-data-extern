@@ -1,0 +1,80 @@
+﻿Grafik motorunu optimize edin <0>
+Ses sistemini programlama <0>
+Seviye editörü geliştirin <0>
+Oyun fiziğini optimize edin <0>
+Görevler içim komut dosyası oluşturun <0>
+Düşman yapay zekasını optimize edin <0>
+Yükleme sürelerini optimize edin <0>
+Hafıza sistemini programlama <0>
+Kullanıcı arayüzü oluştur <0>
+Veritabanı sistemini programlama <0>
+Bir oyun prototipi geliştirin <0>
+Yerelleştirme aracı geliştirin <0>
+Tanım aracı geliştirin <0>
+Oyun dosyalarını sıkıştırın <0>
+Diyalog sistemini programlama <0>
+Çarpışma sistemi geliştirin <0>
+Dosya tarayıcısını programlama <0>
+Seviye yükleyiciyi programlama <0>
+Giriş yöneticisini programlama <0>
+Animasyon yöneticisi programlama <0>
+Hata ayıklama denetleyicisi geliştirin <0>
+Olay yöneticisini geliştirin <0>
+Animasyon sistemi geliştirin <0>
+Animasyon editörü geliştirin <0>
+Sürücü geliştirin <0>
+Kopya koruması uygulayın <0>
+Kontrol sistemini optimize edin <1>
+Bölüm tasarlama <1>
+Genel hata testi <1>
+Görevleri test edin <1>
+Oyun konsepti oluşturun <1>
+Donanım uyumluluk testleri <1>
+Oyun kararlılığını test edin <1>
+Oyun performansını analiz edin <1>
+Oyun güncellemelerini test Edin <1>
+Oyun dengelemeyi optimize Edin <1>
+Eklentileri test edin <1>
+Prototipin analiz edin <1>
+Kullanıcı arayüzünü test et <1>
+Bir Hikaye Şeridi Oluşturun <1>
+Diyalog yazın <1>
+Karakter hareket animasyonları oluşturun <2>
+Arka plan çiz <2>
+Öğeleri Çiz <2>
+Kullanıcı arayüzünü çizin <2>
+Konsept grafikler oluşturun <2>
+Ortam nesnelerini çizin <2>
+Özel efektler oluşturun <2>
+Kapak resmi çizin <2>
+Bölüm döşeme dokularını Oluştur <2>
+Yazı tipleri tasarlayın <2>
+Karakterleri canlandırın <2>
+Oyun müziği oluşturun <3>
+Karakter sesleri oluşturun <3>
+Silah seslerini kaydedin <3>
+Kullanıcı arayüzü seslerini oluşturun <3>
+Dinamik sesler oluşturun <3>
+Ambiyans sesleri oluşturun <3>
+Sihirli sesler oluşturun <3>
+Hayvan seslerini kaydedin <3>
+Motor sesleri oluşturun <3>
+Klasik müzik kaydedin <3>
+Robot sesleri oluşturun <3>
+Patlama seslerini karıştır <3>
+Temel hareketleri kaydedin <4>
+Dövüş sanatları animasyonunu kaydedin <4>
+Ara sahne animasyonları oluşturun <4>
+Hayvan animasyonları oluşturun <4>
+Kılıç oyunu animasyonunu kaydet <4>
+Canavarlar için animasyonlar oluşturun <4>
+Dans animasyonları oluşturun <4>
+Futbolcuları kaydedin <4>
+Mimik animasyonları oluşturun <4>
+Robot animasyonlarını kaydedin <4>
+Konsol onar <7>
+Konsol prototipi tasarla <7>
+Konsol prototipini teşhis et <7>
+Konsol anakartını elden geçir <7>
+Prototipin performansını test et <7>
+Soğutma sistemini optimize et <7>

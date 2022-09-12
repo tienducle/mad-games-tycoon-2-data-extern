@@ -1,0 +1,188 @@
+﻿-;-
+Çalışma Masası I; Geliştirme için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Isıtma Cihazı; Üşüyen çalışanların motivasyonları daha çabuk düşer.
+Lamba I; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Çöp Kutusu; Ofislerinizi her zaman temiz tutun,<br> aksi takdirde çalışanlarınız memnuniyetsiz kalacaktır.
+Su Sebili; Susayan çalışanlar daha çabuk mutsuz olurlar.
+Çalışma Masası I; Araştırma için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Bitki; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Kaktüs; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Tropik Bitki; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Tuvalet; Burada en önemli ihtiyaçlar karşılanmaktadır.
+Lavabo; Daima ellerinizi yıkamalısınız!
+ka-fa 1500 Poster; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Robot Poster; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Aleon Poster; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Retro Poster; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Star Ship Poster; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Altın Plaket; Bu ödülü en az 1.000.000 adet satan her oyun için<br> alırsınız.
+Artistik Çizim I; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Artistik Çizim II; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Artistik Çizim III; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Artistik Çizim IV; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Artistik Çizim V; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+El Kurutma Makinesi; Gürültü yapın, rüzgarlayın ve ellerinizi kurulayın.
+Atari Makinesi I; Bu nesne ile çalışanlarınız<br> motivasyon kazanabilirler.
+Açık Kahverengi Bank; Çalışanlarınız burada mola vermek için<br> oturabilir.
+Koyu Kahverengi Bank; Çalışanlarınız burada mola vermek için<br> oturabilir.
+Mint Yeşili Bank; Çalışanlarınız burada mola vermek için<br> oturabilir.
+Dolap I; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Dolap II; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Dolap III; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Dosya Dolabı; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Temizlik Robotu; Bu ultra modern temizlik robotu tüm kirleri temizler.
+Kahverengi Koltuk I; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Siyah Koltuk I; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Yeşil Koltuk I; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Üretim Makinesi I; Bu makine ile oyunlar üretebilirsiniz.
+Atari Makinesi II; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Atari Makinesi III; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Saat; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Gri Koltuk II; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Mavi Koltuk II; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Turuncu Koltuk II; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Dart Makinesi; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Lamba II; Çalışanlarınız donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Intex Sunucusu; MMO ve F2P oyunları için sunucular gereklidir.<br> Bu sunucu<b><color=blue><NUM></color></b> oyuncu kapasitelidir.
+Klima; Sunucu odalarındaki sıcaklığı düzenlemek için kullanışlıdır.
+Ağır hizmet tipi raf I;Oluşturduğunuz oyunlar burada stoklanır.<br> Bu nesnede <b><color=blue>25.000</color></b> oyun stoklayabilirsiniz.
+Çalışma Masası I; Pazarlama departmanı için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Lamba III; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Çalışma Masası II; Geliştirme için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası III; Geliştirme için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası IV; Geliştirme için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası V; Geliştirme için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Eğitim Masası I; Çalışanların eğitilmesine olanak sağlar.<br> Kalite ne kadar yüksekse sonuç o kadar iyi olur.
+Beyaz Tahta; Çalışanlarınız iyi donanımlı ofislerde<br> çalıştıklarında daha motive olurlar.
+Çalışma Masası II; Araştırma için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası II; Pazarlama departmanı için Çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası III; Pazarlama departmanı için Çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası IV; Pazarlama departmanı için Çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası V; Pazarlama departmanı için Çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası I; Destek departmanı için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası II; Destek departmanı için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası III; Destek departmanı için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur. 
+Çalışma Masası IV; Destek departmanı için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur. 
+Çalışma Masası V; Destek departmanı için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası III; Araştırma için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası IV; Araştırma için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası V; Araştırma için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Kırmızı Koltuk III; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Yeşil Koltuk III; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Mavi Koltuk III; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Ecza Dolabı; Bu, hasta çalışanların kendilerini iyileştirmesini sağlar.<br> Hasta çalışanlar daha yavaş çalışır.
+Elektrikli Isıtma Cihazı; Üşüyen çalışanlar daha çabuk mutsuz olurlar.<br> Bu ısıtıcı herhangi bir konuma yerleştirilebilir.
+Çalışma Masası I; Kalite güvencesi için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası I; Grafik stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası I; Ses stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası I; Hareket yakalama stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Klavye; Bu nesne ile çalışanlarınız yeni motivasyon kazanabilir.
+Ağır Hizmet Tipi Raf II; Oluşturduğunuz oyunlar burada stoklanır.<br> Bu nesnede <b><color=blue>50.000</color></b> oyun stoklayabilirsiniz.
+Ağır Hizmet Tipi Raf III; Oluşturduğunuz oyunlar burada stoklanır.<br> Bu nesnede <b><color=blue>100.000</color></b> oyun stoklayabilirsiniz.
+Çalışma Masası II; Ses stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası III; Ses stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Hayvan Tablosu I; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Hayvan Tablosu I II; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive oluyorlar.
+Hayvan Tablosu I III; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive oluyorlar.
+Hayvan Tablosu I IV; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive oluyorlar.
+Hayvan Tablosu I V; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive oluyorlar.
+Çalışma Masası II; Kalite güvencesi için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası III; Kalite güvencesi için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası IV; Kalite güvencesi için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası V; Kalite güvencesi için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Spor Arabanız; Biraz para kazanmak için eski spor arabanızı satmalısınız.
+Halı I; Çalışanlarınız donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Halı II; Çalışanlarınız donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Halı III; Çalışanlarınız donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Halı IV; Çalışanlarınız donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Halı V; Çalışanlarınız donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Halı VI; Çalışanlarınız donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Buzdolabı; Bozulabilir yiyecekleri saklamak için idealdir.
+TV; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Modern TV; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Radyo; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Çalışma Masası II; Grafik stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası III; Grafik stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası IV; Grafik stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası V; Grafik stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Modern Radyo; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Küçük Dolap I; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Küçük Dolap II; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive oluyorlar.
+Küçük Dolap III; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive oluyorlar.
+Eğitim Masası II; Çalışanların eğitilmesine olanak tanır.<br> Kalite ne kadar yüksekse sonuç o kadar iyi olur.
+Eğitim Masası III; Çalışanların eğitilmesine olanak tanır.<br> Kalite ne kadar yüksekse sonuç o kadar iyi olur.
+Eğitim Masası IV; Bu, çalışanların eğitilmesini sağlar.<br> Kalite ne kadar yüksekse sonuç o kadar iyi olur.
+Eğitim Masası V; Bu, çalışanların eğitilmesini sağlar. <br> Kalite ne kadar yüksekse sonuç o kadar iyi olur.
+Üretim Makinesi II; Bu makine ile oyunlar üretebilirsiniz.
+Üretim Makinesi III; Bu makine ile oyunlar üretebilirsiniz.
+Üretim Makinesi IV; Bu makine ile oyun üretebilirsiniz.
+Üretim Makinesi V; Bu makine ile oyunlar üretebilirsiniz.
+Çalışma Masası IV; Ses stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası V; Ses stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası II; Hareket yakalama stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası III; Hareket yakalama stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası IV; Hareket yakalama stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+Çalışma Masası V; Hareket yakalama stüdyosu için çalışma masası. Kalite ne kadar yüksekse, iş sonucu o kadar iyi olur.
+G-Electic Sunucu; MMO ve F2P oyunları için sunucular gereklidir.<br> Bu sunucu<b><color=blue><NUM></color></b> oyuncu kapasitelidir.
+Metrik Sunucusu; MMO ve F2P oyunları için sunucular gereklidir.<br> Bu sunucu<b><color=blue><NUM></color></b> oyuncu kapasitelidir.
+DivoTech Sunucu; MMO ve F2P oyunları için sunucular gereklidir.<br> Bu sunucu<b><color=blue><NUM></color></b> oyuncu kapasitelidir.
+IBN Sunucu; MMO ve F2P oyunları için sunucular gereklidir.<br> Bu sunucu <b><color=blue><NUM></color></b> oyuncu kapasitelidir.
+Platin Plaket; Bu ödülü en az 5.000.000 adet satan her oyun için<br> alırsınız.
+Elmas Plaket; Bu ödülü en az 10.000.000 adet satan her oyun için<br> alırsınız.
+Kahve makinesi; Bir oyun geliştiricisinin temel gıdası kahvedir.<br> En modern kahve makinesi "Gronky Industries" den gelir ve<br> kahveyi 17 saat boyunca kolayca sıcak tutabilir.
+Yılın Oyunu; Bu ödülü, oyunlarınızdan biri "Yılın Oyunu"<br> seçildiğinde alabilirsiniz.
+Yılın Geliştiricisi; Bu ödülü, stüdyonuz "Yılın Geliştiricisi"<br> seçildiğinde alabilirsiniz.
+En İyi Oyun Müziği; Bu ödülü, oyunlarınızdan biri "En İyi Oyun Müziği" seçildiğinde<br> alabilirsiniz.
+En İyi Grafik; Bu ödülü, oyunlarınızdan biri "En İyi Grafik" seçildiğinde<br> alabilirsiniz.
+Çok küçük dolap I; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Çok küçük dolap II; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Çok küçük dolap III; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Halı VII; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Halı VIII; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Halı IX; Çalışanlarınız iyi donanımlı ofislerde çalıştıklarında daha motive olurlar.
+Trend Belirleyici; Bu ödülü, Oyunlarınızdan biri trend belirleyici olursa<br> alabilirsiniz.
+Yılın Yayıncısı; Bu ödülü ,<br> stüdyonuz "Yılın Yayıncısı" seçildiğinde alabilirsiniz.
+Atölye I;Atölye için çalışma alanı. Kalite ne kadar yüksek olursa, iş sonucu o kadar iyi olur.
+Atölye II;Atölye için çalışma alanı. Kalite ne kadar yüksek olursa, iş sonucu o kadar iyi olur.
+Atölye III;Atölye için çalışma alanı. Kalite ne kadar yüksek olursa, iş sonucu o kadar iyi olur.
+Atölye IV;Atölye için çalışma alanı. Kalite ne kadar yüksek olursa, iş sonucu o kadar iyi olur.
+Atölye V;Atölye için çalışma alanı. Kalite ne kadar yüksek olursa, iş sonucu o kadar iyi olur.
+Atölye I;Konsol geliştirmeleri için çalışma alanı. Kalite ne kadar yüksek olursa, iş sonucu o kadar iyi olur.
+Atölye II;Konsol geliştirmeleri için çalışma alanı. Kalite ne kadar yüksek olursa, iş sonucu o kadar iyi olur.
+Atölye III;Konsol geliştirmeleri için çalışma alanı. Kalite ne kadar yüksek olursa, iş sonucu o kadar iyi olur.
+Atölye IV;Konsol geliştirmeleri için çalışma alanı. Kalite ne kadar yüksek olursa, iş sonucu o kadar iyi olur.
+Atölye V;Konsol geliştirmeleri için çalışma alanı. Kalite ne kadar yüksek olursa, iş sonucu o kadar iyi olur.
+Modern Klima;Sunucu odalarında sıcaklığı düzenlemek için kullanışlıdır.
+Yeşil Tabure;Bu obje ile çalışanlarınız yeni bir motivasyon kazanabilir.
+Turuncu Tabure;Bu obje ile çalışanlarınız yeni bir motivasyon kazanabilir.
+Mavi Tabure;Bu obje ile çalışanlarınız yeni bir motivasyon kazanabilir.
+Masa I;Çalışanlarınız iyi donanımlı ofislerde çalıştıkları<br>zaman daha fazla motive olurlar.
+Masa II;Çalışanlarınız iyi donanımlı ofislerde çalıştıkları<br>zaman daha fazla motive olurlar.
+Masa III;Çalışanlarınız iyi donanımlı ofislerde çalıştıkları<br>zaman daha fazla motive olurlar.
+Açık Kahverengi Koltuk;Çalışanlarınız mola vererek burada<br>oturabilir.
+Koyu Kahverengi Koltuk;Çalışanlarınız mola vererek burada<br>oturabilir.
+Nane Yeşili Koltuk;Çalışanlarınız mola vererek burada<br>oturabilir.
+Mini Golf; Bu obje ile çalışanlarınız yeni bir motivasyon kazanabilir.
+Mimari Görsel I;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Mimari Görsel II;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Mimari Görsel  III;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Mimari Görsel IV;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Mimari Görsel V;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Çiçek Görseli I;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Çiçek Görseli II;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Çiçek Görseli III;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Çiçek Görseli IV;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Çiçek Görseli V;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Halı VII;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Halı VIII;Çalışanlarınız<br>donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Halı IX;Çalışanlarınız<br>donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Lamba IV;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Lamba V;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Lamba VI;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.beiten.
+Ayçiçeği;Çalışanlarınız<br>donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Top Kaktüs;Çalışanlarınız<br>donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Palmiye;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Tablo IV;Çalışanlarınız<br>iyi donanımlı ofislerde çalıştıklarında daha fazla motive olurlar.
+Modern Heating System;This highly efficient heating system<br>is particularly suitable for open-plan offices.
+Luxury Toilet;A visit to this luxurious toilet<br>even increases motivation.
+Luxury Sink;This sink is so refreshing<br>that it even increases motivation.

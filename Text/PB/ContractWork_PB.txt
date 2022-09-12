@@ -1,0 +1,80 @@
+﻿Melhore a engine<0>
+Programando o sistema de áudio<0>
+Desenvolvimento do editor de níveis<0>
+Melhore a física do jogo<0>
+Script de missões<0>
+Melhore a IA inimiga<0>
+Melhore o tempo dos carregamentos<0>
+Programando o sistema de memória<0>
+Criar interface de usuário<0>
+Programação o banco de dados<0>
+Desenvolvendo um protótipo do jogo<0>
+Desenvolver ferramenta de localização<0>
+Desenvolver ferramenta de diagnóstico<0>
+Comprimir assets do jogo<0>
+Programando o sistema de diálogo<0>
+Desenvolver sistema de colisão<0>
+Programando o navegador de arquivos<0>
+Programando o carregamento de niveis<0>
+Programando o gerenciador de comandos<0>
+Programando o gerenciador de Sprite<0>
+Desenvolver controlador de depuração<0>
+Programando o Gerenciador de Eventos<0>
+Desenvolver sistema de animação<0>
+Desenvolver editor de sprite<0>
+Desenvolver drivers<0>
+Implementar proteção contra pirataria<0>
+Melhorar o sistema de controle<1>
+Níveis de design<1>
+Teste Geral de Bugs<1>
+Testando missões<1>
+Criar conceito de jogo<1>
+Testes de compatibilidade de hardware<1>
+Testando estabilidade do jogo<1>
+Analise o desempenho do jogo<1>
+Testar atualizações do jogo<1>
+Melhorar o equilíbrio do jogo<1>
+Testando plug-ins<1>
+Analisando um protótipo<1>
+Testando a interface do usuário<1>
+Crie um Storyboard<1>
+Escrevendo diálogos<1>
+Crie sprites de personagem<2>
+Adicione planos de fundo<2>
+Adicione itens<2>
+Adicione a interface do usuário<2>
+Crie gráficos de conceito<2>
+Adicione objetos do ambiente<2>
+Crie efeitos especiais<2>
+Adicione a imagem da capa<2>
+Criar conjunto de blocos de nível<2>
+Fontes de design<2>
+Personagens animados<2>
+Crie a trilha sonora<3>
+Crie sons de caracteres<3>
+Grave sons de armas<3>
+Crie sons de interface do usuário<3>
+Crie sons dinâmicos<3>
+Crie sons de ambiente<3>
+Crie sons mágicos<3>
+Grave ruídos de animais<3>
+Crie ruídos de motor<3>
+Grave música clássica<3>
+Criar sons de robô<3>
+Misturando sons de explosão<3>
+Registre os movimentos básicos<4>
+Grave animação de artes marciais<4>
+Crie animações Cutscene<4>
+Crie animações de animais<4>
+Gravar animação de esgrima<4>
+Crie animações para monstros<4>
+Crie animações de dança<4>
+Jogadores recordes de futebol<4>
+Crie animações de emoção<4>
+Grave animações do robô<4>
+Consoles de conserto<7>
+Protótipo de design de console<7>
+Diagnosticar protótipo de console<7>
+Revisar placa-mãe do console<7>
+Teste de desempenho de um protótipo<7>
+Otimizar o sistema de refrigeração<7>

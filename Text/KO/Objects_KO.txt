@@ -1,0 +1,188 @@
+﻿-;-
+작업 공간 I;개발을 위한 작업 공간. 품질이 높을수록,<br> 작업 결과도 좋아집니다.
+히터;얼어 붙은 직원들은 더 빨리 불만을 갖게됩니다.
+램프 I;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+쓰레기통;항상 사무실을 깨끗하게 유지하십시오,<br>그렇지 않으면 직원이 불만을 갖게됩니다.
+정수기;목 마른 직원은 더 빨리 불만을 갖게됩니다.
+작업 공간 I;연구를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋습니다.
+식물;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+선인장;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+열대 식물;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+변기;여기서 가장 중요한 일이 충족됩니다.
+세면대;여러분은 항상 손을 씻어야 해요!
+UFO 포스터;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+로봇 포스터;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+에일리언 포스터;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+레트로 포스터;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다. 
+스타쉽 포스터;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+골드 기록; 최소 1.000.000개를 판매 한 모든 게임에 대해 <br>이 상을 받습니다.
+예술작품 I;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+예술작품 II;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+예술작품 III;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+예술작품 IV;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+예술작품 V;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+손 건조기; 소음을 만들고, 바람을 일으키고 손을 말립니다.
+아케이드 캐비닛 I;이 개체를 통해 직원들은 <br> 새로운 동기를 얻을 수 있습니다.
+벤치 - 밝은 갈색;여기에서 직원들은 <br> 휴식을 취할 수 있습니다.
+벤치 - 어두운 갈색;여기에서 직원들은 <br> 휴식을 취할 수 있습니다.
+벤치 - 민트;여기에서 직원들은 <br> 휴식을 취할 수 있습니다.
+캐비닛 I;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+캐비닛 II;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+캐비닛 III;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+기록물 캐비닛;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+스푸트니 3000 청소기;이 최첨단 현대식 청소 로봇은 모든 먼지를 제거합니다.
+안락의자 I - 갈색;이 물건으로 직원들은 새로운 동기를 얻을 수 있습니다.
+안락의자 I - 검정;이 물건으로 직원들은 새로운 동기를 얻을 수 있습니다.
+안락의자 I - 녹색;이 물건으로 직원들은 새로운 동기를 얻을 수 있습니다.
+생산 기계 I;이 기계로 게임을 만들 수 있습니다.
+아케이드 캐비닛 II;이 물건으로 직원들은 새로운 동기를 얻을 수 있습니다.
+아케이드 캐비닛 III;이 물건으로 직원들은 새로운 동기를 얻을 수 있습니다.
+시계;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+안락 의자 II - 회색;이 물건으로 직원들은 새로운 동기를 얻을 수 있습니다.
+안락 의자 II - 파란색;이 물건으로 직원들은 새로운 동기를 얻을 수 있습니다.
+안락 의자 II - 주황색;이 물건으로 직원들은 새로운 동기를 얻을 수 있습니다.
+다트 머신;이 물건으로 직원들은 새로운 동기를 얻을 수 있습니다.
+램프 II;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+Intex 서버; MMO 및 F2P 게임에는 서버가 필요합니다. 이 서버는 <b><color=blue><NUM></color></b> 명의 플레이어를 처리 할 수 있습니다.
+에어컨;서버실의 온도를 조절하는 데 유용합니다.
+튼튼한 선반 선반 I;제작 한 게임이 여기에 저장됩니다.<br>이 오브젝트에 <b><color=blue>25.000</color></b>개의 게임들을 저장할 수 있습니다.
+작업 공간 I;마케팅 부서를 위한 작업 공간.<br> 품질이 높을수록 작업 결과가 더 좋습니다.
+램프 III;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+작업 공간 II;개발을 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 III;개발을 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 IV;개발을 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 V;개발을 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+트레이닝 책상 I;이것을 통해 직원 교육을 받을 수 있습니다. <br> 품질이 높을수록 결과가 더 좋아집니다.
+화이트 보드;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+작업 공간 II;연구를 위한 작업 공간.품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 II;마케팅 부서를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 III;마케팅 부서를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 IV;마케팅 부서를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 V;마케팅 부서를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 I;지원 부서를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 II;지원 부서를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 III;지원 부서를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 IV;지원 부서를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 V;지원 부서를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 III;연구를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 IV;연구를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 V;연구를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+안락 의자 III - Red;이 개체를 통해 직원은 새로운 동기를 얻을 수 있습니다.
+안락 의자 III - Green;이 개체를 통해 직원은 새로운 동기를 얻을 수 있습니다.
+안락 의자 III - Blue;이 개체를 통해 직원은 새로운 동기를 얻을 수 있습니다.
+약 상자;이것을 통해 아픈 직원은 자신을 치유 할 수 있습니다. <br> 아픈 직원은 더 천천히 일합니다.
+전기 히터;얼어 붙은 직원들은 더 빨리 불만을 느낍니다. <br>이 히터는 어느 위치에나 놓을 수 있습니다.
+작업 공간 I;품질 보증을 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 I;그래픽 스튜디오를위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 I;사운드 스튜디오를위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 I;모션 캡처 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+건반;이 개체를 통해 직원은 새로운 동기를 얻을 수 있습니다.
+튼튼한 선반 II;제작 한 게임이 여기에 저장됩니다. <br>이 개체에 <b><color=blue>50.000</color></b>개의 게임들을 저장할 수 있습니다.
+튼튼한 선반 III;제작 한 게임이 여기에 저장됩니다. <br>이 개체에 <b><color=blue>100.000</color></b>개의 게임들을 저장할 수 있습니다.
+작업 공간 II;사운드 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 III;사운드 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+동물 그림 I;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+동물 그림 II;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+동물 그림 III;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+동물 그림 IV;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+동물 그림 V;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+작업 공간 II;품질 보증을 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋습니다.
+작업 공간 III;품질 보증을 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋습니다.
+작업 공간 IV;품질 보증을 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋습니다.
+작업 공간 V;품질 보증을 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋습니다.
+스포츠 카;돈을 벌려면 오래된 스포츠카를 <br> 팔아야 합니다.
+카펫 I;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+카펫 II;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+카펫 III;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+카펫 IV;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+카펫 V;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+카펫 VI;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+냉장고;상하기 쉬운 식품 저장에 좋습니다.
+TV;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+현대 TV;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+라디오;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+작업 공간 II;그래픽 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 III;그래픽 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 IV;그래픽 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 V;그래픽 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+현대 라디오;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+작은 찬장 I;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+작은 찬장 II;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+작은 찬장 III;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+트레이닝 책상 II;T이것을 통해 직원 교육을 받을 수 있습니다. <br> 품질이 높을수록 결과가 더 좋아집니다.
+트레이닝 책상 III;이것을 통해 직원 교육을 받을 수 있습니다. <br> 품질이 높을수록 결과가 더 좋아집니다.
+트레이닝 책상 IV;이것을 통해 직원 교육을 받을 수 있습니다. <br> 품질이 높을수록 결과가 더 좋아집니다.
+트레이닝 책상 V;이것을 통해 직원 교육을 받을 수 있습니다. <br> 품질이 높을수록 결과가 더 좋아집니다.
+생산 기계 II;이 기계로 게임을 만들 수 있습니다.
+생산 기계 III;이 기계로 게임을 만들 수 있습니다.
+생산 기계 IV;이 기계로 게임을 만들 수 있습니다.
+생산 기계 V;이 기계로 게임을 만들 수 있습니다.
+작업 공간 IV;사운드 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 V;사운드 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 II;모션 캡처 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 III;모션 캡처 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 IV;모션 캡처 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+작업 공간 V;모션 캡처 스튜디오를 위한 작업 공간. 품질이 높을수록 <br> 작업 결과가 더 좋아집니다.
+G-Electic 서버;MMO 및 F2P 게임에는 서버가 필요합니다. <br> 이 서버는 <b><color=blue><NUM></color></b> 플레이어를 처리 할 수 있습니다.
+Metrics 서버;MMO 및 F2P 게임에는 서버가 필요합니다. <br> 이 서버는 <b><color=blue><NUM></color></b> 플레이어를 처리 할 수 있습니다.
+DivoTech 서버;MMO 및 F2P 게임에는 서버가 필요합니다. <br> 이 서버는 <b><color=blue><NUM></color></b> 플레이어를 처리 할 수 있습니다.
+IBN 서버;MMO 및 F2P 게임에는 서버가 필요합니다. <br> 이 서버는 <b><color=blue><NUM></color></b> 플레이어를 처리 할 수 있습니다.
+플레티넘 레코드;모든 게임에 대해 이 상을 받습니다.<br>최소 5,000,000대가 팔렸습니다.
+다이아몬드 레코드;모든 게임에 대해 이 상을 받습니다.<br>최소 10,000,000대가 팔렸습니다.
+커피메이커;게임 개발자의 주식은 커피이다.<br>가장 현대적인 커피 메이커는 "그롱키 인더스트리즈"에서 왔다. <br>17시간 동안 커피를 쉽게 따뜻하게 할 수 있다.
+"올해의 게임"상;당신은 이 상을 받는다.,<br>게임 중 하나가 "올해의 게임"으로 선택되었을 때.
+"올해의 개발자"상;당신은 이 상을 받는다.,<br>스튜디오가 "올해의 개발자"로 선정되었을 때.
+"최고의 사운드트랙"상;당신은 이 상을 받는다.,<br>게임 중 하나가 "최고의 사운드트랙" 상을 받을 때 말이죠.
+"최고의 그래픽"상;당신은 이 상을 받는다.,<br>게임 중 하나가 "최고의 그래픽" 상을 받을 때 말입니다.
+매우 작은 찬장 I;귀사의 직원들은 다음과 같은 경우에 더욱 의욕적입니다.<br>그들은 시설이 잘 갖춰진 사무실에서 일한다.
+매우 작은 찬장 II;귀사의 직원들은 다음과 같은 경우에 더욱 의욕적입니다.<br>그들은 시설이 잘 갖춰진 사무실에서 일한다.
+매우 작은 찬장 III;귀사의 직원들은 다음과 같은 경우에 더욱 의욕적입니다.<br>그들은 시설이 잘 갖춰진 사무실에서 일한다.
+카펫 VII;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+카펫 VIII;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+카펫 IX;직원들은 시설이 잘 갖추어 진 사무실에서 <br> 일할 때 더 많은 동기를 부여받습니다.
+"트렌드세터"상;이 상은 게임 중 하나가 유행의 선도자가 되면 받게 됩니다.
+"올해의 출판인"상;이 상은 귀하의 스튜디오가 "올해의 출판사"로 선정되었을 때 받게 됩니다.
+Workplace I;The workplace for the workshop. The higher the quality,<br>the better the work result.
+Workplace II;The workplace for the workshop. The higher the quality,<br>the better the work result.
+Workplace III;The workplace for the workshop. The higher the quality,<br>the better the work result.
+Workplace IV;The workplace for the workshop. The higher the quality,<br>the better the work result.
+Workplace V;The workplace for the workshop. The higher the quality,<br>the better the work result.
+Workplace I;The workplace for the console development. The higher the quality,<br>the better the work result.
+Workplace II;The workplace for the console development. The higher the quality,<br>the better the work result.
+Workplace III;The workplace for the console development. The higher the quality,<br>the better the work result.
+Workplace IV;The workplace for the console development. The higher the quality,<br>the better the work result.
+Workplace V;The workplace for the console development. The higher the quality,<br>the better the work result.
+Modern air conditioner;Useful to regulate the temperature in server rooms.
+Stool - Green;With this object your employees can get new motivation.
+Stool - Orange;With this object your employees can get new motivation.
+Stool - Blue;With this object your employees can get new motivation.
+Table I;Your employees are more motivated when<br>they work in well-equipped offices.
+Table II;Your employees are more motivated when<br>they work in well-equipped offices.
+Table III;Your employees are more motivated when<br>they work in well-equipped offices.
+Armchair - Light Brown;Here your employees can<br>sit down for a break.
+Armchair - Dark Brown;Here your employees can<br>sit down for a break.
+Armchair - Mint;Here your employees can<br>sit down for a break.
+Mini Golf;With this object your employees can get new motivation.
+Architecture image I;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image II;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image III;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image V;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image I;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image II;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image III;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image V;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet VII;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet VIII;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet IX;Your employees are more motivated when<br>they work in well-equipped offices.
+Lamp IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Lamp V;Your employees are more motivated when<br>they work in well-equipped offices.eiten.
+Lamp VI;Your employees are more motivated when<br>they work in well-equipped offices.beiten.
+Sunflower;Your employees are more motivated when<br>they work in well-equipped offices.
+Ball Cactus;Your employees are more motivated when<br>they work in well-equipped offices.
+Palm;Your employees are more motivated when<br>they work in well-equipped offices.
+Table IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Modern Heating System;This highly efficient heating system<br>is particularly suitable for open-plan offices.
+Luxury Toilet;A visit to this luxurious toilet<br>even increases motivation.
+Luxury Sink;This sink is so refreshing<br>that it even increases motivation.

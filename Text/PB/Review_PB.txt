@@ -1,0 +1,889 @@
+﻿[GAMEPLAY_10]
+O jogo não é nada divertido. Vários pontos fracos na jogabilidade!
+A jogabilidade é tão ruim que a motivação é zero o tempo todo.
+Para o enredo e a jogabilidade, tenho apenas uma palavra: Horrível!
+É claramente a pior jogabilidade que já vi!
+A jogabilidade é tão ruim que os designers do jogo deveriam encontrar outra profissão.
+A mecânica do jogo parece um prego no pé.
+Existe apenas uma palavra para a jogabilidade: Tortura!
+Ninguém testou antes do lançamento ? É impossível jogar!
+A jogabilidade começou ruim e depois ficou pior.
+[END]
+
+[GRAPHIC_10]
+Os gráficos são tristes! nunca vi algo assim.
+Os gráficos são um insulto aos meus olhos. Terrível!
+Eu só posso rir dos gráficos extremamente desatualizados. Sem palavras.
+Graficamente, este jogo é um ultraje. Dificilmente fica mais feio do que isso!
+Este gráfico me faz desejar ser cego.
+Minha filha de três anos faz gráficos melhores.
+Um jogo onde é melhor manter a tela desligada.
+Existe alguma lei que permita que você obtenha indenização por danos morais causados por gráficos ruins ?
+Não da para chamar isso de gráfico. Esses pixels estão horríveis.
+O jogo nos mostra que os designers gráficos não tem olhos.
+A única coisa que pode ser creditada aos gráficos: Ele usa pixels. Mas os errados.
+Não sei o que machuca mais os olhos: Pimenta ou esse gráfico.
+[END]
+
+[SOUND_10]
+A música e o som de fundo são um insulto aos ouvidos!
+O bipe horrível dos alto-falantes é irritante.
+Quase não há efeitos sonoros. Felizmente! Pois a trilha sonora é irritante.
+Sobre o som: Cuidado! Este jogo pode causar problemas auditivos!
+Não tem como não rir dos efeitos sonoros deste jogo.
+O som de uma broca é um som suave comparado a isso.
+Em relação ao som, só podemos recomendar: Desligue-o!
+Quanto ao som: Beethoven e Mozart tapam os ouvidos nas sepulturas.
+Não tenho certeza se o ruído dos alto-falantes é realmente música.
+Quem fez o som: Nunca mais faça isso!
+O som viola as Convenções de Genebra. Terrível!
+Cinco minutos do som parecem uma chicotada.
+Você conhece o som das unhas no quadro negro ? Os sons deste jogo são semelhantes a isso.
+[END]
+
+[CONTROL_10]
+Os controles são muito complicados e imprecisos. Insuportável!
+Você só pode balançar a cabeça para os controles. Estou sem palavras!
+Gostaria de escrever algo sobre os controles. Mas o jogo não pode ser jogado!
+Os terríveis controles são simplesmente um desastre. Frustração garantida!
+Os controles extremamente miseráveis tornam o jogo difícil de jogar.
+Uma palavra sobre os controles. Dirigir um carro bêbado é mais fácil do que controlar neste jogo.
+É claro que os desenvolvedores não entendem o significado de controles em jogos.
+Você tem mais controle sobre um touro selvagem do que sobre esse jogo. Um controle muito ruim.
+A arbitrariedade nem mesmo começa a descrever o controle. Um desastre completo.
+Quem entende e domina esse controle merece uma medalha. Realmente impossível de jogar!
+Este controle é tão ruim que cresceu 100 fios de cabelo branco durante a revisão do jogo.
+Os controles parecem tentar trazer o Titanic afundandado de volta pra terra.
+O controle é uma forma moderna de tortura! Quem programou isso ?
+[END]
+
+[TOTAL_10]
+O jogo é um desastre! Para mim é um dos piores jogos do ano.
+Minha conclusão: Mantenha suas mãos longe deste jogo sem inspiração!
+Resumindo: Este jogo é péssimo!
+Você não quer este jogo nem como presente. A piada do ano!
+Este jogo é o flop do mês para mim!
+Este jogo é simplesmente um desastre. Não vale o dinheiro!
+No ano passado quebrei meu braço. Isso foi mais divertido do que este jogo.
+Este jogo é um grande presente se você quer se livrar de amigos.
+O desenvolvedor mostra uma maneira criativa de destruir um jogo.
+Não há razão para jogar este jogo. Horrível!
+Conclusão: O jogo mostra que os jogos de computador nem sempre são arte. Às vezes é só lixo.
+O jogo é uma lição objetiva de como se tornar motivo de chacota na indústria.
+Você não deve vender este jogo, mas enterrá-lo. Muito profundo!
+Desenvolvedores, vocês estão falando sério ? Você já jogou alguma coisa ? Isso é um lixo!
+O jogo é tão ruim que pode se tornar uma piada.
+Um jogo que faz até mesmo os testadores de jogos repensarem sua escolha de carreira. É uma tortura.
+Parem de desenvolver jogos! Em vez disso, vá para para uma pedreira trabalhar!
+[END]
+
+[GAMEPLAY_20]
+Quanto à jogabilidade, não é divertida!
+A jogabilidade monótona e entediante simplesmente não é divertida!
+A jogabilidade imatura me entediou já no primeiro minuto.
+A jogabilidade é considerada muito primitiva e o enredo da sono.
+O enredo é terrivelmente entediante e a jogabilidade é péssima.
+Quando me corto no papel, é mais divertido do que este jogo.
+Se eu falar que a jogabilidade é ruim, estarei mentindo. Pois é extremamente ruim!
+Quanto à jogabilidade, alguém precisa voltar para a escola.
+A jogabilidade é tão ruim quanto o enredo. Você não pode fazer isso com ninguém.
+A bula das gotas para diarréia é mais interessante do que esse enredo. A jogabilidade é basicamente inexistente.
+O jogo é puro tédio! A jogabilidade é tão divertida quanto olhar um pedaço de bosta no chão.
+A jogabilidade é péssima, já o enredo, você deve beber café para não dormir.
+Ao desenvolver um jogo, você também deve pensar na jogabilidade. Infelizmente, ninguém fez isso neste jogo.
+[END]
+
+[GRAPHIC_20]
+Os gráficos estão muito desatualizados e não atendem mais aos padrões de hoje.
+Os gráficos sem amor e parcialmente feios não conseguem acompanhar a concorrência.
+Os gráficos muito simples não me motivam a continuar jogando.
+Os gráficos são um desastre! Desatualizado e feio.
+Os gráficos incrivelmente feios estão muito abaixo da média neste gênero.
+Gráficos ? Quando cutuco o olho com o dedo, saí menos lágrimas!
+Os gráficos são visualmente impressionantes como uma bosta de cachorro.
+O que é oferecido graficamente não deve ser chamado de gráfico. Muito ruim!
+As pinturas rupestres ainda parecem modernas em comparação com este gráfico.
+Os gráficos lembram alguém enchendo um balão com tinta e jogando numa tela.
+Parece que os designers gráficos ficaram bêbados durante o desenvolvimento.
+Os gráficos do jogo me lembram um sapo atropelado. Não é bonito de se olhar!
+Os gráficos provavelmente foram feitos durante os intervalos do café. Não tem como explicar essa qualidade de outra forma.
+Os gráficos são tão ruins que até os círculos parecem retângulos.
+O destaque dos gráficos é a tela preta antes de ligá-lo. A partir daí, tudo vai piorando.
+A parte gráfica é amadora. Os desenvolvedores deveriam ter se esforçado mais nisso.
+[END]
+
+[SOUND_20]
+Como a música é insuportável, você deve abaixar imediatamente o volume.
+Os efeitos sonoros não são um motivo de alegria. Meu conselho: Desativa ela!
+Os efeitos sonoros estão entre os piores que já ouvi.
+Os efeitos sonoros digitalizados são, para dizer o mínimo, "péssimos". Não há mais nada a dizer.
+Os efeitos sonoros ruins incomparáveis ​​são muito amadores.
+Os miseráveis ​​efeitos sonoros não foram adicionados corretamente!
+Você já foi arrancado de seus sonhos mais bonitos por um tambor de lata ? É assim que o som é.
+Sobre o som: Teria sido melhor se não houvesse efeitos sonoros.
+Algumas palavras sobre o som: Alguns chamam de música. O resto chama isso de tortura.
+O desenvolvedor inventou um novo estilo de música: Lixo! Não há mais nada a dizer sobre o som.
+Se você gastou muito dinheiro em hardware de som: Evite este jogo!
+Algo positivo sobre o som: Os sons saem dos alto-falantes. Infelizmente, os errados.
+O som do jogo faz os cachorros da vizinhança desejarem ir ao abrigo voluntariamente.
+Meu autoclismo soa melhor do que a trilha sonora do jogo. Muito, mas muito ruim!
+[END]
+
+[CONTROL_20]
+Os controles são simplesmente ridículos. Não da para jogar!
+Os controles são extremamente imprecisos e horríveis!
+Os controles imprecisos o deixam desesperado. Não da para se divertir!
+Os controles imprecisos são uma verdadeira bosta. Mais empenho deveria ter sido colocado nisso.
+Infelizmente, devo dizer que os controles são uma merda total. A frustração rapidamente surge em você!
+Os controles não são deste mundo. São tão ruins que não foram feitos para humanos.
+Este controle foi feito para quem tem muita paciência. Todos os outros se desesperarão!
+Infelizmente, não pude testar o jogo pois os controles são muito ruins!
+Os controles fazem você querer jogar o controle na parede. Frustrante!
+Infelizmente, a diversão pára nos controles do jogo. Tão impreciso que duvidei de minhas habilidades.
+Os controles extremamente imprecisos são comparáveis a um carro sem volante. Os desenvolvedores falharam aqui!
+[END]
+
+[TOTAL_20]
+Quem jogar este jogo por mais de 15 minutos merece uma medalha!
+Minha dica: Não jogue este jogo!
+Este jogo não vale o dinheiro, porque o tédio é garantido!
+Na minha opinião, este jogo será um fracasso!
+Minha conclusão: Se você não conhece este jogo, saiba que não perdeu nada.
+Minha conclusão: Este jogo não deixará ninguém feliz!
+Minha dica: Cobre para jogar este jogo.
+Você tem dinheiro ? Jogue-o pela janela. É mais divertido que este jogo.
+Conclusão: Existem muitos jogos excelentes, mas, este não é um deles.
+Tratamento de canal radicular ou este jogo ? Tratamento de canal radicular! Sem anestesia.
+Uma compra obrigatória - Se você quiser se torturar.
+Você deve comprar este jogo apenas se ainda tiver espaço na lata de lixo.
+Tenho certeza que amanhã ninguém se lembrará desse jogo. Horrível!
+Você sabe o que é realmente divertido neste jogo ? Não ? Nada!
+Se você deixar cair um peso em seu pé, você se divertirá mais do que com este jogo.
+Os desenvolvedores deveriam ter vergonha sobre esse jogo. O fracasso do mês!
+Os desenvolvedores provavelmente queriam apenas ganhar dinheiro rápido e não desenvolver um bom jogo. Lixo!
+Este jogo é muito ruim. Se você morder a língua, vai se divertir mais!
+[END]
+
+[GAMEPLAY_30]
+A jogabilidade infelizmente é desmotivadora. O jogo simplesmente não quer ser divertido.
+A jogabilidade é imatura e não consegue convencer.
+A jogabilidade é muito simples, o que não promete uma ótima experiência de jogo.
+Eu não me diverti com esse jogo. Ele simplesmente não tem uma boa jogabilidade.
+A jogabilidade simples não pode cativar à longo prazo. Simplesmente não é divertido.
+A jogabilidade simples carece de novas idéias. O enredo e a história não são dos melhores.
+O enredo e a jogabilidade não convence o jogador!
+Os antigos egípcios falaram que querem sua jogabilidade de volta. Muito desatualizado!
+A jogabilidade é fraca. Você tem que procura-la com uma lupa.
+A jogabilidade tem algumas boas ideias que são extremamente mal implementadas.
+A jogabilidade é quase divertida nos primeiros minutos. Depois, fica chato.
+É difícil se acostumar com a mecânica do jogo. Chato!
+O enredo e a jogabilidade são ruins.
+Infelizmente, os desenvolvedores bagunçaram totalmente a mecânica do jogo. O jogo é chato!
+A mecânica do jogo é muito simples. Após 30 minutos, no máximo, todos ficam entediados.
+[END]
+
+[GRAPHIC_30]
+Sobre os gráficos: Infelizmente, nenhum esforço foi feito aqui!
+Gráficos de qualidade inferior. Os gráficos provavelmente eram desatualizados.
+Os gráficos estão longe do que seria viável neste sistema.
+Os gráficos são extremamente monótonos. Outros jogos desse gênero têm gráficos muito melhores.
+Os gráficos estão abaixo da média. De 100 jogos, pelo menos 95 são melhores.
+Aparentemente, os desenvolvedores eram daltônicos. Caso contrário, não posso explicar esses gráficos ruins.
+Os gráficos do jogo não são bons. Os desenvolvedores deveriam ter dedicado mais tempo aos gráficos do jogo.
+Infelizmente, os gráficos parecem muito desatualizados. Isso resulta em deduções na classificação geral.
+Os gráficos do jogo estão abaixo da média. Os designers gráficos fizeram um péssimo trabalho!
+Infelizmente, os desenvolvedores fizeram tudo de errado nos gráficos do jogo.
+Os gráficos poderiam ser piores, mas também melhores.
+Dica para o desenvolvedor: Da próxima vez invista um pouco mais de tempo nos gráficos.
+Os gráficos estão parcialmente abaixo da média, parcialmente utilizáveis.
+[END]
+
+[SOUND_30]
+As trilhas sonoras do jogo estão abaixo da média e os efeitos sonoros parecem um disco arranhado.
+O som simples que sai dos alto-falantes não permitem uma classificação mais alta.
+Os sons não estão de acordo com o padrão. Ruim!
+Os simples efeitos sonoros e a trilha sonora ruim não conseguiram me convencer.
+Infelizmente, os efeitos sonoros simples não correspondem à qualidade padrão de jogos do gênero.
+Os efeitos sonoros são tão ruins que pensei que meus alto-falantes estavam quebrados.
+A trilha sonora é apenas tolerável. Mas o volume dos efeitos sonoros medíocres é irritante.
+Os efeitos sonoros são um insulto aos meus ouvidos. Os designers de som devem ser demitidos.
+Os efeitos sonoros deste jogo estão abaixo da média e a trilha sonora não é cativante.
+Minha navalha faz um som melhor do que os efeitos sonoros deste jogo.
+A música é muito boa no início, mas começa a ficar irritante depois de alguns minutos.
+Infelizmente, os efeitos sonoros e a trilha sonora não combinam com o jogo.
+Você conhece a música chata nas lojas de departamentos ? É assim que soa a trilha sonora deste jogo.
+A música parece completamente sem inspiração e os efeitos sonoros são péssimos.
+Infelizmente, os efeitos sonoros provavelmente foram criados por amadores.
+Os efeitos sonoros estão aparentemente desatualizados. Da para ser muito melhor neste tipo de jogo.
+[END]
+
+[CONTROL_30]
+Os controles são muito imprecisos. Isso reduz consideravelmente a diversão do jogo.
+Os controles imprecisos são frustrantes. Isso torna o jogo menos divertido.
+Esses controles complicados realmente não são para jogadores casuais!
+Os controles não deixam uma boa impressão. Simplesmente é complicado demais!
+Os controles são tudo menos funcionais. Isso rapidamente te deixa frustrado.
+Os controles complicados não são para iniciantes. Mas mesmo os jogadores profissionais terão problemas.
+Devido aos controles complicados e imprecisos, o jogo não consegue mostrar seus pontos fortes.
+Os controles são muito complicados. Poderiam ter colocado mais desempenho nisso!
+Qual é a diferença entre esse controle e a física quântica ? A física quântica é mais fácil de entender.
+Você rapidamente se irrita com esse controle. Infelizmente, tenho que reduzir pontos na classificação geral do jogo.
+O controle do jogo é muito complicado. Frequentemente você se perde nos comandos. Isso não é divertido.
+O controle é o mesmo que tentar realizar uma operação com uma escavadeira.
+Positivo: O menu principal é fácil de controlar. Negativo: os controles do jogo são um desastre.
+Os padrões de controle nesse tipo de jogo foi simplesmente ignorado. Outros jogos fazem isso muito melhor!
+Se você gosta de ficar irritado, vai adorar este jogo.
+O controle do jogo é muito complicado. Olhar para o manual torna-se rotina.
+[END]
+
+[TOTAL_30]
+Os desenvolvedores realmente não se cobriram de glória com este jogo!
+Este jogo é uma decepção até mesmo para os fãs do gênero!
+Minha conclusão: Até mesmo os fãs desse gênero deveriam ficar longe deste jogo!
+Minha opinião: Se você estava esperando por este jogo, deveria reconsiderar a compra!
+Este jogo não deixará ninguém entrertido por muito tempo. Um desapontamento!
+Quem esperava muito deste jogo ficará desapontado.
+O jogo só é recomendado para jogadores hardcore que já possuem todos os jogos.
+Vale a pena dar uma olhada no jogo para passar o tempo. Mas só se você comprar em oferta.
+Resumindo: Existem jogos melhores o suficiente por aí.
+Conclusão: Nada faz este jogo ser interessante. Não vale a pena comprar!
+Minha conclusão: Os jogos devem ser um prazer, não uma tortura.
+O jogo tem algumas boas ideias que foram mal adicionadas. Não recomendo.
+Com um desenvolvedor profissional, poderia ter sido um bom jogo.
+No final das contas, o jogo é uma falha. Ninguém precisa disso em sua coleção.
+Que pena, o jogo poderia ter sido bem divertido. Mas, infelizmente, muitos erros foram cometidos durante o desenvolvimento.
+Infelizmente, esse jogo recebeu o selo de aprovação "Ruim".
+O jogo é um pacote geral não polido que não consegue acompanhar a concorrência.
+O jogo é um fracasso total. Muita coisa deve ter dado errado durante o desenvolvimento.
+Um jogo muito chato! No fim, você apenas se pergunta, os desenvolvedores estão na profissão certa ?
+[END]
+
+[GAMEPLAY_40]
+A jogabilidade parcialmente não polida não permite muita diversão no jogo. Que pena!
+A jogabilidade é simplesmente entediante. Que pena!
+A jogabilidade antiga e pouco polida me entediou rapidamente.
+O enredo entediante e a jogabilidade simples motivam por muito pouco tempo.
+A jogabilidade é muito simples. É por isso que não me diverti muito.
+Em termos de jogabilidade, este título não é muito emocionante. A jogabilidade é pouco polida e chata.
+O enredo entediante e a jogabilidade simples não permitem muita diversão no jogo.
+Infelizmente, a ideia do jogo não me convenceu. Ponto fraco na jogabilidade pode ser encontrado em todo quanto.
+Infelizmente, a jogabilidade nada criativa não oferece nada de novo. Portanto, o tédio surge rapidamente.
+A jogabilidade está desatualizada e, consequentemente muito chata.
+Em termos de jogabilidade, o jogo é tão emocionante quanto um suspense cujo final você já conhece.
+A jogabilidade está abaixo da média. O enredo é ainda pior.
+O enredo não tem imaginação e a jogabilidade não é motivadora.
+A mecânica do jogo não é polida e não consegue acompanhar os jogos semelhantes.
+Infelizmente, a jogabilidade não oferece nada de novo. Muita coisa deve ter sido copiada de outros jogos.
+A jogabilidade foi copiada de outros jogos. Nenhuma nova ideia foi implementada.
+A jogabilidade é tão variada quanto um trabalho de linha de montagem. Eu não gosto disso.
+A mecânica do jogo já foi vista 1000 vezes antes. As novas ideias provavelmente foram deixadas de fora deliberadamente.
+A jogabilidade não tem inovação. O enredo é, na melhor das hipóteses, médio.
+[END]
+
+[GRAPHIC_40]
+Infelizmente, os gráficos não são convincentes. Está abaixo da média, mesmo pelos padrões de gênero.
+Os gráficos estão abaixo da média, na melhor das hipóteses. Podia esperar-se mais aqui.
+Mesmo por padrões de gênero, mais atenção poderia ter sido dada ao design geral gráfico.
+Os gráficos estão quase bons. A concorrência já fez melhor.
+Os gráficos desatualizados não são punidos e não merecem uma medalha.
+A representação gráfica não aprovada e, na melhor das hipóteses, insuficiente.
+Os designers gráficos não pareciam ter muita vontade. O resultado é gráficos abaixo da média.
+Se você é um fã de gráficos, fique longe deste jogo.
+Infelizmente, os gráficos não me surpreenderam. Talvez o jogo tenha outros pontos fortes.
+Visualmente, o jogo parece absolutamente simples.
+Os gráficos de baixo nível não me surpreenderam. Estão abaixo da média.
+Dizer que os gráficos parecem que alguém cuspiu no monitor não é um exagero. É muito feio.
+Os gráficos do jogo estão severamente abaixo do estado da arte.
+O gênero realmente merece melhores gráficos. Este está abaixo da média.
+Os desenvolvedores não entenderam que os jogos de computador precisam de gráficos. Não da para explicar esses gráficos.
+Os gráficos parecem estar muito mal detalhados. A comcorrência fez um trabalho muito melhor.
+[END]
+
+[SOUND_40]
+Infelizmente, o som é ruim e não consegue aproveitar as capacidades do sistema.
+Infelizmente, só a música monótona sai dos altifalantes. Não é bonita!
+Os efeitos sonoros estão abaixo dos padrões desse gênero. Estou acostumado a sons melhores.
+Nenhum esforço foi feito com os sons e a trilha sonora não está muito boa.
+Os poucos efeitos sonoros não são muito impressionantes. A maioria dos jogadores estão acostumados com coisa melhor.
+Os efeitos sonoros digitalizados oferecem pouca variedade. Eu teria me dedicado mais.
+O som é muito ruim e desatualizado.
+A música é aceitável, mas os efeitos sonoros são extremamente irritantes.
+Os efeitos sonoros, infelizmente, soam como se tivessem sido deixados pra última hora.
+A Música no menu soa bem! Depois disso, é melhor desligar o som.
+Os efeitos sonoros parecem ter sido feitos por duas pessoas. Um muito talentoso e um amador.
+A música não se encaixa no jogo. Os efeitos sonoros são médios.
+A música soa como andar de elevador sem parar. Simplesmente muito ruim!
+Os efeitos sonoros são, na verdade, aceitáveis, mas não se encaixa no género e no jogo.
+[END]
+
+[CONTROL_40]
+Os controles irritantes farão o jogador casual se desesperar.
+Os controles complicados são irritantes. A maioria dos jogadores ficará frustrada.
+Os controles não conseguiram me convencer. É simplesmente muito complicado!
+Os controles terrivelmente complicados estragam a jogabilidade até mesmo para os fãs do gênero.
+Os controles deveriam ser muito melhores. Jogar assim não é divertido.
+Demora um pouco para entender os controles do jogo.
+Os controles não polidos, me incomodaram um pouco.
+A vida é muito curta para aprender os complicados controles do jogo.
+Os controles parecem extremamente imprecisos. Eu não consegui lidar com os controles.
+Com muita prática, você tem os controles sob controle. Porém, não é divertido.
+Ninguém na equipe editorial ficou satisfeito com os controles. Mesmo nos menus, os controles são muito complicados.
+Sobre os controles: O jogo mostra que você pode tornar as coisas simples muito complicadas.
+[END]
+
+[TOTAL_40]
+Mesmo sendo um amante desse gênero, o jogo não fará o seu dinheiro valer a pena.
+Os fãs deste Gênero também devem pensar duas vezes se vale a pena comprar.
+O jogo pode entreter durante os primeiros 30 minutos. Depois disso, a motivação cai rapidamente!
+Minha conclusão: O jogo simplesmente não é convincente. Não há alegria em jogar!
+Como o jogo carece de polimento, infelizmente não posso recomendá-lo.
+Conclusão sobre o jogo: Se gostou, vá em frente. Prefiro ficar sem!
+Só posso recomendar este jogo para fãs hardcore do gênero. Outras pessoas: Não compre!
+Os primeiros momentos são ótimos, depois disso o tédio surge rapidamente!
+Infelizmente, não foi o suficiente para um jogo comum.
+Os fãs mais hardcore do gênero deveriam tentar. Todos os outros não precisam considerar comprar.
+Conclusão: O jogo tem poucos pontos fortes e muitos pontos fracos.
+Com mais atenção aos detalhes, poderia ter se tornado pelo menos um título mediano.
+Minha conclusão: O jogo nem mesmo merece uma classificação de 50!
+No fim, tenho que dizer que está longe de ser um grande sucesso.
+Este jogo definitivamente tem pontos fortes, mas os vários erros estraga a sua diversão.
+A conclusão: Eu estava ansioso pelo jogo. Infelizmente, também fiquei desapontado.
+[END]
+
+[GAMEPLAY_50]
+A jogabilidade extremamente difícil não permite muita diversão no jogo.
+A jogabilidade infelizmente parece muito desatualizada.
+A jogabilidade é desequilibrada e não convence.
+O enredo não me convenceu e a jogabilidade é desequilibrada.
+Um conceito de jogo interessante, que rapidamente se tornou entediante.
+Se essa jogabilidade se tornar o padrão, o gênero logo entrará em crise.
+Em teoria, a mecânica do jogo parecia melhor do que na prática.
+Não há inovações na jogabilidade. O desenvolvedor está satisfeito com uma nota média.
+Teríamos ficado felizes com mais inovações na jogabilidade. Do jeito que está, é simplesmente medíocre.
+A jogabilidade pouco inspirada transforma o jogo em um produto simples.
+A mecânica do jogo mostra algumas boas abordagens, mas são mal implementadas.
+Os desenvolvedores nos prometeram muitas inovações na jogabilidade. Infelizmente, é chato e sem inspiração.
+O enredo é tão emocionante quanto os livros de bolso da vovó. A jogabilidade não é muito melhor.
+A palavra "chato" descreve muito bem a jogabilidade e o enredo.
+Este gênero merece mais do que esse jogo fornece.
+O enredo é suportável, mas os desenvolvedores deveriam ter se dedicado mais na jogabilidade.
+A jogabilidade é simplesmente monótona. Gostaríamos de ver mais criatividade.
+[END]
+
+[GRAPHIC_50]
+Infelizmente, os gráficos não polidos e não são convincentes. A concorrência fez um trabalho melhor.
+DOs gráficos não convencem. Eu não gostei disso.
+Os gráficos não são tão detalhados como em alguns outros títulos.
+Infelizmente, os gráficos são medíocres, mesmo para os padrões desse gênero.
+A representação gráfica é quase medíocre e não deixa ninguém surpreso.
+Os efeitos gráficos não são muito espetaculares, mas não surpreendem ninguém.
+Os gráficos não merecem o prêmio de beleza.
+Os gráficos parecem muito pouco polidos, o que não permite uma melhor avaliação.
+A apresentação do jogo parece já ter sido vista muitas vezes antes.
+Visualmente, o jogo só pode ser descrito como "medíocre".
+Os gráficos parecem sem amor e sem polimento para mim.
+Os gráficos não surpreenderam ninguém.
+Jogos do mesmo gênero já têm gráficos muito melhores.
+Os gráficos do jogo não são um desastre, mas também não merecem um prêmio.
+Se você não exige muito dos gráficos, pode conviver bem com isso.
+Os gráficos do jogo são aceitáveis. No entanto, eu gostaria de ver mais atenção aos detalhes.
+Graficamente, o jogo é apenas comum.
+Os gráficos do jogo são simples. No fim das contas, é apenas mediano.
+[END]
+
+[SOUND_50]
+Os efeitos sonoros e a trilha sonora abaixo da média infelizmente não convence.
+O som está bom. Mas a trilha sonora não me surpreendeu.
+A música e os efeitos sonoros são bastante aceitáveis, com algumas exceções.
+Os efeitos sonoros são aceitáveis, mas não atendem aos padrões atuais.
+Os efeitos sonoros não surpreenderão ninguém. E a trilha sonora também é apenas mediana.
+Infelizmente, os poucos efeitos sonoros espetaculares não convencem totalmente.
+Os efeitos sonoros são bons. Mas infelizmente não foi o suficiente para uma classificação mais alta.
+O som não é tão irritante quanto o de um aspirador de pó. Mas não muito melhor também!
+A música é sólida, mas monótona. Os efeitos sonoros também são medíocres.
+Infelizmente, os efeitos sonoros do jogo não convencem muito.
+O que torna o som especial ? Nada! Mas eu já vi coisas piores.
+A música também caberia em um protetor de tela. Os efeitos sonoros não merecem ser mencionados.
+Os designers de som parecem ter feito um esforço para criar efeitos sonoros decentes. Infelizmente, são muito poucos!
+As trilhas sonoras seriam muito boas se combinassem com o jogo. Mas esse não é o caso.
+Os efeitos sonoros provavelmente vêm de uma biblioteca padrão. Tudo é apenas de qualidade média.
+[END]
+
+[CONTROL_50]
+Os controles abaixo da média causam frustração em alguns momentos.
+Você tem que se acostumar com os controles do jogo. A frustração é inevitável em alguns momentos.
+Achei os controles do jogo um pouco complicados demais!
+Infelizmente, os controles do jogo não são bem feitos. Você frequêntemente fica confuso.
+O controle do jogo não é um ponto forte do jogo.
+É necessário um pouco de tempo para se acostumar com os controles. Poderiam ter feito melhor.
+Os controles do jogo não conseguem convencer ninguém. De vez em quando ele é um pouco impreciso.
+O manuseio do controle é complicado. Às vezes, começa a dar problemas.
+Os controles são os padrões do gênero. Isso é tudo que pode ser escrito sobre isso.
+Apesar dos controles simples do jogo, tive alguns problemas com a precisão durante a revisão do jogo.
+Infelizmente, os controles do jogo não são intuitivos o suficiente. Portanto, apenas a mediocridade permanece.
+Os controles do jogo simplificam as coisas complicadas. Infelizmente, também torna as coisas simples complicadas.
+Os controles do jogo atendem ao seu propósito, sem pontos fortes ou fracos específicos.
+Os controles do jogo não permitem uma pontuação mais alta.
+[END]
+
+[TOTAL_50]
+O jogo poderia ter sido um jogo decente com programadores competentes. Que pena!
+Este jogo é medíocre que deixa muito a desejar.
+Não é um jogo obrigatório. Apenas para fãs desse gênero.
+Resumindo: Este não é um jogo que eu recomendaria a ninguém.
+Conclusão: Um jogo abaixo da média que rapidamente se torna chato.
+Minha opinião: Apenas os fãs desse gênero deveriam jogar este jogo.
+Resumindo: O jogo simplesmente foi lançado muito cedo.
+Os fãs do gênero podem se divertir com este jogo. Já as outras pessoas eu não sei.
+Conclusão: Os desenvolvedores se excederam aqui. O resultado é mediocridade.
+Minha opinião: Não é impossível de jogar, mas não é muito divertido.
+Não é um jogo ruim, mas as inúmeras falhas não permitem uma classificação mais alta.
+Conclusão: Embora o desenvolvedor tenha feito um esforço, este jogo nada mais é do que uma representação de gênero trivial.
+Este jogo é bastante divertido por alguns minutos, mas não consegue convencer ninguém em termos de conteúdo e jogabilidade.
+O jogo chega com anos de atraso e simplesmente tem poucas inovações para me entusiasmar.
+Resumindo: Só posso dizer que o jogo é chato!
+Conclusão: Este jogo não surpreendeu ninguém.
+Minha opinião: Em muitos pontos, o jogo está na média.
+Os fãs do gênero podem ficar felizes por algumas horas. Infelizmente, não sou um deles.
+[END]
+
+[GAMEPLAY_60]
+A jogabilidade muda de nível para nível. Às vezes para cima, às vezes para baixo.
+A jogabilidade é divertida por um tempo. Mas não pode te motivar por completo.
+O enredo e a jogabilidade não são realmente excelentes, mas também não são ruins.
+A jogabilidade é boa e o enredo pode entreter em algumas partes.
+A diversão do jogo oscila mais do que um pêndulo. No entanto, não é realmente ruim.
+O enredo não é bom, mas a jogabilidade é sólida.
+A mecânica do jogo é testada e comprovada, sem grandes deficiências.
+A jogabilidade é divertida em partes, mas você não cai em um estado de euforia.
+A trama gera tensão em trechos, mas nunca dura muito.
+A jogabilidade é divertida. O enredo, por outro lado, é uma piada.
+O enredo é excelente. Por outro lado, a mecânica de jogo desatualizada não foi convincente.
+A jogabilidade tem seus pontos fortes. Mas a história não é realmente emocionante.
+[END]
+
+[GRAPHIC_60]
+Os gráficos são bem medianos. Já vi melhores neste gênero.
+Graficamente, este jogo não causa aplausos, mas também não tem é ruim.
+Os gráficos são apenas medianos e realmente não tem nada de especial.
+Os gráficos poderiam ser um pouco mais detalhados. Padrão do gênero na minha opinião.
+No que diz respeito aos efeitos gráficos, este jogo não precisa se esconder da concorrência.
+O gráfico está além das expectativas. Bem agradável.
+Os gráficos são bastante feios em alguns momentos, mas geralmente são superiores à média.
+Os gráficos parecem um pouco desatualizados. Mas não é um fracasso total.
+Graficamente, vale a pena ver, mas poderia ter recebido mais atenção dos desenvolvedores.
+Os gráficos parecem um pouco estéreis. Eu teria gostado de detalhes e variedade.
+Definitivamente, existem jogos com gráficos melhores. No fim, é suficiente para uma classificação média.
+Os gráficos do jogo não merecem medalha, mas ainda assim conseguem acompanhar a concorrência.
+Os gráficos não polidos são de última geração, mas nada mais.
+Os excelentes efeitos gráficos são dignos de menção. O resto dos gráficos parecem bastante medíocres.
+[END]
+
+[SOUND_60]
+Os sons e melodias digitalizados se encaixam no jogo. Nada especial.
+Mesmo que eu realmente esperasse mais, os efeitos sonoros são bons.
+Os efeitos sonoros do jogo são aceitáveis, mas nada de especial.
+Não há muito o que escrever sobre os efeitos sonoros. Eles estão aceitáveis.
+Os efeitos sonoros digitalizados se encaixam no jogo e a trilha sonora também é adequada.
+Música e som são medianos e não conseguem acompanhar os melhores jogos do gênero.
+Os problemas técnicos de efeitos sonoros bastante bons impediram uma melhor avaliação.
+Não há muito a dizer sobre a acústica. Música e efeitos sonoros são medíocres.
+A trilha sonora é boa, mas nada que você tocaria para um amigo.
+A música e os efeitos sonoros são bons, mesmo que eles não me surpreendam.
+O som é muito bom. Infelizmente, também existem problemas técnicos. Portanto, permanece médio.
+Os efeitos sonoros do jogo são ótimos. A música, por outro lado, é um fracasso total.
+Os efeitos sonoros ainda estão um pouco atrás da concorrência.
+Se tivesse um pouco mais de variedade, eu daria uma classificação mais alta para o som.
+[END]
+
+[CONTROL_60]
+Os controles são medianos, requer algum tempo de treinamento.
+Os controles ainda são aceitáveis, mas não atendem ao padrão do gênero.
+Os controles do jogo são medianos em comparação com outros jogos.
+Os controles do jogo estão ok. Aqui e ali é um pouco impreciso.
+Para entender os controles, você precisa estudar o manual por algum tempo. Depois disso, você pode conviver com ele.
+Os controles do jogo estão ok. No entanto, não são precisos.
+Os controles do jogo são bons, mas em algumas partes são imprecisos. Ele poderia ter sido melhor.
+Os controles do jogo não são excelentes, mas há outros jogos desse gênero que são piores.
+Sobre os controles: Os menus são desnecessariamente complicados. Tirando isso, está tudo bem.
+[END]
+
+[TOTAL_60]
+Em geral, resta dizer que os fãs mais dedicados de tais jogos farão o seu dinheiro valer a pena.
+Algumas falhas de design reduzem a qualidade do jogo, mas acho que o jogo está bom.
+Um jogo divertido no início, mas torna-se entediante rapidamente.
+Este jogo tem uma boa ideia adicionada, mas não consegue entreter por muito tempo.
+Jogadores casuais com baixas expectativas podem arriscar dar uma olhada.
+Conclusão: Só posso recomendar este jogo para fãs do gênero.
+Minha opinião: Este jogo é sólido, mas nada de especial.
+Não é para todos, mas os fãs do gênero podem gostar.
+Se você conseguir lidar com as falhas, o jogo pode valer a pena.
+O jogo geralmente torna difícil de amar. Sem as falhas, seria um grande jogo.
+Não é uma pérola do gênero, mas é definitivamente recomendado para fãs.
+Um jogo sólido, mas não excelente, que poderia ter sido melhor.
+Minha opinião: O jogo está bom. Mas outro desenvolvedor teria feito o jogo melhor, com certeza.
+Minha opinião: Eu queria adorar o jogo. Mas as muitas falhas de design são muito irritantes.
+Infelizmente, é muito trivial em muitos aspectos para ser um grande jogo.
+Os fãs do gênero podem comprá-lo para fazer uma ponte entre dois jogos muito bons.
+Quem não tem grandes expectativas pode se divertir com o jogo.
+Se o chefe tivesse dado aos programadores mais tempo de desenvolvimento, seria um bom jogo. Do jeito que está, é apenas medíocre.
+[END]
+
+[GAMEPLAY_70]
+Sobre a jogabilidade: Ela foi bem feita, possui alguns pequenos pontos fracos, mas é boa.
+A jogabilidade é uma boa mistura com pequenos altos e baixos.
+A jogabilidade é variada e pode motivar por longos períodos.
+A jogabilidade é motivadora por longos períodos. A história recebe deduções na nota B.
+A mecânica do jogo mantém você entretido, mas tem algumas pequenas fraquezas.
+A jogabilidade é divertida por algumas horas, mas depois fica um pouco monótona.
+O enredo é mediano, mas a mecânica do jogo é bem divertida.
+As primeiras horas de jogo são uma alegria especial. Infelizmente, o enredo é muito curto.
+As idéias do jogo são ótimas, mas às vezes mal implementadas tecnicamente.
+Eu teria gostado de dar mais pontos pela jogabilidade, mas as inúmeras falhas de design impediram isso.
+A jogabilidade é muito boa, mas me parece que o desenvolvedor se inspirou demais em outros jogos.
+[END]
+
+[GRAPHIC_70]
+Os gráficos são bons, mas não convencem totalmente.
+Os gráficos não é nada especial, mas bastante decentes para os padrões do gênero.
+A representação gráfica é bastante bonita, mas também não é um deleite para os olhos.
+Os gráficos do jogo é muito bonito, com algumas exceções. Média superior!
+Definitivamente, há gráficos piores no gênero. No entanto, também existem alguns jogos que fazem isso melhor.
+Os gráficos do jogo são da média superior. Especialmente os efeitos que poderiam ter sido melhorados.
+Os gráficos do jogo são muito bons, mas a atenção aos detalhes ainda está faltando.
+Os gráficos do jogo parecem sólidos, mas não são nada de especial.
+Sobre os gráficos: Dava para ser melhor, mas está bom.
+O estilo gráfico é realmente muito bonito. Mas nem todos vão compartilhar dessa opinião.
+Os fãs do gênero não ficarão maravilhados com os gráficos do jogo, mas ficarão satisfeitos.
+[END]
+
+[SOUND_70]
+Os efeitos sonoros digitalizados são muito bons, mas nada de especial.
+Você não pode reclamar dos efeitos sonoros e da bela trilha sonora.
+Os efeitos sonoros não vão surpreender ninguém, mas são bons.
+A trilha sonora não era mágica, mas ainda vale a pena ouvi-la.
+A música é ótima, mas se repete com muita frequência, por pouco não recebeu uma classificação mais alta.
+O som suporta positivamente a atmosfera do jogo, mas carece de perfeccionismo.
+Certamente não houve Mozart responsável pela música, mas os efeitos sonoros são bons.
+Não há nada negativo a dizer sobre o som. No entanto, também não é uma obra-prima.
+As trilhas sonoras do jogo são ótimas, mas os efeitos sonoros não me surpreendem.
+O som seria ótimo se alguns efeitos sonoros não tivessem problemas técnicos.
+[END]
+
+[CONTROL_70]
+Em relação aos controles, não há grandes problemas com um curto período de treinamento.
+Eu imediatamente aceitei os controles, embora eles tenham alguns pontos fracos.
+O jogo é bastante confortável de jogar. As vezes surgem pequenos problemas com os controles, mas é tolerável.
+Demora um pouco para pegar o jeito com os controles, mas depois que pegar, você não terá problemas.
+Depois de entender os controles, o jogo funciona muito bem.
+Sobre os controles: Os primeiros minutos são um pouco complicados. Depois disso, o jogo fica muito bom.
+Acho que os controles são muito imprecisos. No entanto, a maioria das pessoas não terá problemas com os controles.
+Os controles são fáceis de usar, mas poderiam ser mais intuitivos.
+Os controles descomplicados são realmente bons, apenas um pouco imprecisos de vez em quando.
+Os controles são um bom padrão do gênero. Não tive grandes problemas.
+[END]
+
+[TOTAL_70]
+Se você é um fã desse gênero, com certeza deveria dar uma olhada.
+Se gosta de jogos como este, deve dar uma olhada nesse jogo.
+Os fãs de jogos desse gênero ficarão felizes com este jogo.
+Este jogo é divertido por um tempo, mas não convence a longo prazo.
+Resumindo: Fãs e jogadores casuais ficarão felizes com este jogo.
+Este jogo é um produto sólido. Compra recomendada para fãs desse gênero!
+Minha opinião: Os fãs desse gênero vão se divertir com este jogo por um tempo.
+Quem estiver interessado neste gênero pode comprar este jogo.
+Minha classificação para este jogo: É bom, mas não muito bom.
+O jogo certamente não será um sucesso, mas os fãs do gênero se divertirão com ele.
+O jogo não é para todos, mas deixará os fãs do gênero felizes.
+Este jogo vale a pena dar uma olhada mais de perto. Especialmente para fãs de gênero.
+O jogo não é um grande sucesso. Mas para quem ama o gênero, posso recomendar o jogo.
+O jogo não ganhará nenhum prêmio. Mas você pode se divertir com ele por algum tempo.
+Eu gostei do jogo por um tempo. No entanto, ainda falta muito para ser um jogo top.
+Mesmo que o jogo tenha sido divertido para mim por algum tempo, certamente não será um candidato aos meus jogos favoritos.
+Embora minhas expectativas não tenham sido totalmente atendidas, o jogo ainda é muito bom.
+Conclusão: Um bom jogo que infelizmente carece de variedade.
+Minha opinião: Um jogo com características interessantes, que é divertido por um tempo.
+Minha opinião: O jogo irá entreter os fãs do gênero. Todas as outras pessoas ficarão entediadas.
+O jogo certamente não é meu favorito, mas me diverti muito com ele.
+Infelizmente, o desenvolvedor não se preocupou com alguns recursos. No entanto, é um jogo bom.
+No geral, o jogo é muito bem-sucedido. Apesar de suas fraquezas, ainda é divertido.
+Eu não tinha grandes expectativas antes da revisão e fiquei surpreso. Ainda assim, não é o suficiente para ser um Super Hit.
+De mim, há uma recomendação de compra! Mas só se você for fã do gênero.
+[END]
+
+[GAMEPLAY_80]
+A jogabilidade variada é divertida e oferece algumas inovações.
+A complexidade da jogabilidade não deixa muito a desejar.
+A nova jogabilidade oferece diversão extensa e contínua.
+A jogabilidade é simples, mas viciante. A diversão é garantida!
+A jogabilidade desafiadora e o enredo emocionante motivam por muitas horas.
+A jogabilidade nova e desafiadora é legal!
+A variada mecânica do jogo é uma grande alegria.
+A jogabilidade foi combinada com novas ideias. Eu gostei disso.
+Jogabilidade descomplicada que é divertida mesmo por um longo período de tempo.
+A jogabilidade motivadora irá mantê-lo entretido por um longo tempo.
+A jogabilidade mostra apenas alguns pontos fracos e o enredo é de alto nível.
+A história tem alguns pontos interessantes e a jogabilidade é desafiadora e divertida.
+Por causa da história emocionante, eu não conseguia parar de jogar.
+Uma história bem contada com algumas surpresas. A jogabilidade foi implementada de forma sólida.
+Em termos de jogabilidade, o jogo está em um nível consistentemente alto.
+A jogabilidade e o enredo não mostram nenhuma fraqueza notável.
+A jogabilidade não é nova, mas é muito desafiadora.
+O jogo tem uma história emocionante e um final muito legal.
+Aqui, uma bela história foi combinada com uma ótima jogabilidade.
+A jogabilidade é variada e desafiadora. Não é só os fãs de gênero que irão adorar.
+[END]
+
+[GRAPHIC_80]
+Os bons gráficos tiram proveito das capacidades do sistema.
+Do lado positivo, os gráficos do jogo devem ser mencionados.
+Os gráficos bonitos parecem melhores do que em jogos semelhantes.
+A representação gráfica é bem feita e mostra muita atenção aos detalhes.
+Os gráficos detalhados são realmente bons. Melhor do que esperávamos.
+Os gráficos do jogo são o que há de mais moderno.
+O jogo oferece gráficos concebidos de forma criativa. Muito impressionante.
+Um aspecto positivo são os gráficos variados. Faz justiça ao gênero.
+Um ponto positivo são os ótimos gráficos com belos efeitos.
+A boa técnica de gráficos com bons efeitos impressiona profundamente.
+O jogo tem gráficos bonitos e detalhados. Acima da média.
+Os gráficos foram desenhados detalhadamente. Também gostamos dos efeitos.
+Os gráficos não são apenas bonitos, mas também variados.
+A experiência de jogo é bem apresentada. A jogabilidade e os gráficos se harmonizam muito bem.
+[END]
+
+[SOUND_80]
+A música e o som são convincentes com boa qualidade. Eu gosto disso.
+Os efeitos sonoros cristalinos são dignos de menção. E a trilha sonora também é ótima.
+Os sons do jogo são bons, mas não de tirar o fôlego.
+O jogo apresenta uma ótima trilha sonora e bons efeitos sonoros.
+A trilha sonora do jogo é muito bem feita.
+Do lado positivo, este jogo tem uma ótima trilha sonora.
+Ótimos sons. É assim que os jogos devem ser hoje em dia!
+O som não é brilhante, mas ainda é bom.
+Gostei muito das trilhas sonoras. Ajustei o volume para o máximo!
+O som cria uma atmosfera muito boa. Ótimo!
+Acusticamente, o jogo é muito bom, mas não é perfeito.
+O som do jogo atendeu às minhas expectativas.
+Trilhas sonoras bem compostas e ótimos efeitos sonoros se destacam positivamente.
+Os efeitos sonoros soam bem. Mas, infelizmente, existem apenas menos trilhas sonoras.
+[END]
+
+[CONTROL_80]
+Se você está procurando um jogo com controles descomplicados, você o encontrará neste jogo.
+Os controles bem pensados permitem que você aproveite o jogo imediatamente.
+O jogo funciona bem desde o início. Muito sólido!
+Os controles são bem executados. Uma breve treinamento e você está pronto para começar.
+Os controles intuitivos tornam o jogo bastante agradável de jogar.
+Os controles são intuitivos e diretos.
+Controle bom, descomplicado e preciso. É assim que deve ser.
+O controle foi muito bem implementado, mas não define nenhum padrão.
+Em casos raros, os controles são um pouco imprecisos, mas por outro lado, muito bons.
+Muito raramente você tem a sensação de que os controles do jogo estão falhando.
+Os controles não são uma revolução, mas mostram pequenas melhorias no gênero.
+Fiquei surpreso com os controles descomplicados do jogo.
+Depois de se familiarizar com o jogo, os controles são fáceis de usar.
+Você não pode reclamar dos controles do jogo. Bom trabalho!
+[END]
+
+[TOTAL_80]
+Um bom jogo, que continua interessante por muito tempo.
+Conclusão: Se você ainda não possui um jogo desse tipo, deve pegá-lo.
+Se você está interessado em tais jogos, você definitivamente deveria verificar este jogo.
+No fim, este jogo oferece muito pelo dinheiro gasto!
+Minha opinião: Um bom jogo que garante diversão por bastante tempo.
+Se você gosta de jogos como este, este jogo é absolutamente obrigatório!
+Para os fãs desse gênero, posso recomendar este jogo sem hesitação.
+Quem tiver curiosidade sobre esse jogo, pode comprar sem hesitar.
+Qualquer pessoa interessada no gênero e assunto deve pegá-lo.
+Minha opinião: Este jogo pode ser chamado de "bom" sem quaisquer compromissos.
+Quem é fã do gênero vai adorar este jogo.
+Para fãs desse gênero, este jogo é indispensável. Muito Bom!
+Este jogo não é um jogo qualquer do gênero, mas sim um dos melhores!
+O jogo está melhorando a cada hora. Diversão!
+Conclusão: Um jogo divertido e variado. Recomendação clara para amantes do gênero.
+Eu me diverti muito com o jogo e estou disposto a ignorar as pequenas fraquezas.
+Uma experiência atmosférica que o manterá grudado na tela por muitas horas.
+Mesmo jogadores que não estão interessados ​​no gênero deveriam conferir este jogo.
+O desenvolvedor oferece um jogo legal e surpreendentemente divertido.
+Compra obrigatória para quem adora o gênero.
+Por algumas horas, você é transportado para um maravilhoso mundo!
+Mesmo que não seja o suficiente para uma classificação mais alta, há muito tempo eu queria um jogo assim.
+Uma dica para todos os fãs do gênero, em breve não deverá mais permanecer tão secreto.
+Na minha opinião, deveria haver mais jogos como este.
+[END]
+
+[GAMEPLAY_90]
+Devo admitir que a jogabilidade é realmente impressionante. Muito divertido!
+A jogabilidade complexa e interessante é muito divertida.
+A jogabilidade e o enredo são realmente ótimos. A maioria dos jogos desse gênero não consegue acompanhar essa qualidade.
+O enredo e a jogabilidade são excelentes. O jogo não é nem um pouco entediante!
+Este jogo tem uma jogabilidade fascinante e divertida. Muitas horas de diversão garantidas!
+A jogabilidade foi aparentemente o foco durante o desenvolvimento. Muitas coisas foram feitas aqui.
+A jogabilidade é inovadora e tem muitos recursos novos.
+A mecânica do jogo foi implementada de forma excelente. A história do jogo também é emocionante.
+A ótima jogabilidade é adequada para iniciantes e profissionais.
+O design do jogo é muito desafiador, mas é muito divertido.
+Devo dizer que gosto muito do jogo! Gostei especialmente do enredo.
+Como este jogo tem muitos modos de jogo diferentes, você não ficará entediado. Ótimo!
+A jogabilidade é simples, mas ótima. Os desenvolvedores poliram fortemente os poucos elementos de jogabilidade.
+Devido ao enredo emocionante, o tempo voa. Eu me diverti do começo ao fim.
+Jogabilidade simples, mas altamente motivadora. Parabéns aos desenvolvedores!
+O equilíbrio do jogo é particularmente bem feito. Um modelo para todos os jogos deste gênero!
+A jogabilidade motivadora e a história bem escrita me surpreenderam de forma positiva.
+[END]
+
+[GRAPHIC_90]
+Os gráficos extravagantes e variados são realmente atraentes!
+Os ótimos gráficos são melhores do que os da maioria dos jogos semelhantes. Muito bonito!
+Os gráficos estão no limite do que é possível para esta plataforma. Muito bem feito!
+Para os fanáticos por gráficos, este jogo é uma festa para os olhos. Excelente trabalho dos designers gráficos!
+Fiquei fascinado com o estilo gráfico. Muito impressionante.
+Os gráficos são extremamente atmosféricos. Se encaixa perfeitamente no jogo.
+Os gráficos encontrarão muitos imitadores, mas dificilmente alguém chegará perto dessa qualidade.
+Os gráficos são muito impressionantes. Não é possível muito mais neste sistema de jogo!
+Se eu fosse um jogo, gostaria de ser assim. Ótimos gráficos!
+Graficamente, o jogo estabelece novos padrões. Gostei especialmente do mundo detalhado do jogo.
+Um ótimo design de arte e efeitos impressionantes surpreenderam toda a equipe editorial.
+[END]
+
+[SOUND_90]
+Os efeitos sonoros lindamente digitalizados estão entre os melhores neste sistema de jogo.
+Bons efeitos sonoros e uma ótima trilha sonora combinam perfeitamente com a jogabilidade.
+Sobre o som: Musicalmente, estamos em um nível muito alto. Ótimo!
+A trilha sonora e os excelentes efeitos sonoros estão realmente no seu melhor. Aumente o volume!
+O efeito acústico impressionante e a ótima música do jogo se destacam neste jogo.
+As trilhas sonoras do jogo foram compostas de forma excelente. E os efeitos sonoros também estão no limite.
+O jogo tem uma trilha sonora eletrônica fantástica com efeitos sonoros tecnicamente excelentes!
+Fiquei realmente convencido com os efeitos sonoros bombásticos. Parabéns aos especialistas em som!
+A trilha sonora do jogo é excelente e os efeitos sonoros são de altíssima qualidade.
+A trilha sonora atmosférica e minimalista se encaixa perfeitamente no jogo.
+[END]
+
+[CONTROL_90]
+Um sistema de controle realmente bem pensado e descomplicado permite que você mergulhe na jogabilidade imediatamente.
+A excelente interface de usuário me convenceu completamente!
+Os controles são exemplares. Tudo foi bem feito aqui.
+Os controles simples e bem pensados me surpreenderam positivamente.
+Não é preciso escrever muito sobre os controles precisos e diretos. Bom trabalho!
+O jogo mostra como um sistema de controle deve funcionar hoje.
+Os controles foram perfeitamente adaptados para o jogo. Tudo está certo aqui!
+Gostei muito dos controles do jogo. Muito bem feito para que o jogador possa começar imediatamente.
+Os controles são ótimos! Eu não imaginei que os controles poderiam ser tão inovadores.
+[END]
+
+[TOTAL_90]
+O jogo é absolutamente obrigatório para os fãs do gênero! Top demais!
+Um excelente jogo que deve manter os jogadores entretidos por um tempo!
+Um grande jogo que não deve faltar na sua coleção. Absolutamente recomendado!
+Este jogo estabelece novos padrões e pertence a todas as coleções de jogos!
+Minha conclusão: Este jogo não deve faltar em nenhuma coleção!
+Este jogo vai ser um sucesso! Absolutamente recomendado!
+Conclusão: Um ótimo jogo que pertence a todas as coleções!
+Este jogo ficou ótimo. Compre!
+Conclusão: Um jogo que você definitivamente deveria conferir!
+Quando as pessoas falam sobre os "bons velhos tempos" daqui a alguns anos, esse jogo será um dos motivos.
+Um ótimo jogo, que não é recomendado apenas para fãs desse gênero.
+Um jogo absolutamente fascinante que você definitivamente deveria conferir!
+O jogo não me deixou dormir por muitas noites. Perigo de vício!
+Este jogo é ótimo para todos. É quase perfeito e estabelece novos padrões.
+Estou muito grato por ter podido testar este jogo. Incrível!
+Conclusão: Um excelente jogo que irá divertir o jogador por muito tempo.
+Minha opinião: É assim que um jogo tem que ser! Ótimo!
+Um marco no gênero que pode dar início a uma tendência.
+Este jogo é tão bom que temo que muitos clones ruins apareçam nos próximos anos.
+Um grande jogo com desafios variados. Não é apenas os fãs do gênero que irão se divertir com este jogo.
+Este jogo certamente será um grande vencedor!
+Minha opinião: Este jogo é um ótimo presente de aniversário para qualquer amigo!
+[END]
+
+[GAMEPLAY_100]
+A jogabilidade é divertida do início ao fim.
+A jogabilidade é muito bem pensada e motiva do início ao fim.
+A jogabilidade e o enredo são absolutamente de primeira classe. Diversão garantida!
+A jogabilidade é praticamente perfeita e o enredo é extremamente emocionante.
+Só consigo encontrar uma palavra para este jogo: "Perfeito"!
+Toda a equipe editorial se divertiu com este jogo. Excelente jogabilidade!
+A jogabilidade e o enredo podem ser viciantes.
+A jogabilidade consegue entregar o equilíbrio perfeito. Você pode jogar por cinco minutos ou quinze horas.
+A jogabilidade me surpreendeu. As muitas novas idéias são muito divertidas.
+O enredo é particularmente impressionante. É difícil acreditar que seja um jogo de computador.
+Você não pode acreditar na engenhosa mecânica do jogo se ainda não a experimentou.
+Deus é um designer de jogos - e projetou este jogo. Perfeito!
+[END]
+
+[GRAPHIC_100]
+Os gráficos perfeitos do jogo estabelecem novos padrões neste gênero de jogo.
+Brilhante é a representação gráfica! Você raramente vê algo assim neste gênero.
+Os gráficos são incrivelmente bonitos. Os designers gráficos fizeram um excelente trabalho aqui!
+O jogo é graficamente excelente e estabelece novos padrões para o gênero!
+Os gráficos impressionantes e detalhados me surpreenderam. Perfeito!
+Os gráficos extremamente impressionantes fazem a concorrência parecer velha.
+A concorrência precisará de anos para chegar perto desses gráficos perfeitos.
+Os gráficos realmente impressionantes impressionaram toda a equipe editorial!
+Mesmo um gênio como Rembrandt van Rijn parece um amador contra esses gráficos.
+Meu sistema está quebrado ? Nunca houve gráficos tão perfeitos nele antes!
+Para a concorrência: Esta é a aparência que os gráficos de um jogo devem ter! Simplesmente perfeita!
+Os gráficos do jogo são fantásticos! Não pensei que algo assim fosse possível neste gênero de jogo.
+Eu imediatamente me apaixonei pelo estilo gráfico. Nunca um mundo de jogo seria renderizado com tantos detalhes.
+Visualmente, o jogo parece ter sido desenvolvido para um sistema de última geração.
+Este gráfico é melhor do que a realidade! Excepcional!
+Ninguém teria pensado que tais gráficos fossem possíveis neste sistema. Fenomenal!
+Tenho certeza de que o gráfico viola alguma lei da natureza. Absolutamente perfeito!
+[END]
+
+[SOUND_100]
+Efeitos sonoros bombásticos e boa música acompanham o jogo.
+O jogo oferece efeitos sonoros cristalinos e uma trilha sonora incrível.
+Os fantásticos efeitos sonoros me surpreenderam.
+Os efeitos sonoros digitalizados são ótimos. Mas acima de tudo, a trilha sonora me surpreendeu.
+Fiquei positivamente surpreso com o som. A qualidade dos efeitos sonoros é realmente excelente.
+Vale a pena mencionar os ótimos efeitos sonoros. Nunca ouvi tais efeitos sonoros neste gênero.
+Todas as trilhas sonoras do jogo foram compostas de maneira excelente. Elas combinam perfeitamente com a jogabilidade.
+Os efeitos sonoros soam quase como a próxima geração. Elas foram implementadas perfeitamente.
+Os desenvolvedores deram uma atenção especial à música. Cada trilha sonora foi composta profissionalmente.
+Nunca fiquei tão impressionado com a música de um jogo. É pura emoção do início ao fim.
+Os excelentes efeitos sonoros são especialmente notáveis. Mais não é possível neste gênero!
+Até mesmo o chip de som tem a honra de poder produzir esses sons. Incrível!
+Os efeitos sonoros são fantásticos! Este será o novo padrão na indústria de jogos!
+[END]
+
+[CONTROL_100]
+Os controles são realmente excelentes! Você pode começar imediatamente.
+Os controles simples e sofisticados do jogo estabelecem novos padrões!
+Os controles intuitivos são dignos de menção. Tudo foi muito bem feito aqui!
+O sistema de controle merece um prêmio. Perfeitamente pensado e muito fácil.
+Os controles só poderiam ser melhores se você pudesse controlar o jogo pelo pensamento.
+Os controles do jogo são simplesmente fantásticos!
+Os controles foram implementados de uma forma realmente excelente. Mesmo jogadores inexperientes podem começar imediatamente.
+Como os desenvolvedores conseguiram criar controles tão perfeitos ? E por que a concorrência não consegue fazer isso ?
+Incrível como os controles do jogo são precisos. Parabéns aos programadores!
+Os controles convidam você a experimentar o jogo. Extremamente bom!
+Fiquei realmente surpreso com os controles do jogo. Digno de um prêmio!
+Sobre os controles: Mesmo com as duas mãos esquerdas você nunca perderá o controle do jogo.
+Toda a equipe editorial ficou surpresa com a perfeição dos controles.
+Só posso dizer uma coisa sobre os controles: Perfeito!
+[END]
+
+[TOTAL_100]
+O jogo é um dos mais impressionantes que já vi. Perfeito!
+Este jogo tem potencial para se tornar um verdadeiro clássico!
+Este jogo é provavelmente um dos melhores que já vi até agora!
+Este jogo é uma verdadeira obra de arte que todos irão apreciar!
+Minha conclusão ? Este jogo não deve faltar em nenhuma coleção de jogos!
+É assim que deve ser um jogo!
+Este jogo é candidato a jogo do ano!
+Você não precisará de outro jogo nos próximos meses.
+Uma compra obrigatória, mesmo que você não goste do gênero!
+O jogo mostra de forma impressionante porque os jogos de computador são superiores a todas as outras formas de entretenimento.
+Minha opinião: Este jogo realiza todos os sonhos e não deixa nada a desejar.
+Eu pensava que o hype era exagerado. Agora eu descobri que eu estava errado.
+Todos os jogos futuros terão que corresponder a esta obra-prima. Perfeito!
+Eu me diverti com este jogo do início ao fim. Eu adorei esse jogo!
+Conclusão: Podemos parar de procurar o melhor jogo de todos os tempos.
+Mesmo os melhores jogos do passado parecem comuns contra este jogo.
+Com este jogo, o desenvolvedor criou um monumento a si mesmo.
+Apenas três palavras: COMPRE!!! COMPRE!!! COMPRE!!!
+Minha opinião: Pare de ler este comentário e compre o jogo!
+Este jogo é uma obra-prima! Estou absolutamente emocionado!
+Este jogo coloca todos os outros jogos no chinelo. Uma verdadeira obra-prima!
+[END]

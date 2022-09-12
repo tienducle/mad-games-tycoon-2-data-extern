@@ -1,0 +1,72 @@
+﻿Hurrican; Creați un joc de acțiune cu un rating de cel puțin 70%.
+Labirint de marmură; Creați un joc de îndemânare cu un rating de cel puțin 70%.
+Dr. Lario; Creați un joc de puzzle cu un rating de cel puțin 70%.
+Insula Maimuțelor; Creați un joc de aventură cu un rating de cel puțin 70%.
+Temnițe și maeștri; Creați un joc RPG cu un rating de cel puțin 70%.
+Civilizațiile; Creați un joc de strategie cu un rating de cel puțin 70%.
+Super Lario World; Creați un platformer cu un rating de cel puțin 70%.
+Navă spațială: Elită; Creați un joc de simulare cu un rating de cel puțin 70%.
+Cupa Californiei; Creați un joc sportiv cu un rating de cel puțin 70%.
+Mad Oil Tycoon; Creați o simulare economică cu un rating de cel puțin 70%.
+Backstreet Fighter; Creați un joc de luptă cu un rating de cel puțin 70%.
+Orașul simulării: 1602; Creați un joc de construcții cu un rating de cel puțin 70%.
+Peștera Dragonului; Creați un film interactiv cu un rating de cel puțin 70%.
+Comandantul Yuri; Creați un joc de strategie în timp real cu un rating de cel puțin 70%.
+BOOM; Creați un Shooter in prima-persoana.
+Mai bine decât o carte; Creați un roman vizual cu un rating de cel puțin 70%.
+Max Brian; Creați un shooter third-person cu un rating de cel puțin 70%.
+Driverele de testare; Creați un joc de curse cu un rating de cel puțin 70%.
+Retromania; Creați un joc retro.
+Lumea meridianului; Creați un joc MMO.
+Jocul este într-adevăr gratuit?; Creați un joc F2P.
+Introduceți monede!; Creați o mașină arcade.
+Tuturor le plac șerpii; Creați un joc de telefon mobil.
+Născut pentru a fi programator; Creați-vă propriul motor.
+Consola de război; Creați-vă propria consolă staționară.
+Acest lucru se potrivește în buzunarul meu; Creați-vă propria consolă mobilă.
+Plata bonusului; Creați un joc de contract.
+Pachete; Creați un pachet de jocuri.
+Reducere; Publică un joc de buget.
+Ediție completă; Publicați un pachet de jocuri addon.
+Spin Off; Creați un spin off.
+I, II, III, IV;Creați o continuare a unui joc.
+Portarea jocului simplificată; Portați un joc pe o altă platformă.
+Mai bine decât originalul?; Creează un remaster al unuia dintre jocurile tale.
+Trendsetter;Unul dintre jocurile tale ar trebui să stabilească o nouă tendință.
+Jocul anului;Unul dintre jocurile tale trebuie să fie acordat Game of the Year.
+Dezvoltatorul anului; Câștigă premiul Dezvoltatorul Anului.
+Editura Anului; Câștigați premiul Publisher of the Year.
+Eye Candy;Unul dintre jocurile tale trebuie să primească un premiu pentru cea mai bună grafică.
+O coloană sonoră excelentă;Unul dintre jocurile tale trebuie să primească un premiu pentru cel mai bun sunet.
+Acest lucru nu poate fi corect!;Unul dintre jocurile tale trebuie votat cel mai prost joc al anului.
+Overhype!; Creează un overhype pentru unul dintre jocurile tale.
+Contractori; Semnați un contract de exclusivitate cu un editor.
+Multe locuri de munca!; Obțineți o reputație cu clienții de 100%.
+Acum mă voi îmbogăți; Produceți și distribuiți un joc fără un editor.
+Acesta este viitorul!; Ajunge la anul 2050 în joc.
+Editura!; Publicați un joc de la o companie NPC.
+Cel mai bun prieten al meu!; Maximizați relația cu un editor.
+Aur; Vinde cel puțin 1.000.000 de unități dintr-un joc.
+Platina; Vinde cel puțin 10.000.000 de unități ale unui joc.
+Diamant; Vinde cel puțin 50.000.000 de unități dintr-un joc.
+80%;Unul dintre jocurile tale trebuie să primească un rating general de cel puțin 80%.
+90%;Unul dintre jocurile tale trebuie să primească un rating general de cel puțin 90%.
+100%;Unul dintre jocurile tale trebuie să primească un rating general de cel puțin 100%.
+Toată lumea mă iubește!; Ai cel puțin 1.000.000 de fani.
+Nu-mi place să fiu singur; Începeți un joc multiplayer cu cel puțin un prieten.
+Aceasta este echipa mea!; Începeți un joc multiplayer cu patru prieteni.
+Proprietate intelectuală; Maximizați popularitatea unui IP.
+Companie de jocuri Legendara; Maximizați-vă reputația studioului.
+Măiestrie; Ai un angajat cu o experiență de 100% la orice abilitate.
+Angajator I;Să aibă cel puțin 20 de angajați.
+Angajator II;Să aibă cel puțin 50 de angajați.
+Angajator III;Să aibă cel puțin 100 de angajați.
+Bani de buzunar; Au cel puțin 50.000.000 dolari.
+Nu este suficient!; Ai cel puțin 500.000.000 dolari.
+Clubul Miliardarilor; Ai cel puțin un miliard de dolari.
+Consola de război II;Vinde cel puțin 10.000.000 de unități de propria consolă.
+Lider de piață; Vindeți cel puțin 50.000.000 de unități din propria consolă.
+Numele meu este Sid Maier; Angajeaza o legenda in dezvoltare.
+Tur de cumpărături I; Cumpărați un dezvoltator sau un editor NPC.
+Turul de cumpărături II; Cumpărați cel puțin 10 dezvoltatori sau editori NPC.
+Turul de cumpărături III; Cumpărați cel puțin 30 de dezvoltatori sau editori NPC.

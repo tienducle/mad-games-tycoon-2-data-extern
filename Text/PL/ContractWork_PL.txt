@@ -1,0 +1,80 @@
+﻿Zoptymalizuj silnik graficzny <0>
+Programowanie systemu audio <0>
+Opracuj edytor poziomów <0>
+Zoptymalizuj fizykę gry <0>
+Zadania związane ze skryptami <0>
+Zoptymalizuj AI wroga <0>
+Zoptymalizuj czas ładowania <0>
+Programowanie systemu pamięci <0>
+Utwórz interfejs użytkownika <0>
+Programowanie systemu bazodanowego <0>
+Opracowanie prototypu gry <0>
+Opracuj narzędzie lokalizacyjne <0>
+Opracuj narzędzie diagnostyczne <0>
+Kompresuj zasoby gry <0>
+Programowanie systemu dialogowego <0>
+Opracuj system kolizji <0>
+Programowanie przeglądarki plików <0>
+Programowanie Levelloadera <0>
+Programowanie menedżera wejść <0>
+Programowanie Spritemanager <0>
+Opracuj kontroler debugowania <0>
+Programowanie menedżera zdarzeń <0>
+Opracuj system animacji <0>
+Opracuj edytor sprite'ów <0>
+Opracuj sterowniki <0>
+Zastosuj ochronę przed kopiowaniem <0>
+Zoptymalizuj system sterowania <1>
+Projektowanie poziomów <1>
+Ogólne testy błędów <1>
+Testowanie misji <1>
+Utwórz koncepcję gry <1>
+Testy zgodności sprzętu <1>
+Testowanie stabilności gry <1>
+Analizuj wydajność gry <1>
+Przetestuj aktualizacje gry <1>
+Zoptymalizuj balans gry <1>
+Testowanie wtyczek <1>
+Analiza prototypu <1>
+Testowanie interfejsu użytkownika <1>
+Utwórz scenorys <1>
+Pisanie dialogów <1>
+Utwórz sprity postaci <2>
+Rysuj tła <2>
+Rysuj elementy <2>
+Narysuj interfejs użytkownika <2>
+Utwórz grafikę koncepcyjną <2>
+Rysuj obiekty środowiska <2>
+Utwórz efekty specjalne <2>
+Narysuj okładkę <2>
+Utwórz zestaw płytek poziomu <2>
+Projektuj czcionki <2>
+Animuj postacie <2>
+Tworzenie ścieżki dźwiękowej <3>
+Utwórz dźwięki postaci <3>
+Nagraj odgłosy broni <3>
+Utwórz dźwięki interfejsu użytkownika <3>
+Twórz dynamiczne dźwięki <3>
+Twórz dźwięki otoczenia <3>
+Twórz magiczne dźwięki <3>
+Nagraj odgłosy zwierząt <3>
+Utwórz odgłosy silnika <3>
+Nagrywaj muzykę klasyczną <3>
+Twórz dźwięki robota <3>
+Mieszanie dźwięków eksplozji <3>
+Zapisz podstawowe ruchy <4>
+Nagraj animację sztuk walki <4>
+Twórz animacje przerywników filmowych <4>
+Twórz animacje zwierząt <4>
+Nagraj animację szermierki <4>
+Twórz animacje dla potworów <4>
+Twórz animacje taneczne <4>
+Nagraj animacje piłkarzy <4>
+Twórz animacje emotek <4>
+Nagrywaj animacje robota <4>
+Napraw konsolę<7>
+Zaprojektuj prototyp konsoli<7>
+Zdiagnozuj prototyp konsoli<7>
+Popraw płytę główną konsoli <7>
+Przetestuj wydajność prototypu<7>
+Zoptymalizuj system chłodzenia<7>

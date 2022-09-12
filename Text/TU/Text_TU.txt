@@ -1,0 +1,2076 @@
+﻿<b>Oda inşa et</b><br>Burada odalar inşa edebilirsiniz.
+-
+-
+-
+Teknoloji Seviyesi
+Deneyim
+Geliştirme Maliyeti
+₺
+Deneyim seviyesi arttıkça geliştirme maliyetleri düşer.<br> Ayrıca oyun, grafik, teknoloji ve ses puanları artar.
+Grafik
+Ses
+Yapay Zeka
+Fizik
+Oynanış
+Kontroller
+Çok Oyunculu
+Tümünü seç
+Bir oda inşa et
+Kapat
+Geliştirme
+Araştırma
+Kalite Güvence
+Grafik Stüdyosu
+Ses ve Müzik Stüdyosu
+Pazarlama
+Müşteri Desteği
+Konsol Geliştirme
+Depolama
+Hareket Yakalama
+Tuvalet
+Personel Odası
+Eğitim Odası
+Üretim
+Sunucu Odası
+<Color=blue>Geliştirme</color> odasında oyunlar ve motorlar geliştirebilirsiniz.
+Bu odada yeni teknolojiler geliştirebilirsiniz.
+<Color=blue>Kalite Güvence</color> ile oyunlarınızın oynanışını<br>iyileştirebilir ve hataları etkili bir şekilde giderebilirsiniz.
+<color=blue>Grafik Stüdyosu>/color> oyunlarınız için profesyonel grafikler oluşturun.
+<color=blue>Ses Stüdyosu</color> ile oyunlarınız için yüksek kaliteli sesler oluşturabilirsiniz.
+<Color=blue>Pazarlama Bölümünde</color> oyunlarınızın reklamını yapabilirsiniz.
+Hayranlarınıza yardım etmek için <color=blue>Destek Departmanı</color> gereklidir.
+<color=blue>Konsol Geliştirme</color>, kendi konsollarınızı geliştirmeniz için gereklidir.
+Üretilen oyunlar <color=blue>Depolama Odasında</color> stoklanır.
+Profesyonel animasyonlar kaydetmek için <color=blue>Hareket Yakalama Stüdyosu</color> gereklidir.
+<color=blue>Tuvaletler</color> her yerde bulunmalıdır.
+<Color=blue>Personel Odasında</color> çalışanlarınız<br> rahatlayabilir ve yeni motivasyon kazanabilir.
+<Color=blue>Eğitim Odası</color>, çalışanlarınızı eğitmek için<br>idealdir.
+Bu odada oyunlarınızı üretebilirsiniz.
+MMO oyunları geliştirmek istiyorsanız <color=blue>Sunucu Odası</color> gereklidir.
+Geliştirme için kilidini aç*
+Araştırma için kilidini aç*
+<Color=blue>"Çeşitli"</color> başlığı altında kalite güvence ofisini araştırabilirsiniz.
+Grafik Stüdyosunu <color=blue>"Çeşitli"</color> başlığı altında araştırabilirsiniz.
+Ses Stüdyosunu <color=blue>"Çeşitli"</color> başlığı altında araştırabilirsiniz.
+Pazarlama Departmanını <color=blue>"Çeşitli"</color> başlığı altında araştırabilirsiniz.
+Müşteri Desteği Departmanını <Color=blue>"Çeşitli"</color> başlığı altındaki araştırabilirsiniz.
+Konsol Geliştirmeyi "Çeşitli" başlığı altından araştırabilirsiniz.
+<Color=blue>Üretimi</color> araştırdığınızda depolama odasının kilidi açılacaktır.
+Bunun kilidi <color=blue>Kasım 1993</color>'de açılacak.
+Tuvaletin kilidini aç*
+Ortak Odanın kilidini aç*
+Eğitim odasını <color=blue>"Çeşitli"</color> başlığı altında araştırabilirsiniz.
+Üretimi <color=blue>"Çeşitli"</color> başlığı altında araştırabilirsiniz.
+<Color=blue> Çevrimiçi Çok Oyunculu </color>modunu araştırdıysanız kilidi açılacaktır.
+Yerleşim
+<b>Oda Tasarımı</b><br> Odayı kaldırmak için <color=blue>sol shift tuşuna</color><br>basabilirsiniz.
+<b>Odayı Kaldır</b><br> Alternatif olarak, odayı kaldırmak için<color=blue> sol shift tuşuna</color><br> basabilirsiniz.
+<b>Kapıyı Yerleştirme</b><br> Kapı koridora bağlanmalıdır.<br><color=blue> DEL tuşu</color> ile kapıyı çıkarabilirsiniz.
+<b>Pencereleri Yerleştirme</b><br> Pencereleri kaldırmak için<color=blue> sol shift tuşuna</color><br> basılı tutun.
+Kabul Et
+Metrekare Fiyatı
+Metrekare
+m2
+▪ Tüm odalara erişilemez.
+Teknikler
+▪ Minimum <NUM> boyutu karşılanmalıdır.
+▪ Bir kapı eksik.
+<b>Öğeleri Satın Al</b><br>Burada odalarınız için nesneler satın alabilirsiniz.
+Ürün satın al
+Nesneyi Döndür
+Nesneyi Yerleştir
+Doğru oda değil!
+Binanın dışında!
+Yerleştir
+Nesneyi Taşı
+Ürün Sat
+Çalışanı işten çıkar
+Kısayol:
+Satış Fiyatı
+<b>Yönetim</b><br>Burada, şirketinizi yürütmek için gerekli tüm işlevleri bulacaksınız.
+<b>İstatistikler</b><br>Burada finans, oyunlar veya platformlarla ilgili tüm istatistikleri görüntüleyebilirsiniz.
+<b>Çalışanlar</b><br>Burada yeni çalışanlar ekleyebilir ve grupları yönetebilirsiniz.
+Koridor
+Bu, çalışanların kaldırılmasını devre dışı bırakmanıza izin verir.
+Bu, nesnelerin kaldırılmasını devre dışı bırakmanıza izin verir.
+Tüm odaların ikonlarını devre dışı bırakır.
+Para
+Hayran
+Tüm çalışanların AI tarafından kontrol edilmesini sağlayın
+▲
+▼
+■
+Y
+A
+H
+Oyunu Duraklat
+Normal Hız
+Yüksek Hız
+<b>Bu oda için ürün satın alın</b>
+Motivasyon
+YOK
+YOK
+YOK
+Depolama yeri açıklaması
+Sunucu Açıklaması
+Makine Açıklaması
+Ofislerinizi her zaman temiz tutun!<br>Yüksek kirlilik nedeniyle çalışanlarınız işten ayrılıyor<br>ve artık şirketinize hiçbir çalışan başvuruda bulunmayacak.
+Çalışanlar
+Çalışanları bırak
+Oyun Tasarımı
+Programlama
+Grafik Dizayn
+Müzik ve Ses
+Pazarlama ve Destek
+Oyun Testi
+Donanım ve Mühendislik
+Araştırma
+Maaş
+Çalışanları işten çıkar
+<b>Yıldız Tasarımcı</b><br>Yıldız tasarımcılar üzerinde çalıştıkları oyunlar için beklenti oluştururlar.
+<b>Tükenmez</b><br>Tükenmez çalışanların molaya ihtiyacı yoktur.
+<b>Hatasız</b><br>Hatasız çalışanlar asla hata oluşturmaz.
+<b>Sadık</b><br>Sadık çalışanlar asla işten ayrılmaz.
+<b>Yetenekli</b><br>Yetenekli çalışanlar daha hızlı öğrenir.
+<b>Şanslı</b><br>Kritik çalışma sonuçları önemli ölçüde daha sık görülür.
+<b>Sportif</b><br>Sportif çalışanlar daha hızlı hareket eder.
+<b>Tertipli</b><br>Tertipli çalışanlar pislik ve çöp yapmazlar.
+Oyun Tasarımcısı
+Programcı
+Grafik Sanatçısı
+Ses Sanatçısı
+Ofis Çalışanı
+Oyun Testçisi
+Teknisyen
+Bilim İnsanı
+Mevcut çalışmayı duraklat/devam ettir
+Odaya atanan çalışanlar
+Bu oda için AI'yı devre dışı bırakın
+Odayı yeniden adlandır
+Odayı yeniden tasarla
+Odayı yık
+Lütfen odanın ismini giriniz
+İptal Et
+Odayı gerçekten yıkmak istiyor musunuz?<br>Oda içeriğini satarak <color=green><NUM></color> elde edersiniz.
+Araştırma
+Her şeyi otomatik araştır
+<NUM> Araştırma Puanı
+Araştırmaya devam et
+Tür
+Konular
+Motor Özellikleri
+Oynanış Özellikleri
+Donanım
+Çeşitli
+Yeni araştırma mevcut
+Araştırma tamamlandı
+Görevi İptal Et
+Görevi Taşı
+Otomatik Bitir
+Otomatik Aktif
+Tüm Mesajları Sil
+Yonga Seti
+Kontrolcü
+Harici Hafıza
+Dahili Bellek
+Bellek
+Kasa
+Ekran
+Taş. Konsol Kasası
+Görevi taşımak için <color=blue>sol fare düğmesi</color> ile aynı türden bir odaya tıklayın.
+Kaldır
+Kapıyı Kaldır
+<b>Motivasyon</b><br>Motive olmayan çalışanlar daha yavaş çalışır.
+İsim
+<NUM> Çalışan
+Çalışanları işten çıkar
+<NAME> çalışanını gerçekten kovmak istiyor musun?
+Çalışanlara Genel Bakış
+Bu alanda kaç kişinin çalıştığını gösterir.
+Görev Atanmamış Çalışanlar
+Motivasyon
+İşçi Bulma Piyasası
+Grup Yönetimi
+Bu odadaki çalışanlar
+Çalışan Bilgileri
+İşe al
+Kov
+Seç
+<NUM> Başvuru
+Detaylar
+Aylık <NUM>
+Atanmamış Çalışanlar
+Grup
+Grup Seç
+Yönetim
+Geliştirici Kiti Satın Al
+Oyun Motoru Satın Al
+Kopya Koruma Yazılımı
+Lisans Satın Al
+Yayınlama Teklifleri
+Banka
+Mülk
+Şirket Adı ve Logosu
+Oyunu Piyasadan Kaldır
+Satın Alınabilecek Geliştirici Kitleri
+Sahip Olunan Geliştirici Kitleri
+Üretici
+Yayınlanma Tarihi
+Alış Fiyatı
+Pazar Payı
+Mevcut Oyunlar
+Ocak
+Şubat
+Mart
+Nisan
+Mayıs
+Haziran
+Temmuz
+Ağustos
+Eylül
+Ekim
+Kasım
+Aralık
+Bu cihaz artık mevcut değil.
+Yeterli paran yok!
+Geliştirme kitini gerçekten satın almak istiyor musunuz?
+Yeni platform mevcut
+Piyasadan bir platform çekildi
+Piyasadan çekilen platformları göster
+Grup Ata
+Motor Geliştirin
+Yeni Motor Geliştirin
+Eski Motoru Güncelle
+Motorun Adı
+Rastgele İsim
+Özel Tür
+Oyun Motorunu Sat
+Geliştirmeye Başla
+<color=red>???</color>
+Tümünü seç
+Not
+Özel bir tür seçmelisiniz!
+Motora bir isim vermelisiniz!
+En az bir yeni motor özelliği eklemelisiniz!
+<color=black>Oynanış: <NUM></color>
+<color=black>Grafik: <NUM></color>
+<color=black>Ses: <NUM></color>
+<color=black>Teknoloji: <NUM></color>
+Sahip Olunan Motorlar
+Hangi motoru güncellemek istiyorsunuz?
+Kâr paylaşımı
+Bu motora sahip oyunlar
+Sahip Olunan Motor
+Motor Özelliklerini Seç
+Özel Türü Seç
+Yeni bir motor mevcut
+Satın Alınabilecek Motorlar
+Satın Alınmış Motorlar
+Satılan Lisanslar
+Motor Detayları
+Satın Al
+Oyunlar
+Özellikler
+Tür
+Geliştirici
+Satılmış Üniteler
+Ciro
+İnceleme Sonucu
+İnceleme
+TAM İSABET!
+ÇÖP!
+Şirket adı
+Logo
+Lütfen şirket logonuzu seçin.
+Motor Tamamlandı
+Güncel olmayan kopya korumasını gizle
+Etkililik
+Kopya Koruması
+Satın alınan kopya korumaları
+Yeni kopya koruması mevcut
+Kopya korumasını gerçekten satın almak istiyor musunuz?
+Yeni bir lisans satın alın
+Lisans Sat
+Resmi lisansa sahip oyunlar satış rakamlarını artırabilir.
+Kendi motorlarınızla pahalı lisans maliyetlerinden tasarruf edersiniz. Ayrıca motorlarınızı rekabet için satabilirsiniz.
+Lisanslar
+Satın alınan lisanslar
+<NUM> Oyun
+Film Lisansı
+Kitap Lisansı
+Spor Lisansı
+Bu lisans <NUM> oyun için kullanılabilir.
+Popülerlik
+Liste boş!
+Lisans Türü
+Kullanımlar
+Gerçekten lisansı satın almak istiyor musun?
+Satın Alındı
+Gerçekten lisansı satmak istiyor musun?
+<b>Doğa aşığı</b><br>Doğa severlerin çevrelerindeki bitkilere ihtiyacı vardır.<br>Bitkileri suladıklarında motivasyonları artar.
+Aylık Maliyetler
+İç Dizayn
+Sıcaklık
+Motivasyonun Yenilenmesi
+Gidiyor:
+Kullanıyor:
+Bir oyun geliştirin
+Oyunun İsmi
+Yeni Oyun
+Devam Oyunu
+Yeniden Yapım (Remaster)
+Yeni bir oyun geliştirmek mi, yoksa eski bir oyunun devamı/remaster'ını mı geliştirmek istiyorsunuz?
+Standart Oyun
+Devasa Çok Oyunculu Çevrimiçi
+Oynaması Ücretsiz
+Oyun Tipi
+Lütfen oyun türünü seçin. MMO ve F2P oyunları için "Çevrimiçi Çok Oyunculu" özelliği gereklidir.
+Oyun Büyüklüğü
+Oyun ne kadar büyükse, kullanabileceğiniz özellik sayısı artar.
+B
+B+
+A
+AA
+AAA
+Maks. Özellik
+Sınırsız
+Hedef Kitle
+Çocuk
+Genç
+Yetişkin
+Yaşlı
+Hepsi
+Lütfen oyununuz için hedef kitle seçin.
+Ana Tür
+Alt Tür
+Türü Kaldır
+<Color=blue>Çevrimiçi Çok Oyunculu</color> modunu araştırdıysanız kilidi açılacaktır.
+<Color=blue>Çevrimiçi Çok Oyunculu</color> modunu araştırdıysanız kilidi açılacaktır.
+<Color=blue>"Çeşitli"</color> başlığı altında daha fazla oyun boyutu araştırabilirsiniz.
+Alt türü <color=blue>"Çeşitli"</color> başlığı altında araştırabilirsiniz.
+Alt konuyu <color=blue>"Çeşitli"</color> başlığı altında araştırabilirsiniz.
+<Color=blue>1.000.000₺</color> varsa kilidi açılacaktır.
+Ana Konu
+Alt Konu
+Konuyu Kaldır
+Alfabetik
+Lisans
+Lisansı Kaldır
+Lisanssız
+Oyun adını aldığınız lisansın adıyla değiştirmek istiyor musun?
+Ana Platform
+Platform 2
+Platform 3
+Platform 4
+Özel Oyun
+▪ Özel oyunlar yalnızca tek bir platformda yayınlanabilir.<br> Bu özellik sayesinde platformun satış rakamları yükselebilir.
+Toplam Pazar Payı:
+Oyunlarınızdan birinin<br>genel değerlendirmesi en az <color=blue>%70</color> olursa, kilidi açılacaktır. 
+<Color=blue>Temmuz 1986</color>'da kilidi açılacak.
+Motor
+Platformlar
+En az <color=blue>5 oyun</color> yayınladıysanız kilidi açılacaktır.
+En az <color=blue>10 oyun</color> yayınladıysanız kilidi açılacaktır.
+En az <color=blue>15 oyun</color> yayınladıysanız kilidi açılacaktır.
+Platformu Kaldır
+Geliştirme Maliyeti
+Minimum Teknoloji Seviyesi
+Gizli Platformları Göster
+Bu platformun teknoloji seviyesi çok düşük.<br> Yalnızca motorla aynı veya daha yüksek<br> teknoloji seviyesine sahip platformlar seçilebilir.
+Bu platform zaten seçildi.
+Aşağıdaki platformlar, gerekli teknoloji düzeyine sahip olmadıkları için kaldırılmıştır:
+Kopya Koruması
+Kopya Korumasını Kaldır
+Kopya Koruması Olmadan
+Henüz <color=blue>kopya koruma yazılımı</color> yayınlanmadı.
+Tasarım Önceliği
+İş Önceliği
+Diller
+Oynanış
+Görseller
+Hikaye
+Oyun Uzunluğu
+Atmosfer
+İçerik
+Oyun Derinliği
+Başlangıç ​​Dostu
+Kemik Kitle
+Sıradan Oyuncu
+Her dil için <color=red>5.000₺</color> çeviri maliyeti vardır.
+Tümünü Seç
+İş önceliği %100'den fazla olmamalıdır!
+Bir ana tür seçilmelidir!
+Bir ana konu seçilmelidir!
+Bir ana platform seçilmelidir!
+En az bir dil seçilmelidir!
+Oyun Konseptleri
+Oyun Analizi
+Hayran Mektupları
+Bu özellik henüz eklenmemiştir.
+Tümünü seç
+Miktar
+Çok fazla oyun özelliği etkinleştirildi. <br>Oyununuza daha fazla oyun özelliği eklemek istiyorsanız,<br>oyun boyutunu değiştirmeniz gerekir.
+Oyuna bir isim vermelisiniz!
+Özellik Türü
+Araştırma Maliyetleri
+Araştırma Puanları
+İş önceliği %100'ün altında!
+Oyun Tamamlandı
+Bu oyun üzerinde en gerekli çalışma tamamlandı ve <color=blue>piyasaya sürülmeye hazır.</color> İsterseniz oyun üzerinde çalışmaya devam edebilir ve iyileştirmeler yapabilirsiniz. Ancak,<color=blue>cilalama aşamasında</color> çalışma sonuçları azalır ve hatalar yavaşça giderilir.
+Yeni Rekor!
+Yayıncı Ara
+Kendin Dağıt
+Üründen Kurtul
+Geliştirmeye Devam Et
+Hata
+Programlama Tamamlandı
+Yeni Oyun Geliştirici Efsanesi
+<NAME> işçi piyasasında mevcut.
+Türlerle ilgili deneyim, oynanışı etkiler.
+Konularla ilgili deneyim, oynanışı etkiler.
+Platformlarla ilgili deneyimin grafik, ses ve teknoloji üzerinde etkisi vardır.
+Yeni Rakip
+Yayıncı
+Beklenti
+Pazar Gücü
+İlişki
+Ücret
+Hayran Kitlesi
+Evet
+Kazanılan Tecrübe
+Deneyim Kazanılamadı
+Genel bakış, şu anda <color=blue><GENRE></color> türüne veya <color=blue><THEME></color> konusuna da sahip olan kaç oyunun mevcut olduğu.
+Pazar Araştırması
+Toplam [Tür]
+Toplam [Konu]
+Platformda [Tür]
+Platformda [Konu]
+Geliştirme Raporu
+Platformu Değiştir
+Mevcut Ekran Görüntüsü
+İlerleme
+Bugüne kadarki geliştirme maliyeti:
+Mevcut tahmini puan:
+İpucu aracı: Oynanış 1
+İpucu aracı: Oynanış 2
+İpucu aracı: Oynanış 3
+İpucu aracı: Oynanış 4
+İpucu aracı: Oynanış 5
+İpucu aracı: Oynanış 6
+İpucu aracı: Ses 1
+İpucu aracı: Ses 2
+İpucu aracı: Ses 3
+İpucu aracı: Ses 4
+İpucu aracı: Ses 5
+İpucu aracı: Ses 6
+İpucu aracı: Grafik 1
+İpucu aracı: Grafik 2
+İpucu aracı: Grafik 3
+İpucu aracı: Grafik 4
+İpucu aracı: Grafik 5
+İpucu aracı: Grafik 6
+İpucu aracı: Hareket yakalama 1
+İpucu aracı: Hareket yakalama 2
+Başka bir takımı desteklemek için, <color=blue>sol fare düğmesi</color> ile aynı türden bir odaya tıklayın.
+Destek
+Desteği İptal Et
+Bekle...
+<b>Müşterilerin gözündeki itibar</b><br> İtibar ne kadar yüksek olursa, size o kadar çok iş teklif edilir.<br>Ayrıca, ödeme daha yüksek olur.
+Çalışanlarınızın Ortalama Motivasyonu
+<color=green><NAME1></color> türü ve <color=green><NAME2></color> konusu şu anda moda.
+<color=red><NAME1></color> türü ve <color=red><NAME2></color> konusu şu anda popüler değil.
+Bu akım <color=blue><TIME></color> hafta boyunca devam edecek.
+Yeni Akım
+Hafta
+Toplam
+Oyunun kaç haftadır markette olduğunu gösterir.
+Oyun
+Pencereyi Küçült/Büyüt
+Piyasadan Kaldırılan Oyun
+Kâr
+<color=blue><NAME></color> satış rakamları keskin bir şekilde düştü, bu nedenle ürün piyasadan çekildi.
+Satışta Kaldığı Hafta
+Pazarlama Maliyetleri
+Motor Maliyeti
+<color=blue><NAME1></color> firması, <color=blue><NAME2></color> oyununu yayınladı.
+Yayıncınız <color=blue><NAME1></color> için bir pazarlama kampanyası başlattı.
+Ofislerinizin kalitesini gösterir.
+Ofislerinizin kirliliğini gösterir.
+Oislerinizin çok soğuk olup olmadığını görmenizi sağlar.
+Burada hangi mesajların görüntüleneceğini ayarlayabilirsiniz.
+<color=blue><NAME1></color> firması, <color=blue><NAME2></color> oyun motorunuzun lisansını aldı.
+Fatura
+<color=blue><NAME1></color> firması, oyun motorunuzu <color=blue><NAME2></color> oyunu için lisansladı. Fatura size gönderildi.
+Yüzde Olarak Pay
+Oyun Başına Pay
+<b>CEO</b><br>Karakteriniz motivasyonunu kaybetmez.
+Oyuncu Karakteri
+Oda Atanmadı
+Çalışan istifa etti
+Personel Departmanı <color=blue><NAME></color> isimli çalışanın istifa ettiğini bildirdi. Çalışanlarınızın ihtiyaçlarına her zaman dikkat etmeli, uzun sıkıntılardan ve motivasyon eksikliğinden kaçınmalısınız.
+Soğutma
+Pazarlama Kampanyası
+Yeni bir pazarlama kampanyasını ne için başlatmak istersiniz?
+Oyun Konsolu
+Oyun için pazarlama kampanyası
+Konsol için pazarlama kampanyası
+Beklenti maksimum seviyeye ulaşır ulaşmaz pazarlamayı durdurun
+Otomatik Tekrar
+Posterler
+Oyun Dergileri
+Radyo
+İnternet Reklamları
+En İyi Yayıncı
+TV
+Bu kampanyayla üretilebilecek maksimum beklenti.
+<Color=blue>Şubat 2005</color>'de kilidi açılacak.
+<Color=blue>Mart 1993</color>'de kilidi açılacak.
+Kilitli Değil
+Geliştirilmekte
+<NAME1> için pazarlama kampanyası tamamlandı
+Üretim Maliyeti
+Sunucu Maliyetleri
+Kalite
+İş sonuçlarında bonus: %<NUM>
+<Color=blue>Bir motor özelliğini</color> araştırdıysanız kilidi açılacaktır.
+<NUM> yılından itibaren mevcut
+Eğitim Kursuna Başla
+Eğitim Kursları
+Yeni Başlayanlar İçin Oyun Tasarımı
+Gelişmiş Oyun Tasarımı
+Profesyoneller İçin Oyun Tasarımı
+Yeni Başlayanlar İçin Programlama
+Gelişmiş Programlama
+Profesyoneller İçin Programlama
+Yeni Başlayanlar İçin Grafik Tasarım
+Gelişmiş Grafik Tasarım
+Profesyoneller İçin Grafik Tasarım
+Yeni Başlayanlar İçin Müzik ve Ses
+Gelişmiş Müzik ve Ses 
+Profesyoneller için Müzik ve Ses
+Yeni Başlayanlar İçin Pazarlama ve Destek
+Gelişmiş Pazarlama ve Destek
+Profesyoneller İçin Pazarlama ve Destek
+Yeni Başlayanlar İçin Oyun Testi
+Gelişmiş Oyun Testi
+Profesyoneller İçin Oyun Testi
+Yeni Başlayanlar İçin Donanım ve Teknoloji
+Gelişmiş Donanım ve Teknoloji
+Profesyoneller İçin Donanım ve Teknoloji
+Yeni Başlayanlar İçin Araştırma
+Gelişmiş Araştırma
+Profesyoneller İçin Araştırma
+Maksimum Seviye: <color=blue><NUM></color>
+Etkileyicilik: <color=blue>Düşük</color>
+Etkileyicilik: <color=blue>Orta</color>
+Etkileyicilik: <color=blue>Yüksek</color>
+"<NAME>" eğitim kursu tamamlandı
+Bu ürünü gerçekten kaldırmak istiyor musunuz? Bu süreç geri alınamaz!
+Mevcut görevi iptal etmek istediğinizden emin misiniz?
+<color=green><NUM></color> geri ödeme alacaksınız.
+Lisanslar
+Ortam Grafikleri
+Grafik Kullanıcı Arayüzleri
+Arka Plan
+Özel Efektler
+Karakterler
+Ara Sahneler
+Ses Efektleri
+Kullanıcı Arayüzü Sesleri
+Müzik
+Ortam Sesleri
+Dinamik Sesler
+Ses Kaydı
+Oyuncu Animasyonları I
+Oyuncu Animasyonları II
+Oyuncu Animasyonları III
+NPC Animasyonları I
+NPC Animasyonları II
+NPC Animasyonları III
+Denge
+Kontroller
+Performans
+Kullanıcı Arayüzü
+Oyun Mekaniği
+Seviye Tasarımı
+İş Sözleşmesi
+Ne tür bir sipariş yapmak istiyorsunuz?
+Kısa Görev
+Sözleşmeli Oyun
+Tüm işleri otomatik olarak işleyin
+Ödeme
+Sözleşmeden Doğan Ceza
+Son Tarih
+İş Yükü
+Müşteri
+Son tarih: <b><NUM> hafta</b>
+İşi Sil
+Görevlendirilen iş tamamlandı: <NAME><br>Ödeme: <NUM>
+<color=red><NUM></color> tutarında bir sözleşme cezası ödemelisiniz.
+Hafta: <NUM>
+Alınan iş başarısız oldu: <NAME><br> Sözleşme Cezası: <NUM>
+Oyun Seç
+Mevcut Oyunlar
+Geliştirme başlangıcında oluşturulan beklenti.
+Hangisinden bir devam oyunu geliştirilmelidir?
+<b>Devam</b><br>Devam oyunu, öncüllerinin başarısından yararlanır.<br>Geliştirmenin başlangıcında beklenti ortaya çıkar,<br>ve satış rakamlarında bir bonus elde edilir.
+<b>Yeniden Yapım</b><br>Yeniden yapımların düzenlemesi için geliştirme maliyetleri düşürülür.<br>Yalnızca piyasadan kaldırılmış<br>oyunlar yeniden yapılabilir.
+<b>Yeni oyun</b><br>Yeni bir oyun oluşturduğunuzda, <br>daha sonra bir yenilenmiş yapım veya devamını geliştirebilirsiniz.
+Bu oyun adı zaten var!
+Hangi oyunu yenilemek istersiniz? Yalnızca piyasadan daha önce kaldırılmış oyunlar seçilebilir.
+Yeniden Yapım
+Altın
+Yeniden Yükleme
+Delüks
+<color=black>(<NUM>)</color>
+Platform
+Bonus ödeme için minimum derecelendirme: <b>%<NUM></b>
+Bonus
+Oyunu Teslim Et
+▪ Oyun Sözleşmesi<br>▪ Bu oyunda en gerekli çalışma tamamlandı. Oyunu müşterinize devredebilir veya üzerinde daha fazla çalışabilirsiniz.
+Müşteri size <color=blue><NUM1></color> tutarında ücret aktarmıştır. Oyun biter bitmez ve basın oyunu en az <color=blue><NUM3></color> olarak derecelendirir ise <color=blue><NUM2></color> bonus ödemesini alacaksınız.
+Gerekli geliştirme kitine sahip olmadığınız için bu işi kabul edemezsiniz.
+Sözleşmeli oyununun son faturasını aldınız.
+Toplam Ücret
+Son tarihe ulaşıldı
+Yalnızca piyasadan kaldırılmış olan platformları değiştirebilirsiniz.
+Ek Taşıma Maliyetleri
+Sözleşmeli oyunlar için platformu değiştirmenize izin verilmez!
+Bu oda için mevcut görevi iptal etmelisiniz!
+<b>Sözleşmeli işlerin sayısı</b><br><br>
+Sözleşmeli Oyunların Sayısı
+Bu ekran, bir çalışana<br>atanmamışsa sizi bilgilendirir.<br><br><color=blue>Çalışanı seçmek için tıklayın</color>
+Güncellemeler ve Eklentiler
+Ne tür bir güncelleme veya eklenti geliştirmek istiyorsunuz?
+Ücretsiz Güncelleme
+Ücretli Eklenti
+MMO Eklentisi
+Lütfen ücretsiz güncellemenin içeriğini seçin.
+Hangi oyun için ücretsiz güncelleme geliştirilmeli?
+Güncelleme Sayısı
+Dil Paketi
+İçerik
+Yama
+Yeni Oyun Modu
+Yeni Görevler
+Yeni Ortam Nesneleri
+Yeni Arka Plan Grafikleri
+Yeni Ses Efektleri
+Yeni Müzik
+Performans Geliştirme
+Kontrolleri Geliştirin
+Maks.
+Güncelleme için herhangi bir içerik seçmediniz!
+<NAME> için güncelleme tamamlandı.
+Hangi oyun konseptini görmek istersiniz?
+Oyun Konseptini Kopyala
+Temel Ayarlar
+Seçilen motorun teknoloji seviyesi çok düşük!
+<b><NAME></b> için hayran mektupları
+İstatistikler
+Grafikler
+Finanslar
+Sahip olunan oyunlar
+Bilgi ve Tarih
+Yayıncı ve Geliştirici
+Sahip Olunan Konsollar
+Motorlar
+Tüm Zaman Grafikleri
+Haftalık Grafikler
+F2P Grafikleri
+MMO Abonelik Tabloları
+Mevcut Tüm Platformlar
+Mevcut
+Yayıncı olarak davranan rakipler
+Geliştirici olarak davranan rakipler
+Değeri
+Hissedarlık
+Stüdyo Deneyimi
+Tür Yok
+Mevcut Tüm Motorlar
+Bu motoru satışa çıkardın.
+Yalnızca kendi motorlarınızı gösterin
+Yorumlar
+Paketler
+Bağlı şirketlerin oyunları
+Kayıt
+Toplam Satış
+Toplam İndirme
+Son 24 ay
+Bu ay
+Fark (24 ay)
+Geçen ay
+Toplam Aboneler
+Toplam
+Aylık Bakiye
+Yıllık Bakiye
+Yıllık Mali Tablolar
+Bina Maliyetleri
+Öğeler
+Üçüncü Şahıs Ürünleri
+Sözleşmeye dayalı cezalar
+Masraflar
+Gelir
+Oyun Gelirleri
+Motor lisansları
+Atanmış iş
+Sözleşmeli Oyunlar
+Ödüller
+Geçen yıl
+Bu yıl
+Yıl
+Son Yıllardaki Etkinlikler
+Şu anda tür veya konuyla kullanılabilen oyunlar
+Aylık Ekstreler
+Toplam Kâr
+Kampanya başına beklenti / Bu kampanyayla üretilebilecek maksimum beklenti
+Beklenti <NUM> altına düşene kadar bekle.
+Yeni güncellemelerin otomatik olarak oluşturulmasını istiyorsanız, en az bir yeni oyun içeriği seçmelisiniz!
+Otomatik durduruldu! <br>Yeterli para yok.
+Otomatik çalışma durduruldu! <br>Yeterli para yok.
+Otomatik çalışma durduruldu! <br>Beklenti maksimumda.
+Hayran Kampanyası Başlat
+Kredi Limiti
+Mevcut Kredi
+Aylık Faiz
+Kredi Al
+Krediyi Geri Öde
+Kredi
+Hayran Etkinliği
+Yeni hayranlar edinmek için bir etkinlik başlatabilirsiniz. Etkinlik ne kadar muhteşem olursa, o kadar çok hayran kazanacaksınız.
+Memnuniyet Anketi
+İmza Kartları Dağıt
+Çekiliş
+Stüdyo Turu
+Yüksek Skor Şampiyonası
+Oyun Fuarı
+Müşteri Desteği
+Pazarlama & Destek
+<NAME> hayran kampanyası tamamlandı
+Hayran Mağazası
+<b>Çağrıların, mektupların ve e-postaların sayısı</b><br>Hayranlarınızın sorularını yanıtlamak için,<br>bir destek departmanı kurmanız gerekir.<br> <br> ▪ Çok fazla soru yanıtlanmamışsa , hayranlarınızı kaybedeceksiniz. <br> ▪ Hatalı oyunlardan kaçının.<br> ▪ 5.000 hayran ve üzeri tüm soruları ele almak için bir destek departmanı gereklidir.
+Ne kadar çok mektup, çağrı ve e-posta cevapsız kalırsa hayranlarınız o kadar memnun olmaz.
+Müşteri Desteğini Başlatın
+İş Yükü
+Çok düşük iş yükü
+Düşük iş yükü
+Ortalama iş yükü
+Yüksek iş yükü
+Cevaplanmamış sorular: <NUM>
+Altın Plaket Alındı
+Oyununuz <color=blue><NAME></color>, video oyun endüstrisinde çığır açan bir kilometre taşı olarak kabul edildi ve yeni bir trend oluşturdu.
+Trend Belirleyici
+Yılın En'leri Ödülleri
+<NUM> Hayran
+Pozitif Ödüller
+Negatif Ödüller
+En İyi Oyun Müziği
+En İyi Grafik
+Yılın Geliştiricisi
+Yılın Yayıncısı
+Yılın Oyunu
+Yılın En Kötü Oyunu
+Altın Plaket
+Hasta
+<b>Tıbbi mucize</b><br>Güçlü bir bağışıklık sistemine sahip çalışanlar asla hastalanmazlar.
+Aylık kullanım: <NUM>
+Yeni Oyun
+Oyunu Yükle
+Ayarlar
+Katkıda Bulunanlar
+Oyunu Kapat
+Mad Games Tycoon® 2<br>©2021 Eggcode Games
+Oyunu gerçekten kapatmak istiyor musun?
+<Boş>
+Kayıtlı Oyunu Sil
+Yükleniyor...
+Bu kayıtlı oyununu gerçekten silmek istiyor musun?
+Otomatik Kayıt
+Mad Games Tycoon 2
+Oyunu Kaydet
+Oyunu Kapat
+Gerçekten ana menüye dönmek istiyor musunuz?
+Ana Menüye Dön
+Kayıtlı oyununun üzerine gerçekten yazmak istiyor musunuz?
+Oyun Kaydedildi
+Oyuncu İsmi
+Rastgele Şirket Adı
+Şirket Merkezi
+Zorluk Seviyesi
+Başlangıç ​​Yılı
+Oyun Hızı
+Oyunu kaydet, Oyunu Yükle, Ayarlar
+Çok Kolay
+Kolay
+Orta
+Zor
+Efsanevi
+Yavaş Yavaş
+Normal
+Hızlı
+Çok Hızlı
+<b>Lütfen şirket yerini seçin</b><br>• Her ülkenin özel bir türü vardır, bu da satışlarda <color=blue>%3</color> bonus anlamına gelmektedir.
+Özel Tür: <color=blue><TEXT></color>
+Karakteriniz ▪ CEO
+Stüdyonuz için bir şirket adı girmelisiniz!
+Vücut
+Saç
+Gözler
+Sakal
+Ten Rengi
+Saç Rengi
+Üst Renk
+Alt Renk
+Ekstra Renk
+Karakteriniz için bir isim girmelisiniz!
+Erkek
+Kadın
+Görünüm
+Beceriler
+Ayrıcalıklar
+<NUM> beceri puanı kaldı
+Tüm beceri puanlarını harcamalısın!
+Zar at
+Yeni oyun ▪ Oyun ayarları
+Öğreticiyi devre dışı bırak
+Rastgele platform popülerliği
+Rastgele oyun konsepti ayarları
+Rastgele etkinlik yok
+<size=20>Mad Games Tycoon 2</size><br><br><color=blue>Mad Games Tycoon 2</color>'yi satın aldığınız için teşekkür ederiz. Erken erişim sürümünde hala birçok özellik bulunmadığını, oyunun bazı yerlerde dengesiz olduğunu ve hatalar olabileceğini lütfen unutmayın. Dahası, çeviriler hatalı olabilir.<br><br>İyi eğlenceler!
+Oyunun hızı ne kadar düşükse,<br> çalışanlarınız bir hafta içinde o kadar çok görevi tamamlayabilir.<br>Hızı düşürmek oyunu kolaylaştırır.
+Zorluk seviyesi esas olarak oyunlarınızın satış rakamlarını etkiler.
+Oyuna hızlı bir başlangıç ​​yapmak için<br>başlangıç ​​yılını artırabilirsiniz.
+<NAME> için geliştirilen güncelleme<br>oyun piyasadan kaldırıldığı için iptal edildi.
+<b>Eskimo</b><br>Bu özelliğe sahip çalışanlar asla üşümezler.
+<b>Mütevazı</b><br>Mütevazı çalışanların yüksek kaliteli ofis ekipmanına<br> ihtiyacı yoktur.
+<b>Demir</b><br>Bu çalışanlar mesai saatleri içinde tuvalete gitmezler.
+En az bir oyun özelliği seçilmelidir!
+Haberler
+Bir Rakip Oyun Yayınladı
+Yeni Rakip
+Yeni Kopya Koruması Mevcut
+Yeni NPC Motoru Yayınlandı
+Yeni Araştırma Mevcut
+Yeni Platform Mevcut
+Piyasadan Kaldırılan Platformlar
+Altın Plaket Kazanıldı
+Oyun Ayarları
+Grafik Ayarları
+Ses Ayarları
+Ses
+Ana Ses
+Müzik
+Müzik Sesi
+Ekran Çözünürlüğü
+Tam Ekran
+FPS Limiti
+Dikey Eşitleme
+Ekran Alanı Ortam Tıkanıklığı
+Ekran Alanı Yansımaları
+Kamaşma
+Çevresel Perdeleme
+Renk Sınıflandırması
+Gerçek Zamanlı Gölgeler
+Dil
+Grafiksel kullanıcı arayüzü boyutu
+Varsayılan ayarlara dönün
+-
+-
+-
+<b>Pazarlama [Yayıncı] kilidi açıldı</b><br><br>Oyuncular en sevdikleri oyunları oynarken, giderek daha fazla kişi oyunları internetten izliyor. Doğru yaparsak oyunlarımızı tanıtmak ve hedef kitleye doğrudan ulaşmak için kullanabiliriz.
+<b>Pazarlama [İnternet] kilidi açıldı</b><br><br>İnternet, reklam kampanyaları için gittikçe daha önemli hale geliyor. Bu nedenle, internette reklam kampanyaları başlatmayı da düşünmeliyiz.
+<b>Yeniden Yapım'ın kilidi açıldı </b><br><br>Eski bir oyunun yeni bir ihtişamla parlamasına izin vermek harika bir fikir olmaz mıydı? Hızlı para ve mutlu oyuncular!
+<b>MMO'lar ve Sunucu Odası'nın kilidi açıldı </b><br><br>Artık MMO oyunları geliştirebilir ve gerekli sunucu odasını oluşturabilirsiniz.
+-
+<b>Lisansların kilidi açıldı </b><br><br>Artık lisans satın almak için yeterli paranız var. Resmi bir lisans kullanan zayıf bir oynanışa sahip oyunlar bile saygıdeğer bir şekilde satılır.
+<b>Hareket Yakalama stüdyosu kilidi açıldı</b><br><br>Animasyonlarımızı mükemmelleştirmek için bir hareket yakalama stüdyosu kurmalıyız. Maliyetleri çok yüksek olmasına rağmen kârlı olacaktır. Bunun hakkında ne düşünüyorsun?
+-
+-
+-
+-
+-
+-
+<b>2.Platform kilidi açıldı </b><br><br>Artık oyunlarınızı iki platform için geliştirebilirsiniz. Bu, daha geniş bir müşteri yelpazesine ulaşmanızı sağlar.
+<b>3.Platform kilidi açıldı </b><br><br>Artık oyunlarınızı üç platform için geliştirebilirsiniz. Bu, daha geniş bir müşteri yelpazesine ulaşmanızı sağlar. 
+<b>4.Platform kilidi açıldı </b><br><br>Artık oyunlarınızı dört platform için geliştirebilirsiniz. Bu, daha geniş bir müşteri yelpazesine ulaşmanızı sağlar. 
+<b>Kopya korumasının kilidi açıldı </b><br>Bugün ilk etkili kopya koruması yayınlandı. Artık oyunlarınızı kopya korumasıyla koruyabilirsiniz.
+<b>Devam oyunu kilidi açıldı </b><br><br>Oyunlarınızdan biri basından iyi bir puan aldı. Daha sonraki bir tarihte devam oyunu geliştirmeyi düşünmeliyiz.
+-
+-
+Hata Düzeltme
+Oynanışı Geliştir
+Oyun Raporu Oluştur
+Çoklu Platform Oyunu
+Retro Oyun
+▪ Çoklu Platform oyunlar herhangi bir platformda yayınlanabilir.<br>Böylelikle oyun geniş bir kitleye sunulabilir.
+▪ Retro oyunlar yalnızca<br>halihazırda piyasadan kaldırılmış olan platformlarda yayınlanabilir.<br>Bu oyunlar birçok hayran kazandırır ve oyun test ediciler oyunları bu kadar katı bir şekilde derecelendirmez.
+Retro oyunlar yalnızca halihazırda piyasadan çekilmiş platformlarda yayınlanabilir!
+Retro bir oyunda platformları değiştirmek mümkün değildir!
+Retro
+<NAME> için yeni bir özel oyun bize ulaştı. Bakalım satın almaya değer mi?
+Retro Özel! <NAME> sahipleri yeni bir oyunu dört gözle bekliyor. Beklentinin haklı olup olmadığını kontrol ediyoruz.<br>
+Hangi oyun kontrol edilmeli ve düzeltilmeli?
+Oyuna geliştirme zaten yapıldı
+İşlemde
+Bir oyun iyileştirmesi seçmediniz!
+<NAME1> için oynanış iyileştirmesi tamamlandı
+Desteği Yeniden Ata
+Grafik İyileştirme
+<NAME1> için grafik iyileştirmesi tamamlandı
+Oyun özelliği <color=yellow><NAME></color> gerektirir
+Yüksek Kaliteli Sesler
+<NAME1> için ses iyileştirmesi tamamlandı
+Yüksek kaliteli animasyonlar
+<NAME1>için Hareket Yakalama kaydı tamamlandı
+Oda bağlantılarını göster
+UI-Dropup (Oyunu duraklat)
+Oyun Raporlarını Görüntüle
+Oyunlarınızın bir raporunu oluşturduğunuzda, oyun konseptinizin olumlu ve olumsuz ayarlarını kontrol edebilirsiniz.
+Otomatik olarak oyun raporları oluştur
+<NAME1> için oyun raporu tamamlandı
+Oyun incelemeleri için öncelik
+Konular ve hedef grup <color=yellow><NAME></color> ile uyumlu mu?
+Alt Konu Yok
+<color=yellow><NAME></color> için uygun alt türler
+Mükemmel Tasarım Ayarları
+Çalışanları işten çıkarmak, tüm çalışanlarınız arasında kötü bir ruh haline neden olabilir!
+Moral Bozukluğu
+Bir çalışanın işten çıkarılması kötü bir ruh haline neden oldu. Çalışanlarınız artık işlerinden korkuyor ve motivasyonları azaldı.
+Bu yıl <color=blue>E3 Fuarına</color> katılmak ister misiniz?
+Lütfen standınızın boyutunu seçin. Stand ne kadar büyükse, o kadar çok ürün sunabilirsiniz. Ayrıca büyük stantlar daha fazla ilgi çekmektedir.
+Küçük Kabin
+Orta Kabin
+Büyük Kabin
+Oyun Konsolları
+Katılma
+E3 Fuarı
+Standın Boyutu
+<Color=blue>E3 Fuarında</color> hangi ürünleri sergilemek istersiniz?
+Oyun Seç
+Konsol Seç
+Ürünü Kaldır
+<Color=blue>E3 Fuarında</color> sergilenecek en az bir ürün seçmelisiniz!
+Standınıza gelen ziyaretçi sayısı
+Bu yıl <color=blue><NUM></color> ziyaretçi bekleniyor.
+Organizatör fuar için <color=blue><NUM></color> adet bilet satıldığını bildirdi.
+Hangi oyun için ücretli bir eklenti geliştirmek istiyorsun?
+Eklenti Sayısı
+Eklenti Adı
+En Çok Satan Bütçe Sürümleri
+En Çok Satan Eklentiler
+En çok Satılan Paketler
+Yeni Oyun Özellikleri
+Eklenti İçeriği
+Eklenti
+Yeni Öğeler
+Yeni Zorluklar
+Yeni Düşmanlar
+Yeni Oyun modları
+Yeni Oyuncu karakterleri
+Yeni Oyun mekaniği
+Yeni Oyun dünyası
+Yeni Bölüm
+Eklentinin henüz yeni içeriği yok!
+Eklentiye bir isim vermelisiniz!
+Çok fazla oyun özelliği seçildi!
+Rakiplerin Sayısı
+Yeni içerik geliştirin
+Oyun Paketi
+Bütçe Sürümü
+Bağımsız Eklenti
+▪ Normal eklentiler ana oyunu gerektirir.<br>Ana oyunun satışlarını arttırırlar,<br>ancak ana oyunun satışlarını aşamazlar.<br><br>▪ Tek Başına Eklentiler ana oyunu gerektirmez ama yeni bir bölüm ekler.<br>Ana oyunun satış rakamları etkilenmez.<br>Ancak satış rakamları ana oyundakinden daha yüksek olabilir.
+Eklenti Tamamlandı
+Bu eklentiyle ilgili en gerekli çalışma tamamlandı. Ana oyun bir yayıncı tarafından dağıtılırsa, sözleşmeye bağlı olarak eklentinin aynı yayıncı tarafından dağıtılması gerekir.
+İlgilenen Yayıncılar
+Eklentiyi Yayıncıya Teslim Et
+Ana Oyun
+Ve son olarak, en sevdiğiniz oyunların en son eklentileri için kısa incelemeler. Her zamanki gibi, size hangi eklentinin faydalı olduğunu gösteriyoruz!
+Tahmini Yaş Derecelendirmesi
+Baş Tasarımcı
+Mad Games Yazılım Derecelendirmesi
+Yaş Derecelendirmesi
+<color=blue><NAME></color> MGSR'den aşağıdaki yaş sınıflandırmasını aldı:
+Mevcut Çalışanlar
+▪ Baş tasarımcının <renk=blue>oyun tasarımı</color> konusunda yüksek düzeyde bilgi sahibi olması gerekir.<br>Bu oyun üzerinde çalışan tüm çalışanlar bu değere bağlı olarak<br> bir bonus alacaktır.<br>< br>▪ Baş tasarımcı bu odada olmalıdır.
+Baş Tasarımcı Olarak Ata
+Gelişimin İlerlemesi
+Çalışan Ayarları
+Oyun Açıklaması
+İsteğe bağlı olarak oyun için bir açıklama yazabilirsiniz.
+Oyun açıklaması yok
+Baş tasarımcı seçilmedi!
+Tarihsel Rastgele Olaylar
+Fazla Mola
+Yeterince Mola
+Az Mola
+Biraz Baskı Uygula
+Orta Baskı Uygula
+Yüksek Baskı Uygula
+Molaların Sayısı
+Çalışanlar Üzerinde Uygulanan Baskı
+Motivasyon Yenilenmesi
+Kriz Zamanı
+Maaş anlaşmalarını otomatikleştir
+Ne kadar az molaya izin verilirse,<br>motivasyon o kadar hızlı azalır.
+Yüksek iş baskısı, çalışanlarınızın daha hızlı çalışmasını sağlar.<br>Ancak sonuç olarak işlerinin kalitesi düşer.
+Burada çalışanlarınızın salonu kullanması için<br>motivasyon düzeyini ayarlayabilirsiniz.
+Kriz zamanının hangi gelişim aşamasında başladığını belirlemenizi sağlar.<br>Kriz zamanında çalışanlarınızın tüm ihtiyaçları göz ardı edilir.<br><br>Ancak dikkatli olun! Zor zamanlarda çalışanlar işten çıkma eğilimindedir.
+Uzmanlık alanı, hangi yeteneğin <color=blue>100</color> olarak eğitilebileceğine karar verir.<br> Diğer tüm yeteneklerin <color=blue>50</color> sınırı vardır.
+Uzmanlık Alanı
+Gerekli Oynanış Özellikleri
+Seçilen platformlar aşağıdaki oyun özelliklerini gerektirir:
+Özel Yayıncı Sözleşmesi
+Hiçbir yayıncı size sözleşme teklif etmiyor. Yayıncılarla ilişkinizi geliştirmelisiniz!
+Sözleşme Süresi
+Anında Ödeme
+Çok Oyunculu
+Oyuncular Bekleniyor...
+Oyuncu Lobisi
+Lobiden Ayrıl
+Oyunu Başlat
+Lobi Dolu
+Oyunun Başlamasını Bekleyin...
+Oyuncu Verileri
+Bir oyuncu ve şirket adı girmelisiniz!
+Oyun Oluştur
+Katıl
+Oyuncu olarak katılın
+Oyun oluşturun
+Ana Bilgisayarın IP'si
+Sunucu Bağlantısı Kesildi!
+Oyuncular Bekleniyor...
+Oyun sürümleri farklı olduğu için bağlantı kesildi.
+Liderlik Tablosu [Çok Oyunculu]
+Sohbet [Çok Oyunculu]
+>> <NUM> Motor lisans ücreti ödedi <<
+>> Motorunuzu <NUM> << karşılığında satın aldı
+Tamamlandı [Cilalama]
+Geliştirmeyi bitir
+<NUM> Ay
+<NAME> ile gerçekten özel bir sözleşme imzalamak istiyor musunuz?
+<NAME> ile zaten özel bir sözleşmeniz var! Kalan süre <NUM> ay.
+<NAME> ürünü ile özel bir sözleşme oluşturuldu! Kalan süre <NUM> ay.
+<color=blue>"<NAME>"</color> Yayıncıya Teslim Et
+<NAME> ile yapılan özel sözleşme sona erdi. Artık oyunlarınızı yeniden kendiniz yayınlayabilir veya yeni bir yayıncı bulabilirsiniz.
+<b>Liderlik</b><br>Güçlü liderlik becerilerine sahip çalışanlar, lider geliştirici olarak görevlendirilirlerse bir bonus verirler.
+<b>Çok Yönlü</b><br>İkincil yetenekler için sınır artırıldı.
+Henüz tüm Avantajları seçmediniz!
+Harita
+Sanayi Parkı-A
+Atari Makinesi
+Mobil Oyun
+▪ Atari oyunları sadece "Arcade (Atari) Sistem Kartları" için geliştirilebilir.
+▪ Mobil oyunlar sadece cep telefonlarında yayınlanabilir.
+Oyunu Taşıma (Port)
+Bu mülkü gerçekten satın almak istiyor musun?
+Bu binanın taban alanı <color=blue><NUM1></color> metrekaredir.<br>Satın alma fiyatı <color=red><NUM2></color>.
+Bir virüs, mevcut oyun için bazı grafik dosyalarınızı sildi. Grafik sanatçılarınız şimdi kaybı telafi etmeye çalışıyor.
+Bir çalışanın müzik yıldızı arkadaşı, oyununuz için ücretsiz bir oyun müziği besteledi.
+Aşırı yorgun bir programcı, son birkaç saatini bazı temel unsurları yeniden çalışmakla geçirdi. Ne yazık ki o kadar odaklanmamıştı ki bazı hatalar oluştu.
+Programcılarınızdan biri muhtemelen "ayın çalışanı" olmak istiyor ve gece vardiyasında çalışıyor. Sonuç, oyunun önemli ölçüde artırılmış performansıdır.
+Ekibinizle spontane bir beyin fırtınası oturumu sırasında, yeni oyununuz için bazı iyi fikirler doğdu. Geliştiriciler hemen işe koyuldu ve bu fikirlerden bazılarını hayata geçirdiler.
+Yüksek tirajlı bir oyun dergisi, mevcut oyununuz hakkında olumsuz bir rapor yayınladı. Ne yazık ki bu, ilginin biraz düşmesine neden oldu.
+Geliştiricilerinizden biri, geçerli oyununuzla ilgili ekran görüntülerini ve bilgileri tanınmış bir oyun dergisine yasa dışı bir şekilde gönderdi. Neyse ki, basılı rapor iyi karşılandı ve ilgi arttı.
+Mevcut oyun için bir müzik parçası, grafiklerden çok fazla hit andırıyor. Davadan kaçınmak için bu müzik parçası kaldırıldı.
+Farklı giriş aygıtları için geçerli sürücülerle ilgili sorunlar vardı. Bazı işlevler hemen yeniden yazılmalıdır.
+Seviye tasarımcılarınızdan biri kazara zaten tamamlanmış bir seviyenin üzerine yazdı. Tam seviye şimdi yeniden oluşturulmalıdır.
+Programcılarınız şanslı. Bazı hata raporlarının yanlış olduğu ortaya çıktı. Bu bize çok zaman kazandırır.
+Grafik tasarımcılarınızdan biri boş zamanlarında mevcut oyun üzerinde çalışmaya devam etti. Sonuç olarak birçok yetersiz grafik geliştirildi.
+Ses uzmanlarınızdan biri kütüphanesinde oluşturduğu eski bir müzik parçası buldu. Bu parça mevcut oyuna son derece iyi uyuyor.
+Programcılarınız en son SDK'yı aldı ve hemen güncelledi. Böylece bazı teknik sorunlar çözülebilir.
+<b>Video Oyunu Krizi <br><color=blue>%50 daha az oyun satışı </color></b><br><br>Bilgisayar oyunları pazarı çöktü.<br> Önümüzdeki aylarda satış rakamları tüm oyunlar için keskin bir düşüş yaşayacak.<br> Umarım piyasa yakında istikrar kazanacaktır.
+<b>Video Oyunu Patlaması <br><color=blue>%50 daha fazla oyun satışı </color></b><br><br>Bilgisayar oyunları endüstrisi güçlü bir yükseliş yaşıyor.<br> Önümüzdeki aylarda , tüm oyunlar önemli ölçüde daha iyi satılır.
+<b>Sipariş Durgunluğu <br><color=blue>yeni sipariş yok </color></b><br><br>Siparişlerde küresel bir düşüş meydana geldi.<br> Bu dönemde size yeni iş teklifleri gelmeyecek.
+<b>İşgücü Sıkıntısı <br><color=blue>yeni çalışan başvurusu yok </color></b><br><br>BT sektörü ciddi bir çalışan eksikliğinden şikayet ediyor.<br> Hiçbir çalışan yakın zamanda başvuruda bulunmayacak..
+<b>Bankacılık Krizi <br><color=blue>%200 daha fazla faiz </color></b><br><br>Dünya çapında bir bankacılık krizi patlak verdi.<br> Artık tüm bankalar önemli ölçüde daha yüksek faiz oranları talep ediyor.
+<b>Efsaneler Çağı <br><color=blue>%200 daha fazla efsanevi çalışan</color></b><br><br> Birçok deneyimli çalışan yeni bir iş arıyor.<br> Önümüzdeki aylarda daha fazla efsane oyun geliştirici sizin için geçerli olacak.
+<b>Emlak Krizi <br><color=blue>%100 daha fazla mülk fiyatları </color></b><br><br>Dünya çapında bir emlak krizi, gayrimenkul satın alma fiyatlarını büyük ölçüde artırdı.<br> Yıkılması gereken binalar için bile muazzam meblağlar talep ediliyor.
+<b>Salgın<br><color=blue> Çalışanların hastalanma olasılığı %300 arttı </color></b><br><br>Küresel bir grip salgını beklenmedik bir şekilde iş dünyasını sarstı. <br>Neyse ki, hastalığın seyri hafiftir, ancak yine de iş performansı gözle görülür şekilde azalmıştır.
+<b>Enerji Krizi <br><color=blue>Sunucular için %100 daha fazla işletim maliyeti </color></b><br><br>Enerji krizi, elektrik fiyatlarının fırlamasına neden oluyor.<br> Yakın gelecekte sunucular için işletme maliyetleri %100 artacaktır.
+<b>İletken Sıkıntısı<br><color=blue>Konsol üretim maliyeti +100 ₺ artar.</color></b><br><br>Yarı iletken maddelerin fiyatları aniden yükseldi.<br>Yakın zamanda konsolların üretim maliyetleri çok artacak.
+Oyun Kılavuzu S/B
+Oyun Kılavuzu Renkli
+Baskı
+Poster
+Etiket
+Oyun Dünyası Haritası
+Oyun Kağıtları
+Düğme Rozeti
+Anahtarlık
+Oyun Müziği
+Kollektör Figürü
+Fiyatlar ve Paket İçeriği
+Üretim Maliyeti
+Standart Sürüm
+Delüks Sürüm
+Koleksiyoncu Sürümü
+Sürümün İçeriği
+Satış için sürüm öner
+Temel Maliyetler
+Daha iyi sürümler, küçük sürümlerin içeriğini otomatik olarak alır.
+<Color=blue>Şubat 2003</color>'de kilidi açılacak.
+Perakende Fiyatı
+Üret. Maliyeti
+Standart Sürüm Teklifi
+Deluxe Sürüm Teklifi
+Koleksiyoncu Sürümü Teklifi
+Dijital Sürüm Teklifi
+F2P oyunları ve dijital sürümleri
+<b>F2P oyunlarının ve dijital dağıtımın kilidi açıldı</b><br><br> Artık F2P oyunları geliştirebilir ve oyunlarınızı dijital sürüm olarak çevrimiçi dağıtabilirsiniz.
+Satış için bir perakende veya dijital versiyon sunmadınız.
+Delüks Sürüm, Standard Edition'dan daha fazla içeriğe sahip olmalıdır.
+Koleksiyoncu Sürümü, küçük sürümden daha fazla içeriğe sahip olmalıdır.
+Oyun kaç hafta sonra çıkacak?
+<NUM> hafta
+Stok
+Siparişler
+Dijital sürüm
+▪ Standart sürüm ve dijital sürüm aynı fiyatta olmalıdır. <br>▪ Daha iyi sürümler, bir sonraki alt sürümden en az<br><br>daha pahalı olmalıdır. <br>▪ Bütçe sürümleri en fazla 10 Türk lirasına mâl olabilir ve <br>yalnızca standart sürüm olarak yayınlanabilir.
+Geliştirme Tamamlandı
+Yalnızca Dijital Sürüm
+Üretim Sırası
+Oyun Üret
+İkincil Pazarlama
+Taban Fiyat
+Lütfen her baskı için istediğiniz üretim miktarını seçin.
+Otomatik Üretim
+Otomatik üratimi etkinleştirmediyseniz, miktarını belirlemeniz gerekir.
+<NAME1> için üretim tamamlandı
+Dağıtım Seçenekleri
+<b>Dağıtım Seçenekleri</b><br>Burada kendi dağıtımınızı yönetebilirsiniz.
+İçerik yalnızca stok boşsa değiştirilebilir!
+Oyunları otomatik olarak piyasadan kaldırın
+Oyunu piyasadan kaldırmak istediğinizden emin misiniz?
+Piyasadan <color=blue><NAME></color>'u manuel olarak aldınız. Ürün artık mevcut değil.
+Hile Koruma Yazılımı
+Hile Koruma Yazılımı
+Stoğu Sat
+Kullanılabilir depolama alanı yok.
+Tüm Stoğu Sat
+Tüm stoğu gerçekten satmak istiyor musunuz? Bütçe sürümlerinin bir dağıtıcısı size bir teklifte bulundu.
+Hangi oyunu <color=blue>bütçe sürümü</color> olarak yeniden yayınlamak istersiniz?<br> Yalnızca <color=blue>bir yıldır</color> mevcut olmayan oyunlar seçilebilir.
+<color=blue><NUM></color> müsait olan haftalar
+Müsait Olan Haftalar
+Bütçe sürümünü hangi etiket altında yayınlamak istiyorsunuz?
+Klasik
+Gümüş
+En İyi Seçim
+Platin
+<color=blue>Yeniden yayınlama mümkün</color>
+Bütçe sürümü için içerik seçemezsiniz!
+Hayranlar en sevdikleri türe göre ayrılır.
+Pazar Araştırması
+Toplam Hayran
+Yeni pazar araştırması yap
+Henüz pazar araştırması yapılmadı. Yakında hangi <color=blue>türün</color> trend olacağını veya hedef grubun hangi <color=blue>platform</color> ile ilgileneceğini öğrenmek için bir pazar araştırması başlatın.
+Pazar Araştırması Tamamlandı
+Pazar araştırması, <color=blue><NAME></color> platformunun en çok satacağını göstermiştir.
+<color=blue><NAME></color>'den nihai rapor
+Hedef grup<color=blue><NAME></color> platformuna en az ilgi duyan gruptur.
+Pazar araştırması, <color=blue><NUM1></color> oyuncunun<color=blue> perakende sürümünü</color> ve <color=blue><NUM2></color> dijital sürümünü <color=blue> tercih ettiğini gösterdi.</color>.
+<color=blue><NUM1></color> alıcıların <color=blue>Delüks sürümü</color> ve <color=blue><NUM2></color> koleksiyoncu sürümü <color=blue>ile ilgilendiği görüldü</color>.
+<Color=blue>%80</color> olasılıkla bir sonraki trend <color=blue><NAME1></color> ve <color=blue><NAME2></color> olacak.
+<color=blue>%80</color> olasılıkla <color=blue><NAME1></color> ve <color=blue><NAME2></color> popüler olmayacak.
+Pazarlama departmanında pazar araştırması yapabilirsiniz.
+Motorunuzu satmak istiyorsanız satış fiyatını veya lisans ücretini belirlemelisiniz.
+İş ikonu sesini devre dışı bırak
+Tüm Zamanların En İyi Oyunları
+Uygulama İçi Satın Alımlar
+Kozmetik Eşyalar ve Dış Görünümler
+Binek ve Evcil Hayvanlar
+Güçlendirici Paketler
+Güçlü Öğeler
+Özel Oyun Karakterleri
+Örnekler ve Bölgeler
+Finansman
+Oyun özelliği gerektirir <color=orange>Uygulama içi satın alımlar</color> gerektirir.
+Temel Maliyetler
+Teknoloji
+İçerik ve Özellikler
+Toplam Ücret
+Ücretler ve Lisanslar
+Bütçe kesintilerinin oyunun kalitesi üzerinde<br>olumsuz bir etkisi olabilir.
+<Color=orange>Sözleşmeli oyunlar</color> için finansman azaltılamaz.
+Oyun maalesef bazı yerlerde bütçenin kısıldığını gösteriyor.
+[Motorun teknoloji seviyesi çok yüksek]
+Hayranlarınız <NAME> serisinin devam oyununu dört gözle bekliyor. Bir heyecan bonusu aldınız.
+<b>Seviye II öğelerinin kilidi açıldı</b><br><br>Artık ofislerinizi en yeni nesil öğelerle donatabilirsiniz.
+<b>Seviye III öğelerin kilidi açıldı</b><br><br>Artık ofislerinizi en yeni nesil öğelerle donatabilirsiniz.
+<b>Seviye IV öğelerinin kilidi açıldı</b><br><br>Artık ofislerinizi en yeni nesil öğelerle donatabilirsiniz.
+<b>Seviye V öğelerinin kilidi açıldı</b><br><br>Artık ofislerinizi en yeni nesil öğelerle donatabilirsiniz.
+Seviye II Öğeler
+Seviye III Öğeler
+Seviye IV Öğeler
+Seviye V Öğeler
+<b>Karmaşıklık</b><br> Bir platformda geliştirmek ne kadar zor olursa,<br> oyunu geliştirmek için o kadar fazla zaman gerekir. 
+Çok oyunculu mod hala erken bir durumda. Bazı önemli işlevler eksiktir ve bağlantı kesilebilir.
+Henüz <color=blue>hile koruma yazılımı</color> yayınlanmadı.
+<b>Hile koruma kilidi açıldı</b><br> Artan sayıda korsan yazılımla mücadele etmek için, bugün profesyonel bir hile koruma yazılımı piyasaya sürüldü. Artık oyunlarınıza hile önleme yazılımı ekleyebilirsiniz.
+Hile Koruma Yazılımı
+Satın alınan hile koruma yazılımları
+Güncel olmayan hile koruma yazılımını gizle
+Bu hile koruma yazılımını gerçekten satın almak istiyor musunuz?
+Hile koruma yazılımını kaldırın
+Hile koruma yazılımı yok
+Sadece çok oyunculu oyunlarda hile koruma yazılımı eklemek mantıklıdır.
+Kopya korumasıyla, oyunun piyasada korsan kopyaları daha azdır.
+Yeni hile koruma yazılımı mevcut
+Bu nesne henüz mevcut değil.
+Özel Platform
+Özel bir platform seçmelisiniz!
+Motorun teknoloji seviyesi, özel platformun teknoloji seviyesinden daha yüksek!
+Platform Yok
+Uzmanlık türü ve platformu, kritik iş sonuçları elde etme şansını artırır.
+Konuşma balonlarını göster
+Bir yayıncı ile özel bir sözleşme imzaladığınızda, tüm oyunların o yayıncı tarafından dağıtılmasını sağlamakla yükümlüsünüz.
+Sunucu Bekleniyor...
+Oyunu kaydetme mevcut değil
+Sunucu sahibi oyunu kaydetmek istiyor.
+Bağlantı Noktası: 7777
+Abonelik Ücreti
+F2P iş modeli
+MMO'yu F2P'ye Dönüştür
+Sunucuyu aç/kapat
+Duvarları göster/gizle
+Bir oyun sunucusuna sahip olmak istiyorsanız, 7777 numaralı bağlantı noktasını açmanız gerekir.
+Bir <color=blue>MMO veya F2P oyunu</color> geliştirmek istiyorsanız,<color=blue> Çevrimiçi Çok Oyunculu</color> oyun özelliğini eklemeniz gerekir.
+Abonelikler
+Lütfen aylık abonelik için fiyatı ayarlayın.
+Toplam Gelir
+Satış
+Sunucuları gerçekten kapatmak istiyor musunuz? Bu sunucularda barındırılan tüm abonelikleri kaybedeceksiniz.
+Sunucuları başlatmak istiyor musunuz? Aylık sunucu maliyetlerini tekrar ödemeniz gerekecek.
+Sunucu Kapalı
+Oyunu Bileti
+MMO
+F2P
+Hangi MMO için bir eklenti geliştirmek istiyorsunuz?
+Daha Yüksek Seviye Sınırı
+Yeni Öğeler
+Yeni Evcil Hayvanlar ve Binekler
+Yeni Yan Görevler
+Yeni Düşmanlar
+Yeni Oyuncu Karakterleri ve Sınıflar
+Yeni Oyun Dünyası ve Örnekleri
+Yeni Ana Görev Serisi
+<b>Standart oyunlar için özel seçenekler </b><br>▪ Eklentiler ve Tek Başına Eklentiler Oluşturma<br> ▪ Yeniden yapım oluşturma<br> ▪ Bütçe sürümü olarak yayınlama<br> ▪ Pakette yayınlama
+<b>MMO'lar için özel seçenek  </b><br>▪ Bir MMO eklentisi oluşturma
+<b>F2P'ler için özel seçenekler </b><br>▪ F2P eklentileri oluşturun<br>▪ Yalnızca dijital dağıtım<br>▪ Yayıncıya gerek yok.
+MMO Eklentisi için en az 3 yeni içerik seçmelisiniz!
+<NAME>MMO eklentisinin geliştirilmesi,<br> na oyun piyasadan kaldırıldığı için iptal edildi.
+Sunucular aşırı ısınıyor! <br><color=red>%50 Performans Kaybı</color>
+Platform İnternete Hazır
+Bir MMO veya F2P oyunu geliştirmek istiyorsanız, tüm platformlar internete hazır olmalıdır!
+Öğretici
+Sonraki
+Önceki
+Otomatik olarak duraklat
+Bir oyuncu bir menüyü açtığında oyun otomatik olarak durur.
+<color=green> >> Yeni bir mülk satın aldı << </color>
+<color=green> >> '<NAME>' oyununu yayınladı << </color>
+<color=green> >> '<NAME>' motorunu yayınladı << </color>
+Bankanız, şirket hesabınızın birkaç aydır eksi bakiyesi olduğunu size bildirdi. Hesap bakiyenizi temizlemeniz için size<color=blue> 12 aylık </color>bir süre verilecektir. Aksi takdirde,<color=blue> iflas </color>edebilirsiniz.
+Uyarı
+Hesabınızın dengelenmesi için gereken ay sayısı.
+Oyun Bitti
+<b>Şirketiniz iflas etti!</b><br><br> Oyun bitti! Ne yazık ki, şirketiniz de teknoloji şirketlerinin kalabalık mezarlığına gömülmelidir.<br> Bir dahaki sefere bol şans!
+İncelemeler için artan rastgele faktör
+<NAME> Stüdyosu
+Bul
+Otomatik olarak en iyi eşyalarla geliştir
+Bu odadaki bütün eşyaları gerçekten geliştirmek istiyor musunuz?
+Bu özellik sadece çok oyunculu modda kullanılabilir.
+Bir oyuncuyu destekleyebilir veya sabtojlayabilirsiniz. Ne yapmak istiyorsunuz?
+Destek
+Sabotaj
+Çalışan üşüyor!
+Bütün eşyalar güncel!
+Çalışan burayı temiz bulmuyor!
+Çalışan burayı rahat bulmadı!
+Kullanıcı Yorumları
+Basın Yorumları
+Kullanıcı
+Basın
+Geliştirmenin Başlangıcı
+Favori olarak işaretle
+Favori
+Fare ile ekran kaydırma
+Motor faturalandırmasını devre dışı bırak
+Tüm oyun sekmelerini  aç/kapat
+<b>Noel Dönemi</b><br> %50 daha fazla satış
+<b>Yaz Rehaveti</b><br> %30 daha az satış
+<NAME> <color=blue><TEXT></color> konusunda daha etkilidir.
+<b>Sıkılmış Hayranlar</b> <br> Hayranlarınız sürekli olarak (<color=blue><NAME></color>) türüne sahip oyunlar yayınlamaya devam ettiğiniz için sıkılıyor. <br> ▪ Oyun satışlarınız %50 düşer. <br> ▪ Yeni hayran kazanamazsınız.
+Çalışan burayı çok kalabalık buluyor!
+Çalışan simgelerini devre dışı bırak
+Çalışan şikayetlerini devre dışı bırak
+Yasaklandı
+Çeviri maliyetleri oyunun büyüklüğüne bağlıdır.
+Port
+Platin Plaket
+Elmas Plaket
+Platin Plaket Alındı
+Elmas Plaket Alındı
+Konsol Satıcısı: <NAME> <color=blue>+<NUM></color>
+<b>Özel oyun</b><br> Bu oyun sayesinde <NAME> tahmini olarak <color=blue><NUM></color> satıldı.
+Hava efektlerini devre dışı bırak
+<b>Emlak Krizi<br><color=blue> %50 daha ucuz bina fiyatı</color></b><br><br> Tüm dünyada mülk fiyatları düşüyor. Uzmanlar zaten endişe verici bir krizden bahsediyordu.<br> Elbette bu bizi üzmüyor. Uygun alım fiyatlarından memnunuz.
+Üçüncü Parti Motor
+<b>Kızgın Hayranlar</b><br> Son derece hatalı bir oyun yayınladığınız için hayranlarınız kızgın.<br> ▪ Oyun satışlarınız %30 düşer <br> ▪ Yeni hayran kazanamazsınız
+<b>Dağınık</b><br> Bu çalışanlar kirli bir ofiste çalışmaları gerekip gerekmediğini umursamıyorlar.
+<b>İnsancıl</b><br> Bu çalışanlar ofislerin kalabalık olmasından şikayetçi değiller.
+Finansal Destek
+Araştırma Asistanı
+Motor Sağlayın
+Lisans Ver
+Oyuncular
+Mali Destek Miktarı
+>> <NUM> mali destek sağladı <<
+<color=blue><NUM></color> miktarında <color=blue><NAME></color> mali destek verdiniz.
+<color=blue><NAME1> </color> motorunu <color=blue><NAME2> </color> ücretsiz olarak sağladınız.
+>> Size <NAME> motorunu verdi <<
+<color=blue><NAME1> </color> lisansını <color=blue><NAME2> </color> ücretsiz olarak aktardınız.
+>> Size <NAME> lisansını verdi <<
+Otomatik duraklatmayı devre dışı bırak [Tek Oyunculu]
+Hayran mektubu görüntüleme süresi
+Maraton
+Tüm kayıtlı oyunları sil
+DİKKAT!<br>Tüm kayıtlı oyunları silmek istediğinden emin misin?<br>Bu işlem geri alınamaz.
+<color=blue><NAME1></color> oyuncusuna <color=blue>'<NAME2>'</color> teknolojisini verdiniz.
+>> Size '<NAME>' teknolojisini verdi <<
+Yalnızca<color=blue> Bütçe Sürümü </color>olarak piyasaya sürülen ve halihazırda<color=blue><br> piyasadan kaldırılmış</color> oyunları kullanabilirsiniz.
+Paketin Adı
+Paketin Kalitesi
+En az iki oyun seçmelisiniz!
+Oyun seçilmedi
+Boş alan
+Paket için bir isim girmelisiniz!
+Bu paketler için herhangi bir içerik seçemezsiniz!
+Bu ay eski oyunları içeren paketler yayınlandı. İçeriği yakından inceleyip değerlendireceğiz.
+Bu oyunlar pakette yer almaktadır
+Eklenti Paketleri
+Yılın Oyunu Sürümü
+Eklenti paketi için bir<color=blue> ana oyun</color> ve en az<color=blue> eşleşen bir eklenti</color> seçmelisiniz.<br> Tüm ürünler<color=blue> piyasadan kaldırılmış</color> olmalıdır.
+Eklentiler
+Eklenti Paketi
+Önce ana oyunu seçmelisiniz!
+Mevcut Ürünler
+En az bir ana oyun ve bir eklenti seçmelisiniz!
+Tam sürüm
+Yılın Oyunu Sürümü
+Hangi oyunu <color=blue>Yılın Oyunu Sürümü</color> olarak yeniden yayınlamak istersiniz?<br> Yalnızca <color=blue>Yılın Oyunu</color> ödülünü almış ve <color=blue>piyasadan kaldırılmış</color> oyunları seçebilirsiniz.
+Yılın Oyunu
+Paket ismi ne olsun?
+Çalışma hızını ayarlayın
+Küçültülmüş oyun sekmelerinde yalnızca oyun adını göster
+Özel Pazarlama
+Uygulama içi satın alımlarla ek para kazanılabilir.<br> Agresif bir iş modeli<br>oyuncular tarafından olumsuz karşılanabilir.
+Kullanıcı başına aylık tahmini kazanç
+İş modelinin başarısızlığı
+Uygulama içi satın alımlar için<color=blue> Uygulama İçi Satın Alım ve Çevrimiçi Çok Oyunculu </color>oynanış özelliklerine ihtiyacınız var!
+Aboneliklerden elde edilen gelir
+Uygulama içi satın alımlardan elde edilen gelir
+Uygulama İçi Satın Alımlar
+<Color=blue>Uygulama İçi Satın Alım</color><br> oynanış özelliğini araştırdığınızda kilidi açılır.
+Başvuruyu sil
+<Color=orange>Sözleşmeli oyunlar </color>için uygulama içi satın alımları ekleyemezsiniz.
+Otomatik iptal edildi!<br>Başka araştırma yok.
+Bir dizi kötü lisanslı oyun nedeniyle, lisans verenler arasındaki güven azaldı.<br> Şu anda, tüm lisans verenler oyun endüstrisi ile işbirliği yapmayı reddediyor.
+Cilalama
+Hangi oyun geliştirilmeli? Sadece<color=blue> yavaşça</color> cilalamak oyunun kalitesini artırır.
+Türlerin Popülerliği
+Trend
+Popüler değil
+Bu ekran size<br> bir odaya görev atanmamışsa bilgi verir.<br><br><color=blue> Odaya gitmek için tıklayın</color>
+<b>Siber Saldırı <br><color=blue>%30 Daha Az Sunucu Gücü</color></b><br><br> Anonim bir bilgisayar korsanı grubu, ağlara küresel bir saldırı başlattı.<br> Tüm sunucular bundan etkilendi ve performansları ciddi şekilde düştü.
+Beklemeyin
+Grubu yeniden adlandır
+Lütfen grubun adını girin.
+<Color=blue>Oynaması ücretsiz oyunlar</color> için en az bir uygulama içi satın alma seçilmelidir!
+Çevrimiçi Dağıtın
+Oyun tüm çevrimiçi platformlarda kaç hafta içinde piyasaya sürülmeli?
+İndirmeye açık olduğu hafta
+Aktif oyuncular
+F2P Güncelleme
+Tam Ekran Modu
+Pencereli Tam Ekran
+Özel Tam Ekran
+Büyütülmüş Pencere
+Hangi MMO'yu F2P oyununa dönüştürmek istiyorsunuz? Yalnızca<color=blue> piyasadan kaldırılmış </color>veya<color=blue> kendi dağıttığınız</color> MMO'ları dönüştürebilirsiniz.
+<Color=blue>MMO</color> bir oyunu gerçekten <color=blue>F2P</color> bir oyununa dönüştürmek istiyor musunuz?
+Dönüşüm Maliyeti
+[F2P]
+Otomatik Duraklama [Çok oyunculu]
+Otomatik başlat
+Halihazırda piyasada bütçe sürümüne sahipsiniz. Lütfen bütçe sürümü piyasadan kaldırılana kadar bekleyin.
+Piyasada zaten GOTY sürümüne sahipsiniz. Lütfen GOTY sürümü piyasadan kaldırılana kadar bekleyin.
+Güncellemelerin maliyeti
+Hata düzeltmeye otomatik olarak başla
+Cilalamaya otomatik olarak başla
+Arşiv
+Arşivlenen oyun konseptleri, motorları veya oyun raporları tüm menülerde ve listelerde gizlidir.
+Mevcut
+Arşivde
+Özel pazarlama ucuzdur, ancak <color=blue>olumsuz etkisi</color> de olabilir. Her işlem <color=blue>oyun başına yalnızca 1 kez</color> kullanılabilir.
+Beta demosunu yayınla
+Basın için ön yayın
+Yüksek beklenti oluştur
+Sahte kullanıcı incelemeleri
+Geliştirme Sırasında
+Oyun Yayınlandıktan Sonra
+Bir demo, oyunun kalitesine bağlı olarak<br>heyecan oluşturabilir veya beklentiyi azaltabilir.
+Basına bir yayın öncesi sürüm gönderirseniz, oyunun puanlaması üzerinde olumlu veya olumsuz bir etkisi olabilir.
+Sadece oyununuzda en az 90'lık bir beklenti varsa<br>aşırı beklenti oluşturabilirsiniz.<br>Oyununuz çok yüksek bir derecelendirme almazsa, hayranlarınızın hayal kırıklığına uğrayabileceğine dikkat edin.
+Sahte kullanıcı incelemeleri oluştururken yakalanırsanız<br>iyi bir izlenim bırakmaz.
+Bu işlem zaten yapıldı
+<NAME1> için özel pazarlama kampanyası tamamlandı
+Tüm yorumları inceledik ve birçok oyuncunun beta demodan memnun olmadığını gördük. Oyununuza olan beklenti biraz düşebilir.
+Beta demosu için çoğunlukla olumlu yorumlar aldık. Hayranlarınız oyunun çıkışını dört gözle bekliyor. Oyununuza olan beklenti artıyor.
+Basın, oyununuzun ön izleme sürümünü test etti. Ne yazık ki, önizlemeler çoğunlukla olumsuzdu. Bunun nihai derecelendirme üzerinde olumsuz bir etkisi olacağını varsayabiliriz.
+Basın, oyununuzun yayın öncesi sürümünü test etti. Oyun tüm önizlemelerde büyük beğeni topladı. Bu sonucun nihai derecelendirme üzerinde olumlu bir etkisi olacağını varsayabiliriz.
+Maalesef istediğimiz kadar beklenti oluşturamadık. Beklenti normal bir seviyede kalacak.
+Oyunun beklentisini fazlasıyla artırmayı başardık. Umarım ortalama bir ürünle hayranları hayal kırıklığına uğratmayacağız.
+Bazı oyuncular, birçok kullanıcı incelemesinin sahte olduğunu fark etti. Bu sahtekarlık nedeniyle çok sayıda hayranımızı kaybettik.
+Pazarlama departmanımız bu oyun için bazı kullanıcı incelemeleri oluşturdu. Neyse ki, kimse bu sahtekarlığı fark etmedi.
+Bir demo yayınlayın
+Birçok oyuncu, demo sürümünün kalitesinden hayal kırıklığına uğradığını belirtti. Oyununuza olan beklenti biraz düşebilir.
+Birçok oyuncu demo sürümünü oynarken eğlendiğini ve bu nedenle oyunu yakında satın almak istediklerini belirtti. Oyununuza olan beklenti artıyor.
+Ne yazık ki, oyun beklentileri karşılayamadı. Birçok hayran hayal kırıklığına uğradı ve çok daha fazlasını bekliyor. Çok sayıda hayran kaybediyorsunuz ve oyunun beklentisi normal bir seviyeye düşüyor.
+Uygunluk
+Her oyun özelliği bir türe uygun değildir.<br> Uygun olan özelliklerin<br>%50 bonusu vardır.<br> Uygun olmayan özelliklerin yalnızca %10 etkisi vardır.
+Çalışanların binalarını terk edemez
+Mesajı tekrar gösterme
+Nesne seçimini gerçekten devre dışı bırakmak istiyor musunuz?
+Çalışan seçimini gerçekten devre dışı bırakmak istiyor musunuz?
+Lütfen şirketinizin özel türünü seçin. Özel tür, oyunlarınızın inceleme sonucuna <color=blue>%3</color> bonus verir.
+Tüm uygun özellikleri etkinleştir/devre dışı bırak
+Temizlik Robotunun binasını terk etmesine izin verilmez
+Steam Lobisi Oluştur
+Otomatik Kayıt
+12 ayda bir
+9 ayda bir
+6 ayda bir
+3 ayda bir
+Başlangıç ​​Dostu
+Yenilik
+Karakter Tasarımı
+Seviye Tasarımı
+Görev Tasarımı
+Zararsız
+Müstehcen
+Kolay
+Zor
+Tasarım Odağı
+Tasarım Yönü
+Mevcut tüm tasarım puanlarını harcamalısınız!
+Çok fazla tasarım puanı harcadınız!
+Mesaj görüntüleme süresi
+Bilinmeyen Garaj Şirketi
+Garaj Şirketi
+Bağımsız Stüdyo
+Küçük Oyun Geliştiricisi
+Sıradan Oyun Geliştiricisi
+Köklü Oyun Stüdyosu
+Prestijli Oyun Stüdyosu
+Popüler Oyun Stüdyosu
+Tanınmış Oyun Şirketi
+Güçlü Oyun Şirketi
+Efsanevi Oyun Şirketi
+Yeni Stüdyo Derecelendirmesi
+Bilgisayar
+Konsol
+Taşınabilir Konsol
+Cep Telefonu
+Mil
+Platform Türü
+Aktif Kullanıcılar
+İlgi
+F2P oyunlarının ilgisi azaldığında<br> güncelleme geliştirmelisiniz.<br> Bu, ilgiyi tekrar artıracak<br> ve kaybettiğiniz oyuncuları geri kazandıracaktır.
+Bir F2P oyununun güncellenmesi ilgiyi artırır ve oyunun ömrünü uzatır. F2P güncellemeleri oyunculara ücretsiz olarak sağlanmaktadır.
+Hangi F2P oyunu için güncelleme geliştirilmeli?
+Yeni sosyal özellikler
+<NAME> için bir F2P güncellemesi tamamlandı.
+Seçilen platformlar için toplam aktif kullanıcı sayısı.
+Stüdyo derecelendirmesi, dağıtılan oyunları etkiler.
+Yalnızca tasarım ayarlarını kopyala
+MMO oyunlarının ilgisi azaldığında, <br>bir MMO eklentisi geliştirmelisiniz. <br> Bu, ilgiyi yeniden artıracak <br>  ve kaybettiğiniz oyuncuları geri kazandıracaktır.
+Dijital dağıtım açılana kadar mobil oyunlar geliştiremezsiniz!
+Mobil Oyunlar - Tüm Zaman Grafikleri
+Toplam mobil oyun satışı
+Yeni Mobil Oyun
+Yeni Atari Makinası Oyunu
+<b>Yeni mobil oyun</b><br> Mobil oyunlar için geliştirme maliyetleri önemli ölçüde daha düşüktür.
+Mobil oyun uygulama mağazalarında hangi fiyata sunulmalı?
+Fiyat Belirle
+Ana oyun yayınlanana kadar eklentiyi yayınlayamazsınız.
+MadMobileGames.com
+<b>Mobil oyunların kilidi açıldı</b><br><br> İlk akıllı telefon piyasaya sürüldü. Artık mobil oyunlar geliştirebilirsiniz.
+İlk<color=blue> akıllı telefon</color> piyasaya sürüldüğünde kilidi açılacaktır.
+Atölye
+Atari makinası yapabilmek için atölyeyi <color=blue>"Diğer"</color> başlığı altında araştırmanız gerekiyor.
+Atari makinası üretin
+Satılan atari makinası
+<color=blue>Atölyede</color> atari makinası üretebilirsiniz.
+Atari Makinası Kartı
+<color=orange>Atari makinası oyunlarında</color> uygulama içi satın alımlar ayarlanamaz.
+Atari Makinası
+<b>Atari Makinası Oyunu</b><br>▪ Yayıncıya gerek yoktur.<br>▪ Eklenti eklemek mümkün değildir.<br>▪ MMO'lar ve F2P'ler çıkarılamaz.<br>▪ Yaz çöküşünden etkilenmez.<br>▪ Çağrı ve e-posta oluşturmaz.<br>▪ Hile önleme yazılımı ve kopya koruması yoktur.<br>▪ Yeniden yayınlamak mümkün değildir.<br>▪ Platform pazar payından bağımsızdır.
+<b>Mobil oyun</b><br>▪ Yayıncıya gerek yok.<br>▪ Önemli ölçüde daha düşük geliştirme maliyeti vardır.<br>▪ Eklenti geliştirmek mümkün değildir.<br>▪ Yeniden yayınlamak mümkün değildir.
+<b>Bilgisayar ve konsol oyunu</b><br>▪ Yayıncı Özel Sözleşmesi için geçerlidir.
+Atari Makinası Oyunu - Tüm Zamanlar
+Atari makinası oyunlarının toplam satışı
+PC ve konsol oyunlarının toplam satışı
+Pazar araştırması, aşağıdaki platformların çok talep gördüğünü gösterdi:
+Hedef grup, aşağıdaki platformlara az ilgi gösterdi:
+Atari makinası hangi fiyattan satılmalı?
+Bileşen Kalitesi
+Kasa
+Ekran
+Giriş Aygıtı
+Ses Kartı
+Atari Makinaları için Fiyatlar
+Mobil Oyunlar için Fiyatlar
+Bileşenlerin kalitesini daha sonra değiştirmek mümkün değildir.
+Hedef grubun <color=blue><NUM></color> tanesi düzenli olarak <color=blue>atari makinasıyla</color> oynuyor.
+Kar etmiyorsun! Atari makinasının satış fiyatını arttır.
+Yan-Ürün
+<b>Yan-Ürün</b><br>Bir yan-ürün, ana serinin başarısından yararlanır.<br>Uygunluk bonusu,<br>devam serisi kadar yüksek değildir.<br>Ama sınırsız yan-ürün oluşturmak<br>ve ana türü değiştirmek mümkündür.
+Oyunlarınızdan biri<br>en az <color=blue>50.000</color> satıldığında açılır.
+<b>Yan-ürün kilidi açıldı</b><br><br>Oyunlarınızdan birinin satış rakamları mükemmel. Bir yan-ürün geliştirebilirsiniz. Belki başarınız tekrar edebilir.
+Bu inceleme, <NAME> serisinin devamı hakkındadır. Serinin en yeni üyesinin buna değip değmediğini sizin için kontrol ediyoruz.
+<NAME> şirketinden yan-ürünün bir test örneğini aldık. Yazımızda, yan-ürün'ün göz atmaya değer olup olmadığını öğrenebilirsiniz.
+Hangi IP üzerinden bir yan ürün geliştirmek istiyorsun?
+Hayranlarınız, <NAME> şirketinin yan-ürünü olmasından memnun. Oyun bir hype bonusu aldı.
+Hangi oyunu, başka bir platform türüne taşımak istiyorsunuz?
+<color=blue><NAME></color> hangi platform türünde taşınmalıdır?
+Bilgisayar & Oyun Konsolu
+Oyun zaten bu tür bir platformda mevcut.
+<b>Oyun Taşıma</b><br>▪ Platform türü başına yalnızca bir taşıma mümkündür.<br>▪ Hype orijinal oyundan alınmıştır. <br>▪ Geliştirme maliyetleri daha düşüktür.<br>▪ Oyun makinalarına taşımak, orijinal oyunun satış rakamları üzerinde olumlu<br>bir etki oluşturur.
+Hiçbir MMO ve F2P oyun<br>atari makinasına taşınamaz.
+[P]
+Hayranlarınız, başka bir sistemde olan <NAME> oyunun başka bir sisteme taşınmasından memnun. Oyun, orijinal oyunun şu anki hype durumundan faydalanıyor.
+Piyasada bu temaya sahip kaç oyun olduğunu gösterir.
+IP'ler
+Toplam Satışlar
+Toplam Gelir
+IP'nin Popülerliği
+<b>IP'nin popülerliği</b><br>Popülerlik, IP'nin tüm oyunlarını etkiler.<br>İyi bir reytinge sahip oyunlar veya<br>ödül alan oyunlar popülerliği artırır.
+<color=blue><NAME></color> IP'sinin tüm oyunları
+Mil
+Oyun ve eklenti sayısı:
+Atari makinası üretin
+Dahili motor
+<b>Açgözlü</b><br>Önemli ölçüde daha yüksek maaş talep ederler.
+<b>Bağışıklığı baskılanmış</b><br>Bağışıklığı yetersiz çalışanlar önemli ölçüde daha sık hastalanırlar.
+<b>Stressiz</b><br>Yoğun zamanlarda mola verir.
+<b>Odaklanmamış</b><br>Daha sık hata yapar ve<br>böylece daha sık bug oluştururlar.
+<b>Yeteneksiz</b><br>İş arkadaşlarına göre daha yavaş öğrenirler.
+<b>Piksel sanatçısı</b><br>Retro oyun geliştirirken daha yüksek grafik puanları üretirler.
+<b>Taşıma uzmanı</b><br>Oyun taşındığında daha yüksek teknoloji puanları üretirler.
+<b>Hayalperest</b><br>Devam oyunları için sürekli yeni fikirleri vardır.<br>Bir devam oyunu geliştirildiğinde, bu çalışanlar daha yüksek oyun puanları üretirler.
+<b>Motor uzmanı</b><br>Oyun motorlarını çok daha hızlı geliştirebilirler.
+En iyi oyun
+En kötü oyun
+Not Ortalaması
+Toplam İstatistik
+Toplam Masraf
+<b>Şanssız</b><br>Çalışanların hiçbir zaman kritik iş sonuçları olmaz.
+<b>İşkolik</b><br>Çalışanlar sözleşmeli işleri çok daha hızlı tamamlayabilirler.
+<b>Verimli</b><br>Çalışanlar tüm görevleri marjinal olarak daha hızlı tamamlayabilir.
+Fiyatı yalnızca ön sipariş yoksa değiştirebilirsiniz.
+Konsol Adı
+Konsol Geliştir
+Ne tür bir konsol geliştirmek istiyorsunuz? Oturma odası için sabit bir konsol mu? Veya hareket halindeyken kullanabileceğiniz bir mobil konsol mu?
+Yeni Sabit Konsol
+Yeni Mobil
+Daha önce yayınlanmış bir oyunu konsola önceden yükleyebilirsiniz.<br>Oyunun bu konsolda çalışması otomatik olarak yapılır.
+Konsola ne kadar çok girdi aygıtı eklenirse,<br>üretim maliyetleri o kadar yüksek olur.
+Görsel olarak modern bir konsol, satın alma davranışı<br>üzerinde olumlu bir etkiye sahip olabilir.
+Ana İşlemci
+Ana RAM
+Grafik Çipi
+Ses Kartı
+Dahili / Harici Bellek
+Soğutma Sistemi
+Veri Taşıma
+Ekran
+Teknolojik olarak en eski bileşen,<br>konsolun son teknoloji düzeyine karar verir.
+Giriş Aygıtı
+Kasa
+Konsol Özellikleri
+Yalnızca mobil konsollar
+Yalnızca sabit konsollar
+Sadece mobil konsollar
+Sadece sabit konsollar
+Bileşen Derecelendirmesi
+Konsol Bileşeni
+Kontrol Et
+Önceden Yüklenmiş Klasik Oyun
+Bağlanabilen Giriş Cihazlarının Sayısı
+Eski ve yeni bileşenleri karıştırarak<br>konsolun karmaşıklığı artar.<br>Bu, geliştirme çabasını ve maliyetlerini artırır.
+Performans Arttırıcı Bileşen
+Kontrol Et veya Ek Cihaz
+Performans Puanları
+Renk Tonu
+Doygunluk
+Oyun Seçilmedi
+Oyunu Kaldır
+Konsol Özellikleri
+İnternet Özelliği Gerektirir
+Tüm Özellikleri Etkinleştir/Devre Dışı Bırak
+İnternet Özelliği
+Konsol internete bağlanabilir
+Bazı konsol özellikleri internet erişimi gerektirir.
+Henüz uygun değil
+Konsola bir isim vermelisin!
+Konsol adı zaten alınmış!
+Sıkışma zamanı yok
+Parlaklık
+IP'nin isteğe bağlı adı
+<color=green> >> '<NAME>' konsolu yayınlandı. << </color>
+Baş Teknisyen
+▪ Baş teknisyen, <color=blue>Donanım ve Mühendislik</color> konusunda yüksek bilgiye sahip olmalıdır.<br>Konsol gelişiminde çalışan tüm personel,<br>bu değere bağlı olarak bir ikramiye alacaktır.<br>Geliştirme süresini azaltacaktır.<br><br>▪ Baş teknisyen bu odada olmalıdır.
+Baş teknisyen olarak kullan
+Platform hala geliştirilme aşamasında!
+Henüz tüm platformlar piyasaya sürülmedi!<br>Bu ürünü piyasaya sürmek için tüm hedef platformlar ticari olarak mevcut olmalıdır.
+Konsol Tamamlandı
+Konsolu Yayınla
+Konsolu Iskartaya Çıkart
+Donanım departmanınız konsolunuzun pazara hazır bir prototipini tamamladı. Konsolu şimdi yayınlayabilir veya daha sonraki bir tarihe erteleyebilirsiniz.
+Bu konsolu gerçekten ıskartaya çıkartmak istiyor musun? Bu işlem geri alınamaz!
+Konsol satış fiyatı
+Konsolun mevcut üretim maliyetleri
+Optimize edilmiş üretim süreçleri ve azalan donanım maliyetleri,<br>zaman içinde üretim maliyetlerini azaltır.
+Geliştirme Kiti
+Konsolu hangi fiyata satmak istiyorsunuz?
+Geliştirme Kiti Fiyatı
+Üçüncü taraf oyunlara izin ver
+Satış fiyatını otomatik olarak ayarla
+Mevcut Maliyet Azaltma
+Konsol Derecelendirmesi
+Basın, yeni konsolunuzun performansını ve genel paketini halihazırda mevcut konsollarla karşılaştırdı.
+Konsolu Piyasadan Kaldır
+Performans değerlendirmesi
+Konsolun Genel Değerlendirmesi
+Konsolu piyasadan kaldırmak istediğinizden emin misiniz?
+Konsol Üretimi
+Konsol Geliştirme
+Diğer konsollara performans kıyasla
+>> Geliştirme Kitinizi <NUM> karşılığında satın aldı. <<
+<color=blue><NAME1></color> firması, <color=blue><NAME2></color> geliştirme kitini satın aldı.
+Ana platform seçilmediği için oyunu yayınlayamazsınız! Önce "Platformu Değiştir" menüsünden bir ana platform seçin.
+Konsol Ayrıntıları
+<NUM> Konsol(lar)
+Teknik Bileşenler
+"Görevi İptal Et" seçeneğine basıldığı zaman mesaj kutusunu gösterme
+Piyasa Doygunluğu
+Maksimum
+Her odadaki nesneleri otomatik olarak güncelleyin.
+Gerçekten tüm odalardaki eşyaları güncellemek istiyor musun?
+En yüksek grafik konumu
+Bilinen en uygun ayarları otomatik olarak uygulayın.
+Atölyeler
+Bu odada,<br>aşırı kalabalıktan şikayet etmeden kaç çalışanın çalışabileceğini gösterir.
+<DATE1> ile <DATE2> arası
+Bu kayıtlı oyun güncel sürüme ait değil.<br>Eski kayıtlı oyunlarda hatalar oluşabilir,<br>ve bazı özellikler çalışmayabilir.
+Tüm Konsollar
+Sabit Konsollar
+Mobil Konsollar
+En Çok Satan Konsollar
+Satış Geçmişi
+Rakip firma, konsolunuz için bir oyun yayınladı.
+<b><NUM></b> iş yerinden aşırı kalabalık
+<NUM> Kazanım Kaldı
+Yeni sözleşmeler hazır olana kadar bekle
+Yeni sözleşmeli iş bekleniyor
+Çok Zor
+İptaller
+Odana git
+Daha sonra yayınla
+Satış fiyatını otomatik olarak <color=blue><NUM></color> karda tutun
+Sağ fare tuşu ile menüleri kapatın
+En az bir motor özelliği, seçilen platformlardan daha yüksek bir teknoloji seviyesine sahiptir.
+Seçilen motorun teknoloji seviyesi
+En zayıf platformun teknoloji seviyesi
+Üreticiye özel oyun
+▪ Üreticiye özel oyunlar yalnızca kendi konsollarınızda yayınlanabilir.<br>Ayrıcalıklar, konsolların satışını biraz artırabilir.
+Yalnızca üreticiye özel bir oyun geliştirmek istiyorsanız kendi konsolunuz için üretmeyi seçebilirsiniz!
+<b>Üreticiye Özel Oyun</b><br>Bu oyun aracılığıyla tahmini <color=blue><NUM></color> konsol satıldı.
+Yeni oyunlar çıkana kadar bekle
+Yeni oyun raporu oluşturuluncaya kadar bekle
+Devam et
+Döndürürken Yakalama
+Kalan stoğu otomatik olarak sat
+Seçimi Kaldır
+Sırada
+Geliştirmeyi Tamamla
+Geliştirmeyi tamamla ve ürünü daha sonraki<br>bir tarihte yayınla.
+Çalışan Arama
+Profesyonel Deneyim
+İş İlanı
+Genç Profesyoneller
+Becerikli Çalışan
+Uzman
+Başarı Şansı
+Gerekli Zaman
+▪ Ne kadar çok iş tecrübesi gerekiyorsa,<br>bir çalışan bulma şansı o kadar düşük olur.<br>▪ Yüksek bir stüdyo derecesi çalışan bulma başarı şansını artırabilir.<br>▪ Uygun bir çalışan bulmak için geçen süre, seçilen<br>iş deneyimine bağlıdır.
+Maliyet: <NUM>
+<color=blue><NAME></color> iş ilanımıza başvurdu. Bu kişiyi işe almak ister misin?
+<b>Çalışan Arama</b><br>Maalesef, aranan özelliklere uygun çalışan bulunamadı.
+Çalışan araması başarıyla tamamlandı
+Satış fiyatını otomatik olarak ayarla
+Konsolun donanımı eski.<br>Bu, üretim maliyetlerini artırır.
+Oynanış Özellikleri
+Tamamlanmış
+Etkinleştirilmiş çok fazla oyun özelliğiniz var.
+Oyuncu Hazır
+Hazır
+Yayınlama Teklifi
+Hangi oyunu dağıtmak istiyorsunuz?
+▪ Stüdyo itibarınız ne kadar yüksek olursa, size o kadar çok oyun teklifi sunulur.<br>▪ Bu oyunlar için deneyim elde edemezsiniz.<br>▪ IP ve oyun konsepti<br>geliştiricinin mülkiyetinde kalır. Bu nedenle, varisler,<br>eklentiler, güncellemeler geliştiremez veya oyunu port edemezsiniz.
+Garanti Tutarı
+Ciro Payı
+Tahmini Kalite
+Yayınlama Tekliflerinin Sayısı
+Sözleşme Teklifi
+<color=blue><NAME1></color> geliştiricisine <color=blue><NAME2></color> oyunu için bir sözleşme teklifi gönderin.
+Ruh Hali
+Teklif Yap
+Sözleşme görüşmeleri başarısız oldu! Geliştirici başka bir yayıncı arayacak.
+Sözleşmeyi İmzala
+Kızgın
+Gergin
+Memnun
+Sil
+Dağıtım
+Dağıtılmış Oyunlar
+Perakende + Dijital
+Sadece Perakende
+Sadece Dijital
+Bu oyunu kutulu sürüm olarak dağıtamazsınız.
+Bu oyunu dijital olarak dağıtamazsınız.
+Geliştiriciye yalnızca haftada bir teklif gönderebilirsiniz.
+Ortalama Beceriler
+Meslek başına çalışan sayısı
+Toplam Beceriler
+Meslek başına başvuranlar
+Tüm sürümleri üretmek gerekli değildir. <br>Delüks veya Koleksiyoncu sürümü üretilmezse,<br> alıcılar otomatik olarak Standart sürümü satın alır.
+Ticari Başarısızlık
+İyi derecelendirmeye rağmen, <color=blue><NAME></color> piyasada yerini tutamıyor ve ticari bir başarısızlık gibi görünüyor.
+Hata Tespit Edildi
+<color=blue><NAME></color> oyununun alıcıları, kalite kontrolümüzün gözden kaçırdığı hataları bildirdiler. Daha uzun bir cilalama periyodu, hataların tespit edilmeme şansını azaltır. En kısa zamanda bir yama geliştirmeniz tavsiye edilir.
+Oyun Hata İçeriyor
+Sürpriz Başarı
+Şans bizden yana. <color=blue><NAME></color> satış rakamları beklenenden çok daha yüksek. Bu oyun yılın sürpriz başarısı olabilir.
+En iyi beceri
+En son başvuranlar
+<b>Yeni tür kombinasyonu</b><br>▪ +%10 Fazla satış
+<b>Yeni konu kombinasyonu</b><br>▪ +%3 Fazla satış
+Yeni tür kombinasyonu
+Yeni konu kombinasyonu
+Sanayi Bölgesi
+Palmiye Plajı
+[Öğretici mevcut]
+Giant Warehouse
+Sözleşmeli oyunları gizle
+Geliştirme süresi: <color=blue><NUM> hafta</color>
+En iyi çalışanı otomatik olarak seç
+Baş teknisyen seçilmedi!
+En popüler IP'ler
+F2P İndirmeleri
+Bilgisayar & Konsol Oyunları
+Oyunlar için filtre seçenekleri
+Standart oyunlar
+IP'ler
+Hisseler
+Hepsini göster
+Yalnızca PC ve konsol oyunlarını göster
+Yalnızca atari makinelerini göster
+Yalnızca mobil oyunları göster
+Yalnızca kendi konsollarını göster
+Rastgele tür kombinasyonları
+Bileşenler
+Yalnızca sıradaki oyunları göster
+En çok oynanan F2P oyunları
+Bütçe Oyunları
+Oyun Paketleri
+Mobil Oyunlar
+Atari Makineleri
+Başarılar
+Kilidi açılmış başarıları gizle
+<NUM2> Başarıdan <NUM1>
++<NUM>% PC ve konsol oyunu satışı
++<NUM>% atari makinası oyunu satışı
++<NUM>% mobil oyun satışı
++<NUM>% eklenti satışı
++<NUM>% ikincil pazarlama satışı
++<NUM>% uygulama içi satın alma
++<NUM>% üretilen konsol satışı
++<NUM>%  oyunlar tarafından oluşturulan hayranlar
++<NUM>% eğitim hızı
++<NUM>% çalışma hızı
+Toplam bonus
+Bu sipariş zaten başka bir oyuncu tarafından kabul edildiğinden geliştirme başlatılamıyor.
+Henüz uygun türü araştırmadığınız için sipariş kabul edilemiyor.
+The order cannot be accepted because you have not yet researched the appropriate game size.
+Motorunuzu sözleşmeli oyun <color=blue><NAME1></color> için kullandınız. Bu size kârdan pay alma hakkı verir.
+Her şeyi arşivden kaldır/arşivle
+Kopya Koruması ve Hile Koruması
+Geliştirme sırasında kopya koruma ve hile önleme yazılımını değiştirebilirsiniz.
+Ek geliştirme maliyetleri
+Ürünler hangi <color=blue>IP</color>'dan sunulmalıdır?
+En az bir ürün stokta yok!
+Ürün öğeleri otomatik olarak yeniden sıralanır
+▪ Ürün başına minimum sipariş miktarı 5.000 adettir.<br>▪ Bir IP ne kadar iyi bilinirse o kadar çok ürün satılabilir.<br>▪ Hayranlarınızın sayısı satış rakamlarını artırır.
+Bardak
+Tişört
+Çizim Kitabı
+Kolye
+Şapka
+Tabela
+Madeni Para
+Koleksiyon Figürü
+Ürün
+Sipariş Miktarı
+Alış Fiyatı
+Satış Rakamları
+Sipariş Maliyeti
+Otomatik olarak yeniden sırala
+Geçen hafta: <b><NUM1></b><br>Toplam: <b><NUM2></b>
+Satış fiyatlarını tüm IP'lere uygula
+<NUM> IP için satış fiyatları kabul edildi.
+Malzeme Siparişi
+Ürün
+<NAME> için <NUM> tutarında ürün sipariş edildi.
+Tüm IP'ler için otomatik olarak yeniden sırala
+Tüm IP'ler için otomatik geçiş yap
+Ürün Karı
+Gerekli IP Popülaritesi
+Hayran Mağazasını Yönet
+Siparişleri Al
+Talep Et
+Mevcut ve Geçen Ay
+Satışı Durdur
+Bu IP için hiçbir ürün satılmayacaktır.
+Bu IP için ürün satılmaktadır.
+Tüm IP'ler için satışı değiştir
+IP'ler ve Fiyatlar
+Çalışanlarınızın <color=blue>ürünlerin siparişlerini</color> alması gerekir. <color=blue>Talep</color> ne kadar yüksek olursa, o kadar çok çalışana ihtiyaç duyulur.
+<NAME> oyununun devamı ne tür bir platform için geliştirilecek?
+<NAME> oyununun, yan ürünü ne tür bir platform için geliştirilecek?
+Dereceli puanlama anahtarının değeri ne kadar yüksek olursa,<br>çalışanın o dereceli puanlama anahtarı için puan kazanma şansı o kadar yüksek olur.
+Geliştirme sırasında tasarım önceliğini değiştirebilirsiniz. Bu, özellikle bir bölüm ciddi şekilde ihmal edilmişse önerilir.
+Kamerayı 90 derece döndür
+Özel Oyunlar
+Gelecek Hafta
+Kendi Geliştirdiği Oyunlar
+Masalar
+Dolaplar
+TV'ler ve Radyolar
+Resimler
+Halılar
+Ödüller
+Tablolar
+Bitkiler
+Lambalar
+Çeşitli
+Oturma Alanları
+Temizlik Robotu
+Sağlık Nesneleri
+Eğlence
+Makineler
+Sunucu
+Soğutma Sistemleri
+Depolama Yerleri
+Eğitim Nesneleri
+Ses Stüdyoları
+Hareket Yakalama
+Atölyeler
+Çalışma Yerleri
+<b>Küresel Tedarik Darboğazı<br><color=blue>%50 hayran ürünü satışı</color></b><br><br>Hammadde kıtlığı nedeniyle dünya çapında lojistik sorunlar yaşanıyor.<br> Sonuç olarak, mal talebi yeteri kadar karşılanamaz.
+Yalnızca piyasadan kaldırılmış oyunları göster
+<color=blue>İlk oyununuzu</color> yayınladıktan sonra kilidi açılır.
+Yalnızca eşleşen teknoloji düzeyine sahip platformları göster
+Uygun olmayan konuları gizle
+Eşleşen konular
+Eşleşmeyen konular
+[A]
+En Yüksek Gelirli Oyunlar
+IP'nin ihmal edilmesi
+En son oyun <NUM> hafta önce piyasaya sürüldü.
+Bağlantı noktalarını gizle
+Eklentileri gizle
+Tüm türler
+En yüksek abonelikler
+En yüksek oyuncu sayıları
+Zirve
+Mevcut abonelikler
+Mevcut oyuncu sayıları
+Düşük
+Orta
+Yüksek
+En son yayınlanan oyunlarınızın türleri.<br>Aynı türü çok sık yayınlarsanız hayranlarınız sıkılır.<br>Özel türünüz olan <NAME> bundan hariç tutulur.
+Satılık değil
+Sözleşmeyi iptal et
+Sözleşmeyi erken feshedebilmek için <NUM> ceza ödemeniz gerekecek. Ayrıca, bu yayıncıyla olan ilişki bozulacaktır.
+<NAME> ile özel sözleşmeyi gerçekten iptal etmek istiyor musunuz?
+Kritik hata! Steam ile bağlantı yok.
+Platform popülerliği, platform ömrünü uzatır
+Özel bir oyun geliştirdiğinizde, geliştirme maliyetlerini azaltmak için platform üreticisinden mali destek alırsınız.
+Özel bir oyun için platformları değiştirmek mümkün değil!
+Mad Games Convention "gösterme"
+Yılın En'lerini "gösterme"
+Rastgele olayları "gösterme"
+İştirakler
+Bağlı şirketler
+Bağlı şirketleri gizle
+Özel Oyun İndirimi
+Şirket satın al
+<NAME> ürününü <NUM> fiyata gerçekten satın almak istiyor musunuz?
+Stüdyo ayarları
+Gelir payınız
+Bağlı şirketi aç/kapat
+Bu şirket kapatıldı
+Bu bağlı şirket bir yayıncı değil!
+Aylık yönetim maliyetleri
+Bağlı şirketi yükselt
+Yayıncıya yükselt
+Geliştiriciye yükselt
+<NAME> gerçekten yükseltmek istiyor musunuz? Yükseltme maliyeti <NUM>.
+<NAME> firmasını gerçekten Yayıncıya yükseltmek istiyor musunuz? Yükseltme maliyeti <NUM>.
+<NAME> firmasını gerçekten Geliştiriciye yükseltmek istiyor musunuz? Yükseltme maliyeti <NUM>.
+Bir şirket adı girmediniz!
+Şirket Logoları
+Bağlı şirketiniz hangi talimatları izlemelidir?
+İlerleme
+Aktivite
+İzin verilen geliştirme süresi
+Tamamlanmak üzere
+Ürünün yaklaşık yayın süresi <NUM> hafta
+Geliştirme aşamasında olan oyun yok
+Öncelikli oyun boyutu
+Öncelikli tür
+Senin tarafından yayınlanan oyunlar
+Yalnızca kendi konsollarınız için özel oyunlar geliştirin
+MMO oyunlarının geliştirilmesine izin ver
+F2P oyunlarının geliştirilmesine izin ver
+Eklentilerin ve MMO eklentilerinin geliştirilmesine izin ver
+Atari makinesi oyunları geliştirme
+Mobil oyun geliştirme
+Retro oyun geliştirme
+Oyunu taşıma (port) geliştirme
+Bütçe oyunları yayınlama
+GOTY sürümü yayınlama
+Kısa
+Dengeli
+Cömert
+Özellik yok
+Yeniden yapım (remaster) geliştirme
+Devam oyunu gelitştirme
+Kapalı
+Tüm bağlı şirketler için ayarları uygula
+Bağlı şirketleri sat
+Ayarlar tüm bağlı şirketlere uygulandı.
+Bağlı şirketler tarafından geliştirilen oyunlar
+<NAME> bağlı şirketinizi <NUM> karşılığında gerçekten satmak istiyor musunuz?
+Şirket tüm devralma tekliflerini reddetti. Daha sonraki bir tarihte tekrar deneyin.
+<NAME> adlı bağlı şirketinizi piyasaya sürülmeye hazır yeni bir oyuna sahip. Bunu kendiniz mi dağıtmak istiyorsunuz, yoksa bağlı şirketiniz mi dağıtmalı?
+Bağlı şirket oyunu yayınlasın
+Oyunu kendin yayınla
+Ürün piyasaya sürülmeye hazır
+Tahmini Puan:
+<b>Bağlı şirket oyunu yayınlıyor.</b><br>▪ Bağlı şirketiniz gerekirse bir yayıncı arar.<br>▪ Tüm satışların %<NUM> değerini alırsınız.
+<b>Kişisel Dağıtım</b><br>▪ Gelir payınız <NUM>%.<br>▪ Arcade makine oyunları, mobil oyunlar ve F2P'ler her zaman yan firma tarafından dağıtılır.
+Geliştiricilerle gelir paylaşımı
+Pazardan kaldırılan oyunları gizle
+Piyasadaki bağlı şirketlerin oyunları
+Kar paylaşımınız
+Bağlı şirket oyunu
+Bağlı şirketiniz <NAME1> size <NAME2> oyunu için bir açıklama gönderdi.
+Bağlı şirketlerinden gelen açıklamalarını görüntüleme
+Kesintiler
+Bu bağlı şirket bir oyun dağıttığında,<br>geliştirici satılan her oyun için <NUM> alır.
+Öncelikli konu
+Aşağıdaki IP'ye odaklanın
+Kendi yayıncıları aracılığıyla dağıtımı tercih edin
+Çalışanların istifalarını göstermeyin
+IP'yi kaldır
+Şirket içi motoru kullan
+Motoru kaldır
+Tahmini derecelendirme
+Tahmini derecelendirmeden daha kötü olan tüm oyunlar<br>bağlı şirketiniz tarafından otomatik olarak yayınlanır.
+Öğeyi kopyala
+Aşağıdaki platformlara odaklan
+Bağlı firmaların oyunları işaretleyin [★]
+Oyuncu
+Yalnızca kendi geliştirdiğin oyunları göster
+▪ <b>Yılın Oyunu</b><br>Geliştirici olmalı ve toplamda yüksek puan almalısınız.<br><br>▪<b>En İyi Ses</b><br>Geliştirici olmalı ve yüksek bir ses puanı almalısınız.<br><br>▪ <b>En İyi Grafik</b><br>Geliştirici olmalı ve yüksek bir grafik puanı almalısınız.<br><br>▪ <b>Yılın Yayıncısı</b><br>Çok sayıda kaliteli oyun dağıtmanız ve satmanız gerekmektedir.<br><br>▪ <b>En İyi Geliştirici</b><br>You need to develop a lot of high-quality games.<br><br>▪ <b>Yılın En Kötü Oyunu</b><br>Geliştirici olmalısınız ve oyununuz eğlenceli olmamalıdır.
+IP'yi aktar
+Şirketinize veya bağlı firmanıza hangi IP'yi atamak istiyorsunuz?
+Şu anda bu IP için bir ürün geliştirilmektedir. IP'yi aktarabilmek için önce geliştirmeyi iptal etmeniz gerekir.
+IP aktarımı şu anda mümkün değil.
+<b>Mad Games Ödülleri - Kazanan</b><br>Hayranlarınız, "Mad Games Ödülleri"nde onurlandırılmanıza çok sevindi.<br>+%<NUM>satılan oyun yüzdesi<br>
+Avrupa Malikanesi
+Due to the price increase <NUM> pre-orders have been cancelled!
+Automatically activated
+Has not been researched
+Genre not been researched!
+Genre or topic not been researched!
+Game type not been researched!
+Suitable genre
+Unsuitable genre
+Toy
+Board Game
+Comic
+<color=blue><NUM></color> of the players have access to the <color=blue>Internet</color>.
+No information available!
+<b>Console & Computer Games</b><br>If weekly sales fall below <color=blue><NUM></color>, the game<br>is automatically removed from the market.
+Open "Game completed" menu when all bugs have been removed
+Current project
+This subsidiary is not a developer
+Set game speed
+Each player has permission to set the game speed.<br>If this function is disabled,<br>only the host may set the game speed.
+Show result of market research
+Calls are chargeable <color=blue>[2$]</color>
+If the support is paid, you will lose<br>significantly more dissatisfied fans.
+You can perform customer support in the support department.
+Number of products
+Standard prices
+Standard prices for newly created IPs
+Propose salary
+-
+Salary negotiation
+An employee asks for a salary increase
+If your employee is angry,<br>he will stop the negotiation
+I would like a monthly salary of <NUM>.
+Willingness to negotiate
+Accept salary increase
+No willingness to negotiate!
+You haven't chosen a main genre yet!
+Remove all
+OK. I agree with your offer. (monthly salary: <NUM>).
+Last chance! I want a monthly salary in the amount of <NUM>.
+Arcade Machines [Orders]
+No platform is <color=blue>internet enabled</color>.
+▪ The better your game is, the higher the chance that you will level up.<br>▪ Addons have a lower chance of getting XP.
+<b>Disappointed fans</b><br>Your fans are disappointed because you released a series of bad games.<br>▪ -40% units sold<br>▪ No new fans
+Announced game
+No game was announced
+<color=blue><NAME1></color> has announced the game <color=blue><NAME2></color>.
+NPC developer announces a game
+Announced games
+Game mode
+▪ In sandbox mode, some stuff is already unlocked and<br>you have infinite money.<br><br>▪ No Steam achievements are unlocked in sandbox mode.
+Standard game
+Sandbox
+<size=20>∞</size>
+This review is about the port of <NAME>. We check how the game performs on the system.
+Automatically place furniture
+Improved pathfinding for your employees [Beta]
+Bigger games have a longer development time.
+You need at least <NUM> gameplay features for the <NAME> game size.
+Min.
+Development time
+Standard
+Realistic
+▪ As the experience level increases, the development costs decrease.<br>▪ The gameplay, graphics, technology and sound points increase.<br>▪ The development time is reduced.<br>▪ Fewer bugs are generated.

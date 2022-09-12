@@ -1,0 +1,72 @@
+﻿Hurrican;Stwórz grę akcji z oceną co najmniej 70%.
+Marble Maze;Stwórz grę zręcznościową z oceną co najmniej 70%.
+Dr. Lario;Stwórz grę logiczną z oceną co najmniej 70%
+The Island of Monkeys;Stwórz grę przygodową z oceną co najmniej 70%.
+Dungeons and Masters;Stwórz grę RPG z oceną co najmniej 70%.
+Cywilizacja;Stwórz grę strategiczną z oceną co najmniej 70%.
+Super Lario World;Stwórz platformówkę z oceną co najmniej 70%.
+Spaceship: Elite;Stwórz grę symulacyjną z oceną co najmniej 70%.
+California Cup;Stwórz grę sportową z oceną co najmniej 70%.
+Mad Oil Tycoon;Stwórz grę ekonomiczną z oceną co najmniej 70%.
+Backstreet Fighter;Stwórz grę walki z oceną co najmniej 70%.
+Simulation City: 1602;Stwórz grę budowlaną z oceną co najmniej 70%.
+Dragon's Cave;Stwórz interaktywny film z oceną co najmniej 70%.
+Commander Yuri;Stwórz grę strategiczną z oceną co najmniej 70%.
+BOOM;Stwórz Strzelankę pierwszoosobową.
+Lepsze niż Książka;Stwórz powieść wizualną, której ocena wyniesie co najmniej 70%.
+Max Brain;Stwórz trzecioosobową strzelankę z oceną co najmniej 70%.
+The Test Drivers;Stwórz grę wyścigową z oceną co najmniej 70%.
+Retromania;Stwórz grę w stylu retro.
+Świat Meridian;Stwórz grę MMO.
+Czy gra jest naprawdę darmowa?;Stwórz grę F2P.
+Włóż monetę!;Stwórz automat Arcade.
+Wszyscy lubią węże;Stwórz grę na telefon 
+Urodzony, by być programistą;Stwórz swój własny silnik.
+Wojna Konsol;Stwórz swoją własną konsolę stacjonarną.
+To mieści się w mojej kieszeni;Stwórz własną konsolę przenośną.
+Premia;Stwórz grę kontraktową.
+Pakiety;Utwórz pakiet gier.
+Rabat;Wydaj grę budżetową.
+Pełne Wydanie;Opublikuj pakiet dodatków do gry.
+Spin Off;Utwórz spin off.
+I, II, III, IV;Stwórz sequel gry.
+Przenoszenie gier jest łatwe;Przenieś grę na inną platformę.
+Lepsze niż oryginał?;Stwórz remaster jednej ze swoich gier.
+Trendsetter;Jedna z Twoich gier powinna wyznaczyć nowy trend.
+Gra Roku;Jedna z Twoich gier musi zostać nagrodzona jako Gra Roku.
+Deweloper Roku;Zdobądź nagrodę Dewelopera Roku.
+Wydawca Roku;Zdobądź nagrodę dla Wydawcy Roku.
+Eye Candy;Jedna z Twoich gier musi dostać nagrodę za najlepszą grafikę.
+Wspaniała ścieżka dźwiękowa;Jedna z Twoich gier musi dostać nagrodę za najlepszy dźwięk.
+To nie może być prawda!;Jedna z Twoich gier musi zostać uznana za najgorszą grę roku.
+Overhype!;Stwórz overhype dla jednej z Twoich gier.
+Kontrahenci;Podpisz umowę na wyłączność z wydawcą.
+To było dużo pracy!;Osiągnij reputację wśród klientów na poziomie 100%.
+Teraz stanę się bogaty;Wyprodukuj i rozpowszechnij grę bez wydawcy.
+To jest przyszłość!;Osiągnij rok 2050 w grze.
+Wydawca!;Opublikuj grę od Firmy NPC.
+Mój najlepszy przyjaciel!;Zmaksymalizuj relacje z wydawcą.
+Złoto;Sprzedaj co najmniej 1,000,000 sztuk gry.
+Platyna;Sprzedaj co najmniej 10,000,000 sztuk gry.
+Diament;Sprzedaj co najmniej 50,000,000 sztuk gry.
+80%;Jedna z Twoich gier musi otrzymać ogólną ocenę co najmniej 80%.
+90%;Jedna z Twoich gier musi otrzymać ogólną ocenę co najmniej 90%.
+100%;Jedna z Twoich gier musi otrzymać ogólną ocenę co najmniej 100%.
+Wszyscy mnie kochają!;Posiadaj co najmniej 1,000,000 fanów.
+Nie lubię być sam;Rozpocznij grę wieloosobową z co najmniej jednym przyjacielem.
+To jest moja drużyna!;Rozpocznij grę wieloosobową z czterema przyjaciółmi.
+Intellectual Property;Zmaksymalizuj popularność IP.
+Legendarna firma gier;Zmaksymalizuj reputację swojego studia.
+Mistrzowskie;Posiadaj pracownika z doświadczeniem 100% w dowolnej umiejętności.
+Pracodawca I;Zatrudnij co najmniej 20 pracowników.
+Pracodawca II;Zatrudnij co najmniej 50 pracowników.
+Pracodawca III;Zatrudnij co najmniej 100 pracowników.
+Kieszonkowe pieniądze;Posiadaj co najmniej 50,000,000 dolarów.
+To nie wystarczy!;Miej co najmniej 500,000,000 dolarów.
+Klub Trzech Przecinków;Posiadaj co najmniej miliard dolarów.
+Wojna konsol II;Sprzedaj co najmniej 10,000,000 egzemplarzy swojej konsoli.
+Lider na Rynku;Sprzedaj co najmniej 50,000,000 egzemplarzy swojej konsoli.
+Nazywam się Sid Maier;Zatrudnij legende twórców gier.
+Wycieczka na Zakupy I;Kup dewelopera lub wydawcę.
+Wycieczka na Zakupy II;Kup co najmniej 10 deweloperów lub wydawców.
+Wycieczka na Zakupy III;Kup co najmniej 30 deweloperów lub wydawców.

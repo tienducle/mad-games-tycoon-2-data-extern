@@ -1,0 +1,72 @@
+﻿Hurrican;Crie um jogo de ação com uma nota de pelo menos 70%.
+Marble Maze;Crie um jogo de habilidade com uma nota de pelo menos 70%.
+Dr. Lario;Crie um jogo de puzzle com uma nota de pelo menos 70%.
+The Island of Monkeys;Crie um jogo de aventura com uma nota de pelo menos 70%.
+Dungeons and Masters;Crie um jogo de RPG com uma nota de pelo menos 70%.
+The Civilizations;Crie um jogo de estratégia com uma nota de pelo menos 70%.
+Super Lario World;Crie um jogo de plataforma com uma nota de pelo menos 70%.
+Spaceship: Elite;Crie um jogo de simulação com uma nota de pelo menos 70%.
+California Cup;Crie um jogo de esporte com uma nota de pelo menos 70%.
+Mad Oil Tycoon;Crie um jogo de simulação econômica com uma nota de pelo menos 70%.
+Backstreet Fighter;Crie um jogo de luta com uma nota de pelo menos 70%.
+Simulation City: 1602;Crie um jogo de construção com uma nota de pelo menos 70%.
+Dragon's Cave;Crie um jogo de filme interativo com uma nota de pelo menos 70%.
+Commander Yuri;Crie um jogo de estratégia em tempo real com uma nota de pelo menos 70%.
+BOOM;Crie um jogo de tiro em primeira pessoa com uma nota de pelo menos 70%.
+Better Than a Book;Crie um jogo de visual novel com uma nota de pelo menos 70%.
+Max Brain;Crie um jogo de tiro em terceira pessoa com uma nota de pelo menos 70%.
+The Test Drivers;Crie um jogo de corrida com uma nota de pelo menos 70%.
+Retromania;Crie um jogo retro.
+World of Meridian;Crie um jogo MMO.
+Is the Game Really Free?;Crie um jogo F2P.
+Insert Coin!;Crie um jogo de fliperama.
+Everyone Likes Snakes;Crie um jogo de celular.
+Born to Be a Programmer;Crie uma nova engine.
+Console War;Crie seu próprio console de mesa.
+This Fits in My Pocket;Crie seu próprio console portátil.
+Bonus Payment;Crie um jogo de contrato.
+Bundles;Crie um pacote de jogos.
+Discount;Relance um jogo.
+Complete Edition;Crie um pacote de DLC.
+Spin Off;Crie um spin-off.
+I, II, III, IV;Crie uma sequência para um jogo.
+Game Porting Made Easy;Converta um jogo para outra plataforma.
+Better Than the Original?;Crie uma remasterização de um de seus jogos.
+Trendsetter;Crie uma nova tendência em um de seus jogos.
+Game of the Year;Receba o prêmio Jogo do Ano em um de seus jogos.
+Developer of the Year;Receba o prêmio Desenvolvedor do Ano.
+Publisher of the Year;Receba o prêmio Publisher do Ano.
+Eye Candy;Receba o prêmio Melhor Gráfico em um de seus jogos.
+A Great Soundtrack;Receba o prêmio Melhor Som em um de seus jogos.
+This Can't Be Right!;Receba o prêmio Pior Jogo do Ano em um de seus jogos.
+Overhype!;Crie um overhype em um de seus jogos.
+Contractors;Assine um contrato exclusivo com uma publisher.
+That Was a Lot of Jobs!;Conquiste uma reputação de 100% com os contratantes.
+Now I Will Become Rich;Produza e distribua um jogo sem uma publisher.
+This Is the Future!;Chegue ao ano 2050 no jogo.
+Publisher!;Publique um jogo de uma empresa NPC.
+My Best Friend!;Maximize a amizade com uma publisher.
+Gold;Venda pelo menos 1.000.000 de unidades de um jogo.
+Platin;Venda pelo menos 10.000.000 de unidades de um jogo.
+Diamond;Venda pelo menos 50.000.000 de unidades de um jogo.
+80%;Receba uma nota geral de pelo menos 80% em um de seus jogos.
+90%;Receba uma nota geral de pelo menos 90% em um de seus jogos.
+100%;Receba uma nota geral de pelo menos 100% em um de seus jogos.
+Everyone Loves Me!;Tenha pelo menos 1.000.000 de fãs.
+I Don't Like to Be Alone;Inicie uma partida multijogador com pelo menos um amigo.
+This Is My Team!;Inicie uma partida multijogador com quatro amigos.
+Intellectual Property;Maximize a popularidade IP em um de seus jogos.
+Legendary Game Company;Maximize a reputação de seu estúdio.
+Masterful;Tenha um funcionário com experiência de 100% em qualquer habilidade.
+Employer I;Tenha 20 funcionários.
+Employer II;Tenha 50 funcionários.
+Employer III;Tenha 100 funcionários.
+Pocket Money;Tenha $50,000,000.
+That Is Not Enough!;Tenha $500,000,000.
+Three Commas Club;Tenha $1.000.000.000.
+Console war II;Venda pelo menos 10.000.000 de unidades de seu próprio console.
+Market Leader;Venda pelo menos 50.000.000 de unidades de seu próprio console.
+My Name Is Sid Maier;Contrate um desenvolvedor lendário.
+Shopping Tour I;Compre uma empresa NPC desenvolvedora ou publisher.
+Shopping Tour II;Compre 10 empresas NPC desenvolvedoras ou publishers.
+Shopping Tour III;Compre 30 empresas NPC desenvolvedoras ou publishers.

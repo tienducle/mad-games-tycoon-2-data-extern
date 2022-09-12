@@ -1,0 +1,188 @@
+﻿-;-
+Local de trabalho I;Local de trabalho para desenvolvimento. Quanto maior<br>a qualidade, melhor o resultado do trabalho.
+Aquecedor;Os funcionários que estão com frio ficam<br>insatisfeitos mais rapidamente.
+Lâmpada I;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Lixeira;Sempre mantenha seus escritórios limpos,<br>caso contrário, seus funcionários ficarão insatisfeitos.
+Bebedouro;Funcionários com sede ficam insatisfeitos mais rapidamente.
+Local de trabalho I;Local de trabalho para pesquisa. Quanto maior<br>a qualidade, melhor o resultado do trabalho.
+Planta;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Cacto;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Planta tropical;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Banheiro;Aqui, as necessidades mais importantes são feitas.
+Pia;Você deve sempre lavar as mãos!
+Poster UFO;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Pôster do Robô;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Poster Aleon;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Poster Retro;seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Poster Star Ship;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Disco de ouro;Você ganha este prêmio à cada jogo<br>que vender pelo menos 1.000.000 de unidades.
+Desenho artístico I;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Desenho artístico II;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Desenho artístico III;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Desenho artístico IV;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Desenho artístico V;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Secador de mãos;Faça barulho, ventile e seque as mãos.
+Gabinete Arcade I;Com este objeto, seus funcionários podem obter uma nova motivação.
+Banco - Marrom claro;Aqui, seus funcionários podem se sentar para fazer uma pausa.
+Banco - Marrom escuro;Aqui, seus funcionários podem se sentar para fazer uma pausa.
+Banco - Verde;Aqui, seus funcionários podem se sentar para fazer uma pausa.
+Armário I;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Armário II;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Armário III;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Arquivo;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Limpador Sputnik 3000;Este robô de limpeza ultramoderno remove toda a sujeira.
+Poltrona I - Marrom;Com este objeto seus funcionários podem obter uma nova motivação.
+Poltrona I - Preta;Com este objeto seus funcionários podem obter uma nova motivação.
+Poltrona I - Verde;Com este objeto seus funcionários podem obter uma nova motivação.
+Máquina de produção I;Com esta máquina você pode produzir jogos.
+Gabinete Arcade II;Com este objeto, seus funcionários podem obter uma nova motivação.
+Gabinete Arcade III;Com este objeto, seus funcionários podem obter uma nova motivação.
+Relógio;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Poltrona II - Cinza;Com este objeto seus funcionários podem obter uma nova motivação.
+Poltrona II - Azul;Com este objeto seus funcionários podem obter uma nova motivação.
+Poltrona II - Laranja;Com este objeto seus funcionários podem obter uma nova motivação.
+Máquina de dardos;Com este objeto, seus funcionários podem obter uma nova motivação.
+Lâmpada II;Seus funcionários ficam mais motivados quando<br>em locais harmoniosos.
+Intex Server;Servidores são necessários para jogos MMO e F2P.<br>Este servidor suporta <b><color=blue><NUM></color></b> jogadores.
+Ar condicionado;Útil para diminuir a temperatura em salas de servidores.
+Prateleira I;Seus jogos produzidos são armazenados aqui.<br>Nesta prateleira você pode armazenar <b><color=blue>25.000</color></b> jogos.
+Local de trabalho I;Local de trabalho do departamento de marketing. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Lâmpada III;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Local de trabalho II;Local de trabalho para desenvolvimento. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho III;Local de trabalho para desenvolvimento. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho IV;Local de trabalho para desenvolvimento. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho V;Local de trabalho para desenvolvimento. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Mesa de treinamento I;Permite que os funcionários sejam treinados.<br>Quanto maior a qualidade, melhor o resultado.
+Quadro branco;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Local de trabalho II;Local de trabalho para pesquisa. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho II;O local de trabalho para o departamento de marketing. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho III;Local de trabalho para o departamento de marketing. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho IV;O local de trabalho para o departamento de marketing. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho V;Local de trabalho do departamento de marketing. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho I;Local de trabalho para o departamento de suporte. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho II;Local de trabalho para o departamento de suporte. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho III;Local de trabalho do departamento de suporte. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho IV;Local de trabalho para o departamento de suporte. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho V;Local de trabalho do departamento de suporte. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho III;Local de trabalho para pesquisa. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho IV;Local de trabalho para pesquisa. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho V;Local de trabalho para pesquisa. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Poltrona III - Vermelha;Com este objeto seus funcionários podem obter uma nova motivação.
+Poltrona III - Verde;Com este objeto seus funcionários podem obter uma nova motivação.
+Poltrona III - Azul;Com este objeto seus funcionários podem obter uma nova motivação.
+Armário de remédios;Isso permite que os funcionários doentes se curem.<br>Funcionários doentes trabalham mais lentamente.
+Aquecedor elétrico;Os funcionários que estão com frio ficam insatisfeitos mais rapidamente.<br>Este aquecedor pode ser colocado em qualquer posição.
+Local de trabalho I;O local de trabalho para o controle de qualidade. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho I;O Local de trabalho para o estúdio gráfico. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho I;O Local de trabalho para o estúdio de som. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho I;O local de trabalho para o estúdio de captura de movimento. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Teclado;Com este objeto, seus funcionários podem obter uma nova motivação.
+Prateleira II;Seus jogos produzidos são armazenados aqui.<br>Nesta prateleira, você pode armazenar <b><color=blue>50.000</color></b> jogos.
+Prateleira III;Seus jogos produzidos são armazenados aqui.<br>Nesta prateleira, você pode armazenar <b><color=blue>100.000</color></b> jogos.
+Local de trabalho II;Local de trabalho para o estúdio de som. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho III;Local de trabalho para o estúdio de som. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Pintura de animais I;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Pintura de animais II;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Pintura de animais III;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Pintura de animais IV;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Pintura de animais V;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Local de trabalho II;O local de trabalho para o controle de qualidade. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho III;O local de trabalho para o controle de qualidade. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho IV;O local de trabalho para o controle de qualidade. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho V;O local de trabalho para o controle de qualidade. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Seu carro esportivo;Você deve vender o seu carro esportivo antigo para ganhar algum dinheiro.
+Tapete I;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Tapete II;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Tapete III;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Tapete IV;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Tapete V;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Tapete VI;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Geladeira;Ideal para armazenar alimentos perecíveis.
+TV;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+TV moderna;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Rádio;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Local de trabalho II;Local de trabalho para o estúdio gráfico. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho III;Local de trabalho para o estúdio gráfico. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho IV;Local de trabalho para o estúdio gráfico. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho V;Local de trabalho para o estúdio gráfico. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Rádio moderno;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Armário pequeno I;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Armário pequeno II;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Armário pequeno III;Seus funcionários ficam mais motivados quando<br>trabalham em locais harmoniosos.
+Mesa de treinamento II;Permite que os funcionários sejam treinados.<br>Quanto maior a qualidade, melhor o resultado.
+Mesa de treinamento III;Permite que os funcionários sejam treinados.<br>Quanto maior a qualidade, melhor o resultado.
+Mesa de treinamento IV;Permite que os funcionários sejam treinados.<br>Quanto maior a qualidade, melhor o resultado.
+Mesa de treinamento V;Permite que os funcionários sejam treinados.<br>Quanto maior a qualidade, melhor o resultado.
+Máquina de produção II;Com esta máquina você pode produzir jogos.
+Máquina de produção III;Com esta máquina você pode produzir jogos.
+Máquina de produção IV;Com esta máquina você pode produzir jogos.
+Máquina de produção V;Com esta máquina você pode produzir jogos.
+Local de trabalho IV;O Local de trabalho para o estúdio de som. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho V;O Local de trabalho para o estúdio de som. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho II;O local de trabalho para o estúdio de captura de movimento. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho III;O local de trabalho para o estúdio de captura de movimento. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho IV;O local de trabalho para o estúdio de captura de movimento. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho V;O local de trabalho para o estúdio de captura de movimento. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+G-Electic server;Servidores são necessários para jogos MMO e F2P.<br>Este servidor suporta <b><color=blue><NUM></color></b> jogadores.
+Metrics server;Servidores são necessários para jogos MMO e F2P.<br>Este servidor suporta <b><color=blue><NUM></color></b> jogadores.
+DivoTech server;Servidores são necessários para jogos MMO e F2P.<br>Este servidor suporta <b><color=blue><NUM></color></b> jogadores.
+IBN server;Servidores são necessários para jogos MMO e F2P.<br>Este servidor suporta <b><color=blue><NUM></color></b> jogadores.
+Disco de platina;Você ganha este prêmio à cada jogo<br>que vender pelo menos 5.000.000 de unidades.
+Disco de diamante;Você ganha este prêmio à cada jogo<br>que vender pelo menos 10.000.000 de unidades.
+Cafeteira;O alimento básico de um desenvolvedor de jogos é o café.<br>A cafeteira mais moderna vem da "Gronky Industries" e<br>pode facilmente manter o café quente por 17 horas.
+Prêmio "Jogo do ano";Você ganha este prêmio<br>quando um de seus jogos é escolhido como "Jogo do Ano".
+Prêmio "Desenvolvedor do ano"; Você ganha este prêmio,<br>quando seu estúdio é escolhido como "Desenvolvedor do Ano".
+Prêmio "Melhor trilha sonora"; Você ganha este prêmio,<br>quando um de seus jogos recebe o prêmio de "Melhor trilha sonora".
+Prêmio "Melhores gráficos"; Você ganha este prêmio,<br>quando um de seus jogos recebe o prêmio "Melhores Gráficos".
+Armário compacto I; Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Armário compacto II; Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Armário compacto III; Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Tapete VII; Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Tapete VIII; Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Tapete IX; Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Prêmio "Tendências";Você ganha este prêmio,<br>quando um de seus jogos se tornar um criador de tendências.
+Prêmio "Publisher do ano"; Você ganha esse prêmio,<br>quando seu estúdio é escolhido como "Publisher do ano".
+Local de trabalho I;O Local de trabalho para a oficina. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho II;O Local de trabalho para a oficina. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho III;O Local de trabalho para a oficina. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho IV;O Local de trabalho para a oficina. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho V;O Local de trabalho para a oficina. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho I;O local de trabalho para o desenvolvimento de consoles. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho II;O local de trabalho para o desenvolvimento de consoles. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho III;O local de trabalho para o desenvolvimento de consoles. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho IV;O local de trabalho para o desenvolvimento de consoles. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Local de trabalho V;O local de trabalho para o desenvolvimento de consoles. Quanto maior a qualidade,<br>melhor o resultado do trabalho.
+Ar condicionado moderno;Útil para regular a temperatura em salas de servidores.
+Puff I;Com esse objeto seus funcionários ganham uma nova motivação.
+Puff II;Com esse objeto seus funcionários ganham uma nova motivação.
+Puff III;Com esse objeto seus funcionários ganham uma nova motivação.
+Mesa I;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Mesa II;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Mesa III;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Cadeira laranja;Aqui, seus funcionários podem se<br>sentar para fazer uma pausa.
+Cadeira marrom;Aqui, seus funcionários podem se<br>sentar para fazer uma pausa.
+Cadeira verde;Aqui, seus funcionários podem se<br>sentar para fazer uma pausa.
+Mini Golf;Com este objeto, seus funcionários podem obter uma nova motivação.
+Imagem de arquitetura I;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Imagem de arquitetura II;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Imagem de arquitetura III;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Imagem de arquitetura IV;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Imagem de arquitetura V;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Imagem de flor I;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Imagem de flor II;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Imagem de flor III;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Imagem de flor IV;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Imagem de flor V;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Tapete VII;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Tapete VIII;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Tapete IX;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Lâmpada IV;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Lâmpada V;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.eiten.
+Lâmpada VI;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.beiten.
+Girassol;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Cacto bola;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Planta tropical;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Mesa IV;Seus funcionários ficam mais motivados quando<br>trabalham em escritórios bem equipados.
+Sistema de aquecimento moderno;Este sistema de aquecimento é<br>particularmente adequado para escritórios grandes.
+Banheiro de luxo;Uma visita a este banheiro<br>luxuoso aumenta ainda mais a motivação.
+Luxury Sink;This sink is so refreshing<br>that it even increases motivation.

@@ -1,0 +1,889 @@
+﻿[GAMEPLAY_10]
+Oyun hiç eğlenceli değil. Her fırsatta bunu belli ediyor!
+Oyun o kadar kötü ki, motivasyon baştan sona sıfır.
+Konu ve oyun için tek bir kelime buluyorum: Berbat!
+Açıkça görülüyor ki yılın en kötü oyunu!
+Oyun o kadar kötü ki, oyun tasarımcıları başka bir meslek bulmalı.
+Oyun mekaniği ayağa bir çivi gibi geliyor.
+Oynanış için tek bir kelime var: işkence!
+Bunu yayınlanmadan önce kimse oynamadı mı? Oynanamaz!
+Oyun zayıf başladı ve ardından keskin bir şekilde düştü.
+[END]
+
+[GRAPHIC_10]
+Grafikler gerçekten berbat! Uzun zamandır böyle bir şey görmemiştim.
+Grafikler gözlerime hakaret. Korkunç!
+Sadece son derece modası geçmiş grafiklere gülebiliyorum.
+Grafiksel olarak, bu oyun tam bir rezalet. Bundan daha çirkin olamazdı!
+Bu grafik kör olmayı dilememi sağlıyor.
+Üç yaşındaki kızım daha iyi grafikler yapıyor.
+Ekranı kapalı tutmanın daha iyi olduğu bir oyun.
+Kötü grafikler nedeniyle acı ve ızdırap için tazminat almanıza izin veren bir yasa var mı?
+Bu bir grafik değil. Bunlar kırık piksellerdir.
+Oyun bize grafik tasarımcıların renk körü olmaması gerektiğini gösteriyor.
+Grafiklere atfedilebilecek tek şey: Piksel kullanıyor. Ama yanlış olanları.
+Göze daha çok neyin zarar verdiğini bilmiyorum: Tabasco veya bu grafik.
+[END]
+
+[SOUND_10]
+Müzik ve arka plan sesi kulaklara hakarettir!
+Ses: Hoparlörlerden gelen korkunç bip sesi baştan sona sinir bozucu.
+Oyun müziği zaten kulağa rahatsız edici geliyordu. İyi ki çok az ses efekti var.
+Dikkat! Bu oyun işitme kaybına neden olabilir!
+Sadece saçma ses efektlerine gülebilirsiniz.
+Bir matkabın sesi buna kıyasla rahatlatıcı bir sestir.
+Sesle ilgili olarak, sadece şunları önerebiliriz: Kapat!
+Sese gelince: Beethoven ve Mozart mezarlarında kulaklarını kapatıyordur.
+Hoparlörlerden gelen sesin gerçekten müzik olup olmadığından emin değilim!
+Sesi kim çıkardıysa: Bunu bir daha asla yapma!
+Ses Cenevre Sözleşmelerini ihlal ediyor. Korkunç!
+Ses 5 dakika sonra kırbaç sesi gibi geliyor.
+Tahtadaki tırnakların sesini biliyor musun? Bu oyunun sesleri buna benzer.
+[END]
+
+[CONTROL_10]
+Kontroller çok fazla karmaşık ve yanlış. Dayanılamaz!
+Başınızı sadece kontrollerde sallayabilirsiniz. Nutkum tutuldu!
+Kontroller hakkında bir şeyler yazardım. Ama oyun oynanamaz!
+Korkunç kontroller sadece bir felakettir. Hayal kırıklığı garantili!
+Son derece berbat kontroller, oyunun kullanımını zorlaştırıyor.
+Kontroller hakkında bir kelime. Sarhoşken araba kullanmak, bu oyunu kontrol etmekten daha kolay.
+Geliştiricilerin giriş cihazlarının anlamını anlamadıkları açık.
+Vahşi bir boğa üzerinde oyundan daha fazla kontrole sahipsiniz. Gerçekten kötü bir kontrol.
+Keyfi hareket, kontrolü tarif bile edemez. Tam bir felaket.
+Kim bu kontrolü anlar ve ustalaşırsa, bir doktorayı hak eder. Gerçekten oynanamaz!
+Bu kontrol o kadar kötü ki inceleme sırasında 100 gri saç çıkardım.
+Kontroller batan Titanik'i karaya çıkarmaya çalışıyormuş gibi geliyor.
+Kontrol, modern bir işkence yöntemidir! Bunu kim programladı?
+[END]
+
+[TOTAL_10]
+Oyun tam bir felaket! Benim için yılın en kötü oyunlarından biri.
+Ellerinizi bu ilhamsız işten uzak tutun!
+Bu oyun çok kötü!
+Bu oyunu hediye olarak bile istemiyorsun. Yılın şakası!
+Bu oyun benim için ayın en kötüsü!
+Bu yapım bir felaket. Paraya değmez!
+Geçen yıl kolumu kırdım. Bu oyundan daha eğlenceliydi.
+Arkadaşlarınızdan kurtulmak istiyorsanız bu oyun harika bir hediye olacaktır.
+Geliştirici, bu oyunla kendinizi mahvetmenin yaratıcı bir yolunu gösteriyor.
+Bu oyunu oynamak için hiçbir sebep yok. Korkunç!
+Sonuç: Oyun, bilgisayar oyunlarının her zaman sanat olmadığını gösteriyor. Bazen sadece önemsizdir.
+Oyun, endüstrinin gülünç haline nasıl geleceği konusunda bir ders.
+Bu oyunu satmamalısın, gömmelisin. En derine!
+Ciddi misiniz geliştiriciler? Hiç oynamadınız mı? Bu çöp!
+Oyun o kadar acımasız ki, sürekli bir şaka haline gelebilir.
+Oyunu test edenlerin bile kariyer seçimlerini yeniden düşünmelerini sağlayan bir oyun.
+Oyun geliştirmeyi bırakın! Onun yerine taş ocağına gidin!
+[END]
+
+[GAMEPLAY_20]
+Oynanışa gelince, eğlenceli değil!
+Monoton ve sıkıcı oyun hiç eğlenceli değil!
+Gelişmemiş oynayış beni ilk dakikadan sıktı.
+Oynanışın çok ilkel olduğu ve olay örgüsünün iyimser olduğu söyleniyor.
+Konu çok sıkıcı ve genel oynanış oldukça bayıcı.
+Kendimi kağıtla kessem, bu oynayıştan daha eğlenceli olurdu.
+Oyunun kötü olduğunu iddia edersem, bu bir yalan. Çünkü aşırı derecede kötü!
+Oynanışa gelince, birisinin okula geri dönmesi gerekiyor.
+Oynayış konu kadar kötü. Bunu kimseye yapamazsınız.
+İshal sıçmak bu konudan daha ilginç. Oynayış temelde mevcut değil.
+Oyun tam bir can sıkıntısı! Oynanış, sporcunun ayağı kadar eğlenceli.
+Oyun gerçekten berbat. Konu ile kahveyi uyutabilirsiniz.
+Bir oyun geliştirdiğinizde, oynanış hakkında da düşünmelisiniz. Ne yazık ki, bunu burada kimse yapmamış.
+[END]
+
+[GRAPHIC_20]
+Grafikler modası geçmiş durumda ve artık günümüz standartlarını karşılamıyor.
+Sevgisiz ve kısmen çirkin grafikler rakiplere ayak uyduramıyor.
+Çok basit grafikler, oynamaya devam etmek için motive etmiyor.
+Grafikler tam bir felaket! Modası geçmiş ve çirkin.
+Oldukça çirkin grafikler tür ortalamasının çok altında.
+Grafikler? Parmağımla gözümü dürttüğümde daha az gözyaşı alıyorum!
+Grafikler görsel olarak etkileyici görünüyor.
+Grafik olarak sunulan şey yüzsüzlüktür. Gerçekten kötü!
+Mağara resmi bu grafiğe karşı daha modern görünüyor.
+Grafikler sanki birisi bir balonu boyayla doldurup ekrana fırlatmış gibi görünüyor.
+Görünüşe göre grafik tasarımcıları geliştirme sırasında sarhoştu.
+Oyunun grafikleri bana bir kurbağayı anımsatıyor. Bakmak hoş değil!
+Grafikler muhtemelen kahve molalarında yapılmış. Bu kaliteyi başka türlü açıklayamam.
+Grafikler o kadar kötü ki daireler bile dikdörtgen gibi görünüyor.
+Grafiklerin öne çıkan özelliği, siz onu açmadan önce siyah ekrandır. O andan itibaren yokuş aşağı gidiyor.
+Grafik sahneleme amatörce. Geliştiriciler bunun için daha fazla çaba harcamalıydı.
+[END]
+
+[SOUND_20]
+Dayanılmaz müzikle sesi hemen kapatmalısınız.
+Ses efektleri neşe kaynağı değil. Tavsiyem: Kapatın!
+Ses efektleri, son zamanlarda duyduğum en kötü şeylerden biri.
+Dijitalleştirilmiş ses efektleri, güzelce söylemek gerekirse, "Berbat". Söylenecek başka bir şey yok.
+Rakipsiz kötü ses efektleri çok amatörce geliyor.
+Berbat ses efektleri sadece bir kaçak gibi geliyor!
+Hiç en güzel rüyalarınızı görürken ramazan davulcusu tarafından uyandırıldınız mı? Aynı o sesi duyuyorum.
+Hiç ses efekti olmasaydı daha iyi olurdu.
+Ses hakkında birkaç kelime: Bazıları buna müzik diyor. Gerisi buna işkence diyor.
+Geliştirici yeni bir müzik stili icat etti: Cırlamak! Ses hakkında söylenecek başka bir şey yok.
+Ses donanımına çok para harcadıysanız: Bu oyundan kaçının!
+Seste olumlu bir şey var: Hoparlörlerden tonlar çıkıyor. Maalesef yanlış olanlar.
+Oyunun sesiyle mahalledeki köpkeler gönüllü olarak barınağa gitmek istiyor.
+Tuvalet sifonu, oyunun müziklerinden daha iyi geliyor. Çok çok kötü!
+[END]
+
+[CONTROL_20]
+Kontroller çok saçma. Oynanabilir değil!
+Kontroller son derece belirsiz ve korkunç!
+Sürekli olarak yanlış kontroller sizi umutsuzluğa sürükler. Bu bir eğlence yolu değil!
+Belirsiz kontroller gerçek bir başarısızlıktır. Bunun için daha fazla uğraşılmalıydı.
+Ne yazık ki, kontrollerin tamamen başarısız olduğunu söylemeliyim. Hayal kırıklığı!
+Kontroller bu dünyanın dışında. En azından insanlar için yapılamayacak kadar kötü.
+Kontrol, yalnızca sabırlı insanlar için bir şeydir. Diğerleri umutsuzluğa kapılacak!
+Maalesef oyunu kapsamlı bir şekilde test edemedim çünkü kontroller gerçekten kötü!
+Kontroller, kontrolcüyü duvara vurmak istemenize neden olur. Sinir bozucu!
+Ne yazık ki, oyunun kontrolleri ile eğlence sona eriyor. O kadar belirsiz ki, yeteneklerimden şüphe ettim.
+Son derece kesin olmayan kontroller, direksiyon simidi olmayan bir otomobille karşılaştırılabilir.
+[END]
+
+[TOTAL_20]
+Bu oyunu 15 dakikadan fazla oynayan herkes bir madalyayı hak ediyor!
+Tavsiyem: Bu işi bırakın!
+Bu oyun paraya değmez, çünkü can sıkıntısı garantilidir!
+Tahminime göre, bu oyun bir başarısızlık örneği olacak!
+Benim sonucum: Bu oyunu bilmiyorsanız, kesinlikle hiçbir şeyi kaçırmadınız.
+Sonuç: Bu gereksiz oyun kimseyi mutlu etmeyecek!
+Tavsiyem: Bu oyunu oynamak için para al.
+Çok mu paran var? Pencereden at. Bu oyundan daha eğlenceli.
+Sonuç: Birçok harika oyun var. Bu oyun onlardan biri değil.
+Kanal tedavisi mi yoksa bu oyun mu? Kök kanal tedavisi! Anestezi olmadan.
+Satın almalısınız - eğer kendinize işkence etmek istiyorsanız.
+Bu oyunu yalnızca çöp kutusunda hala yeriniz varsa satın almalısınız.
+Eminim yarın oyunu kimse hatırlamayacak. Korkunç!
+Bu oyun hakkında gerçekten eğlenceli olan ne biliyor musun? Hayır? Hiçbir şey değil!
+Ayağınıza bir dambıl düşürürseniz, bu oyundan daha çok eğleneceksiniz.
+Geliştiriciler bu oyundan utanmalı.
+Geliştirici muhtemelen sadece hızlı para kazanmak ve iyi bir oyun geliştirmek istemiyordu. Çöp!
+Bu oyun gerçekten kötü. Dilinizi ısırırsanız daha çok eğlenirsiniz!
+[END]
+
+[GAMEPLAY_30]
+Oyun maalesef motive edici değil. Oyun sadece eğlenceli olmak istemiyor.
+Oynanış olgunlaşmamış ve ikna edemiyor.
+Oynanış çok basit, bu da harika bir oyun deneyimi vaat etmiyor.
+Bu incelemeyle hiç eğlenmedim. Eski oyun tarzından yoksun.
+Basit oynanış uzun vadede büyüleyemez. Hiç eğlenceli değil.
+Basit oynanış yeni fikirlerden yoksundur. Konu ve hikaye iyi değil.
+Konu bir bira matına sığıyor ve oyun beni ikna etmedi!
+Eski Mısırlılar aradılar: Oyunlarını geri istiyorlar. Umutsuzca modası geçmiş!
+Oynanış iddiasız. Konuya büyüteçle bakmanız gerekiyor.
+Oyunun son derece kötü uygulanmış birkaç iyi fikri var.
+Oyun ilk birkaç dakika için neredeyse eğlenceli. Bundan sonra her şey tekrarlanıyor.
+Oyun mekaniği alışmak için bir acıdır. Sıkıcı!
+Konu bir test modeli kadar heyecan verici ve oynanışı iddiasız.
+Ne yazık ki, geliştiriciler oyun mekaniklerini tamamen mahvetmiş. Oyun çok sıkıcı!
+Oyun mekaniği çok basit. En geç 30 dakika sonra her oyuncu sıkılacak.
+[END]
+
+[GRAPHIC_30]
+Grafiklerle ilgili başka bir kelime: Maalesef burada hiçbir çaba gösterilmemiş!
+Grafik gösterimi en düşük kalitedir. Grafikler ikinci kalite.
+Grafikler, bu sistemde mümkün olandan çok uzak.
+Grafikler son derece monoton. Bu türe sahip diğer oyunlar çok daha iyi grafiklere sahip.
+Grafikler ortalamanın altında. 100 oyundan en az 95'i daha iyi görünüyor. 
+Görünüşe göre geliştiriciler renk körü. Aksi takdirde bu kötü grafikleri açıklayamam.
+Oyunun grafikleri acımasız. Geliştiriciler oyunun grafikleri üzerinde daha fazla zaman harcamalıydı. 
+Ne yazık ki grafikler çok eski görünüyor. Bu, genel derecelendirmede düşün puanlara neden oldu.
+Görsel olarak, oyun ortalamanın altında. Grafik tasarımcıları için iyi bir iş çıkarmamış!
+Ne yazık ki, geliştiriciler oyunun grafikleriyle ilgili her şeyi yanlış yapmış. 
+Grafikler daha kötü olabilir, ancak önemli ölçüde daha iyi olabilir.
+Geliştiriciye ipucu: Bir dahaki sefere grafiklere biraz daha zaman ayırın.
+Grafikler ortalamanın altında, çok az iyi olduğu kısım var.
+[END]
+
+[SOUND_30]
+Oyunun müzikleri yetersiz ve ses efektleri cızırtılı.
+Hoparlörlerden gelen basit ses efektleri, daha yüksek bir derecelendirmeme engel oldu.
+Bu sistemde sesler standartlara uygun değil. Kötü!
+Basit ses efektleri ve kötü müzikler beni hiç ikna edemedi.
+Ne yazık ki, basit ses efektleri bu tür oyunların normal kalitesine uymuyor.
+Ses efektleri o kadar kötü ki hoparlörlerimin bozuk olduğunu sanıyordum.
+Oyun müziği sadece tolere edilebilir. Ancak vasat ses efektlerinin dalgalanan ses seviyesi can sıkıcı.
+Ses efektleri kulaklarıma hakarettir. Ses tasarımcıları iyi bir iş çıkarmamış gibi görünüyor.
+Bu oyunun ses efektleri ortalamanın altında ve oyun müziği akılda kalıcı değil. 
+Tıraş makinem bu oyunun ses efektlerinden daha iyi geliyor.
+Müzik başlangıçta oldukça güzel ama birkaç dakika sonra sinir bozucu olmaya başlıyor.
+Ne yazık ki, ses efektleri ve oyun müziği oyunla hiç uyuşmuyor.
+Mağazalardaki sıkıcı müziği biliyor musunuz? Bu oyunun müziği öyle geliyor.
+Müzik tamamen sönük görünüyor ve ses efektleri teknik olarak kötü.
+Ses efektleri muhtemelen amatörler tarafından yapılmış.
+Ses efektleri teknik olarak tamamen eksik. Bu oyun sisteminde çok daha fazlası mümkündür.
+[END]
+
+[CONTROL_30]
+Kontroller çok yanlış. Bu, oyunun eğlencesini önemli ölçüde azaltır.
+Belirsiz kontroller sinir bozucu. Bu, oyunu daha az eğlenceli hale getirir.
+Karmaşık işlem gerçekten sıradan oyuncular için değil!
+Kontroller hiç de iyi bir izlenim bırakmıyor. Çok karmaşık!
+Kontroller, optimal olmaktan çok uzaktır. Bu hızla hayal kırıklığına yol açar.
+Karmaşık kontroller yeni başlayanlar için değildir. Ancak profesyonel oyuncuların bile sorunları olacaktır.
+Karmaşık ve kesin olmayan kontroller nedeniyle oyun güçlü yönlerini gösteremez.
+Kontroller çok karmaşık. Bu farklı bir şekilde daha iyi yapılabilirdi!
+Bu kontrol ile kuantum fiziği arasındaki fark nedir? Kuantum fiziğinin anlaşılması daha kolaydır.
+Bu kontrole çabucak sinir oluyorsunuz. Ne yazık ki, bunun için genel derecelendirmeden puan düşmem gerekiyor.
+Oyunun kontrolü çok karmaşık. Tekrar tekrar oyunun kontrolünü kaybediyorsunuz. Bu hiç eğlenceli değil.
+Kontrol, bir kepçeyle bir işlem yapmaya çalışıyormuş gibi geliyor.
+Olumlu: Ana menünün kontrolü kolaydır. Olumsuz: Gerçek oyunun kontrolleri bir felaket.
+Tür standartları, kontrollerde basitçe göz ardı edildi. Diğer oyunlar bunu çok daha iyi yapar!
+Kontrolü kaybetmeyi seviyorsanız, bu oyunu seveceksiniz. Diğer herkes sinirlenecek.
+Oyunun kontrolü çok fazla karmaşık. Kılavuza bakmak rutin hale geldi.
+[END]
+
+[TOTAL_30]
+Geliştiriciler bu oyunla gerçekten kendilerini şanla kaplamadılar!
+Bu oyun, türün hayranları için bile bir hayal kırıklığı!
+Benim sonucum: Tür hayranları bile bu oyuna geniş bir yer vermeli!
+Benim fikrim: Bu oyunu bekliyorsanız, satın almak için yeniden düşünmelisiniz!
+Bu oyun kimseyi uzun süre eğlendirmeyecek. Bir hayal kırıklığı!
+Bu oyundan çok şey bekleyenler hayal kırıklığına uğrayacak.
+Oyun, yalnızca tüm oyunların sahibi olan sert oyuncular için bir öneridir.
+Oyun, çok kısa bir öğle yemeği molası için görülmeye değer. Ancak sadece indirimli bir fiyata alırsanız.
+Kabul edelim: orada yeterince daha iyi oyun var.
+Sonuç: Bu oyunu benzersiz kılan hiçbir şey yok. Satın almaya değmez!
+Vardığım sonuç: Oyunlar bir işkence değil zevk olmalıdır. Bu çok daha iyi çalışıyor.
+Oyunun oldukça kötü bir şekilde gerçekleştirilmiş birkaç iyi fikri var. Öneri yok.
+Profesyonel bir geliştiriciyle iyi bir oyun olabilirdi.
+Sonunda, oyun sadece kusurlu. Koleksiyonunda kimsenin buna ihtiyacı yok.
+Çok kötü, oyun oldukça eğlenceli olabilirdi. Ancak maalesef geliştirme sırasında birçok hata yapılmış.
+Ne yazık ki, bu sadece "zayıf" onay mührü için yeterlidir.
+Oyun, rakiplere ayak uyduramayan cilasız bir genel pakettir.
+Oyun tam bir başarısızlıktır. Geliştirme sırasında çok şey ters gitmiş olmalı.
+Gerçekten sıkıcı bir oyun! Sonunda, geliştiricilerin uzmanlık alanlarının ne olduğunu merak ediyorsunuz.
+[END]
+
+[GAMEPLAY_40]
+Kısmen cilalı oyun, çok fazla oyun eğlencesine izin vermiyor. Çok kötü!
+Oyun tek kelimeyle sıkıcı. Bu tür şeyleri sevmiyorum!
+Eski ve cilasız oyun beni çabucak sıktı.
+Sıkıcı olay örgüsü ve basit oyun sadece çok kısa bir süre için motive ediyor.
+Oyun kurgusu çok basit. Bu yüzden incelerken pek eğlenmedim.
+Oynanış açısından, bu başlık pek heyecan verici değil. Oyun cilasız ve sıkıcı.
+Sıkıcı hikaye ve basit oyun, çok fazla oyun zevkine izin vermiyor.
+Maalesef oyun fikri beni ikna edemedi. Oyundaki zayıf yönler her yerde bulunabilir.
+Ne yazık ki, yaratıcı olmayan oyun yeni bir şey sunmuyor. Bu nedenle, canınız sıkılabilir.
+Oyun modası geçmiş ve bu nedenle yırtık bir çivi kadar eğlenceli.
+Oynanış açısından oyun, sonunu zaten bildiğiniz bir gerilim filmi kadar heyecan verici.
+Oyun ortalamanın altında. Konu bir kibrit kutusuna sığar.
+Konu hayal gücünden yoksun ve oyun motive edici değil.
+Oyun mekaniği cilasız ve benzer oyunlara ayak uyduramıyor.
+Maalesef oyun yeni bir şey sunmuyor. Muhtemelen diğer oyunlardan çok şey kopyalandı.
+Oyun, ortalama oyunlardan kopyalanmış. Hiçbir yeni fikir uygulanmamış.
+Oyun, montaj hattı çalışması kadar çeşitlidir. Ben zevk alamadım.
+Oyun mekaniği daha önce 1000 kez görüldü. Yeni fikirler muhtemelen kasıtlı olarak eklenmedi.
+Oynanış yeniliksizdir. Konu en iyi ihtimalle ortalamadır.
+[END]
+
+[GRAPHIC_40]
+Ne yazık ki grafikler ikna edici değil. Tür standartlarına göre bile ortalamanın altında.
+Grafikler en iyi ihtimalle ortalamanın altında. Burada daha fazlasını bekleyebilirdik.
+Tür standartlarına göre bile, grafikler sorumsuzca tasarlanmış.  
+Grafikler cilasız görünüyor. Rakipler zaten bunu daha iyi yaptı.
+Modası geçmiş grafikler cilasız ve bir madalyayı hak etmiyor.
+Cilasız grafik gösterimi en iyi ihtimalle alt düzeydedir.
+Grafik tasarımcıların pek arzusu yokmuş gibi. Ortalamanın altında grafikler.
+Eğer bir grafik hayranıysanız, bu oyunu satın almanıza gerek yok.
+Ne yazık ki grafikler beni şaşırtmadı. Belki oyunun başka güçleri vardır.
+Görsel olarak oyun kesinlikle çağdaş görünmüyor.
+Düşük detaylı grafikler beni şaşırtmadı. Ortalamanın biraz altında.
+Grafiklerin birisinin ekrana tükürmüş gibi göründüğünü söylemek abartıdır. Ama oldukça çirkin.
+Oyunun grafikleri, son teknolojinin ciddi şekilde gerisinde.
+Tür gerçekten daha iyi grafikleri hak ediyor. Bu ortalamanın altında.
+Geliştirici, bilgisayar oyunlarının görsel bir ortam olduğunu anlamadı. Cilasız grafikleri başka türlü açıklayamam.
+Grafikler ayrıntısız ve cilasız görünüyor. Rakip çok daha iyi bir iş çıkarır.
+[END]
+
+[SOUND_40]
+Ne yazık ki, sesin zayıf yönleri var ve sistemin yeteneklerinden yararlanmıyor.
+Ne yazık ki, hoparlörlerden sadece monoton müzik çıkıyor. İyi değil!
+Ses efektleri tür standardının altındadır. Ben daha iyiye alıştım.
+Seslerle hiçbir çaba sarf edilmemiş. Ve oyun müziği de beni şaşırtmadı.
+Birkaç ses efekti maalesef pek etkileyici değil. Çoğu oyuncu daha iyiye alışık.
+Dijitalleştirilmiş ses efektleri çok az çeşitlilik sunar. Daha fazlasını isterdim.
+Ses teknik olarak zayıf ve modası geçmiş.
+Müzik kabul edilebilir, ancak ses efektleri son derece can sıkıcı.
+Ses efektleri maalesef piyasaya sürülmeden bir hafta sonu bir araya getirilmiş gibi geliyor.
+Menüdeki şarkı harika geliyor! Bundan sonra sesi kapatmak iyi olabilir.
+Ses efektleri iki kişi tarafından yapılmış gibi geliyor. Biri çok yetenekli, biri amatör.
+Müzik, oyuna hiç uymuyor. Ses efektleri ortalama.
+Müzik sonsuza dek asansöre binmek gibi geliyor. Çok monoton!
+Ses efektleri aslında kabul edilebilir. Sadece türe ve oyuna uymuyor.
+[END]
+
+[CONTROL_40]
+Can sıkıcı kontroller, ortalama bir oyuncuyu umutsuzluğa sürükleyecektir.
+Karmaşık kontroller can sıkıcıdır. Çoğu oyuncu hüsrana uğrayacak.
+Kontroller beni ikna edemedi. Bu çok karmaşık!
+Son derece karmaşık kontroller, tür hayranları için bile oyunu mahvediyor.
+Kontroller çok daha iyi olmalıydı. Böyle oynamak hiç eğlenceli değil.
+Oyunun kontrollerini anlamak biraz zaman alıyor.
+Cilasız kontroller beni kısmen rahatsız etti. 
+Hayat, oyunun karmaşık kontrollerini öğrenmek için çok kısa.
+Kontroller son derece belirsizdir. En azından kontrollerle anlaşamadım.
+Bol pratikle kontroller kontrolünüz altında. Ancak eğlenceli değil.
+Yazı işleri ekibindeki hiç kimse kontrollerden memnun kalmadı. Menülerde bile kontroller çok karmaşık. 
+Kontroller hakkında: Oyun, basit şeyleri çok karmaşık hale getirebileceğinizi gösteriyor.
+[END]
+
+[TOTAL_40]
+Bu tür oyunların sevgilisi olarak bile paranızın karşılığını alamazsınız.
+Bu türün hayranları, bir satın alma yapılıp yapılmadığını iki kez duydu.
+Oyunun ilk 30 dakikası eğlenceliydi. Bundan sonra motivasyon hızla düşüyor!
+Benim sonucum: Oyun kesinlikle ikna edici değil. Oynamanın keyfi yok!
+Oyunun cilası olmadığı için maalesef tavsiye edemem.
+Oyunla ilgili sonuç: Beğendiyseniz devam edin. Olmadan yapmayı tercih ederim!
+Bu oyunu sadece türün sıkı hayranlarına tavsiye edebilirim.
+İlk anlar harika, sonra can sıkıntısı hızla başlıyor!
+Ne yazık ki ortalama bir oyun için yeterli değildi.
+Türün sert hayranları onu denemeli. Diğer herkesin satın almayı düşünmesine gerek yoktur.
+Sonuç: Oyunun birkaç güçlü yönü ve birçok zayıf yönü vardır.
+Ayrıntılara daha fazla dikkat edersek, en azından ortalama bir yapım haline gelebilirdi.
+Sonuç olarak: Oyun 50 puanı bile hak etmiyor!
+Sonunda, büyük vuruş için yeterli olmadığını söylemek kalır. Küçük biri için bile değil.
+Bu oyunun kesinlikle güçlü yanları var, ancak eğlencenizi bozmak için çok fazla şey yapıyor.
+Oyunu dört gözle bekliyordum. Ne yazık ki ben de hayal kırıklığına uğradım.
+[END]
+
+[GAMEPLAY_50]
+Son derece zorlu oyun, çok fazla oyun eğlencesine izin vermiyor.
+Minimalist oyun maalesef çok modası geçmiş görünüyor.
+Oyun dengesiz ve ikna edemiyor.
+Tür beni ikna etmiyor ve oyun dengesiz
+Hızlı bir şekilde sıkıcı olduğu ortaya çıkan ilginç bir oyun konsepti.
+Bu ortalama oyun standart hale gelirse, tür yakında krizde olacak.
+Teorik olarak, oyun mekaniği pratikte olduğundan daha iyi geliyordu.
+Oynanışta yenilik yok. Geliştirici ortalamadan memnun.
+Oyundaki daha fazla yenilik olsaydı mutlu olurduk. Olduğu gibi, sadece vasat.
+Umutsuz oyun, oyunu kitlesel bir ürüne dönüştürüyor.
+Oyun mekaniği birkaç iyi yaklaşım gösteriyor, ancak yetersiz uygulanıyor.
+Geliştiriciler bize oyunda birçok yenilik sözü verdi. Ne yazık ki, sadece sıkıcı ve ilhamsız.
+Konu, büyükannenin ciltsiz kitapları kadar heyecan verici.
+"Sıkıcı" kelimesi oynanışı ve olay örgüsünü oldukça iyi anlatıyor.
+Bu tür, ortalama bir oyun mekaniğinden daha fazlasını hak ediyor.
+Konu katlanılabilir, ancak geliştiricilerin oyun üzerinde çalışmış olması gerekirdi.
+Oyun basitçe monoton. Daha fazla yaratıcılık görmek isterdik.
+[END]
+
+[GRAPHIC_50]
+Ne yazık ki cilasız grafikler ikna edici değil. Rakipler daha iyi bir iş çıkardı.
+İşlevsel grafikler gerçekten ikna edici değil. Ben beğenmedim
+Grafikler diğer bazı yapımlar kadar ayrıntılı değildir.
+Ne yazık ki, grafikler tür standartlarına göre bile en iyi ihtimalle vasat.
+Grafiksel gösterim hemen hemen vasattır ve kimseyi şaşırtmaz.
+Grafik efektleri çok etkileyici değil ama kimseyi de uçuramaz.
+Grafikler bir güzellik ödülünü hak etmiyor. En iyi ihtimalle ortalama.
+Grafikler çok cilasız görünüyor, bu da daha iyi bir derecelendirmeyi hak etmiyor.
+Oyunun sunumu daha önce pek çok kez görülmüş gibi görünüyor.
+Oyun görsel olarak sadece "vasat" diye tanımlanabilir.
+Grafikler bana sevgisiz ve cilasız görünüyor.
+Grafikler hiçbirimizi uçurmadı.
+Aynı türe sahip oyunlar zaten çok daha iyi grafiklere sahip.
+Oyunun grafikleri bir felaket değil, ancak bir ödülü de hak etmiyor.
+Grafiklerle ilgili yüksek talepleriniz yoksa, onunla iyi yaşayabilirsiniz.
+Oyunun grafikleri kabul edilebilir. Bununla birlikte, detaylara daha fazla dikkat edilmesini isterdim.
+Grafik olarak, oyun sadece sıradan bir ortalamadır. 
+Yapımın grafikleri ikinci sınıf. Ortalama.
+[END]
+
+[SOUND_50]
+Ses efektleri ve oyun müziği ortalamanın altında.
+Ses iyi. Ama oyun müziği beni şaşırtmıyor.
+Müzik ve ses efektleri, birkaç istisna dışında oldukça kabul edilebilir.
+Ses efektleri kabul edilebilir, ancak günümüz standartlarını karşılayamıyor.
+Ses efektleri kimseyi uçurmayacak. Ve oyun müziği de sadece ortalama.
+Ne yazık ki, birkaç muhteşem ses efekti dışında pek bir şey yok.
+Ses efektleri oldukça iyi. Ama maalesef daha yüksek bir reyting için yeterli değiller.
+Ses, bir elektrikli süpürgenin sesi kadar rahatsız edici değil. Ama çok da iyi değil!
+Müzik sağlam ama monoton. Ses efektleri de sadece vasat.
+Ne yazık ki, oyunun ses efektleri gerçekten ikna edemiyor.
+Sesi özel yapan nedir? Hiçbir şey değil! Ama daha kötüsünü gördüm.
+Müzik ayrıca bir ekran koruyucuya da sığacaktı. Ses efektlerinden bahsetmeye değmez.
+Ses tasarımcıları, düzgün ses efektleri yaratmak için çaba harcadılar. Maalesef çok az!
+Oyun müzikleri oyunla uyumlu olsaydı gerçekten iyi olurdu. Ama durum bu değil.
+Ses efektleri muhtemelen standart bir kitaplıktan geliyor. Her şey ortalama kalitede.
+[END]
+
+[CONTROL_50]
+Ortalamanın altındaki kontroller bazı noktalarda hayal kırıklığına neden oluyor.
+Oyunun kontrollerine alışmalısın. Bazı noktalarda hayal kırıklığı kaçınılmazdır.
+Oyunun kontrollerini biraz fazla karmaşık buluyorum!
+Maalesef oyunun kontrolleri iyi yapılmamış gibi.
+Oyunun kontrolü, oyunun güçlü bir noktası değil.
+Tanıdık olmayan kontrollere alışmak için biraz zaman gerekir. Bu daha iyi çözülebilirdi.
+Oyunun kontrolleri hiçbirimizi ikna edemedi. Arada sırada biraz belirsiz olabiliyor.
+Kontroller, ayaklarınızı yerden kesmez. Bazen sorunlara neden olur.
+Kontroller ortalama türdür. Onun hakkında yazılabilecek tek şey bu.
+Oyunun basit kontrollerine rağmen, inceleme sırasında doğrulukla ilgili bazı sorunlar yaşadım.
+Maalesef oyunun kontrolleri yeterince sezgisel değil. Yani geriye sadece sıradanlık kalıyor.
+Oyunun kontrolleri karmaşık şeyleri basitleştirir. Ne yazık ki, aynı zamanda basit şeyleri karmaşık hale getiriyor.
+Oyunun kontrolleri, belirli güçlü yanları veya zayıflıkları olmaksızın amacına hizmet eder.
+Oyunun daha az sezgisel kontrolleri burada daha yüksek bir puan vermemi engelliyor.
+[END]
+
+[TOTAL_50]
+Oyun, yetenekli programcılar için iyi bir oyun olabilirdi. Çok kötü!
+Bu yapım, arzulanan çok şey bırakan vasat bir oyundur.
+Olması gereken bir oyun değil. Sadece tür hayranları için ideal.
+Sonuç olarak, bu kimseye tavsiye edeceğim bir oyun değil.
+Sonuç: Hızla sıkıcı hale gelen ortalamanın altında bir oyun.
+Benim fikrim: Sadece türün inatçı hayranları bu yapıma bakmalı.
+Sonuç: oyun çok erken yayınlandı.
+Tür hayranları bu oyunla eğlenebilir. Diğerleri: Ellerini çek!
+Sonuç: Geliştiriciler burada kendilerini aştılar. Sonuç sıradanlıktır.
+Benim sonucum: Oynanamaz değil, ama gerçekten eğlenceli değil.
+Kötü bir oyun değil, ancak çok sayıda kusur daha yüksek bir derecelendirmeye izin vermiyor.
+Karar: Geliştirici çaba sarf etse de, bu oyun önemsiz bir tür temsilcisinden başka bir şey değildir.
+Bu oyun birkaç dakikalığına oldukça eğlenceli. İçerik ve oynanış açısından kimseyi memnun etmez.
+Yapım yıllarca geç geliyor ve heyecanlandıracak çok az yenilik var.
+Sonuç olarak sadece şunu söyleyebilirim: Oyun çok sıkıcı!
+Sonuç olarak, bu oyun hiçbirimizi uçurmadı.
+Benim fikrim: Pek çok noktada oyun en fazla ortalama düzeyde.
+Türün hayranları birkaç saatliğine mutlu olabilir. Maalesef ben onlardan biri değilim.
+[END]
+
+[GAMEPLAY_60]
+Oyun, seviyeden seviyeye değişir. Bazen yukarı, bazen aşağı.
+Oyun bir süreliğine eğlenceli. Ama baştan sona bu eğlence korunamıyor.
+Konu ve oynanış gerçekten olağanüstü değil, ama fena da değil.
+Oynanış idare eder ve hikayesi yer yer eğlenceli olabiliyor.
+Oyunun eğlencesi bir salıncaktan daha çok sallanıyor. Ancak, çokta kötü değil.
+Konu iyi değil ama oyun sağlam.
+Oynanış mekanikleri çok büyük eksikliği olmamasına rağmen yorucu ve komplike.
+Oyun kısmen eğlenceli, ama çokta bir şey beklememek lazın.
+Konu, uzun vadede heyecan yaratsa da bu heyecan çok uzun sürmez.
+İkinci kalite bir oyun olarak eğlenceli ve keyif verici. Öte yandan konu tam bir şaka.
+Konu mükemmel. Öte yandan, modası geçmiş oyun mekanikleri tatmin edici değil.
+Oyunun güçlü yönleri var. Ancak hikaye gerçekten heyecan verici değildi.
+[END]
+
+[GRAPHIC_60]
+Grafikler oldukça ortalama. Bu sistemde daha iyisini gördüm.
+Grafik olarak, bu yapım alkışa layık değil, ancak saklanması da gerekmez.
+Grafikler ortalama ve cidden özel bir şey yok.
+Grafikler biraz daha detaylı olabilirdi. Benim için standart tür.
+Grafik efektleri söz konusu olduğunda, bu oyunun rekabetten saklanması gerekmiyor. İyi ortalama!
+Grafik sunum beklentilerin altında kalıyor.
+Grafikler bazı yerlerde oldukça çirkin, ancak genellikle ortalamanın üstünde.
+Grafikler biraz modası geçmiş görünüyor. Ancak bu tam bir başarısızlık değil.
+Grafik olarak, görülmeye değer, ancak ayrıntılara daha fazla dikkat edilmesi gerekebilir.
+Grafikler biraz fazla sade görünüyor. Daha fazla detay ve çeşitlilik isterdim.
+Kesinlikle daha iyi grafiklere sahip oyunlar var. Yine de orta dereceli bir oyun için yeterlidir.
+Oyunun grafikleri bir madalyayı hak etmiyor, ancak yine de rakiplere ayak uydurabilirler.
+Cilasız grafikler son teknolojidir, ancak daha fazlası değildir.
+Harika grafik efektleri bahsedilmeye değer. Grafiklerin geri kalanı oldukça zırva görünüyor.
+[END]
+
+[SOUND_60]
+Dijitalleştirilmiş sesler ve melodiler oyuna uygun fakat özel birşey yok.
+Aslında daha fazlasını beklerdim, yine de ses efektleri idare eder.
+Oyunun ses efektleri kabul edilebilir ancak özel bir şey yok.
+Ses efektleri hakkında yazılacak pek bir şey yok. Onlar iyi.
+Dijitalleştirilmiş ses efektleri oyuna uygun ve oyun müziği de idare eder.
+Müzik ve ses ortalamadır ve türün en iyi oyunlarına yaklaşamaz.
+Oldukça iyi ses efektlerinin teknik sorunları, daha iyi bir derecelendirmeyi engelledi.
+Akustik hakkında söylenecek çok şey yok. Müzik ve ses efektleri zırva.
+Oyun müziği idare eder, ama bir arkadaşınıza çalacağınız hiçbir şey yok.
+Müzik ve ses efektleri beni uçurmasa bile idare eder.
+Ses aslında oldukça iyi. Ne yazık ki teknik sorunlar da var. Yani ortalama kalır.
+Oyunun ses efektleri harika. Öte yandan müzik tamamen yok olmuş.
+Ses efektleri hala rakiplerinin biraz gerisinde.
+Oyun seslerinde biraz daha çeşitlilik olsaydı derecelendirme daha yüksek olabilirdi.
+[END]
+
+[CONTROL_60]
+Oyun kontrolleri hakkında biraz daha antrenman yapmanız gerekebilir.
+Kontroller hala kabul edilebilir, ancak günümüz standartlarını karşılamıyor.
+Oyunun kontrolleri diğer oyunlara göre ortalama düzeyde.
+Oyunun kontrolleri idare eder, fakat birkaç sorun var.
+Kontrolleri anlamak için bir süre kılavuzu incelemelisiniz. Bundan sonra onunla yaşayabilirsin.
+Oyunun kontrolleri tamam. Ancak sezgiden yoksundur.
+Oyunun kontrolleri tamam, ancak bölümler itibariyle kesin değil. Bu daha iyi yapılabilirdi.
+Oyunun kontrolleri olağanüstü değil, ancak daha kötü yapan örnekleri var.
+Kontroller hakkında: Menüler gereksiz yere karmaşık. Geriye kalan her şey yolunda.
+[END]
+
+[TOTAL_60]
+Genel olarak, bu tür oyunların ağır hayranlarının paralarının karşılığını alacağını söylemek kalır.
+Bazı tasarım kusurları oyunun kalitesini düşürüyor. Bence oyun idare eder.
+Başlangıçta eğlenceli bir oyun, ancak çabuk sıkıcı olabiliyor.
+Bu yapım güzel bir fikir ama uzun süre eğlendiremez.
+Düşük beklentileri olan sıradan oyuncular bir bakma riskini alabilir.
+Sonuç: Bu oyunu sadece bu türün hayranlarına tavsiye edebilirim.
+Benim fikrim: Bu oyun ideal ama özel bir şey değil.
+Herkes için bir şey yok, bu ancak türün hayranları onu yakalayabilir.
+Kusurlarla başa çıkabilirseniz, oyun satın almaya değer olabilir.
+Kusurlar olmasaydı harika bir oyun olabilirdi.
+Türünün incisi değil ama hayranlar için kesinlikle tavsiye edilir.
+Kesinlikle daha iyi olabilecek sağlam temellere dayalı, ancak olağanüstü olmayan bir oyun.
+Benim fikrim: Oyun idare eder. Ancak başka bir geliştirici oyunu kesinlikle daha iyi hale getirebilirdi.
+Benim fikrim: Oyunu sevmeye çalıştım. Ancak birçok tasarım kusuru var ve bu çok can sıkıcı.
+Ne yazık ki, harika bir oyun olmak için birçok yönden yetersiz.
+Bu türün hayranları, iki iyi tür arasındaki zamanı doldurmak için satın alabilir.
+Beklentileri yüksek olmayanlar oynarken eğlenebilirler. 
+Patron, programcılara daha fazla geliştirme süresi vermiş olsaydı, bu iyi bir oyun olurdu. İdare eder.
+[END]
+
+[GAMEPLAY_70]
+Oyun hakkında: Küçük zayıflıkları olan iyi düşünülmüş bir oyun. 
+Oyun, küçük iniş ve çıkışlarla güzel bir karışım.
+Oyun çeşitliliği yeterlidir ve uzun süreler boyunca oynanabilir.
+Oyun uzun süreler boyunca motive ediyor. Hikaye, B klasmanında yer alır.
+Oyunun mekaniği sizi eğlendiriyor, ancak bazı küçük zayıflıkları var.
+Oyun birkaç saat boyunca eğlencelidir, ancak daha sonra biraz monoton hale gelir.
+Konu ortalama ama oyun mekaniği oldukça eğlenceli.
+Oyunun ilk saatleri ayrı bir keyif veriyor. Ne yazık ki olay örgüsü çok kısa.
+Oynanış fikirleri harika, fakat teknik olarak yetersiz kalınmış.
+Oyun için daha fazla puan vermek isterdim, ancak sayısız tasarım kusuru bunu engelledi.
+Oynanış oldukça iyi ama bana göre geliştirici diğer oyunlardan çok fazla ilham almış.
+[END]
+
+[GRAPHIC_70]
+Grafikler iyi, ancak yeterince ikna edici değil.
+Grafikler özel bir şey değil, ancak tür standartlarına göre oldukça iyi.
+Grafik gösterimi oldukça güzel, ancak gözler için bir ziyafet olduğu söylenemez.
+Oyunun grafikleri birkaç istisna dışında oldukça güzel. Ortalamanın üstünde!
+Türünde kesinlikle daha kötü grafikler var. Bundan da iyi yapan az oyun var.
+Oyunun grafikleri ortalamanın üzerinde. Özellikle efektler daha iyi yapılabilirdi.
+Oyunun grafikleri oldukça iyi. Detaylara gösterilen özen hala eksik.
+Oyunun grafikleri sağlam görünüyor, ancak özel bir şey değil.
+Grafikler hakkında: Teknik olarak daha fazlası mümkün olabilirdi, ama sorun değil.
+Grafik stili aslında oldukça hoş. Ancak herkes bu görüşte olmayacak.
+Tür hayranları oyunun grafiklerine bayılmayacak, ancak tatmin olacaklardır.
+[END]
+
+[SOUND_70]
+Dijitalleştirilmiş ses efektleri oldukça iyidir ancak özel bir şey değildir.
+Ses efektlerinden ve güzel oyun müziğinden şikayet edemezsiniz.
+Ses efektleri kimseyi şaşırtmayacak, ama sorun değil.
+Oyun müziği büyülü değildi ama yine de dinlemeye değer.
+Müzik harika, ancak çok sık tekrar ediyor. Yüksek derecelendirme için yeterli değil.
+Ses, oyunun atmosferini olumlu bir şekilde destekliyor ancak mükemmeliyetçilikten yoksun.
+Müzikten kesinlikle Mozart sorumlu değildi, ancak ses efektleri iyi.
+Ses hakkında söylenecek olumsuz bir şey yok. Ancak bu bir şaheser de değil.
+Oyunun müzikleri harika ama ses efektleri beni şaşırtmıyor.
+Bazı ses efektlerinin teknik sorunları olmasaydı sesler harika olabilirdi.
+[END]
+
+[CONTROL_70]
+Kontrollerle ilgili olarak, kısa bir eğitim sonrası büyük bir sorun yaşamazsınız.
+Bazı zayıf yönleri olmasına rağmen kontrollerle hemen anlaştım.
+Oyunu oynamak oldukça rahat. Sadece burada kontrollerle ilgili küçük sorunlar var.
+Kontrolleri kavramak biraz zaman alır, ancak bundan sonra herhangi bir sorun yaşamazsınız.
+Kontrolleri anladıktan sonra oyun harika oluyor.  
+Kontroller hakkında: İlk birkaç dakika biraz karmaşık. Bundan sonra oyun sorunsuz oynanıyor.
+Kontrollerin çok belirsiz olduğunu düşünüyorum. Ancak, çoğu insan kontrollerle herhangi bir problem yaşamaz.
+Kontrollerin kullanımı kolaydır, ancak daha sezgisel olabilirler.
+Karmaşık olmayan kontroller aslında iyidir, zaman zaman biraz belirsiz olabiliyor.
+Kontroller iyi bir tür standardıdır. Herhangi bir büyük problemim olmadı.
+[END]
+
+[TOTAL_70]
+Bu türün hayranıysanız kesinlikle göz atmalısınız.
+Eğer böyle oyunları seviyorsanız bu yapımı istek listesine almalısınız.
+Bu tür oyunların hayranları bu yapımdan memnun kalacaklar.
+Bu yapım bir süreliğine eğlenceli ama uzun vadede ikna edemiyor.
+Karar: Hayranlar ve sıradan oyuncular bu oyundan memnun kalacaklar.
+Bu oyun sağlam bir ürün. Tür hayranlarına satın almalarını önerebilirim!
+Benim fikrim: Tür hayranları bu oyunda bir süre eğlenecek.
+Bu türe ilgi duyanlar bu yapımı satın alabilirler.
+Bu oyuna verdiğim puan: İyi ama çok iyi değil.
+Oyun kesinlikle bir hit olmayacak, ancak tür hayranları onunla eğlenecek.
+Oyun herkes için değil, tür hayranlarını mutlu edecek.
+Bu yapıma daha yakından bakmaya değer. Özellikle tür hayranları için.
+Oyun çok popüler değil. Ama türü sevenler için oyunu tavsiye edebilirim.
+Oyun herhangi bir ödül kazanmayacaktır. Ama onunla bir süre eğlenebilirsin.
+Bir süre oyundan keyif aldım. Ancak, bir üst yapım için hala eksik olan çok şey var.
+Oyun benim için bir süredir eğlenceli olsa da kesinlikle en sevdiğim oyunlara aday olmayacak.
+Beklentilerim tam olarak karşılanmasa da oyun hala sağlam.
+Sonuç: Maalesef çeşitliliği olmayan iyi bir oyun.
+Benim fikrim: İlginç özelliklere sahip bir oyun, bir süreliğine eğlenceli.
+Sonuç olarak: Oyun, tür hayranlarını eğlendirecek. Diğer herkes sıkılacak.
+Oyun kesinlikle benim favorim değil ama çok eğlendim.
+Geliştirici bazı özelliklerle pek uğraşmamış. Yine de sağlam bir oyun.
+Genel olarak oyun oldukça başarılı. Zayıflıklarına rağmen yine de eğlenceli
+İncelemeden önce yüksek beklentilerim yoktu ve şaşırdım. Yine de bir hit olmak için yeterli değil.
+Benden bir satın alma önerisi var! Ama sadece türün hayranıysanız.
+[END]
+
+[GAMEPLAY_80]
+Çeşitli oynanış eğlencelidir ve birkaç yenilik sunar.
+Oyunun karmaşıklığı arzulanan pek bir şey bırakmıyor.
+Yeni oyun, kapsamlı ve sürekli bir eğlence sunuyor.
+Oynanış basit ama bağımlılık yapıyor. Eğlence garantilidir!
+Zorlu oyun ve heyecan verici hikaye, saatlerce motive eder.
+Taze ve zorlu oyun. Harika!
+Çeşitli oyun mekaniği büyük bir keyif veriyor.
+Zamanın ötesindeki oynayış yeni fikirlerle birleştirilmiş. Zevk aldım.
+Uzun bir süre boyunca eğlenceli olan karmaşık olmayan oyun.
+Motive edici oyun sizi uzun süre eğlendirecek.
+Bir kaç zayıflık dışında oynayış güzeldi ve konu da bambaşka bir seviyede.
+Hikayenin bazı ilginç noktaları var. Oyun zorlayıcı ve eğlenceli.
+Heyecan verici hikaye yüzünden oynamayı bırakamadım.
+Birkaç sürprizle güzel anlatılmış bir hikaye. Oyuna sağlam bir şekilde uygulanmış.
+Oynanış açısından, yapım sürekli olarak yüksek bir seviyededir.
+Oynanış ve olay örgüsü kayda değer bir zayıflık göstermiyor.
+Oyun kurgusu yeni değil ama çok zorlu. 
+Oyunun heyecan verici bir hikayesi ve gerçekten harika bir sonu var.
+Güzel bir hikaye harika bir oyunla birleştirilmiş.
+Oyun çeşitli ve zordur. Sadece tür hayranları sevmeyecek.
+[END]
+
+[GRAPHIC_80]
+İyi grafikler, sistemin yeteneklerinden yararlanıyor.
+Olumlu tarafı ise oyunun grafiklerinden bahsetmek gerekiyor. 
+Güzel grafikler, benzer oyunlardan daha iyi görünüyor.
+Grafik gösterimi güzel bir şekilde yapılmış ve detaylara çok dikkat edilmiş.
+Ayrıntılı grafikler gerçekten çok iyi. Beklediğimizden daha iyi.
+Oyunun grafikleri, sanatın şu anki halidir.
+Oyun, yaratıcı bir şekilde tasarlanmış grafikler sunuyor. Çok etkileyici.
+Olumlu bir yön, çeşitli grafiklerdir. Türün hakkını veriyor.
+Olumlu bir nokta, güzel efektlere sahip harika grafikler.
+İyi efektlere sahip iyi grafik tekniği derinden etkilemektedir.
+Yapım güzel ve detaylı grafiklere sahip. Ortalamanın üstü.
+Grafikler çok detaylı bir şekilde tasarlanmış.
+Grafikler sadece hoş değil, aynı zamanda çeşitlidir.
+Oyun deneyimi güzel bir şekilde sunuluyor. Oynanış ve grafikler çok iyi uyum sağlıyor.
+[END]
+
+[SOUND_80]
+Müzik ve ses kalitesi ikna edici. Bunu sevdim.
+Kristal netliğinde ses efektlerinden bahsetmeye değer. Oyun müziği de harika.
+Oyunun sesleri güzel ama nefes kesici değil.
+Oyun harika bir oyun müziği ve ses efektleri sunuyor.
+Oyun müziği gerçekten iyi yapılmış.
+Olumlu tarafı, bu oyunun harika bir müziği var.
+Harika sesler. Bugünlerde oyunların sesi böyle olmalı!
+Ses parlak değil ama yine de iyi.
+Oyun müziklerinden gerçekten keyif aldım. Sesi sonuna kadar açtım!
+Ses çok güzel bir atmosfer yaratıyor. Harika!
+Akustik olarak oyun çok iyi ama mükemmel değil.
+Oyunun sesi beklentimi karşıladı. 
+İyi bestelenmiş oyun müzikleri ve harika ses efektleri olumlu bir şekilde öne çıkıyor.
+Ses efektleri kulağa hoş geliyor. Maalesef oyun müzikleri biraz az.
+[END]
+
+[CONTROL_80]
+Karmaşık olmayan kontrollere sahip bir oyun arıyorsanız, onu bu yapımda bulacaksınız.
+İyi düşünülmüş kontroller, oyunun hemen tadını çıkarmanızı sağlar.
+Oyun en başından itibaren iyi işliyor. Çok sağlam!
+Kontroller iyi yapılmış. Kısa bir eğitim aşamasından sonra oynamaya hazırsınız.
+Sezgisel kontroller, oyunu oynamayı oldukça keyifli hale getirir.
+Kontroller sezgisel ve basittir.
+İyi, karmaşık olmayan ve hassas kontrol. Böyle olması gerekiyor.
+Kontroller süper uygulanmış, fakat çığır açmamış.
+Nadir durumlarda, kontroller biraz belirsizleşiyor, ancak bunun dışında çok iyi.
+Çok nadiren oyunun kontrollerinin başarısız olduğu hissine kapılıyorsunuz.
+Kontroller bir devrim değil, ancak türde küçük gelişmeler gösteriyor.
+Oyunun karmaşık olmayan kontrolleri beni şaşırttı. 
+Oyuna alıştıktan sonra, kontrollerin kullanımı kolaylaşıyor.
+Oyunun kontrolleri hakkında şikayet edemezsiniz.
+[END]
+
+[TOTAL_80]
+Uzun süre ilginç kalan iyi bir oyun.
+Sonuç: Henüz bu tür bir oyununuz yoksa, onu kapmalısınız.
+Bu tür oyunlarla ilgileniyorsanız, kesinlikle bu yapıma göz atmalısınız.
+Sonuç olarak: Bu oyun parasının karşılığını çok iyi bir şekilde sunuyor!
+Benim fikrim: Uzun süreli eğlenceyi garanti eden iyi bir oyun.
+Böyle oyunları seviyorsanız, bu oyun kesinlikle sahip olunması gereken bir oyun!
+Bu türün hayranları için bu yapımı tereddüt etmeden tavsiye edebilirim.
+Kenarda üç beş kuruşunuz varsa hiç düşünmeden satın alabilirsiniz.
+Tür ve konuyla ilgilenen herkes oynamalı.
+Vardığım sonuç: Bu oyun hiçbir ödün vermeden "iyi" olarak adlandırılabilir.
+Türün hayranı olanlar bu oyundan keyif alacaklar.
+Türünün hayranları için bu oyun gerçekten önerilir. Güzel!
+Oyun bizler tarafından türünün hayranlarına önerilir!
+Oyun her geçen gün daha iyi hale geliyor. Eğlenceli!
+Sonuç: Çeşitli, eğlenceli bir oyun. Tür sevenler için önerilir.
+Oynarken çok eğlendim ve küçük zayıflıkları görmezden gelebilirim.
+Saatlerce ekrana bağlı kalmanızı sağlayacak atmosferik bir deneyim.
+Bu türle ilgilenmeyen oyuncular bile bu oyuna göz atmalıdır.
+Geliştirici harika ve şaşırtıcı derecede eğlenceli bir oyun sunuyor.
+Bu türü seven herkesin satın alması gereken bir yapım. Daha iyisi yok.
+Birkaç saat boyunca harika bir oyun dünyasına taşınıyorsunuz. Mükemmel!
+En yüksek reyting için yeterli olmasa da uzun süredir böyle bir oyun istiyordum.
+Türün tüm hayranları için bizden tavsiye, bu cevher gizli kalmamalı.
+Bence bunun gibi daha çok yapım olmalı.
+[END]
+
+[GAMEPLAY_90]
+Oyunun gerçekten etkileyici olduğunu itiraf etmeliyim. Çok eğlenceli!
+Karmaşık ve ilginç oyun gerçekten eğlenceli.
+Oynanış ve hikaye gerçekten harika. Bu türe sahip çoğu oyun bu kaliteye yaklaşamaz bile.
+Hikaye ve oyun tek kelimeyle harika. Oyun bir dakikası bile sıkıcı değil!
+Bu yapım, büyüleyici ve eğlenceli bir oynanışa sahip. Saatlerce eğlence garantilidir!
+Görünüşe göre geliştirme sırasında oynayış odak noktasıydı. Pek çok şey doğru yapılmış.
+Oyun yenilikçi ve birçok yeni özelliğe sahip.
+Oyun yeni başlayanlar ve profesyoneller için uygundur.
+Harika oynayış, yeni başlayanlar ve profesyoneller için uygundur.
+Oyun tasarımı çok zor ama gerçekten eğlenceli.
+Söylemeliyim ki, oyundan gerçekten zevk alıyorum! Özellikle hikayeyi beğendim.
+Bu oyunda birçok farklı oyun modu olduğu için sıkılmayacaksınız. Harika!
+Oynanış basit ama harika. Geliştiriciler, birkaç oyun öğesini güçlü bir şekilde cilalamış gibi görünüyor.
+Heyecan verici olay örgüsü nedeniyle zaman uçup gidiyor. İlk dakikadan sonuna kadar eğlendim.
+Basit ama oldukça motive edici bir oyun. Geliştiricilere saygılarla!
+Oyunun dengesi özellikle iyi yapılmış. Bu türe sahip tüm oyunlar için bir rol modeli!
+Motive edici oynanış ve iyi yazılmış hikaye beni olumlu yönde şaşırttı.
+[END]
+
+[GRAPHIC_90]
+Süslü ve çeşitli grafikler gerçekten göz alıcı!
+Harika grafikler, çoğu oyunundan daha iyi. Güzel!
+Grafikler, bu oyun platformu için mümkün olanın sınırında. Aferin!
+Grafik fanatiği için bu oyun tam bir göz ziyafeti. Grafik tasarımcılar tarafından harika bir iş çıkarılmış!
+Zamansız grafik stili beni büyüledi. Çok etkileyici.
+Grafikler son derece atmosferiktir. Oyuna mükemmel uyuyor.
+Grafikler birçok taklitçi bulacak, ancak neredeyse hiç kimse bu kaliteye yaklaşmayacak.
+Teknik olarak grafikler çok etkileyici. Bu oyun sisteminde daha fazlası mümkün değil!
+Eğer bir oyun olsaydım, böyle görünmek isterdim. Harika grafikler!
+Grafiksel olarak oyun yeni standartlar belirliyor. Özellikle detaylı oyun dünyasını beğendim.
+Harika bir sanat tasarımı ve teknik açıdan etkileyici efektler tüm editör ekibini hayrete düşürdü.
+[END]
+
+[SOUND_90]
+Güzel bir şekilde dijitalleştirilmiş ses efektleri.
+İyi ses efektleri ve harika bir oyun müziği, oyuna mükemmel şekilde uyuyor.
+Ses hakkında: Müzik olarak çok yüksek bir seviyedeyiz. Harika!
+Oyun müziği ve ses efektleri gerçekten harika. Lütfen sesi açın!
+Etkileyici akustik efekt ve harika oyun müziği bu oyunda öne çıkıyor.
+Oyunun müzikleri mükemmel bir şekilde bestelenmiş. Ve ses efektleri de teknik olarak sınırları zorlamış.
+Oyun, teknik olarak olağanüstü ses efektlerine sahip harika bir elektronik müziğe sahip!
+Gösterişli ses efektlerine gerçekten ikna oldum. Ses uzmanlarına saygılarla!
+Oyunun müzikleri olağanüstü ve ses efektleri çok kaliteli.
+Atmosferik, minimalist oyun müziği oyuna mükemmel bir şekilde uyuyor.
+[END]
+
+[CONTROL_90]
+Gerçekten iyi düşünülmüş ve karmaşık olmayan bir kontrol sistemi.
+Mükemmel kullanıcı arayüzü beni tamamen ikna etti!
+Kontroller örnek niteliğindedir. 
+Basit ve iyi düşünülmüş kontroller beni olumlu yönde şaşırttı.
+Kesin ve basit kontroller hakkında çok fazla şey yazılmasına gerek yok. İyi iş!
+Oyun, bugün bir kontrol sisteminin nasıl çalışması gerektiğini gösteriyor.
+Kontroller oyun için mükemmel şekilde uyarlanmış. Her şey olması gerektiği gibi!
+Oyunun kontrollerini çok beğendim. Oyuncunun hemen başlayabilmesi için burada çok şey yapılmış. 
+Kontroller harika! Kontrollerin bu kadar yenilikçi olabileceğini düşünmemiştim.
+[END]
+
+[TOTAL_90]
+Oyun, tür hayranları için mutlak bir zorunluluktur!
+Biz oyuncuları bir süre eğlendirecek mükemmel bir oyun!
+Koleksiyonunuzda eksik olmaması gereken harika bir oyun. Kesinlikle tavsiye ediyorum!
+Bu oyun yeni standartlar belirliyor ve her oyun koleksiyonuna ait!
+Sonuç: Bu oyun hiçbir koleksiyonda eksik olmamalı!
+Bu oyun bir hit olacak! Kesinlikle tavsiye ediyorum!
+Sonuç: Her koleksiyona ait harika bir oyun!
+Çekincelerime rağmen, bu oyun harika. Satın almalısınız!
+Sonuç: Kesinlikle göz atmanız gereken bir oyun!
+İnsanlar birkaç yıl içinde "eski güzel günler" hakkında konuştuklarında, bu yapım bunun nedenlerinden biridir.
+Sadece tür hayranları için tavsiye edilmeyen harika bir oyun.
+Kesinlikle göz atmanız gereken büyüleyici bir oyun!
+Yapım pek çok gece uyumama izin vermedi. Bağımlılık tehlikesi!
+Bu oyun her yerde harika hissettiriyor. Neredeyse mükemmel ve yeni standartlar belirliyor.
+Bu yapımı test etmeme izin verildiği için çok minnettarım.
+Sonuç: Oyuncuyu çok uzun süre eğlendirecek mükemmel bir oyun.
+Benim fikrim: Bir oyun böyle olmalı! Harika!
+Türünde trend başlatabilecek bir dönüm noktası.
+Bu oyun o kadar iyi ki önümüzdeki yıllarda birçok kötü klonun ortaya çıkmasından korkuyorum.
+Çeşitli zorluklarla dolu harika bir oyun. Bu oyunda sadece tür hayranları eğlenmeyecek.
+Bu oyun kesinlikle büyük satacak!
+Benim fikrim: Bu oyun her oyuncu için harika bir doğum günü hediyesi!
+[END]
+
+[GAMEPLAY_100]
+Mükemmel oyun, baştan sona eğlenceli.
+Oyun gerçekten iyi düşünülmüş ve baştan sona kadar motive ediyor.
+Oynanış ve hikaye kesinlikle birinci sınıf. Garantili eğlence!
+Oyun neredeyse mükemmel ve olay örgüsü son derece heyecan verici. Süper!
+Bu oyun için sadece bir kelime bulabilirim: "Mükemmel"!
+Tüm editör ekibi bu oyunla eğlendi. Harika, iyi düşünülmüş bir oyun!
+Oynanış ve hikaye bağımlılık yapabilir.
+Oynanış mükemmel dengelenmiş. İster beş dakika ister on beş saat oynayabilirsiniz. Harika!
+Oyun beni uçurdu. Pek çok yeni fikir muazzam bir eğlence yaratıyor.
+Bunun bir bilgisayar oyunu olduğuna inanmak zor.
+Kendiniz deneyimlemediyseniz, ustaca oyun mekaniklerine inanamazsınız.
+Tanrı bir oyun tasarımcısıdır ve bu oyunu tasarlamıştır. Mükemmel!
+[END]
+
+[GRAPHIC_100]
+Oyunun teknik olarak mükemmel grafikleri, bu oyun sisteminde yeni standartlar belirler.
+Grafiksel gösterim mükemmel! Bu sistemde nadiren böyle bir şey görürsünüz. 
+Grafikler nefes kesici güzellikte. Grafik tasarımcılar burada harika bir iş çıkarmış!
+Oyun grafiksel olarak mükemmel ve bu tür için yeni standartlar belirliyor!
+Etkileyici ve detaylı grafikler beni uçurdu. Mükemmel!
+Son derece etkileyici grafikler rakipleri eski gösteriyor.
+Rakiplerin bu mükemmel grafiklere yaklaşması bile yıllar alacak.
+Gerçekten etkileyici grafikler tüm editör ekibini havaya uçurdu!
+Rembrandt van Rijn gibi bir dahi bile bu grafiklere karşı amatör gibi görünüyor.
+Sistemim bozuk mu? Üzerinde daha önce hiç bu kadar mükemmel grafikler olmamıştı!
+Bir oyunun grafikleri böyle görünmelidir! Tek kelimeyle mükemmel!
+Oyunun grafikleri harika! Bu oyun sisteminde böyle bir şeyin mümkün olduğunu düşünmemiştim.
+Hemen grafik stile aşık oldum. Bir oyun dünyası asla bu kadar ayrıntılı olarak sunulmaz.
+Görsel olarak oyun, yeni nesil bir sistem için geliştirilmiş gibi görünüyor.
+Bu grafik gerçeklikten daha iyi! Muhteşem!
+Hiç kimse bu sistemde bu tür grafiklerin mümkün olduğunu düşünmezdi. Olağanüstü!
+Grafiğin bazı doğa kanunlarını ihlal ettiğinden eminim. Kesinlikle mükemmel!
+[END]
+
+[SOUND_100]
+Oyuna bomba gibi ses efektleri ve harika müzik eşlik ediyor.
+Oyun kristal netliğinde ses efektleri ve mükemmel bir oyun müziği sunuyor.
+Harika ses efektleri beni uçurdu. Teknik olarak en yüksek seviyede!
+Dijitalleştirilmiş ses efektleri harika. Ama en önemlisi, oyun müziği beni uçurdu.
+Sese çok şaşırdım. Ses efektlerinin kalitesi gerçekten olağanüstü.
+Harika ses efektlerinden bahsetmeye değer. Bu sistemde hiç böyle ses efektleri duymadım.
+Oyunun tüm müzikleri mükemmel bir şekilde bestelenmiş. Oynanışa mükemmel bir şekilde uyuyorlar.
+Ses efektleri neredeyse yeni nesil gibi geliyor. Teknik olarak mükemmel.
+Geliştiriciler müziğe önem vermiş görünüyor. Her oyun müziği profesyonelce bestelenmiş.
+Bir oyundaki müzikten hiç bu kadar etkilenmemiştim. Baştan sona saf bir duygu.
+Harika ses efektleri özellikle dikkat çekicidir. Bu sistemde daha fazlası mümkün değil!
+Ses yongasının bile bu sesleri üretmesine izin verildiği için onur duyulur.
+Ses efektleri harika! Bu, oyun endüstrisindeki yeni standart olacak!
+[END]
+
+[CONTROL_100]
+Kontroller gerçekten olağanüstü!
+Oyunun basit ve şık kontrolleri yeni standartlar belirliyor!
+Sezgisel kontroller bahsetmeye değer. Her şey doğru yapılmış!
+Kontrol sistemi en az bir ödülü hak ediyor.
+Sadece düşünerek bile oyunu kontrol edebilirsiniz.
+Oyunun kontrolleri harika!
+Kontroller gerçekten harika bir şekilde uygulanmış. Deneyimsiz oyuncular bile hemen başlayabilir.
+Babam böyle pasta yapmayı nereden öğrendi? Rakipler neden bunu yapamıyor.
+Oyunun kontrollerinin ne kadar hassas olduğu inanılmaz. Programcılara saygılarla!
+Olağanüstü kontroller sizi denemeye davet ediyor. Mükemmel!
+Oyunun kontrolleri beni gerçekten çok şaşırttı. En az bir ödüle layık!
+Kontroller hakkında: Kolunuz yoksa bile oyunun kontrolünü asla kaybetmezsiniz.
+Yazı işleri ekibinin tamamı kontrollerin mükemmelliğine şaşırdı.
+Kontroller hakkında tek bir şey söyleyebilirim: Mükemmel!
+[END]
+
+[TOTAL_100]
+Oyun, son zamanlarda gördüğüm en etkileyici oyunlardan biri. Harika!
+Bu oyun gerçek bir klasik olma potansiyeline sahip!
+Bu yapım muhtemelen şimdiye kadar gördüğüm en iyilerden biri!
+Bu oyun, herkesin keyif alacağı gerçek bir sanat eseridir!
+Benim fikrim? Bu oyun hiçbir oyun koleksiyonunda eksik olmamalı!
+En iyi oyun böyle görünmelidir!
+Bu yapım, yılın oyunu olmaya aday!
+Önümüzdeki birkaç ay boyunca başka bir oyuna ihtiyacınız olmayacak.
+Türü beğenmeseniz bile satın almalısınız!
+Oyun, bilgisayar oyunlarının neden diğer tüm eğlence türlerinden üstün olduğunu etkileyici bir şekilde gösteriyor.
+Benim sonucum: Bu oyun tüm hayalleri gerçeğe dönüştürüyor ve geriye hayal kurulacak bir şey kalmıyor.
+Beklentilerin abartılı olduğunu sanıyordum. Şimdi bunun haklı olduğunu biliyorum.
+Gelecekteki tüm oyunların bu şahesere uygun olması gerekecek. Mükemmel!
+Bu oyunla baştan sona çok eğlendim. Onu seviyorum!
+Sonuç: Şimdiye kadarki en iyi oyunu aramayı bırakabiliriz.
+Geçmişin en iyi oyunları bile bu adın altında eziliyor.
+Bu oyun ile geliştirici kendine bir anıt yarattı.
+Sadece üç kelime: SATIN AL! SATIN AL!! SATIN AL!!!
+Benim fikrim: Bu incelemeyi okumayı bırakın ve oyunu satın alın!
+Bu oyun bir şaheser!
+Bu oyun diğer tüm oyunları gölgede bırakır. Gerçek bir şaheser!
+[END]

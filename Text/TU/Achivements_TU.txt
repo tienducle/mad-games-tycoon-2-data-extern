@@ -1,0 +1,72 @@
+﻿Kasırga;En az %70 derecelendirmeli bir aksiyon oyunu yapın.
+Soğuk Labirent;En az %70 derecelendirmeli bir Beceri oyunu yapın.
+Dr. Lario;En az %70 derecelendirmeli bir Bulmaca oyunu yapın.
+Maymunlar Adası;En az %70 derecelendirmeli bir Macera oyunu yapın.
+Zindanlar ve Efendiler;En az %70 derecelendirmeli bir RPG oyunu yapın.
+Uygarlık;En az %70 derecelendirmeli bir Strateji oyunu yapın.
+Süper Lario Dünyası;En az %70 derecelendirmeli bir Platform oyunu yapın.
+Uzay Gemisi: Elit;En az %70 derecelendirmeli bir Simülasyon oyunu yapın.
+Kaliforniya Kupası;En az %70 derecelendirmeli bir Spor oyunu yapın.
+Mad Oil Tycoon;En az %70 derecelendirmeli bir Ekonomik Simülasyon oyunu yapın.
+Arka Sokak Dövüşçüsü;En az %70 derecelendirmeli bir Dövüş oyunu yapın.
+Simülasyon Şehri: 1602;En az %70 derecelendirmeli bir İnşaat oyunu yapın.
+Ejderha Mağarası;En az %70 derecelendirmeli bir İnteraktif Film oyunu yapın.
+Komutan Yuri;En az %70 derecelendirmeli bir Gerçek Zamanlı Strateji oyunu yapın.
+BOOM;Birincil Şahıs Açısı oyunu yapın.
+Kitaptan Daha İyi;En az %70 derecelendirmeli bir Hikaye oyunu yapın.
+Maksimum Zeka;En az %70 derecelendirmeli bir Üçüncü Şahıs oyunu yapın.
+Test Sürücüsü;En az %70 derecelendirmeli bir Yarış oyunu yapın.
+Retromania;Retro oyun yapın.
+Dünya Meridyeni;MMO oyun yapın.
+Oyun Gerçekten Ücretsiz mi?;F2P oyun yapın.
+Parayı At!;Bir atari makinası yapın.
+Herkes Snake'i Sever;Mobil oyun yapın.
+Programcı Olmak İçin Doğdun;Kendi oyun motorunu yap.
+Konsol Savaşları;Kendi sabit konsolunuzu yapın.
+Bu Cebime Sığar;Kendi mobil konsolunuzu yapın.
+Bonus Ödeme;Sözleşmeli bir oyun yapın.
+Paketler;Bir oyun paketi (bundle) oluşturun.
+İndirim;Bir bütçe oyunu çıkartın.
+Complete Edition;Bir oyun için eklentileri de içeren bir paket yayınlayın.
+Yan Ürün;Bir IP için yan ürün çıkartın.
+I, II, III, IV;Bir oyunun devam oyununu yapın.
+Oyun Taşımak Kolaylaşto;Bir oyunu başka bir platforma taşıyın (portlayın).
+Orijinalinden Daha İiy?;Oyunlarınızdan birisinin yeniden yapım (remastered) sürümünü yapın.
+Trend Belirleyici;Oyunlarınızdan birisi yeni bir trend oluşturmalı.
+Yılın Oyunu;Oyunlarınızdan birisi Yılın Oyunu ödülüne layık görülmeli.
+Yılın Geliştiricisi;Yılın Geliştiricisi ödülünü kazanın.
+Yılın Yayıncısı;Yılın Yayıncısı ödülünü kazanın.
+Şeker Gözler;Oyunlarınızdan birisi En İyi Grafik ödülünü kazanmalı.
+Muhteşem Müzik;Oyunlarınızdan birisi En İyi Oyun Müziği ödülünü kazanmalı.
+Bu Doğru Olamaz!;Oyunlarınızdan birisi Yılın En Kötü Oyunu ödülünü kazanmalı.
+Yüksek Beklenti!;Oyunlarınızdan biri için Yüksek Beklenti oluşturun.
+Yüklenici;Bir yayıncı ile özel sözleşme imzalayın.
+Çok İş Vardı!;Müşteriler ile %100 itibar kazanın.
+Şimdi Zengin Olacağım;Yayıncıyla anlaşmadan, ürettiğiniz oyunu kendiniz dağıtın.
+İşte Gelecek Bu!;Oyunda 2050 yılına ulaşın.
+Yayıncı!;Oyununuzu bir NPC firma üzerinden yayınlayın.
+En İyi Arkadaşım!;Bir yayıncı firma ile ilişkinizi en üst düzeye çıkartın.
+Altın;Bir oyundan en az 1,000,000 adet satın.
+Platin;Bir oyundan en az 10,000,000 adet satın.
+Elmas;Bir oyundan en az 50,000,000 adet satın.
+80%;Oyunlarınızdan birisi en az %80 genel derecelendirme puanı almalıdır.
+90%;Oyunlarınızdan birisi en az %90 genel derecelendirme puanı almalıdır.
+100%;Oyunlarınızdan birisi en az %100 genel derecelendirme puanı almalıdır.
+Herkes Beni Seviyor!;Have at least 1,000,000 fans.
+Yalnız Olmayı Sevmiyorum;En az bir arkadaşınızla çok oyunculu bir oyun başlatın.
+İşte Benim Takımım!;Dört arkadaşınızla çok oyunculu bir oyun başlatın..
+Fikri Mülkiyet;Bir IP'nin popülaritesini en üst düzeye çıkarın.
+Efsanevi Oyun Şirketi;Stüdyo itibarınızı en üst düzeye çıkarın.
+Hükmeden;Herhangi bir beceride %100 deneyime sahip bir çalışana sahip olun.
+İşveren I;En az 20 çalışana sahip ol.
+İşveren II;En az 50 çalışana sahip ol.
+İşveren III;En az 100 çalışana sahip ol.
+Cep Parası;En az 50,000,000 ₺'ye sahip olun.
+Yeterli Değil!;En az 500,000,000 ₺'ye sahip olun.
+Üç Virgül Kulübü;En az 1 milyar dolara sahip olun.
+Konsol Savaşları II;Kendi konsolonuzdan en az 10.000.00 adet satın.
+Pazar Lideri;Kendi konsolonuzdan en az 50.000.00 adet satın
+Benim Adım Sid Maier;Efsanevi bir geliştirici kirala.
+Shopping Tour I;Buy an NPC developer or publisher.
+Shopping Tour II;Buy at least 10 NPC developers or publishers.
+Shopping Tour III;Buy at least 30 NPC developers or publishers.

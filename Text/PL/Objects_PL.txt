@@ -1,0 +1,188 @@
+﻿-;-
+Biurko I;Miejsce pracy dla rozwoju. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Kaloryfer;Ogrzewa pomieszczenie nie pozwalając na zamarzanie pracowników.
+Lampa I;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Śmietnik;Zawsze utrzymuj swoje biura w czystości, <br> inaczej Twoi pracownicy będą niezadowoleni.
+Dystrybutor Wody;Spragnieni pracownicy szybciej stają się niezadowoleni.
+Biurko I;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Roślina;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Kaktus;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Tropikalna Roślina;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Toaleta;Tutaj najważniejsze potrzeby są zaspokajane.
+Umywalka;Zawsze myj ręce!
+UFO Plakat;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Robot Plakat;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Aleon Plakat;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Retro Plakat;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Gwiezdny Statek Plakat;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Złota Płyta;Otrzymujesz tę nagrodę za każdą grę <br>, która sprzedała co najmniej 1.000.000 sztukach.
+Artystyczny obraz I;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Artystyczny obraz II;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Artystyczny obraz III;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Artystyczny obraz IV;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Artystyczny obraz V;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Suszarka do rąk; Osusza mokre ręce pracowników.
+Automat do gry I;Dzięki temu obiektowi Twoi pracownicy <br> mogą uzyskać nową motywację.
+Ławka - Jasny Brązowy;Tutaj Twoi pracownicy mogą usiąść na chwilę przerwy.
+Ławka - Ciemny Brązowy;Tutaj Twoi pracownicy mogą usiąść na chwilę przerwy.
+Ławka - Mint;Tutaj Twoi pracownicy mogą usiąść na chwilę przerwy.
+Gablota I;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Gablota II;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Gablota III;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Szafka na Dokumenty;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Sputnik 3000 Robot;Ten ultranowoczesny robot sprzątający usuwa wszelkie zabrudzenia.
+Fotel I - Brązowy;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Fotel I - Czarny;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Fotel I - Zielony;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Maszyna produkcyjna I;Maszyna pozwala produkować grę.
+Automat do gry II;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Automat do gry III;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Zegar;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Fotel II - Zielony;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Fotel II - Niebieski;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Fotel II - Pomarańczowy;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Maszyna do Rzutek;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Lampa II;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Intex Serwer;Serwery są wymagane do gier MMO i F2P. <br> Ten serwer może obsłużyć graczy <b><color=blue><NUM></color> </b>.
+Klimatyzacja;Przydatne do regulacji temperatury w serwerowniach.
+Pólka I;Tutaj są przechowywane Twoje wyprodukowane gry. <br> W tym obiekcie możesz przechowywać gry <b><color=blue>25.000</color> </b>.
+Biurko I;Miejsce pracy dla rozwoju. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Lampa III;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Biurko II;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko III;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko IV;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko V;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Szkolne Biurko I;Umożliwia to przeszkolenie pracowników. <br> Im wyższa jakość, tym lepszy wynik.
+Tablica;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Biurko II;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko II;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko III;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko IV;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko V;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko I;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko II;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko III;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko IV;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko V;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko III;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko IV;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko V;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Fotel III - Czerwony;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Fotel III - Zielony;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Fotel III - Niebieski;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Apteczka;To pozwala chorym pracownikom się wyleczyć.<br>Chorzy pracownicy pracują wolniej.
+Elektryczny Kaloryfer;Pracownicy, którzy zamarzają stają się bardziej niezadowoleni.<br>Grzejnik może zostać postawiony w każdym kącie.
+Biurko I;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko I;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko I;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko I;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Klawiatura;Dzięki temu obiektowi Twoi pracownicy mogą uzyskać nową motywację.
+Półka II;Tutaj są przechowywane Twoje wyprodukowane gry. <br> W tym obiekcie możesz przechowywać <b><color=blue>50.000</color> </b> gier.
+Półka III;Tutaj są przechowywane Twoje wyprodukowane gry. <br> W tym obiekcie możesz przechowywać <b><color=blue>100.000</color> </b> gier.
+Biurko II;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko III;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Obraz I;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Obraz II;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Obraz III;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Obraz IV;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Obraz V;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Biurko II;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko III;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko IV;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko V;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Twój samochód;Aby zarobić trochę pieniędzy, sprzedaj swój stary samochód sportowy.
+Dywan I;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Dywan II;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Dywan III;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Dywan IV;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Dywan V;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Dywan VI;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Lodówka;Idealna do przechowywania jedzenia przez pracowników.
+TV;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Nowoczesny TV;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Radio;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Biurko II;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko III;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko IV;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko V;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Nowoczesne Radio;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Mały Kredens I;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Mały Kredens II;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Mały Kredens III;Twoi pracownicy są bardziej zmotywowani, gdy <br> pracują w dobrze wyposażonych biurach.
+Szkolne Biurko II;Umożliwia to przeszkolenie pracowników. <br> Im wyższa jakość, tym lepszy wynik.
+Szkolne Biurko III;Umożliwia to przeszkolenie pracowników. <br> Im wyższa jakość, tym lepszy wynik.
+Szkolne Biurko IV;Umożliwia to przeszkolenie pracowników. <br> Im wyższa jakość, tym lepszy wynik.
+Szkolne Biurko V;Umożliwia to przeszkolenie pracowników. <br> Im wyższa jakość, tym lepszy wynik.
+Maszyna produkcyjna II;Maszyna pozwala produkować grę.
+Maszyna produkcyjna III;Maszyna pozwala produkować grę.
+Maszyna produkcyjna IV;Maszyna pozwala produkować grę.
+Maszyna produkcyjna V;Maszyna pozwala produkować grę.
+Biurko IV;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko V;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko II;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko III;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko IV;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+Biurko V;Miejsce pracy. Im wyższa jakość,<br>tym lepszy efekt pracy.
+G-Electic Serwer;Serwery są wymagane do gier MMO i F2P.<br> Ten serwer może obsłużyć do <b><color=blue><NUM></color> </b> graczy.
+Metrics Serwer;Serwery są wymagane do gier MMO i F2P.<br> Ten serwer może obsłużyć do <b><color=blue><NUM></color> </b> graczy.
+DivoTech Serwer;Serwery są wymagane do gier MMO i F2P.<br> Ten serwer może obsłużyć do <b><color=blue><NUM></color> </b> graczy.
+IBN Server;Serwery są wymagane do gier MMO i F2P.<br> Ten serwer może obsłużyć do <b><color=blue><NUM></color></b> graczy.
+Platynowa Płyta;Otrzymujesz tę nagrodę za każdą grę<br>, która sprzedała co najmniej 5.000.000 sztukach.
+Diamentowa Płyta;Otrzymujesz tę nagrodę za każdą grę<br>, która sprzedała co najmniej 10.000.000 sztukach.
+Ekspres do kawy;Podstawowym pożywieniem twórców gier jest kawa.<br> Najnowocześniejszy ekspres do kawy pochodzi z firmy „Gronky Industries", a<br> może z łatwością utrzymywać temperaturę kawy przez 17 godzin.
+Nagroda Gry roku;Nagrodę tę otrzymasz,<br> jeśli jedna z Twoich gier zostanie wybrana jako „Gra roku”.
+Nagroda Dewelopera Roku;Nagrodę tę otrzymujesz,<br> gdy Twoje studio zostanie wybrane jako „Deweloper Roku”.
+"Najlepsze Udźwiękowienie" Nagroda;Nagrodę tę otrzymujesz,<br>gdy Twoje studio zostanie wybrane jako "Najlepsze Udźwiękowienie".
+"Najlepsza Grafika" Nagroda;Nagrodę tę otrzymujesz,<br>gdy Twoje studio zostanie wybrane jako "Najlepsza Grafika".
+Bardzo mały kredens I;Twoi pracownicy są bardziej zmotywowani gdy <br>pracują w dobrze wyposażonych biurach
+Bardzo mały kredens II;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Bardzo mały kredens III;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Dywan VII;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Dywan VIII;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Dywan IX;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Nagroda "Prekursor";Nagrodę tę otrzymujesz,<br>gdy Twoja gra zostanie trendem.
+Nagroda Wydawcy Roku;Nagrodę tę otrzymasz,<br>jeśli Twoje studio zostanie wybrane jako "Najlepszy Wydawca" .
+Biurko I;Miejsce pracy. Im wyższa jakość,<br>tym lepszy wynik pracy.
+Biurko II;Miejsce pracy. Im wyższa jakość,<br>the tym lepszy wynik pracy.
+Biurko III;Miejsce pracy. Im wyższa jakość,<br>tym lepszy wynik pracy.
+Biurko IV;Miejsce pracy. Im wyższa jakość,<br>tym lepszy wynik pracy.
+Biurko V;Miejsce pracy. Im wyższa jakość,<br>tym lepszy wynik pracy.
+Biurko I;Miejsce pracy do produkcji konsol. Im wyższa jakość,<br>tym lepszy wynik pracy.
+Biurko II;Miejsce pracy do produkcji konsol. Im wyższa jakość,<br>tym lepszy wynik pracy.
+Biurko III;Miejsce pracy do produkcji konsol. Im wyższa jakość,<br>tym lepszy wynik pracy.
+Biurko IV;Miejsce pracy do produkcji konsol. Im wyższa jakość,<br>tym lepszy wynik pracy.
+Biurko V;Miejsce pracy do produkcji konsol. Im wyższa jakość,<br>tym lepszy wynik pracy.
+Nowoczesny klimatyzator; Przydatny do regulacji temperatury w serwerowniach.
+Pufa - Zielony;Dzięki temu przedmiotowi Twoi pracownicy mogą zyskać motywację.
+Pufa - Pomarańczowy;Dzięki temu przedmiotowi Twoi pracownicy mogą zyskać motywację.
+Pufa - Niebieski;Dzięki temu przedmiotowi Twoi pracownicy mogą zyskać motywację.
+Stolik I;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Stolik II;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach
+Stolik III;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Fotel - Jasnobrązowy;Tutaj Twoi pracownicy mogą<br>przysiąść na chwilę przerwy.
+Fotel - Ciemnobrązowy;Tutaj Twoi pracownicy mogą<br>przysiąść na chwilę przerwy.
+Fotel - Miętowy;Tutaj Twoi pracownicy mogą<br>przysiąść na chwilę przerwy.
+Mini Golf;Dzięki temu obiektowi Twoi pracownicy mogą zyskać nową motywację.
+Obraz architerktury I;Twoi pracownicy są bardziej zmotywowani, gdy<br>pracują w dobrze wyposażonych biurach.
+Obraz architerktury II;Twoi pracownicy są bardziej zmotywowani, gdy<br>pracują w dobrze wyposażonych biurach.
+Obraz architerktury III;Twoi pracownicy są bardziej zmotywowani, gdy<br>pracują w dobrze wyposażonych biurach.
+Obraz architerktury IV;Twoi pracownicy są bardziej zmotywowani, gdy<br>pracują w dobrze wyposażonych biurach.
+Obraz architerktury V;Twoi pracownicy są bardziej zmotywowani, gdy<br>pracują w dobrze wyposażonych biurach.
+Obrazek z kwiatem I;Twoi pracownicy są bardziej zmotywowani, gdy<br>pracują w dobrze wyposażonych biurach.
+Obrazek z kwiatem II;Twoi pracownicy są bardziej zmotywowani, gdy<br>pracują w dobrze wyposażonych biurach.
+Obrazek z kwiatem III;Twoi pracownicy są bardziej zmotywowani, gdy<br>pracują w dobrze wyposażonych biurach.
+Obrazek z kwiatem IV;Twoi pracownicy są bardziej zmotywowani, gdy<br>pracują w dobrze wyposażonych biurach.
+Obrazek z kwiatem V;Twoi pracownicy są bardziej zmotywowani, gdy<br>pracują w dobrze wyposażonych biurach.
+Dywan X;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Dywan XI;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Dywan XII;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Lampa IV;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Lampa V;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach
+Lampa VI;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach
+Słonecznik;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach
+Okrągły Kaktus;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach
+Palma;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach
+Stolik IV;Twoi pracownicy są bardziej zmotywowani gdy<br>pracują w dobrze wyposażonych biurach.
+Nowoczesny System Ogrzewania;Ten wysoce wydajny system ogrzewania<br>jest szczególnie przydatny w biurach o otwartych przestrzeniach.
+Luksusowa toaleta; Wizyta w tej luksusowej toalecie<br>nawet zwiększa motywację.
+Luksusowa umywalka;Ta umywalka jest tak orzeźwiająca<br>, że wręcz zwiększa motywację.

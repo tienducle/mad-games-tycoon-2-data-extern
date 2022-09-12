@@ -1,0 +1,72 @@
+﻿Hurrican;Vytvořte akční hru s hodnocením alespoň 70 %.
+Marble Maze;Vytvořte dovednostní hru s hodnocením alespoň 70 %.
+Dr. Lario;Vytvořte logickou hru s hodnocením alespoň 70 %.
+The Island of Monkeys;Vytvořte dobrodružnou hru s hodnocením alespoň 70 %.
+Dungeons and Masters;Vytvořte RPG hru s hodnocením alespoň 70 %.
+The Civilizations;Vytvořte strategickou hru s hodnocením alespoň 70 %.
+Super Lario World;Vytvořte plošinovku s hodnocením alespoň 70 %.
+Spaceship: Elite;Vytvořte simulační hru s hodnocením alespoň 70 %.
+California Cup;Vytvořte sportovní hru s hodnocením alespoň 70 %.
+Mad Oil Tycoon;Vytvořte ekonomickou simulaci s hodnocením alespoň 70 %.
+Backstreet Fighter;Vytvořte bojovou hru s hodnocením alespoň 70 %.
+Simulation City: 1602;Vytvořte budovatelskou hru s hodnocením alespoň 70 %.
+Dragon's Cave;Vytvořte interaktivní film s hodnocením alespoň 70 %.
+Commander Yuri;Vytvořte real-time strategii s hodnocením alespoň 70 %.
+BOOM;Vytvořte střílečku z pohledu první osoby.
+Better Than a Book;Vytvořte vizuální román s hodnocením alespoň 70 %.
+Max Brain;Vytvořte střílečku z pohledu třetí osoby s hodnocením alespoň 70 %.
+The Test Drivers;Vytvořte závodní hru s hodnocením alespoň 70 %.
+Retromania;Vytvořte retro hru.
+World of Meridian;Vytvořte MMO hru.
+Je ta hra opravdu zdarma?;Vytvořte F2P hru.
+Vložte minci!;Vytvořte arkádový automat.
+Všichni mají rádi hady;Vytvořte hru pro mobilní telefony.
+Zrozen jako programátor;Vytvořte si vlastní engine.
+Válka konzolí;Vytvořte si vlastní stacionární konzoli.
+Tohle se mi vejde do kapsy;Vytvořte si vlastní mobilní konzoli.
+Bonusová platba;Vytvořte hru na zakázku.
+Balíčky;Vytvořte balíček her.
+Sleva;Vydejte budgetovou hru.
+Kompletní edice;Publikujte balíček her s přídavky.
+Spin Off;Vytvořte spin off.
+I, II, III, IV;Vytvořte pokračování hry.
+Snadné přenesení hry;Přeneste hru na jinou platformu.
+Lepší než originál?;Vytvořte remaster jedné z vašich her.
+Tvůrce trendů;Jedna z vašich her by měla nastolit nový trend.
+Hra roku;Jedna z vašich her musí získat ocenění Hra roku.
+Vývojář roku;Získejte ocenění Vývojář roku.
+Vydavatel roku;Získejte ocenění Vydavatel roku.
+Pastva pro oči;Jedna z vašich her musí získat ocenění za nejlepší grafiku.
+Skvělý soundtrack;Jedna z vašich her musí získat ocenění za nejlepší zvuk.
+To nemůže být pravda!;Jedna z vašich her musí být zvolena nejhorší hrou roku.
+Přehnané očekávání!;Vytvořte přehnané očekávání pro jednu ze svých her.
+Smluvní partneři;Podepište exkluzivní smlouvu s vydavatelem.
+To bylo hodně práce!;Dosáhněte u klientů stoprocentní reputace.
+Teď zbohatnu;Vyrobte a distribuujte hru bez vydavatele.
+Tohle je budoucnost!;Dosáhněte ve hře roku 2050.
+Vydavatel!;Vydejte hru od NPC společnosti.
+Můj nejlepší přítel!;Maximalizujte vztah s vydavatelem.
+Zlatá;Prodej alespoň 1 000 000 kusů hry.
+Platinová;Prodej alespoň 10 000 000 kusů hry.
+Diamantová;Prodej alespoň 50 000 000 kusů hry.
+80 %;Jedna z vašich her musí získat celkové hodnocení alespoň 80 %.
+90%;Jedna z vašich her musí získat celkové hodnocení alespoň 90 %.
+100%;Jedna z vašich her musí získat celkové hodnocení alespoň 100 %.
+Všichni mě milují!;Mějte alespoň 1 000 000 fanoušků.
+Nerad bývám sám;Spusťte hru pro více hráčů alespoň s jedním kamarádem.
+Tohle je můj tým!;Zahajte hru pro více hráčů se čtyřmi kamarády.
+IP (Duševní vlastnictví);Maximalizujte popularitu IP.
+Legendární herní společnost;Maximalizujte reputaci svého studia.
+Dokonalý;Mějte zaměstnance se 100% zkušenostmi v libovolné dovednosti.
+Zaměstnavatel I;Mějte alespoň 20 zaměstnanců.
+Zaměstnavatel II;Mějte alespoň 50 zaměstnanců.
+Zaměstnavatel III;Mějte alespoň 100 zaměstnanců.
+Kapesné;Získejte alespoň 50 000 000 dolarů.
+To nestačí!;Získejte alespoň 500 000 000 dolarů.
+Klub tří čárek;Získejte alespoň miliardu dolarů.
+Válka konzolí II;Prodejte alespoň 10 000 000 kusů vlastní konzole.
+Vůdce trhu;Prodejte alespoň 50 000 000 kusů své vlastní konzole.
+Jmenuji se Sid Maier;Najměte si vývojářskou legendu.
+Nákupní turné I;Zakupte vývojáře nebo vydavatele NPC.
+Nákupní turné II;Zakupte alespoň 10 vývojářů nebo vydavatelů NPC.
+Nákupní turné III;Zakupte alespoň 30 vývojářů nebo vydavatelů NPC.

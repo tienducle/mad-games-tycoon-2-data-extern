@@ -1,0 +1,889 @@
+﻿[GAMEPLAY_10]
+Jocul nu este deloc distractiv. Modul de joc este monoton!
+Jocul este atat de rau, incat nu am nici un motiv pentru a continua.
+Pentru complot si mjodul de joc nu am decat un cuvant: Mizerabil!
+Cu siguranta este cel mai prost joc al anului!
+Modul de joc este atat de rau, incat designerii ar trebui sa isi gaseasca o alta profesie. 
+Mecanica jocului se simte ca un cui in picior..
+Exista un singur cuvant pentru joc: Tortura!
+Nu a probat nimeni jocul inaintea lansarii? Este imposibil de jucat!
+Jocul a inceput slab si apoi s-a deteriorat mai rau!
+[END]
+
+[GRAPHIC_10]
+Grafica este foarte proasta! Rar am vazut asa ceva.
+Grafica este o insulta pentru ochii mei. Teribila!
+Nu pot decat sa rad de grafica extrem de depasita. Sunt fara cuvinte.
+Grafic, acest joc este o revolta. Sper sa nu mai vadi niciodata astfel de jocuri!
+Graficile astea sunt de aruncat.
+Fiica mea de trei ani poate face o grafica mai buna.
+Pentru asa joc e mai bine sa ai ecranul stins.
+Exista o lege prin care sa obtinem compensatii pentru dureri si suferinta provocate de o grafica proasta?
+Asta nu e o grafica. Astia sunt pixeli sparti.
+Jocul ne arata ca graficienii ar trebui sa invete mai intai unele abilitati artistice.
+Singurul lucru care poate fi creditat in grafica: utilizarea pixelilor. Dar cei gresiti.
+Nu stiu ce doare mai tare la ochi: Tabasco sau grafica asta.
+[END]
+
+[SOUND_10]
+Muzica si sunetul de fundal sunt o insulta pentru urechile mele!
+Sunetul: bipurile crude din difuzoare sunt intotdeauna enervante.
+Nu exista aproape nici un sunet de fundal. Din fericire! pentru ca se teribil.
+Despre sunet: Fii atent! Acest joc poate cauza pierderea auzului!
+Efectele sonore sunt de tot rasul.
+Sunetul unei bormasini este mai placut, comparativ cu acesta.
+In ceea ce priveste suntetul, va pot recomanda atat: Da-l pe mut!
+In ceea ce priveste sunetul: Beethoven si Mozart isi acopera urechile in mormant.
+Nu sunt sigur daca marea de zgomot din difuzoare este cu adevarat muzica.
+Oricine este sunetistul: Asuma-ti responsabilitatea!
+Sunetul incalca Conventiile de la Geneva. Teribil!
+Expunerea la sunet de cinci minute se simte ca o biciuire.
+Stiti sunetul unghiilor pe o tabla?Sunetul acestui joc este asemanator cu acela.
+[END]
+
+[CONTROL_10]
+Comenzile sunt prea complicate si imprecise. Insuportabil!
+Puteti clatina din cap doar din comenzi. Nu am cuvinte!
+As scrie ceva despre controaler. Dar jocul este imposibil de jucat!
+Comenzile teribile sunt pur si simplu un dezastru. Frustrare garantata!
+Comenzile extrem de mizerabile fac jocul dificil de abordat.
+Un cuvant despre controale. Folosirea unui pisoar fara maini este mai usor decat jocul.
+Este clar ca dezvoltatorii nu înteleg semnificatia dispozitivelor de intrare.
+Aveti mai mult control asupra unui taur salbatic decat asupra jocului. Controale cu adevarat gresite.
+Stiti care este partea cea mai critica a unui joc? Poate ca îl poti juca de fapt?
+Oricine întelege si stapaneste aceste controale merita un adevarat doctorat de jucator!
+Comenzilea astea mi-au scos par alb deja.
+Comenzile au impresia ca or sa aduca Titanicul scufundat, la tarm.
+Comenzile sunt o forma moderna de tortura! Cine le-a programat?
+[END]
+
+[TOTAL_10]
+Jocul este un dezastru! Pentru mine este cel mai prost joc al anului.
+Concluzia mea: Tine-ti mainile departe de aceasta lucrare neinspirata!
+In final: Acest joc este foarte deprimant!
+Jocul asta nu il vrei nici macar gratuit!
+Acest joc este flop-ul lunii pentru mine!
+Acest titlu este un dezastru. Nu merita!
+Mai bine ma joc, cu un caine decat cu jocul vostru.
+Daca ai un prieten de care sa iti bati joc, este momentul sa ii faci cadou acest joc.
+Dezvoltatorul a gasit un mod creativ pentru a-si ruina cariera cu acest joc.
+Nu gasesc nici un motiv pentru a juca acest joc. Oribil!
+Concluzia: Acest joc demonstreaza ca jocurile pentru PC nu sunt intotdeauna o arta. Mai dai si peste gunoaie.
+Jocul este o lectie despre cum sa ajungeti de rasul industriei.
+Nu ar trebui sa vinzi acest joc. Ingroapa-l. Si foarte adanc!
+Pe bune? Ai jucat vreodata acest joc? Asta este pur si simplu gunoi!
+Acest joc este atat de urat incat ar putea deveni un gag.
+Un joc in care chiar si testerii isi regandesc alegerile in cariera. Este un chin!
+Oricine a facut acest joc si-a gresit cariera. Mai bine merge pe santier...
+[END]
+
+[GAMEPLAY_20]
+In ceea ce priveste modul de joc, nu e prea distractiv!
+Joc monoton si plictisitor, nu este deloc distractiv!
+Un joc, care m-a plictisit din primul minut.
+Se spune ca jocul este mult prea primitiv, iar complotul te adoarme.
+Complotul este teribil de plictisitor, iar jocul in general este agonizant.
+Sa dai bani pe acest joc e ca si cum ai face frectie la un picior de lemn!
+As putea spune ca jocul este facut rau, dar as irosi cuvinte. este un gunoi!
+In ceea ce priveste modul de joc, cineva trebuie sa se intoarca la scoala.
+Jocul este la fel de prost ca si povestea. Nu poti face asta nimanui?
+Este mai distractiv sa privesti un perete alb decat sa joci acest joc.
+Ma intreb cum ati reusit sa publicati acest joc!
+Jocul este chiar deprimant. Povestea s-a terminat mai repede decat un espresso.
+Ca sa faci un joc ar trebui sa ii faci si un gameplay. Cred ca s-a omis ceva aici
+[END]
+
+[GRAPHIC_20]
+Grafica este depășită fără speranță și nu mai respectă standardele actuale.
+Grafica fără iubire și uneori urâtă nu poate ține pasul cu concurența.
+Grafica foarte simplă nu mărește motivația în joc.
+Grafica este un dezastru! Fără pasiune, învechit și urât.
+Grafica remarcabil de urâtă este cu mult sub media genului.
+Dacă bag degetul în ochi, am efecte grafice mai bune.
+Grafica arată la fel de impresionantă ca o rahat de câine.
+Grafica asta parca este facuta prin ochii unui caine.
+Pictura în peșteră arată în continuare modernă pe langa grafica asta.
+Grafica arată ca cineva care a umplut un balon cu vopsea și l-a aruncat pe ecran.
+Se pare că designerii grafici au fost în mod constant beți în timpul dezvoltării.
+Grafica asta imi aminteste de Chucky.
+Grafica a fost realizată probabil în timpul pauzelor de cafea. Nu pot explica calitatea în alt mod.
+Grafica este atât de proastă încât chiar și cercurile arată dreptunghiulare.
+Asa grafica nu vezi nici in cele mai vechi jocuri.
+Punctul culminant al graficii este ecranul negru înainte de al porni. De atunci merge în jos. 
+[END]
+
+[SOUND_20]
+Ce muzica insuportabilă, ar trebui să reduceți imediat controlul volumului.
+Efectele sonore nu sunt o sursă de bucurie. Sfatul meu: Opriți-le!
+Efectele sonore sunt unele dintre cele mai iritante pe care le-am auzit în ultima vreme.
+Efectele sonore digitalizate sunt, ca să spunem frumos, „Lousy”. Nu mai este nimic de spus.
+Efectele sonore sună foarte amator.
+Efectele sonore sună pur și simplu ca un difuzor spart!
+Ai fost odată rupt din cele mai frumoase vise de un tambur de tablă? Cam asta e sunetul.
+Despre sunet: Ar fi fost mai bine dacă nu avea efecte sonore.
+Câteva cuvinte despre sunet: unii îl numesc muzică. Restul o numesc tortură.
+Dezvoltatorul a inventat un nou stil muzical: Screech! Nu mai este nimic de spus despre sunet.
+Dacă ați cheltuit o mulțime de bani pe hardware de sunet: Evitați acest joc!
+Ceva pozitiv la sunet: Tonurile ies din difuzoare. Din păcate, cele greșite.
+Cel mai prost sunet vreodată.
+Apa toaletei mele sună mai bine decât coloana sonoră a jocului. Foarte foarte rau 
+[END]
+
+[CONTROL_20]
+Comenzile sunt pur și simplu ridicole. Nu poate fi redat!
+Comenzile sunt extrem de imprecise și oribile!
+Comenzile constant inexacte te fac să disperi. Acesta nu este un mod de a te distra!
+Controalele imprecise sunt un eșec real. Ar fi trebuit să se lucreze mai mult la asta.
+Din păcate, trebuie să spun că controalele sunt un eșec total. Frustrarea se instalează rapid aici!
+Comenzile sunt în afara acestei lumi. Atât de rău încât nu poate fi făcut pentru oameni.
+Controlul este doar ceva pentru oamenii cu multă răbdare. Toți ceilalți vor dispera!
+Din păcate, nu am reușit să testez jocul pe larg, deoarece comenzile sunt foarte rele!
+Comenzile te fac să vrei să lovești controlerul de perete. Frustrant!
+Din păcate, distracția se oprește cu comenzile jocului. Atât de imprecis încât m-am îndoit de abilitățile mele.
+Comenzile extrem de imprecise sunt comparabile cu o mașină fără volan. Dezvoltatorii au eșuat aici!
+[END]
+
+[TOTAL_20]
+Oricine joacă acest joc mai mult de 15 minute merită o medalie!
+Sfatul meu: Închideți această nenorocire!
+Acest joc nu merită banii, pentru că plictiseala este garantată!
+După părerea mea, acest joc va fi un flop!
+Concluzia mea: Dacă nu ați auzit de acest joc, cu siguranță nu ați ratat nimic.
+Concluzia: acest joc de prisos nu va face pe nimeni fericit!
+Sfatul meu: cere bani pentru că joci acest joc.
+Ai prea mulți bani? Aruncă-i pe fereastră. Este mai distractiv decât acest joc.
+Concluzie: Există multe jocuri grozave. Acest joc nu este unul dintre ele.
+Canalul radicular sau acest joc? Canal! Fără anestezie.
+Ar trebuie să-l cumpărați - dacă doriți să vă torturați.
+Ar trebui să cumpărați acest joc numai dacă mai aveți spațiu în coșul de gunoi.
+Sunt sigur că deja până mâine nimeni nu își va mai aminti jocul. Înspăimântător!
+Știi ce este cu adevărat distractiv la acest joc? Nimic!
+Dacă arunci o ganteră pe picior, te vei distra mai mult decât cu acest joc.
+Dezvoltatorii ar trebui să fie rușinați de acest joc. Rasul lumii!
+Probabil că dezvoltatorul a vrut doar să câștige rapid și să nu dezvolte un joc bun. Un gunoi!
+Acest joc este foarte rău. Dacă îți muști limba, te vei distra mai mult!
+[END]
+
+[GAMEPLAY_30]
+Jocul este nemotivant. Jocul pur și simplu nu este distractiv.
+Modul de joc este imatur și nu este deloc convingător.
+Modul de joc este foarte simplist, ceea ce nu promite o experiență de joc excelentă.
+Nu m-am distrat cu această recenzie. Pur și simplu îi lipsește vechiul mod de joc.
+Jocul neinspirat nu poate captiva pe termen lung. Pur și simplu nu este distractiv.
+Jocul cu efort redus nu are idei noi. Intriga și povestea nu sunt mai bune.
+Intriga se potrivește pe un covor de bere, iar jocul nu m-a convins!
+Vechii egipteni au sunat: Isi cer jocul inapoi. Învechit fără speranță!
+Modul de joc nu este exigent. Trebuie să căutați o poveste cu lupa.
+Modul de joc are câteva idei bune, care sunt foarte slab implementate.
+Modul de joc este aproape distractiv în primele câteva minute. După aceea, totul devine repetitiv.
+Mecanica jocului este o durere cu care să te obișnuiești. Plictisitor!
+Intriga este la fel de interesantă ca un model de testare, iar jocul nu este exigent.
+Din păcate, dezvoltatorii au înșelat total mecanica jocului. Jocul este doar plictisitor!
+Mecanica jocului este foarte simplă. După cel mult 30 de minute, chiar și cel mai răbdător jucător se va plictisi.
+[END]
+
+[GRAPHIC_30]
+Încă un cuvânt despre grafică: Din păcate, a existat o neglijență aici!
+Reprezentarea grafică este de cea mai mică calitate. Prea puțin s-a făcut aici!
+Grafica este departe de ceea ce s-ar putea realiza cu acest sistem.
+Grafica este destul de monotonă. Mai sunt multe de văzut în competiție.
+Din 100 de jocuri, cel puțin 95 arată mai bine.
+Formele graficii arată grozav, din păcate dezvoltatorii erau daltonici.
+S-ar fi putut face mult mai multe din grafică. De exemplu, o grafică frumoasă.
+Din păcate, grafica arată foarte neclară. Contururi în texte.
+Vizual, jocul este în mare parte o palmă.
+Jocul greșește destul de mult cu grafica.
+Grafica ar putea fi mai proastă, dar și semnificativ mai bună.
+Sfat pentru dezvoltator: oamenii sunt ființe vizuale! Vrem grafică frumoasă, nu așa ceva.
+Grafica este parțial subterană, parțial utilizabilă.
+[END]
+
+[SOUND_30]
+Coloanele sonore ale jocului sunt insuficiente, iar efectele sonore sunt zgârieturi.
+Efectele sonore simple de la difuzoare nu permit o evaluare mai mare.
+Sunetele nu sunt la nivelul standard al acestui sistem. Rău!
+Efectele sonore simple și coloana sonoră șchioapă nu au fost nici măcar convingătoare.
+Din păcate, efectele sonore simple nu se potrivesc cu calitatea obișnuită a acestor jocuri.
+Efectele sonore sună atât de rău, încât am crezut că difuzoarele mele sunt rupte.
+Coloana sonoră este doar tolerabilă. Dar volumul fluctuant al efectelor sonore mediocre este enervant.
+Efectele sonore sunt o insultă pentru urechile mele. Aceasta nu a fost o treabă bună a proiectanților de sunet.
+Efectele sonore ale acestui joc sunt sub medie, iar coloana sonoră nu este atrăgătoare.
+Mașina de ras electrică sună mai bine decât efectele sonore din acest joc.
+Muzica este destul de frumoasă la început, dar începe să devină enervantă după câteva minute.
+Din păcate, efectele sonore și coloana sonoră nu se potrivesc deloc cu jocul.
+Cunoașteți muzica plictisitoare din magazinele mari? Așa sună coloana sonoră a acestui joc.
+Muzica pare complet neinspirată, iar efectele sonore sunt executate prost.
+Din păcate, efectele sonore trebuiau create de amatori.
+Efectele sonore sunt tehnic complet depășite. Este mult mai posibil cu acest sistem de joc.
+[END]
+
+[CONTROL_30]
+Comenzile sunt foarte inexacte. Acest lucru reduce considerabil distracția jocului.
+Controalele imprecise sunt frustrante. Acest lucru face jocul mai puțin distractiv.
+Operațiunea complicată nu este cu adevărat pentru jucătorii obișnuiți!
+Comenzile nu lasă deloc o impresie bună. Pur și simplu prea complicat!
+Comenzile sunt orice în afară de optime. Acest lucru duce rapid la frustrare.
+Comenzile complicate nu sunt pentru începători. Chiar și jucătorii profesioniști vor avea probleme.
+Datorită controalelor complicate și imprecise, jocul nu își poate arăta punctele forte.
+Comenzile sunt mult prea complicate. Acest lucru s-ar fi putut face mai bine într-un mod diferit!
+Care este diferența dintre acest control și fizica cuantică? Fizica cuantică este mai ușor de înțeles.
+Vă enervați rapid cu acest control. Din păcate, trebuie să deduc puncte din evaluarea generală pentru acest lucru.
+Controlul jocului este foarte complicat. Din nou și din nou pierzi controlul jocului. Nu este distractiv.
+Comanda se simte ca si cum ai incerca să faci o operație cu un cutit de unghiera.
+Pozitiv: meniul principal este ușor de controlat. Negativ: comenzile jocului propriu-zis sunt un dezastru.
+Standardele de gen au fost pur și simplu ignorate în controale. Alte jocuri fac asta mult mai bine!
+Dacă îți place pierderea controlului, îți va plăcea acest joc. Toți ceilalți vor fi enervați.
+Controlul jocului este mult prea complicat. Privirea la manual devine rutină..
+[END]
+
+[TOTAL_30]
+Cu acest joc, dezvoltatorii chiar nu s-au acoperit cu faimă!
+Acest joc este o dezamăgire chiar și pentru fanii genului!
+Concluzia mea: Chiar și fanii genului ar trebui să evite acest joc!
+Opinia mea: Oricine a așteptat acest joc ar trebui să reconsidere achizitia!
+Acest joc nu va lega pe nimeni de monitor mult timp. O dezamăgire!
+Cei care au așteptat multe de la el vor fi dezamăgiți.
+Este recomandat doar jucătorilor hardcore care au trecut prin toate.
+Pentru o pauză de prânz foarte scurtă, merită să aruncați o privire când o sa-l puteți obține la un preț redus. Mult mai redus!
+Să recunoaștem: există destule jocuri mai bune oriunde.
+Concluzie: nimic care să-l facă unic, și de asemenea a fost slab implementat.
+Concluzia mea: Jocurile ar trebui să fie o plăcere, nu o tortură. Se poate face mult mai bine.
+Are câteva idei bune care au fost implementate destul de prost. Nici o recomandare.
+Cu un alt dezvoltator, ar fi putut fi un joc bun.
+În ciuda tuturor eforturilor, jocul este în cele din urmă doar defect.
+Ce rușine, rușine, rușine: este păcat de oportunitățile ratate.
+Din păcate este suficient doar pentru sigiliul de aprobare „nesatisfăcător”.
+Jocul este un pachet global pe jumătate, care nu poate ține pasul cu concurența.
+Jocul este un eșec complet. Multe trebuie să fi greșit în timpul dezvoltării.
+În cele din urmă, vă întrebați care este meseria dezvoltatorilor?.
+[END]
+
+[GAMEPLAY_40]
+Diverse gafe din joc nu vă permit să vă bucurați de joc. Urat!
+Jocul este pur și simplu plictisitor. Nu-mi place asta!
+Jocul vechi și uzat poate duce rapid la plictiseală.
+Povestea prost conceputa și jocul simplu motivează doar foarte putin.
+Jocul este foarte dur și nu dă naștere unei bucurii reale.
+În ceea ce privește jocul, acest titlu nu este foarte interesant. Jocul este prost conceput și plictisitor.
+Povestea subțire și jocul simplu nu permit multă atractie pentru al juca.
+Din păcate, ideea de joc nu m-a putut convinge cu adevărat. Punctele slabe în joc pot fi găsite peste tot.
+Din păcate, jocul necreativ oferă puține noutăți. Prin urmare, este ușor să te plictisești.
+Modul de joc este depășit, deci este la fel de distractiv ca o minge sparta.
+În ceea ce privește jocul, jocul este la fel de interesant ca un thriller despre care știi deja sfârșitul.
+Modul de joc este sub medie. Intriga se potrivește pe o cutie de chibrituri.
+Lipsa solidă de imaginație descrie cel mai bine jocul.
+Mecanica jocului este silită și la fel de originală ca un model de șah.
+În ceea ce privește gameplay-ul, nu vă așteptați la minuni. Cel mult, cineva poate fi uimit de calitatea medie.
+Modul de joc a fost copiat din titlurile medii.
+Jocul este la fel de imaginativ ca o pizza care este doar acoperită cu mozzarella și suc roșii.
+Mecanica jocului a fost văzută de 1000 de ori. Nu se pot recunoaște idei noi.
+Nu există nicio inovație în joc. Puteți găsi apa calda la Polul Sud mai repede.
+[END]
+
+[GRAPHIC_40]
+Din păcate, grafica nu este convingătoare. Este sub medie chiar și după standardele de gen.
+Grafica este, în cel mai bun caz, sub medie. S-ar fi putut aștepta la mai multe aici.
+Chiar și conform standardelor de gen, ar fi putut fi acordată o atenție mai mare designului grafic general.
+Grafica arată nepoluată. Concurența a făcut deja acest lucru mai bine.
+Grafica învechită nu este șlefuită și nu merită o medalie.
+Reprezentarea grafică destul de slabă este, în cel mai bun caz, inferioară.
+Graficienii nu păreau să aibă multă dorință. Rezultatul este sub grafica medie.
+Dacă sunteți un fan grafic, evitați acest joc.
+Din păcate, grafica nu m-a aruncat. Poate că jocul are alte puncte forte.
+Vizual, jocul arată absolut fad.
+Grafica cu detalii reduse nu m-a uluit. Este sub medie.
+A spune că grafica arată de parca cineva a scuipat pe monitor este o exagerare. Este destul de urât.
+Grafica jocului este cu mult sub stadiul tehnicii.
+Genul chiar merită o grafică mai bună. Acesta este sub medie.
+Dezvoltatorul nu a înțeles că jocurile pe computer sunt un mediu vizual.
+Grafica pare slab detaliată și nepoluată. Concurența face o treabă mult mai bună.
+[END]
+
+[SOUND_40]
+Din păcate, sunetul are puncte slabe și nu profită de capacitățile sistemului.
+Din păcate, din difuzoare iese doar muzică monotonă. Nu-i prea drăguț!
+Efectele sonore sunt sub standardul de gen. Sunt obișnuit să aud ceva mai de calitate.
+Nu s-a făcut niciun efort cu sunetele, iar coloana sonoră nu era prea bună.
+Acele câteva efecte sonore nu sunt foarte impresionante. Majoritatea jucătorilor sunt obișnuiți cu un nivel superior.
+Efectele sonore digitalizate oferă puțină varietate. Mi-aș dori ceva mai mult.
+Din punct de vedere tehnic, sunetul este slab și depășit.
+Muzica este acceptabilă, dar efectele sonore sunt extrem de enervante.
+Acustica, din păcate, suna de parca au fost pregătite week-end-ul înainte de lansarea.
+Melodia din meniu sună grozav! După aceea, este mai bine să opriți sunetul.
+Efectele sonore sună ca și când ar fi fost create de două persoane. Unul foarte talentat si un amator.
+Muzica nu se potrivește deloc jocului. Efectele sonore sunt medii.
+Muzica pare să meargă in cerc la infinit. Prea monoton!
+Efectele sonore sunt de fapt acceptabile. Pur și simplu nu se potrivește genului și jocului.
+[END]
+
+[CONTROL_40]
+Comenzile enervante vor face ca jucătorul mediu să dispere.
+Comenzile complicate sunt enervante. Majoritatea jucătorilor vor deveni rapid frustrați.
+Comenzile sunt gunoi absolut.
+Comenzile teribil de complicate strică jocul chiar și pentru fanii genului.
+Controalele ar fi trebuit să fie mult mai bune. A juca așa nu este distractiv.
+Este nevoie de ceva timp pentru a înțelege comenzile jocului.
+Comenzile erau uneori destul de enervante.
+Viața este prea scurtă pentru a învăța comenzile complicate ale jocului.
+Comenzile sunt extrem de imprecise. Pur și simplu nu am putut face față comenzilor.
+Cu multă practică, veți avea comenzile sub control. Dar nu este distractiv..
+Nimeni din echipa editorială nu a fost mulțumit de controale. Chiar și în meniuri, comenzile sunt prea complicate.
+Despre comenzi: jocul arată că puteți face lucruri simple foarte complicate.
+[END]
+
+[TOTAL_40]
+Chiar și ca iubitor al acestui gen, nu veți obține valoarea banilor.
+Fanii acestui gen ar trebui să se gândească de două ori dacă merită să-l cumpere.
+Jocul este distractiv pentru primele 30 de minute. După care motivația de a continua scade foarte rapid!
+Concluzia mea: Jocul pur și simplu nu este deloc distractiv. Nu există placere în a-l juca!
+Deoarece jocul nu are nimic placut, nu pot să-l recomand.
+Concluzie despre joc: Dacă vă place, continuați. Aș prefera să lipsesc!
+Pot recomanda acest joc doar fanilor hardcore ai genului. Toti ceilalti: Mai bine lasa!
+Primele momente sunt grozave, după care, plictiseala se instaurează rapid!
+Din păcate, nici măcar nu a fost suficient pentru a fi considerat un joc mediu.
+Fanii hardcore ai genului ar trebui să-l încerce. Toți ceilalți nu trebuie să ia în considerare aceasta achiziție.
+Concluzie: jocul are puține puncte forte și multe puncte slabe.
+Cu mai multă atenție la detalii, ar fi putut deveni cel puțin un titlu mediu.
+Concluzia mea: Jocul nu merită nici 2 stele!
+În cele din urmă, nu doar ca nu este un mare succes, nu este nici măcar un succes minor.
+Acest joc are cu siguranță puncte forte, dar are prea multe greșeli și îți strică distracția.
+Concluzia: așteptam cu nerăbdare jocul. Din păcate, odată ce l-am jucat, am fost dezamăgit.
+[END]
+
+[GAMEPLAY_50]
+Modul de joc extrem de dur nu permite multă distracție.
+Jocul minimalist pare foarte depășit.
+Jocul este dezechilibrat și nesatisfacator.
+Povestea nu mă convinge, iar jocul este dezechilibrat
+Un concept de joc interesant, care s-a dovedit rapid a fi plictisitor.
+Dacă acest joc mediu devine standard, genul va fi în curând în criză.
+În teorie, mecanica jocului a sunat mai bine decât în ​​practică.
+Nu există inovații în joc. Dezvoltatorul s-a mulțumit de mediocritate.
+Am fi fost mulțumiți de mai multe inovații în joc. Așa, este doar mediocru.
+Jocul neinspirat transformă jocul într-un produs de masă.
+Mecanica jocului arată câteva abordări bune, dar sunt slab implementate.
+Dezvoltatorii ne-au promis multe inovații în joc. Din păcate, este doar plictisitor și neinspirat.
+Povestea este la fel de palpitantă ca broșurile bunicii. Jocul nu este bun.
+Cuvântul „plictisitor” descrie destul de bine jocul și povestea.
+Acest gen merită mai mult decât o astfel de mecanică medie de joc.
+Povestea este suportabilă, dar dezvoltatorii ar fi trebuit să lucreze mai mult la joc.
+Modul de joc este pur și simplu monoton. Am fi vrut să vedem mai multă creativitate.
+[END]
+
+[GRAPHIC_50]
+Din păcate, grafica nepolișata nu este convingătoare. Concurența a făcut o treabă mai bună.
+Grafica funcțională nu este foarte convingătoare. Nu-mi place.
+Grafica nu este la fel de detaliată ca și alte titluri.
+Din păcate, grafica este mediocră în cel mai bun caz, chiar și după standardele de gen.
+Reprezentarea grafică este aproape mediocră și nu lasă pe nimeni uimit.
+Efectele grafice nu sunt foarte spectaculoase, dar nu pot păcăli pe nimeni.
+Grafica nu va câștiga un premiu de frumusețe. Mediocră în cel mai bun caz.
+Grafica este prea nepolișata, ceea ce nu permite un rating mai bun.
+Prezentarea jocului arată de parcă nu a fost controlata înainte.
+Vizual, jocul poate fi descris doar ca „mediocru”.
+Grafica mi se pare lipsită de pasiune și nepolișata.
+Grafica utilitară nu a aruncat in aer pe nimeni.
+Jocurile cu același gen au deja o grafică mult mai bună.
+Grafica jocului nu este un dezastru, dar nici nu merită un premiu.
+Dacă nu aveți cerințe mari pentru grafică, puteți convietui cu ea.
+Grafica jocului este acceptabilă. Cu toate acestea, mi-aș fi dorit să văd mai multă atenție la detalii.
+Grafic, jocul este doar o medie obișnuită.
+Grafica acestui titlu era aparent doar o preocupare secundară. În cele din urmă, este doar mediocră.
+[END]
+
+[SOUND_50]
+Efectele și coloana sonoră sunt sub medie, sunt o adevărată decădere.
+Sunetul este ok. Dar coloana sonoră nu nu mă înnebunește.
+Muzica și efectele sonore sunt destul de acceptabile, cu câteva excepții.
+Efectele sonore sunt acceptabile, dar nu pot respecta standardele actuale.
+Efectele sonore nu vor înnebuni pe nimeni, iar coloana sonoră este, de asemenea mediocră .
+Din păcate, cele câteva efecte sonore spectaculoase nu pot convinge pe deplin.
+Efectele sonore sunt destul de în regulă. Dar, din păcate, nu a fost suficient pentru un rating mai mare.
+Sunetul nu este la fel de enervant ca sunetul unui aspirator. Dar nici nu suntem prea departe!
+Muzica este solidă, dar monotonă. Efectele sonore sunt mediocre.
+Din păcate, efectele sonore ale jocului nu prea ne pot convinge.
+Ce face ca sunetul să fie special? Nimic! Dar am văzut mai rău.
+Muzica s-ar potrivi și cu un screensaver. Efectele sonore nu merită menționate.
+Designerii de sunet par să fi făcut un efort pentru a crea efecte sonore decente. Din păcate, sunt mult prea puține!
+Coloanele sonore ar fi foarte bune dacă s-ar potrivi cu jocul. Dar nu este cazul.
+Efectele sonore provin probabil dintr-o bibliotecă standard. Totul este de o calitate medie.
+[END]
+
+[CONTROL_50]
+Comenzile sub medie provoacă frustrare în anumite puncte.
+Trebuie să te obișnuiești cu comenzile jocului. Frustrarea este inevitabilă în anumite momente.
+Mi se par prea complicate comenzile jocului!
+Din păcate, comenzile jocului nu sunt bine realizate. Te enerveaza foarte des.
+Controlul nu este un punct forte al jocului.
+Comenzile necunoscute au nevoie de ceva timp pentru a te obișnui. Acest lucru putea fi facut mai bine.
+Comenzile jocului nu ne-au putut convinge pe niciunul dintre noi. Din când în când, puțin imprecis.
+Manevrarea nu este fluida. Uneori, mai degrabă provoacă probleme.
+Controalele sunt mediocre. Atât se poate scrie despre asta.
+În ciuda controalelor simple ale jocului, am avut unele probleme cu precizia în timpul revizuirii.
+Din păcate, comenzile jocului nu sunt suficient de intuitive. Deci, rămâne doar mediocritatea.
+Comenzile jocului in general simplifică lucrurile complicate. Aici din păcate, complică lucrurile simple.
+Comenzile jocului își servesc scopul, fără puncte forte sau puncte slabe.
+Comenzile mai puțin intuitive ale jocului nu permit un scor mai mare aici.
+[END]
+
+[TOTAL_50]
+Jocul putea fi un unul decent, cu programatori capabili. Foarte prost!
+Acest titlu este un joc mediocru care lasă de dorit.
+Nu este un joc obligatoriu. Numai pentru fanii genului.
+În concluzie, acesta nu este un joc pe care l-aș recomanda oricui.
+Concluzie: un joc sub medie, care devine rapid plictisitor.
+Părerea mea: Doar fanii de gen die-hard ar trebui să simpatizeze acest joc.
+Concluzia: jocul a fost lansat pur și simplu prea devreme.
+Fanii de gen se pot distra cu acest joc. Toti ceilalti: Mai bine lasa!
+Concluzie: dezvoltatorii s-au extins prea mult aici. Rezultatul este mediocru.
+Concluzia mea: Nu este imposibil de jucat, dar nu este nici distractiv.
+Nu este un joc rău, dar numeroasele defecte nu permit un rating mai mare.
+Verdict: Deși dezvoltatorul a depus eforturi, acest joc nu este altceva decât un reprezentant de gen trivial.
+Acest joc este destul de distractiv pentru câteva minute. În cele din urmă, nu vă va atrage atenția din cauza lipsei de conținut și a gameplay-ului slab.
+Titlul vine cu ani prea târziu și pur și simplu are prea puține inovații pentru a mă entuziasma.
+Ca o concluzie pot spune doar: Jocul este plictisitor!
+În concluzie, acest joc nu m-a entuziasmat.
+Părerea mea: În foarte multe puncte jocul este cel mult mediu.
+Fanii genului s-ar putea bucura câteva ore. Din păcate, nu sunt unul dintre ei.
+[END]
+
+[GAMEPLAY_60]
+Modul de joc se schimbă de la nivel la nivel. Uneori sus, alteori jos.
+Jocul este distractiv pentru o vreme, dar din păcate, nu durează.
+Povestea și jocul nu sunt cu adevărat remarcabile, dar nici nu este rău.
+Modul de joc este OK și ideea te poate distra în părți.
+Distracția jocului se balansează mai mult decât un pendul. Cu toate acestea, nu este chiar rău.
+Povestea nu este bună, dar jocul este solid.
+Mecanica jocului este testata și adevărată, fără slăbiciuni majore.
+Jocul este distractiv în anumite părți, dar nu veți cădea niciodată într-o stare de euforie.
+Intriga generează tensiune pe întinderi, dar nu durează niciodată mult.
+Modul de joc este distractiv. Intriga, pe de altă parte, este o glumă.
+Povestea este excelentă. Pe de altă parte, mecanica de joc învechită pur și simplu nu rezistă.
+Modul de joc are punctele sale forte, dar povestea nu este chiar interesantă.
+[END]
+
+[GRAPHIC_60]
+Grafica este destul de medie. Am văzut-o mai bine pe acest sistem.
+Grafic, acest titlu nu va primi premii, dar nici nu trebuie să se ascundă din cauza rușinii.
+Grafica este doar medie și chiar nimic special.
+Grafica putea fi ceva mai detaliată. Gen pentru mine e standard.
+În ceea ce privește efectele grafice, acest joc nu trebuie să se ascundă de competiție. Sunt peste medie.
+Prezentarea grafică nu se încadrează în așteptări. Cu siguranță depaseste media.
+Grafica este destul de urâtă în unele locuri, dar adesea medio-superioară.
+Grafica pare puțin depășită, dar nu este un eșec total.
+Din punct de vedere grafic, merită văzut, dar ar putea fi mai atenți la detalii.
+Grafica arată puțin prea sterilă. Mi-aș fi dorit detalii și varietate.
+Cu siguranță există jocuri cu o grafică mai bună. În cele din urmă, va fi suficient pentru un rating mediu.
+Grafica jocului nu merită o medalie, dar totuși poate ține pasul cu concurența.
+Grafica nepolișata abia întâlnește stadiul tehnicii, puțin mai mult.
+Efectele grafice extraordinare merită menționate. Restul graficii arată destul de mediocru.
+[END]
+
+[SOUND_60]
+Sunetele și melodiile digitalizate se potrivesc jocului. Nimic special.
+Chiar dacă de fapt mă așteptam la mai multe, efectele sonore sunt în regulă.
+Efectele sonore ale jocului sunt acceptabile, dar nimic special.
+Nu sunt multe de scris despre efectele sonore. Sunt ok.
+Efectele sonore digitalizate se potrivesc jocului și coloana sonoră este, de asemenea, în regulă.
+Muzica și sunetul sunt medii și nu pot ține pasul cu jocurile de top.
+Problemele tehnice au afectat unele efecte sonore destul de bune și au împiedicat o evaluare mai bună.
+Nu sunt multe de spus despre acustică. Muzica și efectele sonore sunt mediocre.
+Coloana sonoră este în regulă, dar nu ai asculta-o cu un prieten.
+Muzica și efectele sonore sunt în regulă, chiar dacă nu mă fac să zbor.
+Sunetul este de fapt destul de bun. Din păcate, există și probleme tehnice. Deci rămâne medie.
+Efectele sonore ale jocului sunt grozave. Muzica, pe de altă parte, este o spălare totală.
+Efectele sonore sunt încă puțin în spatele competiției.
+Un pic mai multă varietate, atunci ar fi existat un rating mai mare pentru sunet.
+[END]
+
+[CONTROL_60]
+Sistemul mediu de control necesită ceva timp pentru a te adapta.
+Comenzile sunt încă acceptabile, dar nu respectă standardul sistemului.
+Comenzile jocului sunt medii comparativ cu alte jocuri.
+Comenzile jocului sunt în regulă. Ici și colo sunt puțin imprecise.
+Pentru a înțelege comenzile, trebuie să studiați manualul pentru o perioadă de timp. După aceea poți convietui cu ea.
+Comenzile jocului sunt în regulă. Cu toate acestea, îi lipsește intuiția.
+Comenzile jocului sunt în regulă, dar imprecise pe părți. Acest lucru ar fi putut fi facut mai bine.
+Comenzile jocului nu sunt remarcabile, dar am vazut si mai rau.
+Despre controale: meniurile sunt complicate inutil. În caz contrar, totul este în regulă.
+[END]
+
+[TOTAL_60]
+În general, rămâne să spunem că fanii hardcore ai unor astfel de jocuri își vor câștiga valoarea.
+Unele defecte de design reduc calitatea jocului. Cred că jocul este în regulă.
+Un joc distractiv la început, dar devine plictisitor relativ repede.
+Acest titlu este o idee frumoasă, dar nu poate mentine interesul mult timp.
+Jucătorii ocazionali fără pretenții pot arunca o privire.
+Concluzie: pot recomanda acest joc doar fanilor de gen.
+Părerea mea: Acest joc este solid, dar nimic special.
+Nimic pentru toată lumea, dar fanii genului îl pot cumpara.
+Dacă poți face față defectelor, jocul ar putea merita o achiziție.
+Titlul nu te prea atrage. Fără defecte, ar fi un joc grozav.
+Nu este o perlă a genului, dar este cu siguranță recomandată fanilor.
+Un joc solid, dar nu remarcabil, care putea fi cu siguranță mai bun.
+Concluzia mea: Jocul este în regulă. Dar un alt dezvoltator ar fi făcut jocul mai bun.
+Părerea mea: am sperat să ador jocul, dar multe defecte de design sunt prea enervante.
+Din păcate, este prea banal din multe puncte de vedere pentru a fi un joc grozav.
+Fanii de gen îl pot cumpăra pentru a reduce timpul dintre două titluri foarte bune.
+Cei care nu au așteptări mari se pot distra cu acest joc.
+Dacă șeful le-ar fi oferit programatorilor mai mult timp de dezvoltare, ar fi un joc bun. Așa cum este, este doar mediocru.
+[END]
+
+[GAMEPLAY_70]
+Despre gameplay: un gameplay bine gândit, cu slăbiciuni minore.
+Modul de joc este un amestec frumos cu suișuri și coborâșuri minore.
+Modul de joc este variat și poate motiva pe o perioada mai indelungata.
+Modul de joc este motivant pe termen lung. Povestea primește deducții în clasa B.
+Mecanica jocului te distrează, dar are unele slăbiciuni minore.
+Modul de joc este distractiv pentru câteva ore, dar apoi devine puțin monoton.
+Povestea este medie, dar mecanica jocului este destul de distractivă.
+Primele ore de joc sunt o bucurie deosebită. Din păcate, povestea este mult prea scurta.
+Ideile de joc sunt grozave, dar uneori slab implementate tehnic.
+Mi-aș fi dorit să dau mai multe puncte pentru joc, dar numeroasele defecte de design m-au împiedicat.
+Jocul este destul de bun, dar mi se pare că dezvoltatorul s-a inspirat prea mult din alte jocuri.
+[END]
+
+[GRAPHIC_70]
+Grafica este în regulă, dar nu este pe deplin convingătoare.
+Grafica nu este nimic special, dar destul de decent după standardele de gen.
+Reprezentarea grafica este destul de draguta, dar nu se compara cu concurenta.
+Grafica jocului este destul de frumoasă, cu câteva excepții. Media superioară!
+Cu siguranță există o grafică mai proastă în gen. Cu toate acestea, există și câteva jocuri care o fac mai bine.
+Grafica jocului este medio-superioară. Mai ales efectele puteau fi făcute mai bine.
+Grafica jocului este destul de bună. Atenția la detalii, încă lipsesc.
+Grafica jocului arată solid, dar nu este nimic special.
+Despre grafică: Din punct de vedere tehnic, ar fi fost posibile mai multe, dar este în regulă.
+Stilul grafic este de fapt destul de frumos, dar nu toată lumea va împărtăși această părere.
+Fanii de gen nu vor fi încântați de grafica jocului, dar vor fi mulțumiți.
+[END]
+
+[SOUND_70]
+Efectele sonore digitalizate sunt destul de bune, dar nimic special.
+Nu vă puteți plânge de efectele sonore și de coloana sonoră acceptabilă.
+Efectele sonore nu vor uimi pe nimeni, dar sunt în regulă.
+Coloana sonoră nu a fost magică, dar merită totuși ascultată.
+Muzica este grozavă, dar se repetă prea des pentru un rating mai mare.
+Sunetul susține pozitiv atmosfera jocului, dar îi lipsește perfecționismul.
+Cu siguranță nu a existat un Mozart responsabil pentru muzică, dar efectele sonore sunt bune.
+Nu există nimic negativ de spus despre sunet. Cu toate acestea, nici nu este o capodoperă.
+Coloanele sonore ale jocului sunt grozave, dar efectele sonore nu mă fac să zbor.
+Sunetul ar fi extraordinar dacă unele efecte sonore nu ar avea probleme tehnice.
+[END]
+
+[CONTROL_70]
+În ceea ce privește controalele, nu există probleme majore dacă aveți puțin timp să le învățați.
+M-am înțeles imediat cu comenzile, chiar dacă au unele slăbiciuni.
+Jocul este destul de confortabil de jucat. Doar mici probleme ici colo.
+Durează ceva timp pentru a înțelege comenzile, dar după aceea nu vei mai avea probleme.
+Odată ce ați înțeles comenzile, jocul se joacă excelent.
+Despre comenzi: primele câteva minute sunt un pic complicate. După aceea, jocul se joacă fără probleme.
+Cred că, comenzile sunt prea imprecise. Cu toate acestea majoritatea oamenilor nu vor avea probleme cu comenzile.
+Comenzile sunt ușor de utilizat, dar ar putea fi mai intuitive.
+Controalele simple sunt de fapt bune, doar puțin imprecise din când în când.
+Comenzile sunt clasice. Nu am avut probleme majore.
+[END]
+
+[TOTAL_70]
+Dacă sunteți un fan al acestui gen, ar trebui să aruncați cu siguranță o privire.
+Dacă îți plac jocurile de acest gen, ar trebui să notezi acest titlu.
+Fanii genului vor fi mulțumiți de acest titlu.
+Acest titlu este distractiv pentru o vreme, dar din păcate nu durează.
+Verdict: fanii și jucătorii obișnuiți vor fi mulțumiți de acest joc.
+Acest joc este un produs solid. Achiziție recomandată pentru fanii genului!
+Părerea mea: fanii genului se vor distra cu acest joc o vreme.
+Cei interesați de acest gen pot cumpăra linistiti jocul.
+Evaluarea mea pentru acest joc: Este bună, dar nu foarte bună.
+Jocul cu siguranță nu va fi un succes, dar fanii genului se vor distra cu el.
+Jocul nu este pentru toată lumea, dar îi va face pe fanii genului fericiți.
+Acest titlu merită o privire mai atentă. Mai ales pentru fanii genului.
+Jocul nu este de top. Cu toate acestea, pentru cei care iubesc genul, pot recomanda jocul.
+Jocul nu va câștiga premii. Dar te poți distra cu el ceva timp.
+Mi-a plăcut jocul o vreme. Cu toate acestea, încă mai lipsesc multe pentru un titlu de top.
+Chiar dacă jocul a fost distractiv pentru mine de ceva timp, cu siguranță nu va fi un candidat pentru jocurile mele preferate.
+Deși așteptările mele nu au fost îndeplinite, jocul este placut.
+Concluzie: un joc bun căruia îi lipsește varietatea.
+Părerea mea: un joc cu caracteristici interesante, care este distractiv pentru o vreme.
+Concluzia mea: jocul va distra fanii genului. Toți ceilalți se vor plictisi.
+Jocul nu este cu siguranță preferatul meu, dar m-am distrat cu el.
+Din păcate, dezvoltatorul nu s-a deranjat cu unele caracteristici. Cu toate astea, este un joc bun.
+În general, jocul este destul de reușit. În ciuda slăbiciunilor sale, este încă distractiv
+Nu aveam așteptări mari înainte de recenzie și am fost surprins. Totuși, nu este suficient pentru o lovitură.
+De la mine există o recomandare de cumpărare! Dar numai dacă ești un fan al genului.
+[END]
+
+[GAMEPLAY_80]
+Modul de joc variat este distractiv și oferă câteva inovații.
+Complexitatea jocului nu lasă mult de dorit.
+Jocul proaspăt oferă o distracție extinsă și continuă.
+Modul de joc este simplu, dar captivant. Distracția este garantată!
+Jocul provocator și povestea interesantă pot motiva multe ore.
+Jocul proaspăt și provocator este grozav!
+Mecanica variată a jocului este o bucurie.
+Jocul atemporal a fost combinat cu idei noi. Îmi place.
+Un joc necomplicat, care este distractiv chiar și pe o perioadă mai lungă de timp.
+Jocul motivant te va distra mult timp.
+Modul de joc arată doar câteva puncte slabe și povestea este puternica.
+Povestea are câteva puncte interesante, iar jocul este provocator și distractiv.
+Din cauza poveștii incitante, nu m-am putut opri din joc.
+O poveste bine spusă, cu câteva surprize. Jocul a fost implementat solid.
+Din punct de vedere al gameplay-ului, titlul este la un nivel constant ridicat.
+Modul de joc și povestea nu prezintă puncte slabe notabile.
+Jocul nu este nou, dar este foarte provocator.
+Jocul are o poveste interesantă și un final foarte interesant.
+Aici o poveste frumoasă a fost combinată cu un gameplay excelent.
+Modul de joc este variat și provocator. Nu numai fanii genului il vor iubi.
+[END]
+
+[GRAPHIC_80]
+Grafica bună ce profită de capacitățile sistemului.
+Pe partea pozitivă, ar trebui menționată grafica jocului.
+Grafica frumoasă arată mai bine decât în jocurile similare.
+Reprezentarea grafică este realizată frumos și arată multă atenție la detalii.
+Grafica detaliată este foarte bună. Mai bine decât ma așteptam.
+Grafica jocului este stadiul actual al tehnicii.
+Jocul oferă o grafică concepută imaginativ. Foarte impresionant.
+Un aspect pozitiv este grafica variată. Face dreptate genului.
+Un punct pozitiv este grafica excelentă cu efecte frumoase.
+Buna tehnică a graficii cu efecte bune, impresionează profund.
+Titlul are o grafică frumoasă și detaliată. Peste medie.
+Grafica a fost proiectată în detaliu. Mi-au plăcut și efectele.
+Grafica nu este doar frumoasă, ci și variată.
+Experiența de joc este prezentată frumos. Gameplay-ul și grafica se armonizează foarte bine.
+[END]
+
+[SOUND_80]
+Muzica și sunetul sunt convingătoare și realistice, de bună calitate. Imi place.
+Efectele sonore cristaline merită menționate, iar coloana sonoră este, de asemenea, excelentă.
+Sunetele jocului sunt bune, dar nu uluitoare.
+Jocul prezintă o coloană sonoră excelentă și efecte sonore bune.
+Coloana sonoră a jocului este foarte bine realizată.
+Pe partea pozitivă, acest joc are o coloană sonoră excelentă.
+Sunete grozave. Așa ar trebui să sune jocurile în zilele noastre!
+Sunetul nu este strălucitor, dar totuși bun.
+Mi-a plăcut foarte mult coloana sonora. Am setat volumul la maxim!
+Sunetul creează o atmosferă foarte bună. Grozav!
+Din punct de vedere acustic, jocul este foarte bun, dar nu perfect.
+Sunetul jocului mi-a îndeplinit așteptările.
+Coloane sonore bine compuse și efecte sonore deosebite se remarcă pozitiv.
+Efectele sonore sună bine, dar, din păcate, există doar câteva melodii.
+[END]
+
+[CONTROL_80]
+Dacă sunteți în căutarea unui joc cu controale simple, îl veți găsi în acest titlu.
+Comenzile bine gândite vă permit să vă bucurați imediat de joc.
+Jocul se descurcă bine încă de la început. Foarte solid!
+Controalele sunt bine realizate. O scurtă etapă de antrenament și sunteți gata de plecare.
+Comenzile intuitive fac jocul destul de plăcut.
+Comenzile sunt intuitive și simple.
+Un control bun, simplu și precis. Așa ar trebui să fie.
+Controlul a fost implementat super, dar nu stabilește niciun standard.
+În cazuri rare, comenzile sunt puțin imprecise, dar altfel foarte bune.
+Foarte rar ai senzația că controalele jocului eșuează.
+Comenzile nu sunt o revoluție, dar arată mici îmbunătățiri.
+Am fost surprins de comenzile simple ale jocului.
+Odată ce v-ați familiarizat cu jocul, comenzile sunt ușor de utilizat.
+Nu vă puteți plânge de comenzile jocului. Bună treabă!
+[END]
+
+[TOTAL_80]
+Un joc bun, care mi-a păstrat interesul mult timp.
+Concluzie: dacă nu dețineți încă un joc de acest fel, ar trebui să îl luați.
+Dacă sunteți interesat de astfel de jocuri, ar trebui să verificați cu siguranță acest titlu.
+La final: Una peste alta, acest joc oferă multi bani!
+Părerea mea: un joc bun care garantează distracție îndelungată.
+Dacă îți plac jocurile de acest gen, acest titlu este un must-have absolut!
+Pentru fanii acestui gen, pot recomanda acest titlu fără ezitare.
+Cei care au banii pregătiți pot cumpăra acest joc fără ezitare.
+Oricine este interesat de gen și subiect ar trebui să-l cumpere.
+Concluzia mea: Acest joc poate fi numit „bun” fără compromisuri.
+Cei care sunt fani ai genului se vor bucura de acest joc.
+Pentru fanii genului, acest titlu este un adevărat sfat din interior. Bun!
+Acest titlu nu este doar un sfat privilegiat pentru fanii genului!
+Jocul se îmbunătățește constant. Distracţie!
+Concluzie: un joc variat, distractiv. Recomandare clară pentru iubitorii de gen.
+M-am distrat mult cu jocul și sunt dispus să ignor micile puncte slabe.
+O experiență atmosferică care vă va ține lipit de ecran timp de mai multe ore.
+Chiar și jucătorii care nu sunt interesați de gen ar trebui să incerce acest joc.
+Dezvoltatorul oferă un joc interesant și surprinzător de distractiv.
+Un produs obligatoriu pentru oricine iubește genul.
+Pentru câteva ore, sunteți transportat într-o lume minunată a jocului. Super!
+Chiar dacă nu este suficient pentru un rating de top, îmi doresc de mult un joc ca acesta.
+Un sfat privilegiat pentru toți fanii genului, care în curând nu ar trebui să rămână atât de secret.
+După părerea mea, ar trebui să existe mai multe jocuri de genul acesta.
+[END]
+
+[GAMEPLAY_90]
+Trebuie să recunosc, gameplay-ul este cu adevărat impresionant. Superb as spune!
+Jocul complex și interesant este foarte distractiv.
+Jocul și povestea sunt cu adevărat grozave. Majoritatea jocurilor de acest gen nu pot ține pasul cu această calitate.
+Povestea și jocul sunt minunate. Jocul nu este plictisitor nici macar un minut!
+Acest titlu are un joc fascinant și distractiv. Multe ore de distracție sunt garantate!
+Aparent, jocul a fost punctul central al dezvoltării. S-au făcut multe lucruri aici.
+Modul de joc este inovator și are multe caracteristici noi.
+Mecanica jocului a fost implementată superb. Povestea jocului este, de asemenea, interesantă.
+Minunat și gameplay-ul este potrivit pentru începători și profesioniști.
+Designul jocului este foarte provocator, dar este si foarte distractiv.
+Trebuie să spun, îmi place foarte mult jocul! Mi-a plăcut mai ales povestea.
+Deoarece acest joc are multe moduri de joc diferite, nu te vei plictisi. Grozav!
+Modul de joc este simplu, dar minunat. Dezvoltatorii au lustruit puternic cele câteva elemente de joc.
+Datorită povestei captivante, timpul trece cu ușurință. M-am distrat de la primul minut până la final.
+Joc simplu, dar extrem de motivant. Felicitari dezvoltatorilor!
+Echilibrul jocului este deosebit de bine făcut. Un model pentru toate jocurile cu acest gen!
+Jocul motivant și povestea bine scrisă m-au surprins într-un mod pozitiv.
+[END]
+
+[GRAPHIC_90]
+Grafica fantezistă și variată atrage atenția!
+Grafica excelentă este mai bună decât majoritatea jocurilor actuale. Frumos!
+Grafica este la limita a ceea ce este posibil pentru această platformă de jocuri. Foarte bine!
+Pentru fanaticii graficii, acest joc este o mangaiere pentru ochi. O treabă grozavă a graficienilor!
+M-a fascinat stilul grafic atemporal. Foarte impresionant.
+Grafica este extrem de atmosferică. Se potrivește perfect jocului.
+Grafica va avea mulți imitatori, dar aproape nimeni nu se va apropia de această calitate.
+Din punct de vedere tehnic, grafica este foarte impresionantă. Nu este posibil mult mai mult pe acest sistem de joc!
+Dacă aș fi un joc, aș vrea să arăt așa. Grafică grozavă!
+Grafic, jocul stabilește noi standarde. Mi-a plăcut mai ales lumea detaliată a jocului.
+Un design artistic deosebit și efecte impresionante din punct de vedere tehnic au uimit întreaga echipă editorială..
+[END]
+
+[SOUND_90]
+Efectele sonore frumos digitalizate sunt printre cele mai bune pe acest sistem de joc.
+Efectele sonore bune și o coloană sonoră excelentă se potrivesc perfect cu jocul.
+Despre sunet: muzical, suntem la un nivel foarte ridicat. Grozav!
+Coloana sonoră și efectele sonore excelente sunt într-adevăr cele mai bune. Vă rugăm să măriți volumul!
+Efectul acustic impresionant și muzica de joc excelentă se remarcă în acest joc.
+Coloanele sonore ale jocului au fost compuse superb, iar efectele sonore sunt, de asemenea, tehnice la limită.
+Jocul are o coloană sonoră electronică fantastică, cu efecte sonore remarcabile din punct de vedere tehnic!
+Am fost foarte impresionat de efectele sonore bombastice. Felicitări specialiștilor în sunet!
+Coloana sonoră a jocului este remarcabilă, iar efectele sonore sunt de foarte bună calitate.
+Coloana sonoră atmosferică și minimalistă se potrivește perfect jocului.
+[END]
+
+[CONTROL_90]
+Un sistem de control foarte bine gândit și simplu, nu vă permite să vă scufundați imediat în joc.
+Interfața excelentă a utilizatorului m-a convins complet!
+Marile controale sunt exemplare. Totul s-a făcut chiar aici.
+Comenzile simple și bine gândite m-au surprins pozitiv.
+Nu trebuie scris mult despre controalele precise și simple. Buna treaba!
+Jocul arată cum trebuie să funcționeze un sistem de control astăzi.
+Comenzile au fost perfect adaptate pentru joc. Totul este chiar aici!
+Mi-au plăcut foarte mult comenzile jocului. S-au făcut multe, astfel încât jucătorul să poată începe imediat.
+Comenzile sunt grozave! Nu aș fi crezut că, comenzile ar putea fi atât de inovatoare.
+[END]
+
+[TOTAL_90]
+Jocul este absolut necesar pentru fanii genului! Top!
+Un joc excelent care ar trebui să ne distreze jucătorii pentru o vreme!
+Un joc grozav care nu ar trebui să lipsească în colecția ta. Absolut recomandat!
+Acest joc stabilește noi standarde și aparține fiecărei colecții de jocuri!
+Concluzia mea: Acest joc nu trebuie să lipsească în nicio colecție!
+Acest joc va fi un succes! Absolut recomandat!
+Concluzie: un joc grozav care aparține fiecărei colecții!
+În ciuda rezervelor mele, acest joc a ieșit grozav. Cumpara-l!
+Concluzie: un joc pe care ar trebui să îl incerci cu siguranță!
+Când oamenii vorbesc despre „vremurile bune” în câțiva ani, acest titlu este unul dintre motivele pentru a-si aminti.
+Un joc grozav, care nu este recomandat doar fanilor de gen.
+Un joc absolut fascinant pe care ar trebui să îl incerci cu siguranță!
+Titlul nu m-a lăsat să dorm multe nopți. Pericol de dependență!
+Acest joc se adapteaza oricui. Este aproape perfect și stabilește noi standarde.
+Sunt foarte recunoscător că mi s-a permis să testez acest joc. Top!
+Concluzie: un joc excelent care va distra jucătorul pentru o perioadă foarte lungă de timp.
+Părerea mea: Așa trebuie să fie un joc! Grozav!
+O piatră de hotar în gen care ar putea începe un trend.
+Acest joc este atât de bun încât mă tem că vor apărea multe clone rele în următorii ani.
+Un joc grozav cu provocări variate. Nu numai fanii genului se vor distra cu acest joc.
+Acest joc va fi cu siguranță foarte vandut!
+Părerea mea: Acest joc este un cadou minunat pentru orice jucător!
+[END]
+
+[GAMEPLAY_100]
+Jocul strălucitor, este distractiv de la început până la sfârșit.
+Modul de joc este foarte bine gândit și motivează de la început până la sfârșit.
+Modul de joc și povestea sunt absolut de top. Distracție garantată!
+Modul de joc este practic perfect, iar povestea este extrem de incitanta. Super!
+Nu pot găsi decât un cuvânt pentru acest joc: „Perfect”!
+Toată echipa editorială s-a distrat cu acest joc. Un joc minunat, bine gândit!
+Modul de joc și povestea pot crea dependență.
+Jocul gestionează echilibrul perfect. Poți juca cinci minute sau cincisprezece ore. Grozav!
+Jocul m-a lipit de scaun. Multe idei noi fac distracție enormă.
+Povestea este deosebit de impresionantă. Este greu de crezut că este un joc pe calculator.
+Nu îți vine să crezi mecanica ingenioasă a jocului dacă nu ai experimentat-o singur.
+Dumnezeu este un game designer - și a proiectat acest joc. Perfect!
+[END]
+
+[GRAPHIC_100]
+Grafica perfectă din punctul de vedere tehnic al jocului, stabilește noi standarde pentru acest sistem de joc.
+Brilliant este reprezentarea grafică! Rareori vezi așa ceva pe acest sistem.
+Grafica este uimitor de frumoasă. Graficienii au făcut o treabă grozavă aici!
+Jocul este excelent din punct de vedere grafic și stabilește noi standarde pentru acest gen!
+Grafica impresionantă și detaliată m-a extaziat. Perfect!
+Grafica extrem de impresionantă face ca, concurența să pară veche.
+Concurența va avea nevoie de ani pentru a se apropia macar de aceste grafică perfectă.
+Grafica cu adevărat impresionantă a debusolat întreaga echipă editorială!
+Chiar și un geniu ca Rembrandt van Rijn arată ca un amator împotriva acestei grafici.
+Este sistemul meu defect? Nu a existat niciodată o grafică atât de perfectă!
+Pentru concurență: așa ar trebui să arate grafica unui joc! Pur si simplu perfect!
+Grafica jocului este minunată! Nu credeam că așa ceva este posibil pe acest sistem de joc.
+M-am îndrăgostit imediat de stilul grafic. Niciodată o lume a jocului nu ar fi redată cu atâtea detalii.
+Din punct de vedere vizual, jocul pare că a fost dezvoltat pentru un sistem de ultimă generație. Top!
+Această grafică este mai bună decât realitatea! Remarcabil!
+Nimeni nu s-ar fi gândit că astfel de grafic sunt posibile pe acest sistem. Fenomenal!
+Sunt sigur că grafica încalcă unele legi ale naturii. Absolut perfect!
+[END]
+
+[SOUND_100]
+Efectele sonore bombastice și muzica excelentă însoțesc jocul.
+Jocul oferă efecte sonore clare și o coloană sonoră strălucitoare.
+Efectele sonore fantastice m-au facut sa zbor. Tehnic la cel mai înalt nivel!
+Efectele sonore digitalizate sunt grozave. Dar, mai presus de toate, coloana sonoră m-a innebunit.
+Am fost surprins pozitiv de sunet. Calitatea efectelor sonore este cu adevărat remarcabilă.
+Efectele sonore extraordinare merită menționate. Nu am auzit niciodată astfel de efecte sonore pe acest sistem.
+Toate coloanele sonore ale jocului au fost compuse superb. Se potrivesc perfect gameplay-ului.
+Efectele sonore sunt uluitoare. Din punct de vedere tehnic, au fost implementate perfect.
+Dezvoltatorii au acordat o atenție specială muzicii. Fiecare coloană sonoră a fost compusă profesional.
+Nu am fost niciodată atât de uimit de muzica unui joc. Este emoție pură de la început până la sfârșit.
+Efectele sonore extraordinare sunt deosebit de remarcabile. Nu este posibil mai mult pe acest sistem!
+Chiar și cipul de sunet este onorat să i se permită să producă aceste sunete. Sclipitor!
+Efectele sonore sunt minunate! Acesta va fi noul standard din industria jocurilor!
+[END]
+
+[CONTROL_100]
+Comenzile sunt cu adevărat remarcabile! Puteți începe imediat.
+Comenzile simple și lustruite ale jocului stabilesc noi standarde!
+Comenzile intuitive merită menționate. Totul a fost făcut perfect!
+Sistemul de control merită un premiu. Perfect gândit și foarte ușor.
+Comenzile ar putea fi mai bune doar dacă ai putea controla jocul prin gândire.
+Comenzile jocului sunt minunate! Top!
+Controalele au fost implementate într-un mod foarte grozav. Chiar și jucătorii fără experiență pot începe imediat.
+Cum au reușit dezvoltatorii să creeze astfel de controale perfecte? Și de ce nu poate concurența să facă asta?
+Incredibil cât de precise sunt comenzile jocului. Salutări programatorilor!
+Comenzile remarcabile vă invită să experimentați. Foarte, foarte bine!
+Am fost într-adevăr surprins pozitiv de comenzile jocului. Demn de un premiu!
+Despre comenzi: chiar și cu două mâini stângi nu veți pierde niciodată controlul jocului.
+Întreaga echipă editorială a fost surprinsă de perfecțiunea comenzilor.
+Pot spune doar un lucru despre comenzi: Perfect!
+[END]
+
+[TOTAL_100]
+Jocul este unul dintre cele mai impresionante pe care le-am văzut în ultima vreme. Demential!
+Acest joc are potențialul de a deveni un adevărat clasic!
+Acest joc este probabil unul dintre cele mai bune pe care le-am văzut până acum!
+Acest joc este o adevărată operă de artă de care toată lumea se va bucura!
+Concluzia mea? Acest joc nu trebuie să lipsească în nicio colecție de jocuri!
+Așa trebuie să arate un joc de top! Galactic!
+Acest titlu este un candidat la jocul anului!
+Nu veți avea nevoie de un alt joc în următoarele câteva luni.
+O achiziție obligatorie, chiar dacă nu vă place genul!
+Jocul arată în mod impresionant si datorita lui, jocurile pe calculator sunt superioare tuturor celorlalte forme de divertisment.
+Concluzia mea: Acest joc face ca toate visele să devină realitate și nu lasă nimic de dorit.
+Am crezut că se exagereaza cu laudele. Acum știu că au fost justificate.
+Toate jocurile viitoare vor trebui să se ridice la această capodoperă. Sclipitor!
+M-am distrat cu acest joc de la început până la sfârșit. Îmi place!
+Concluzie: Putem să nu mai căutăm cel mai bun joc vreodată.
+Chiar și cele mai bune jocuri din trecut par obișnuite împotriva acestuia.
+Cu acest joc, dezvoltatorul și-a creat un monument. Un mare moment!
+Doar trei cuvinte: CUMPĂRĂ! CUMPĂRĂ!! CUMPĂRĂ!!!
+Părerea mea: Nu mai citiți această recenzie și cumpărați jocul!
+Acest joc este o capodoperă! Sunt absolut încântat!
+Acest joc pune toate celelalte jocuri la umbră. O adevărată capodoperă!
+[END]

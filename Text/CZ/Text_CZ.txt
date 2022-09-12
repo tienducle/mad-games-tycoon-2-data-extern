@@ -1,0 +1,2076 @@
+﻿<b>Vytvořit místnost</b><br>Zde si můžete vytvořit místnosti.
+-
+-
+-
+Úroveň technologie
+Zkušenosti
+Náklady na vývoj
+$
+Když se zvyšují zkušenosti a úroveň, náklady na vývoj klesají. <br> Navíc se zvyšují body hratelnosti, grafiky, technologie a zvuku.
+Grafika
+Zvuk
+Umělá inteligence
+Fyzika
+Hratelnost
+Ovládání
+Hra pro více hráčů
+Povolit/Zakázat vše
+Vytvořit místnost
+Zavřít
+Vývoj
+Výzkum
+Kontrola kvality
+Grafické studio
+Zvukové studio
+Marketing
+Podpora
+Konzole
+Sklad
+Animátoři
+Toalety
+Salónek
+Školicí středisko
+Produkce
+Serverovna
+Ve <color=blue>Vývoji</color> můžete vyvíjet hry a Enginy.
+V této místnosti můžete vyvíjet nové technologie.
+Díky <color=blue>Kontrole kvality</color> můžete zlepšovat hratelnost svých her a účinně odstraňovat chyby.
+V <color=blue>Grafickém studiu</color> se tvoří grafická stránka hry.
+Ve <color=blue>Zvukovém studiu</color> se vytváří hudba společně se zvukovými efekty do vašich her.
+V <color=blue>Marketingovém oddělení</color> můžete více zviditelnit vaše hry.
+<color=blue>Oddělení podpory</color> je potřeba k podpoře vašich fanoušků.
+<color=blue>Vývoj konzolí</color> je potřeba k vývoji vlastních konzolí.
+Na <color=blue>Skladě</color> se ukládají fyzické kopie vašich her.
+Studio <color=blue>Animátorů</color> je zapotřebí k nahrávání profesionálních animací.
+<color=blue>Toalety</color> jsou nezbytné v každé budově.
+V <color=blue>Salónku</color> mohou vaši zaměstnanci relaxovat pro získání více motivace a přemýšlet tak o nových věcech.
+<color=blue>Školicí středisko</color> je ideální pro školení vašich zaměstnanců.
+V této místnosti můžete nechat vyrábět své hry.
+<color=blue>Serverovna</color> je nutná pro vyvíjení a provoz her žánru MMO.
+*
+*
+Pro odemknutí Kontrolu kvality musíte provést výzkum v sekci <color=blue>"Rozvíjení"</color>
+Pro odemknutí Grafického studia musíte provést výzkum v sekci <color=blue>"Rozvíjení"</color>
+Pro odemknutí Zvukového studia musíte provést výzkum v sekci <color=blue>"Rozvíjení"</color>
+Pro odemknutí Marketingového oddělení musíte provést výzkum v sekci <color=blue>"Rozvíjení"</color>
+Pro odemknutí Sekce podpory musíte provést výzkum v sekci <color=blue>"Rozvíjení"</color>
+Vývoj konzoly můžete zkoumat v části <color=blue>"Různé"</color>.
+Skladovací místnost se odemkne, až prozkoumáte <color=blue>produkci</color>.
+Toto bude odemčeno v <color=blue>listopadu 1993</color>.
+*
+*
+Pro odemknutí Školicího střediska musíte provést výzkum v sekci <color=blue>"Rozvíjení"</color>.
+Pro odemknutí Produkce musíte provést výzkum v sekci <color=blue>"Rozvíjení"</color>.
+Pro odemknutí musíte provést výzkum<color=blue>Online Hra pro více hráčů</color>.
+Vytvořit místnost
+<b>Design místnosti</b><br>Podržením tlačítka <color=blue>Levý Shift</color><br>můžete místnosti odstranit.
+<b>Odstranit místnost</b><br>Alternativa podržení <color=blue>Levého Shiftu</color><br>pro odstranění místnosti.
+<b>Umístění dveří</b><br>Dveře musí být spojeny s chodbou.<br>Tlačítkem <color=blue>DEL</color>ETE můžete dveře odstranit.
+<b>Umístění oken</b><br>Podržením tlačítka <color=blue>Levý Shift</color><br>odstraníte okna.
+Přijmout
+Cena za metr čtvereční
+Metr čtvereční
+m2
+▪ Nejsou přístupné všechny místnosti.
+Technika
+▪ Minimální velikost místnosti musí být alespoň <NUM>.
+▪ Chybí dveře.
+<b>Nákup předmětů</b><br>Zde můžete nakupovat předměty do vašich místností.
+Nákup předmětů
+Otočit předmět
+Umístění předmětu
+Toto není správná místnost!
+Toto je mimo budovu!
+Přichytávání na dlaždice
+Přesun předmětu
+Prodat předmět
+Propustit zaměstnance
+Zkratka:
+Prodejní cena
+<b>Správa</b><br>Zde najdete všechny nezbytné funkce pro provoz vaší společnosti.
+<b>Statistiky</b><br>Zde můžete zobrazit všechny statistiky o financích, hrách nebo platformách.
+<b>Zaměstnanci</b><br>Zde můžete přidávat nové zaměstnance a spravovat skupiny.
+Chodba
+Deaktivace přesunu zaměstnanců.
+Deaktivace přesunu předmětů.
+Deaktivace informací o místností.
+Peníze
+Fanoušci
+Automatické ovládání zaměstnanců
+▲
+▼
+■
+R
+M
+T
+Pauza hry
+Normální rychlost
+Vysoká rychlost
+<b>Zakupte předmět pro tuto místnost/b>
+Motivace
+NONE
+NONE
+NONE
+Popis HDD
+Popis serveru
+Popis stroje
+Udržujte své kanceláře vždy čisté!<br>Pokud budou kanceláře špinavé, vaši zaměstnanci<br>odejdou a noví již nebudou chtít nastoupit.
+Zaměstnanci
+Pustit zaměstnance
+Herní design
+Programování
+Grafický design
+Hudba a zvuky
+Marketing & Podpora
+Testování her
+Hardware & Technika
+Výzkum
+Výplata
+Propustit zaměstnance
+<b>Hvězdný designér</b><br>Hvězdní designéři vytvářejí očekávání kolem her, na kterých pracují.
+<b>Nevyčerpatelný</b><br>Nevyčerpatelní zaměstnanci nepotřebují přestávky.
+<b>Bezchybný</b><br>Bezchybní zaměstnanci nikdy nevytvářejí chyby.
+<b>Věrný</b><br>Věrní zaměstnanci nikdy nedají výpověď.
+<b>Talentovaný</b><br>Talentovaní zaměstnanci se učí rychleji.
+<b>Štístko</b><br> Vyjímečné výsledky práce se dostavují mnohem častěji.
+<b>Sportovec</b><br>Rychlost pohybu je vyšší než u ostatních zaměstnanců.
+<b>Pořádný</b><br>Pořádní zaměstnanci nedělají špínu a odpadky.
+Herní designér
+Programátor
+Grafik
+Zvukař
+Administrativní pracovník
+Tester
+Technik
+Vědec
+Pozastavit/pokračovat v aktuální práci
+Přidělit zaměstnance do této místnosti
+Zakázat umělou inteligenci v této místnosti
+Přejmenovat místnost
+Upravit místnost
+Zničit místnost
+Zadejte název místnosti
+Zrušit
+Opravdu chcete zrušit místnost?<br>Prodejem inventáře získáte <color=green><NUM></color>.
+Výzkum
+Automatický výzkum všeho
+<NUM> bodů výzkumu
+Pokračovat ve výzkumu
+Žánry
+Témata
+Funkce Enginu
+Funkce hry
+Hardware
+Rozvíjení
+Dostupný nový výzkum
+Výzkum dokončen
+Zrušit úkol
+Přesunout úkol
+Ukončit automatiku
+Automatika je aktivní
+Odstranit všechny zprávy
+Chipset
+Ovladač
+Externí paměť
+Vnitřní paměť
+RAM
+Skříň
+Monitor
+Kryt
+Chcete-li úkol přesunout, klikněte na místnost stejného typu pomocí <color=blue>levého tl. myši</color>.
+Odstranit
+Odstranit dveře
+<b>Motivace</b><br>Demotivovaný zaměstnanec pracuje pomaleji.
+Název
+<NUM> Zaměstnanců
+Propustit zaměstnance
+Opravdu chcete propustit <NAME>?
+Přehled zaměstnanců
+Zobrazuje, kolik zaměstnanců pracuje v této oblasti.
+Zaměstnanci bez úkolu
+Motivace
+Nábor zaměstnanců
+Správa skupin
+Zaměstnanců v místnosti
+Info o zaměstnanci
+Zaměstnat
+Propustit
+Vybrat
+<NUM> Zájemci
+Detaily
+Měsíčně <NUM>
+Nepřiřazení zaměstnanci
+Skupina
+Vybrat skupinu
+Správa
+Platformy
+Enginy
+Ochrany proti kopírování
+Licence
+Vydavatelské nabídky
+Banka
+Realitní kancelář
+Název společnosti & Logo
+Odstranit hru z prodeje
+Platformy na prodej
+Zakoupené Platformy
+Výrobce
+Datum vydání
+Prodejní cena
+Podíl na trhu
+Dostupné hry
+Leden
+Únor
+Březen
+Duben
+Květen
+Červen
+Červenec
+Srpen
+Září
+Říjen
+Listopad
+Prosinec
+Toto zařízení již není k dispozici.
+Nemáš dostatek peněz!
+Opravdu chcete koupit tuto Platformu?
+Je k dispozici nová platforma
+Platforma byla stažena z trhu
+Zobrazit platformy stažené z trhu
+Připojit ke skupině
+Vývoj Enginů
+Vyvinout nový Engine
+ Aktualizovat starý Engine
+Název Enginu
+Náhodný název
+Speciální žánr
+Nabízet Engine na trhu
+Zahájit vývoj
+<color=red>???</color>
+Povolit / zakázat vše
+Poznámka
+Musíte zvolit speciální žánr!
+Engine musíte pojmenovat!
+Musíte přidat alespoň jednu novou funkci Enginu!
+<color=black>Hratelnost: <NUM></color>
+<color=black>Grafika: <NUM></color>
+<color=black>Zvuk: <NUM></color>
+<color=black>Technologie: <NUM></color>
+Vlastní Enginy
+Který Engine chcete aktualizovat?
+Podíly na zisku
+Hry s tímto Enginem
+Vlastní Engine
+Vyberte vlastnosti Enginu
+Vyberte speciální žánr
+Dostupný nový Engine
+Enginy na prodej
+Zakoupené Enginy
+Prodané licence
+Detaily Enginu
+Koupit
+Hry
+Funkce
+Žánr
+Vývojář
+Prodané kusy
+Obrat
+Hodnocení
+Recenze
+ZÁSAH!
+ODPAD!
+Název společnosti
+Logo
+Zvolte logo své společnosti
+Engine dokončen!
+Skrýt zastaralé Ochrany proti kopírování
+Účinnost
+Ochrany proti kopírování na prodej
+Zakoupené Ochrany proti kopírování
+Nová Ochrana proti kopírování k dispozici
+Opravdu chcete zakoupit tuto Ochranu proti kopírování?
+Koupit novou licenci
+Prodat licenci
+Hry s oficiální licencí mohou zvýšit prodejní čísla.
+Se svými vlastními Enginy ušetříte drahé licenční náklady. Můžete také své Enginy prodávat konkurenci.
+Licence na prodej
+Zakoupené licence
+<NUM> Her
+Filmová licence
+Knižní licence
+Sportovní licence
+Tato licence může být použita na <NUM> her.
+Popularita
+Seznam je prázdný!
+Typy licencí
+Použití
+Opravdu chcete koupit tuto licenci?
+Zakoupené
+Opravdu chcete prodat tuto licenci?
+<b>Milovník přírody</b><br>Milovníci přírody potřebují ve své blízkosti rostliny.<br>Jejich motivace se tak zvyšuje, když zalévají rostliny.
+Měsíční náklady
+Vzhled interiéru
+Teplo
+Regenerace motivace
+Přechází na:
+Používá:
+Vytvořit hru
+Název hry
+Nová hra
+Další díl
+Remaster
+Chcete vytvořit novou hru či další díl / remaster staré hry?
+Standardní hra
+MMO
+Free To Play
+Typ hry
+Vyberte typ hry. U her MMO a F2P je vyžadován výzkum 'Online multiplayer'.
+Velikost hry
+Čím větší je hra, tím více herních funkcí můžete použít.
+B
+B+
+A
+AA
+AAA
+Všechny funkce
+Nekonečno
+Cílová skupina
+Děti
+Teenageři
+Dospělí
+Senioři
+Vybrat všechny
+Prosím vyberte cílovou skupinu.
+Hlavní žánr
+Podžánr
+Odebrat žánr 
+Pro odemknutí musíte provést výzkum <color=blue>Online Hra pro více hráčů</color>.
+Pro odemknutí musíte provést výzkum <color=blue>Online Hra pro více hráčů</color>.
+Ve výzkumu kategorie <color=blue>"Rozvíjení"</color> můžete zpřístupnit větší velikost her.
+Pro odemknutí podžánru musíte provést výzkum v kategorii <color=blue>"Rozvíjení"</color>.
+Pro odemknutí podtéma musíte provést výzkum v kategorii <color=blue>"Rozvíjení"</color>.
+Odemkne se po dosažení <color=blue>$1.000.000</color>.
+Hlavní téma
+Podtéma
+Odebrat téma
+A-Z
+Licence
+Odebrat licenci
+Bez licence
+Měl by být název použit jako název hry?
+Hlavní platforma
+Platforma 2
+Platforma 3
+Platforma 4
+Exkluzivní
+▪ Exkluzivní hry lze publikovat pouze na jedné platformě.<br>Díky exkluzivitě mohou růst prodejní čísla.
+Celkový podíl na trhu:
+Odemkne se, pokud některá z vašich her získá<br>celkové hodnocení alespoň <color=blue>70%</color>. 
+Bude odemčeno v<color=blue>dubnu 1986</color>.
+Engine
+Platformy
+Odemkne se, po publikování minimálně <color=blue>5 her</color>.
+Odemkne se, po publikování minimálně <color=blue>10 her</color>.
+Odemkne se, po publikování minimálně <color=blue>15 her</color>.
+Odebrat platformu
+Náklady na vývoj
+Minimální úroveň technologie
+Zobrazit skryté platformy
+Technologická úroveň této platformy je příliš nízká.<br>Lze vybrat pouze platformy se stejnou nebo vyšší<br>technickou úrovní než Engine.
+Tato platforma již byla vybrána.
+Následující platformy byly odebrány, protože nemají požadovanou úroveň technologie:
+Ochrana proti kopírování
+Odebrat Ochranu proti kopírování
+Bez Ochrany proti kopírování
+Zatím nebyl vydán žádný <color=blue>software na Ochranu proti kopírování.</color>
+Priorita návrhu
+Pracovní priorita
+Lokalizace
+Výkon
+Kvalita
+Příběh
+Délka hry
+Atmosféra
+Obsah
+Hloubka hry
+Jednoduchost
+Pro zkušené hráče
+Pro příležitostné hráče
+Náklady na přeložení hry do jednoho jazyka <color=red>$5.000</color>.
+Povolit/zakázat všechny jazyky
+Pracovní priorita nesmí být větší než 100%!
+Musí být vybrán hlavní žánr!
+Musí být vybráno hlavní téma!
+Musí být vybrána hlavní platforma!
+Musí být vybrán alespoň jeden jazyk!
+Herní koncepty
+Analýza hry
+Dopisy od fanoušků
+Tato funkce ještě nebyla přidána.
+Povolit/zakázat všechen obsah.
+Počet
+Bylo aktivováno příliš mnoho herních funkcí.<br>Chcete-li do své hry přidat další herní funkce,<br>musíte zvýšit velikost hry.
+Musíte hru pojmenovat!
+Typ funkcí
+Náklady na výzkum
+Body výzkumu
+Pracovní priorita je pod 100%!
+Hra dokončena
+Nejpotřebnější práce na této hře byla dokončena a je <color=blue>připravena k vydání</color>. Na hře můžete nadále pokračovat a podle potřeby vylepšovat. Ve <color=blue>fázi ladění</color> je však práce omezena a chyby jsou opravovány pomalu.
+Nový rekord!
+Hledat vydavatele
+Vlastní distribuce
+Zahodit produkt
+Pokračovat ve vývoji
+Chyby
+Programování kompletní
+Nová legenda pro vývojáře her
+Na trhu práce je dostupný <NAME>.
+Zkušenosti se žánry ovlivňují hratelnost.
+Zkušenosti s tématy ovlivňují hratelnost.
+Zkušenosti s platformami mají dopad na grafiku, zvuk a technologii.
+Nová konkurence
+Vydavatel
+Očekávání
+Síla trhu
+Vztah
+Podíl z příjmů
+Preference fanoušků
+Ano
+Získané zkušenosti
+Žádné získané zkušenosti
+Přehled, kolik her je aktuálně k dispozici, které mají žánr <color=blue><GENRE></color> nebo téma <color=blue><THEME></color>.
+Analýza trhu
+Celkem [Žánr]
+Celkem [Téma]
+Na platformě[Žánr]
+Na platformě [Téma]
+Zpráva o vývoji
+Změnit platformu
+Aktuální screenshot
+Postup
+Náklady na vývoj k datu:
+Aktuální odhadované hodnocení:
+Popisek: Hratelnost 1
+Popisek: Hratelnost 2
+Popisek: Hratelnost 3
+Popisek: Hratelnost 4
+Popisek: Hratelnost 5
+Popisek: Hratelnost 6
+Popisek: Zvuk1
+Popisek: Zvuk2
+Popisek: Zvuk3
+Popisek: Zvuk4
+Popisek: Zvuk5
+Popisek: Zvuk6
+Popisek: Grafika 1
+Popisek: Grafika 2
+Popisek: Grafika 3
+Popisek: Grafika 4
+Popisek: Grafika 5
+Popisek: Grafika 6
+Animátor [Animace hráčů]
+Animátor  [Animace NPC]
+Chcete-li pomoct jinému týmu, klikněte na místnost stejného typu pomocí <color=blue>levého tlačítka myši</color>.
+Podpořit
+Zrušit podporu
+Počkejte ...
+<b>Reputace s klienty</b><br>Čím vyšší reputace, tím více pracovních dohod vám bude nabídnuto. <br> Honorář bude logicky také vyšší.
+Průměrná motivace vašich zaměstnanců
+Žánr <color=green><NAME1></color> a téma <color=green><NAME2></color> jsou právě trendy.
+Žánr <color=red><NAME1></color> a téma <color=red><NAME2></color> nejsou právě populární.
+Do zvolení nového trendu zbývá <color=blue><TIME></color> týdnů.
+Nový trend
+Týden
+Celkem
+Ukazuje, kolik týdnů je hra již na trhu.
+Hra
+Minimalizovat / Maximalizovat okno
+Hra byla stažena z trhu
+Zisk
+Prodej produktu <color=blue><NAME></color> prudce poklesl, takže byl produkt stažen z trhu.
+Týdny v prodeji
+Marketingové náklady
+Poplatky za Engine
+<color=blue><NAME1></color> publikoval hru <color=blue><NAME2></color>.
+Váš vydavatel zahájil marketingovou kampaň pro <color=blue><NAME1></color>.
+Zobrazit kvalitu kanceláří
+Zobrazit znečištění kanceláří
+Zobrazit teplotu kanceláří
+Zde si zvolíte, která upozornění se<br>vám mají zobrazovat a která ne.
+<color=blue><NAME1></color> získal licenci na váš Engine <color=blue><NAME2></color>.
+Prohlášení
+Vývojář <color=blue><NAME1></color> získal licenci na váš Engine pro <color=blue><NAME2></color>. Faktura vám byla právě zaslána.
+Podíl v procentech
+Podíl v hrách
+<b>CEO</b><br>Vaše postava nemůže nikdy ztratit motivaci.
+Postava hráče
+Nepřiřazen k žádné místnosti
+Zaměstnanec se vzdal funkce
+Personální oddělení ohlásilo <color=blue><NAME></color> odstoupení. Vždy byste měl věnovat pozornost potřebám svých zaměstnanců a vyhnout se dlouhým krizím a nedostatku motivace.
+Chlazení
+Marketingová kampaň
+Pro co chcete zahájit novou marketingovou kampaň?
+Herní konzole
+Marketingová kampaň pro hru
+Marketingová kampaň pro konzoli
+Zastavte marketing, jakmile je očekávání na maximu
+Automatické opakování
+Plakáty
+Herní časopisy
+Rádio
+Internetové reklamy
+Top streamer
+TV
+Maximální očekávání, který lze s touto kampaní vygenerovat.
+Bude odemknuto <color=blue>Únor 2005</color>.
+Bude odemknuto <color=blue>Březen 1993</color>.
+Odemknuto
+Ve vývoji
+Marketingová kampaň pro <NAME1> je dokončena
+Výrobní náklady
+Náklady na server
+Kvalita
+Bonus na pracovních výsledcích: <NUM>%
+Odemkne se, pokud jste provedli průzkum <color=blue>Funkce Enginu</color>.
+Je k dispozici od roku <NUM>
+Zahajte výcvikový kurz
+Školení
+Herní design pro začátečníky
+Herní design pro pokročilé
+Herní design pro profesionály
+Programování pro začátečníky
+Programování pro pokročilé 
+Programování pro profesionály
+Grafický design pro začátečníky
+Grafický design pro pokročilé 
+Grafický design pro profesionály
+Hudba & Zvuk pro začátečníky
+Hudba & Zvuk pro pokročilé 
+Hudba & Zvuk pro profesionály
+Marketing a podpora pro začátečníky
+Pokročilý marketing a podpora
+Marketing a podpora pro profesionály
+Testování hry pro začátečníky
+Testování hry pro pokročilé
+Testování hry pro profesionály
+Hardware a technologie pro začátečníky
+Hardware a technologie pro pokročilé
+Hardware a technologie pro profesionály
+Výzkum pro začátečníky
+Výzkum pro pokročilé
+Výzkum pro profesionály
+Maximální úroveň: <color=blue><NUM></color>
+Efektivita: <color=blue>Nízká</color>
+Efektivita: <color=blue>Střední</color>
+Efektivita: <color=blue>Vysoká</color>
+Výcvikový kurz "<NAME>" byl dokončen
+Opravdu chcete tento produkt zlikvidovat? Tento proces je nevratný!
+Opravdu chcete zrušit aktuální úkol?
+Bude vám vrácena platba <color=green><NUM></color>.
+Licence
+GFX [Grafika prostředí]
+GFX [GUI]
+GFX [Pozadí]
+GFX [Speciální efekty]
+GFX [Postavy]
+GFX [Filmové sekvence]
+SFX [Zvukové efekty]
+SFX [Zvuky UI]
+SFX [Hudba]
+SFX [Zvuky prostředí]
+SFX [Dynamické zvuky]
+SFX [Hlasové nahrávání]
+MC [Animace hráče I]
+MC [Animace hráče II]
+MC [Animace hráče III]
+MC [Animace NPC I]
+MC [Animace NPC II]
+MC [Animace NPC III]
+QA [Vyváženost]
+QA [Ovládání]
+QA [Výkon]
+QA [Uživatelské rozhraní]
+QA [Herní mechanika]
+QA [Design úrovní]
+Zadat práci
+Jak zní zadání nového úkolu?
+Kratší úkol
+Herní kontrakt
+Automaticky zpracovat úkoly
+Honorář
+Pokuta za kontrakt
+Termín
+Pracovní zátěž
+Klient
+Termín: <b><NUM> týdnů</b>
+Odstranit úkol
+Dokončené práce na zakázku: <NAME><br>Honorář: <NUM>
+Musíte zaplatit pokutu ve výši<color=red><NUM></color>.
+Týdnů: <NUM>
+Zadání práce se nezdařilo:<NAME><br>Pokuta <NUM>
+Zvolit hru
+Dostupné hry
+Očekávání, vytvořeno na začátku vývoje.
+Které hře chcete vytvořit pokračování?
+<b>Sequel</b><br>Pokračování her těží z úspěchu předešlých her.<br>Na začátku vývoje se tvoří očekávání<br>a na prodejních číslech je znát bonus.<br>Vývoj pokračování může negativně<br>ovlivnit prodejní výsledky předchozího dílu.
+<b>Remaster</b><br> Náklady na vývoj remasterů jsou nižší.<br>Remasterovat lze pouze hry,<br>které již byly staženy z trhu.
+<b>Nová hra</b><br>Když vytvoříte novou hru,<br>můžete později vydat pokračování nebo hru remasterovat.
+Tento název hry již existuje!
+Kterou hru chcete remasterovat? Lze vybrat pouze hry, které již byly staženy z trhu.
+Remastered
+Gold
+Reloaded
+Luxusní
+<color=black>(<NUM>)</color>
+Platforma
+Minimální hodnocení pro dosažení bonusu: <b><NUM>%</b>
+Bonus
+Odevzdat hru
+▪ Herní kontrakt ▪<br>Nejpotřebnější práce na této hře byla dokončena. Hru můžete předat svému klientovi nebo na ní dále pracovat.
+Klient vám poslal platbu <color=blue><NUM1></color>. Bonusovou platbu ve výši <color=blue><NUM2></color> obdržíte, jakmile bude hra dokončena a hodnocení tisku bude nejméně <color=blue><NUM3></color>.
+Tuto úlohu nemůžete přijmout, protože nevlastníte požadovanou Platformu.
+Obdržel jste poslední fakturu za herní kontrakt.
+Celková mzda
+Termín byl splněn
+Můžete vyměnit pouze platformy, které již byly z trhu staženy.
+Dodatečné poplatky za přenesení
+U herního kontraktu nesmíte měnit platformu!
+Musíte zrušit aktuální úkol pro tuto místnost!
+<b>Počet kontraktů</b><br><br>
+Počet herních kontraktů
+Tento panel vás informuje, pokud některý<br>ze zaměstnanců nemá co na práci.<br><br><color=blue>Kliknutím vyberte zaměstnance</color>
+Aktualizace a dodatky
+Jaký druh aktualizace nebo dodatku chcete vytvořit?
+Bezplatná aktualizace
+Placený dodatek
+Dodatek MMO
+Vyberte obsah bezplatné aktualizace.
+Pro jakou hru by měla být vytvořena bezplatná aktualizace?
+Počet aktualizací
+Jazykový balíček
+Obsah
+Patch
+Nový herní režim
+Nové úkoly
+Nové objekty či předměty
+Nová grafika prostředí
+Nové zvukové efekty
+Nová hudba
+Zlepšit výkon
+Zlepšit ovládání
+Max.
+Nevybrali jste žádný obsah aktualizace
+Aktualizace pro <NAME> byla dokončena.
+Vyberte si herní koncept.
+Kopie herního konceptu
+Základní nastavení
+Vybraný Engine má příliš nízkou úroveň technologie!
+Dopisy fanoušků pro <b><NAME></b>
+Statistiky
+Hry - žebříčky
+Finance
+Vlastní hry
+Info & Historie
+Vydavatel & Vývojář
+Vlastní konzole
+Enginy
+Hry - prodej
+Hry - prodej za týden
+F2P hry - počet stažení
+MMO hry - prodej předplatného
+Všechny dostupné platformy
+K dispozici
+Konkurenti jednající jako vydavatelé
+Konkurenti jednající jako vývojáři
+Hodnota společnosti
+Akciový podíl
+Zkušenosti studia
+Žádný žánr
+Všechny dostupné Enginy
+Tento Engine byl označen k prodeji
+Zobrazit jen vlastněné Enginy
+Recenze
+Balíček her
+Hry od dceřiných společností
+Historie
+Celkový prodej
+Celkový počet stažení
+Posledních 24 měsíců
+Aktuální měsíc
+Rozdíl (24 měsíců)
+Minulý měsíc
+Celkem předplatitelů
+Celkem
+Měsíční zůstatek
+Roční zůstatek
+Roční vyúčtování
+Stavební náklady
+Předměty
+Produkty třetích stran
+Pokuta
+Výdaje
+Příjem
+Výnosy z her
+Licence Enginu
+Zadání práce
+Herní kontrakt
+Ocenění
+Minulý rok
+Aktuální rok
+Rok
+Události v posledním roce
+Hry, které jsou aktuálně k dispozici s žánrem nebo tématem
+Měsíční výpisy
+Celkový zisk
+Očekávání pro kampaň / Maximální očekávání, které lze vytvořit díky této kampani
+Počkejte, dokud očekávání neklesne pod <NUM>.
+Pokud chcete, aby se nové aktualizace vytvářely automaticky, musíte vybrat alespoň jeden nový herní obsah!
+Automatika byla zastavena!<br>Nedostatek peněz.
+Automatika byla zastavena!<br>Neexistují žádné další objednávky.
+Automatika byla zastavena!<br>Očekávání je na maximální hodnotě.
+Akce pro fanoušky
+Úvěrový limit
+Zahájit kampaň
+Měsíční úrok
+Vzít si půjčku
+Splatit půjčku
+Kredit
+Výběr akcí pro fanoušky
+Chcete-li získat nové fanoušky, musíte spustit některou z akcí. Čím je tato akce velkolepější, tím více fanoušků získáte.
+Průzkum spokojenosti
+Distribuce kartiček na autogramy
+Tombola
+Prohlídka studia
+Žebříček mistrovství
+Konference o hrách
+Zákaznická podpora
+Marketing a podpora
+Kampaň fanoušků <NAME> byla dokončena
+Fanshop
+<b>Počet hovorů, dopisů a e-mailů</b><br>Chcete-li odpovědět na dotazy svých fanoušků,<br>musíte zřídit oddělení podpory.<br><br>▪ Pokud zůstane příliš mnoho otázek nezodpovězeno, ztratíte fanoušky.<br>▪ Vyhněte se zabugovaným hrám.<br>▪ Od 5 000 fanoušků výše je pro zvládnutí všech otázek nutné oddělení podpory.
+Čím více dopisů, hovorů a e-mailů bude nezodpovězeno, tím více budou vaši fanoušci nespokojeni.
+Spustit zákaznickou podporu
+Pracovní zátěž
+Velmi nízká
+Nízká
+Průměrná
+Vysoká
+Nezodpovězené otázky: <NUM>
+Obdržena Zlatá deska
+Vaše hra <color=blue><NAME></color> je považována za průkopnický milník v odvětví videoher a vytvořila tak nový trend.
+Trendy
+Ocenění Mad Games
+<NUM> fanoušků
+Pozitivní ocenění
+Negativní ocenění
+Nejlepší soundtrack
+Nejlepší grafika
+Vývojář roku
+Vydavatel roku
+Hra roku
+Nejhorší hra roku
+Zlatá deska
+Hustá
+<b>Lékařský zázrak</b><br>Zaměstnanci mají silný imunitní systém a nikdy nebudou nemocní.
+Využito měsíčně: <NUM>
+Nová hra
+Načíst hru
+Nastavení
+Autoři
+Ukončit hru
+Mad Games Tycoon®<br>©2020 Eggcode Games
+Opravdu chcete ukončit hru?
+<Prázdné>
+Odstranit uloženou pozici
+Načítání ...
+Opravdu chcete odstranit tuto uloženou pozici?
+Automatické ukládání
+Mad Games Tycoon 2
+Uložit hru
+Ukončit hru
+Opravdu se chcete vrátit do Hlavní nabídky?
+Návrat do Hlavní nabídky
+Opravdu chcete přepsat tuto uloženou pozici?
+Hra byla uložena
+Jméno hráče
+Náhodný název společnosti
+Sídlo společnosti
+Úroveň obtížnosti
+Rok založení
+Rychlost hry
+Otevře herní nabídku
+Velmi lehká
+Lehká
+Střední
+Těžká
+Legendární
+Pomalá
+Běžná
+Rychlá
+Velmi rychlá
+<b>Vyberte prosím umístění společnosti</b><br>Každá země upřednostňuje jiný žánr her, což znamená bonus ve výši <color=blue>+3%</color> při prodeji určitého žánru.
+Speciální styl: <color=blue><TEXT></color>
+Vaše postava ▪ CEO
+Musíte zadat název společnosti!
+Tělo
+Vlasy
+Oči
+Vousy
+Barva pleti
+Barva vlasů
+Barva trika
+Barva kalhot
+Extra barvy
+Musíte zadat jméno postavy!
+Muž
+Žena
+Vzhled
+Dovednosti
+Výhody
+Zbývá <NUM> dovednostních bodů
+Musíte použít všechny dovednostní body!
+Hodit kostkou
+Nová hra ▪ Herní nastavení
+Přeskočit průvodce
+Náhodná popularita platforem
+Náhodné nastavení herních konceptů
+Žádné náhodné události
+<size=20>Mad Games Tycoon 2</size><br><br>Děkujeme za zakoupení hry <color=blue>Mad Games Tycoon 2</color>. Pamatujte, že verze s předčasným přístupem stále nemá doladěno mnoho funkcí, hra je na některých místech nevyvážená a mohou se vyskytnout chyby. A to platí i pro překlad hry.<br><br>Příjemnou zábavu!
+Čím nižší rychlost hry, tím více úkolů<br>vaši zaměstnanci mohou dokončit za týden.<br>Díky tomu je hra jednodušší.
+Úroveň obtížnosti ovlivňuje hlavně<br>prodejní čísla vašich her.
+Pro rychlejší start do hry<br>můžete zvýšit počáteční rok.
+Aktualizace <NAME> byla zrušena<br>protože hra byla stažena z trhu.
+<b>Eskymák</b><br>Zaměstnancům není nikdy zima.
+<b>Skromný</b><br>Skromní zaměstnanci nepotřebují<br>kvalitní vybavení kanceláře.
+<b>Železný</b><br>Tito zaměstnanci nechodí v pracovní době na toaletu.
+Musí být vybrána alespoň jedna herní funkce!
+Zobrazovat oznámení
+Vydání nové hry od konkurenční společnosti
+Založení nové konkurenční společnosti
+Vydání nových Ochran proti kopírování
+Vydání nových NPC Enginů
+Dostupné nové výzkumy
+Dostupné nové platformy
+Platformy stažené z trhu
+Získání zlaté desky
+Hra
+Grafika
+Zvuk
+Zvuk
+Hlavní hlasitost
+Hudba
+Hlasitost hudby
+Rozlišení obrazovky
+Celá obrazovka
+Maximální FPS
+VSync
+SSAO
+Odrazy
+Rozmazání
+Ambient Occlusion
+Color Grading
+Stíny v reálném čase
+Jazyk
+Velikost rozhraní
+Výchozí nastavení
+-
+-
+-
+<b>Marketing [Streameři] byl odemknut</b><br><br>Stále více lidí sleduje na internetu, jiné hráče hrající své oblíbené hry. Pokud to uděláme šikovně, můžeme toho využít k propagaci našich her a přímému oslovení cílové skupiny..
+<b>Marketing [Internet] byl odemknut</b><br><br>Internet je pro reklamní kampaně stále více důležitější. Měli bychom proto také zvážit zahájení reklamních kampaní na internetu.
+<b>Remaster byl odemknut</b><br><br>Nebyl by to skvělý nápad nechat starou hru zazářit v novém kabátě? Snadný prachy a šťastní hráči!
+<b>MMO a serverovna byly odemknuty</b><br><br>Nyní můžete vyvíjet MMO hry a také vybudovat potřebnou serverovnu.
+-
+<b>Licence byly odemknuty</b><br><br>Nyní máte dost peněz na nákup licencí. I hry se slabou hratelností, které využívají oficiální licence, se prodávají úctyhodněji.
+<b>Animátoři byli odemknuti</b><br><br>Abychom zdokonalili naše animace, měli bychom vystavět studio pro snímání pohybu a animací. Přestože jsou pořizovací náklady velmi vysoké, budou 100% ziskové. Co si o tom myslíte?
+-
+-
+-
+-
+-
+-
+<b>2. platforma byla odemknuta</b><br><br>Nyní můžete vytvářet hry na dvou platformách. To vám umožní oslovit širší spektrum zákazníků.
+<b>3. platforma byla odemknuta</b><br><br>Nyní můžete vytvářet hry na tří platformách. To vám umožní oslovit širší spektrum zákazníků.
+<b>4. platforma byla odemknuta</b><br><br>Nyní můžete vytvářet hry na čtyřech platformách. To vám umožní oslovit širší spektrum zákazníků.
+<b>Ochrana proti kopírování byla odemknuta</b><br>Dnes byla vydána první účinná Ochrana proti kopírování. Nyní můžete své hry chránit Ochranou proti kopírování.
+<b>Pokračování bylo odemčeno</b><br><br>Jedna z vašich her získala dobré hodnocení v herních recenzí. Měli bychom přemýšlet o vytvoření pokračování.
+-
+-
+Opravit chyby
+Vylepšení hry
+Vytvořit zprávu o hře
+Multiplatformní
+Retro hra
+▪ Multiplatformní hry lze publikovat na jakékoli platformě.<br>Hru tedy lze nabídnout širšímu publiku.
+▪ Retro hry lze publikovat pouze na platformách, které<br>již byly staženy z trhu.<br>Tyto hry vytváří mnoho nových fanoušků a herní recenze nejsou tak přísné.
+Retro hry lze vydat pouze na platformách, které již byly staženy z trhu!
+V retro hře není možné měnit platformy!
+Retro
+Dostala se k nám nová exkluzivní hra pro <NAME>. Uvidíme, jestli se vyplatí koupit.<br>
+Retro speciál! Majitelé <NAME> se mohou těšit na novou hru. Zkontrolujeme, zda je radost oprávněná.<br>
+Kterou hru je třeba zkontrolovat a opravit?
+Vylepšení hry již bylo provedeno
+Probíhá
+Nevybral jste si vylepšení hry!
+Vylepšení hry <NAME1> bylo dokončeno
+Opětovné přiřazení podpory
+Vysoce kvalitní grafika
+Grafické vylepšení pro <NAME1> dokončeno
+Vyžaduje herní funkci <color=yellow><NAME></color>
+Vysoce kvalitní zvuky
+Vylepšení zvuku pro <NAME1> dokončena
+Vysoce kvalitní animace
+Animace pro <NAME1> byla dokončena
+Zobrazovat hovory v místností
+UI-Dropup (Pauza)
+Zobrazit zprávy o hrách
+Když vytvoříte zprávu o svých hrách, můžete tak zkontrolovat dobrá i špatná nastavení vašeho herního konceptu.
+Automatické vytváření herních zpráv
+Zpráva o hře <NAME1> byla dokončena
+Priority pro herní recenze
+Shodují se témata a cílová skupina <color=yellow><NAME></color>?
+Žádná podtéma
+Vhodné podžánry pro <color=yellow><NAME></color>
+Perfektní nastavení designu
+Propouštění zaměstnanců může<br>způsobit velmi špatnou náladu<br>mezi všemi vašimi zaměstnanci!
+Špatná nálada
+Propuštění zaměstnance způsobilo ostatním špatnou náladu. Vaši zaměstnanci se nyní bojí o svou práci a motivace se snížila.
+Chtěli byste se letos zúčastnit <color=blue>Mad Games konference</color>?
+Vyberte prosím velikost svého stánku. Čím větší je stánek, tím více produktů můžete vystavit. Více věcí přitáhne více pozornosti.
+Malý stánek
+Střední stánek
+Velký stánek
+Herní konzole
+Nezúčastnit se
+Mad Games konference
+Velikost stánku
+Které produkty byste chtěli vystavovat na <color=blue>Mad Games konferenci</color>?
+Vybrat hru
+Vybrat konzoli
+Odebrat produkt
+Musíte si vybrat alespoň jeden produkt, který bude vystaven na <color=blue>Mad Games konferenci</color>!
+Počet návštěvníků vašeho stánku
+Letos se očekává až <color=blue><NUM></color> návštěvníků.
+Organizátor uvádí, že bylo prodáno <color=blue><NUM></color> vstupenek na veletrh.
+Pro jakou hru by měl být vytvořen placený doplněk?
+Počet doplňků
+Název doplňku
+Budget hry - prodej
+Dodatky - prodej
+Balíčky - prodej
+Nové herní funkce
+Dodatečný obsah
+Dodatek
+Nové předměty
+Nové výzvy
+Noví nepřátelé
+Nové herní režimy
+Nové herní postavy
+Nová herní mechanika
+Nový herní svět
+Nová kampaň
+Dodatek neobsahuje žádný nový obsah!
+Musíte dát dodatku jméno!
+Bylo vybráno příliš mnoho herních funkcí!
+Počet konkurenčních společností
+Vytvořit nový obsah
+Balíček her
+Budget hra
+Samostatný doplněk
+▪ Normální doplňky vyžadují hlavní hru.<br>Zvyšují tržby hlavní hry,<br>ale nemohou překročit tržby hlavní hry.<br><br>▪ Samostatné doplňky nevyžadují hlavní hru, ale novou kampaň.<br>Prodej hlavní hry není ovlivněn<br>Prodej doplňku však může být vyšší než u hlavní hry.
+Doplněk dokončen
+Byly dokončeny nejdůležitější práce na tomto doplňku. Pokud je hlavní hra distribuována vydavatelem, jste smluvně vázáni k distribuci doplňku stejným vydavatelem.
+Zúčastnění vydavatelé
+Dát doplněk vydavateli
+Hlavní hra
+A nakonec krátké recenze na nejnovější doplňky vašich oblíbených her. Jako obvykle vám ukážeme, který doplněk se vyplatil!
+Označení věkového omezení
+Vedoucí designér
+Mad Games - Hodnocení softwaru
+Věkové omezení
+<color=blue><NAME></color> obdržel následující věkové omezení MGSR:
+Dostupní zaměstnanci
+▪ Hlavní designér by měl mít vysokou úroveň znalostí <color=blue>herního designu</color>..<br>Všichni zaměstnanci pracující na této hře obdrží bonus v závislosti na její konečné hodnotě.<br><br>▪ Hlavní designér musí být v této místnosti.
+Jmenovat se jako hlavní designér
+Pokrok vývoje
+Podmínky zaměstnanců
+Popis hry
+Pokud chcete, můžete napsat popisek hry.
+Žádný popis hry
+Není vybrán žádný hlavní designér!
+Náhodné historické události
+Nadměrný počet přestávek
+Běžný počet přestávek
+Minimální počet přestávek
+Malý tlak
+Normální tlak
+Vysoký tlak
+Počet přestávek
+Vyvíjený tlak na zaměstnance
+Čerpání motivace od:
+Krize
+Automatické vyjednávání platu
+Čím méně přestávek je, tím rychleji klesá motivace.
+Vysoký pracovní tlak umožňuje vašim zaměstnancům pracovat rychleji.<br>Výsledkem je však horší kvalita jejich práce.
+Při jaké hodnotě motivace<br>si může jít váš personál odpočinout do salónku.
+Tato možnost vám umožňuje určit, v jaké fázi vývoje začíná doba krize.<br>V době krize budou veškeré potřeby zaměstnanců ignorovány.<br><br>Ale buďte opatrní. Doba krize je důvod proč lidé odcházejí z firmy.
+O tom, kterou schopnost lze vycvičit na <color=blue>100</color>, rozhoduje profese.<br>Všechny ostatní schopnosti mají limit <color=blue>50</color>.
+Profese
+Požadované herní funkce
+Vybrané platformy vyžadují následující herní funkce:
+Exkluzivní kontrakty
+Žádný vydavatel vám nenabízí kontrakt. Musíte nahodit sítě mezi vydavateli!
+Platnost kontraktu
+Okamžitá platba
+Hra pro více hráčů
+Počkejte na ostatní hráče ...
+Hráčská lobby
+Opustit lobby
+Spustit hru
+Lobby je plné
+Počkejte na spuštění hry ...
+Informace o hráči
+Musíte zadat jméno a název společnosti!
+Vytvořit hru
+Připojit
+Připojit se ke hře
+Vytvořit herní server
+IP hostitele
+Odpojen od serveru!
+Čekání na hráče...
+Připojení bylo ukončeno, protože verze hry se liší.
+Žebříček [Hra pro více hráčů]
+Chat [Hra pro více hráčů]
+>> Platí vám <NUM> licenční poplatek za Engine <<
+>> Zakoupil váš Engine za <NUM> <<
+Dokončeno [Doladění]
+Dokončit vývoj
+<NUM> měsíců
+Opravdu chcete podepsat exkluzivní kontrakt s <NAME>?
+Již máte exkluzivní kontrakt s <NAME>! Do konce termínů zbývá <NUM> měsíců.
+<NAME> se stal smluvním kontraktem! Do konce termínů zbývá <NUM> měsíců.
+Předat <color=blue><NAME></color>
+Exkluzivnímu kontraktu <NAME> vypršel termín. Nyní můžete své hry znovu distribuovat sami nebo si najít nového vydavatele.
+<b>Vůdcovství</b><br>Zaměstnanci mají silnou vůdčí schopnost, přidávají bonus pokud jsou nasazeni jako vedoucí vývoje.
+<b>Všestranný</b><br>Limit pro sekundární schopnosti je zvýšen.
+Ještě jste nevybrali všechny možné výhody!
+Mapa
+Průmyslový park-A
+Arkádové
+Mobilní
+▪ Hry pro arkádové boxy lze vyvíjet pouze pro "Arkádové systémové desky".
+▪ Mobilní hry lze publikovat pouze na mobilních telefonech.
+Přenesení hry
+Opravdu chcete koupit tuto nemovitost?
+Tento dům má rozlohu <color=blue><NUM1></color>m². Prodejní cena činní<color=red><NUM2></color>.
+Virus odstranil některé vaše grafické podklady pro aktuální hru. Vaši grafici se nyní snaží vyrovnat ztráty.
+Zaměstnancův kamarád, který je hudební hvězda, vytvořil zvukový doprovod pro vaši hru zcela zdarma.
+Vyčerpaný programátor strávil posledních několik hodin přepracováním některých základních prvků. Bohužel byl tak nepozorný, že se do kódu vloudily nějaké chyby.
+Jeden z vašich programátorů pravděpodobně chce být "zaměstnancem měsíce" a tak pracuje i v noční směně. Výsledkem je výrazně zvýšený výkon hry.
+Během spontánního brainstormingu s vašimi zaměstnanci se zrodilo několik dobrých nápadů pro vaši novou hru. Vývojáři se okamžitě pustili do práce a některé z těchto nápadů implementovali.
+Uznávaný herní časopis vydal negativní recenzi o vaší aktuální hře. To bohužel způsobilo, že zájem trochu poklesl.
+Jeden z vašich vývojářů nelegálně poslal snímky obrazovky a informace o vaší aktuální hře známému hernímu časopisu. Naštěstí měl novinový článek velmi dobrý ohlas a zvýšil se tak zájem.
+Hudba k aktuální hře příliš připomíná dnešní známé hity. Aby se zabránilo soudnímu procesu, byla tato hudba odstraněna.
+Došlo k problémům s aktuálními ovladači pro různá vstupní zařízení. Některé funkce musí být okamžitě přepsány.
+Jeden z vašich návrhářů úrovní omylem přepsal již hotovou úroveň a nyní je nutné znovu vytvořit celou úroveň úplně od začátku.
+Vaši programátoři mají štěstí. Ukázalo se, že některá hlášení o chybách hry byla jen falešný poplach. To nám ušetřilo spoustu času.
+Jeden z vašich grafiků ve svém volném čase pokračoval v práci na aktuální hře. Díky tomu přepracoval všechnu dnes již zastaralou grafiku.
+Jeden z vašich zvukových specialistů našel ve své knihovně velmi starou nahrávku, kterou nahrál již dříve a zapomněl na ní. Tato skladba dokonale pasuje k aktuální hře.
+Vaši programátoři obdrželi oznámení o možnosti stažení nejnovější sady SDK a okamžitě ji tak aktualizovali. Tím bylo možné vyřešit některé technické problémy.
+<b>Propad videoher<br><color=blue>-50% prodaných her</color></b><br><br>Trh s počítačovými hrami se zhroutil.<br>V nadcházejících měsících se prodeje všech her výrazně sníží.<br>Doufejme, že se trh brzy stabilizuje.
+<b>Velké BOOM videoher<br><color=blue>+50% prodaných her</color></b><br><br>Odvětví počítačových her zažívá silný rozmach.<br>V následujících měsících se budou všechny hry prodávat výrazně lépe.
+<b>Stávka objednávek<br><color=blue>žádné nové objednávky</color></b><br><br>Došlo k celosvětovému propadu zakázek.<br>V blízké budoucnosti vám nebudou nabídnuté nové pracovní příležitosti.
+<b>Nedostatek IT<br><color=blue>žádní uchazeči o práci</color></b><br><br>IT průmysl si stěžuje na vážný nedostatek zaměstnanců.<br>V blízké budoucnosti se o práci u vás nebudou ucházet žádní zaměstnanci.
+<b>Bankovní krize<br><color=blue>+200% zájem</color></b><br><br> Vypukla celosvětová bankovní krize.<br>Všechny banky nyní požadují výrazně vyšší úrokové sazby za půjčky.
+<b>Éra legend<br><color=blue>+200% šance legendy</color></b><br><br>Mnoho zkušených zaměstnanců hledá nové zaměstnání.<br>V následujících měsících se na vás budou obracet další legendy herního vývoje.
+<b>Velké BOOM realit<br><color=blue>+100% ceny nemovitostí</color></b><br><br>Celosvětový rozmach nemovitostí výrazně zvýšil kupní ceny nemovitostí.<br>Dokonce i za budovy, které mají být zničeny, jsou požadovány enormní částky.
+<b>Pandemie<br><color=blue>+300% šance onemocnění</color></b><br><br>Celosvětová pandemie chřipky nečekaně zasáhla svět.<br>Naštěstí je průběh onemocnění mírný, nicméně pracovní výkon se znatelně snižuje.
+<b>Energetická krize<br><color=blue>+100% provozní náklady na servery</color></b><br><br>Energetická krize způsobuje prudký nárůst cen elektřiny.<br>V blízké budoucnosti se provozní náklady na servery zvýší o 100 %.
+<b>Nedostatek polovodičů<br><color=blue>+$100 výrobní náklady na konzole</color></b><br><br>Ceny polovodičů prudce vzrostly.<br>V blízké budoucnosti se výrobní náklady na konzole enormně zvýší.
+Herní manuál černobílý
+Herní manuál barevný
+Edice
+Plakát
+Nálepka
+Mapa herního světa
+Hrací karty
+Placka
+Přívěšek na klíče
+Soundtrack
+Sběratelská postava
+Ceny a obsah balení her
+Výrobní náklady
+Standardní edice
+Luxusní edice
+Sběratelská edice
+Obsah edice
+Nabídka edice k prodeji
+Základní náklady
+Do dražší edice bude automaticky zahrnut obsah levnější edice.
+Bude odemknuto <color=blue>Únor 2003</color>.
+Maloobchodní cena
+Výrobní cena
+Nabídka Standardní edice
+Nabídka Luxusní edice
+Nabídka Sběratelská edice
+Nabídka Digitální verze
+F2P hry a Digitální verze
+<b>F2P hry a digitální distribuce byla odemčena</b><br><br>Nyní můžete vyvíjet hry F2P a distribuovat je tak online v digitální verzi.
+Ještě jste nenabídl krabicovou nebo digitální verzi k prodeji.
+Luxusní edice musí obsahovat více kontentu než Standardní edice.
+Sběratelská edice musí obsahovat více kontentu než nižší edice.
+Za kolik týdnů vyjde hra?
+<NUM> týdnů
+Skladem
+Objednávky
+Digitální verze
+▪ Standardní edice i Digitální verze musí mít totožnou cenu<br>▪ Vyšší edice musí být alespoň o $10 dražší<br>než nižší edice<br>▪ Budget hry můžou stát maximálně $10 a<br>musí být vydány jen jako Standardní edice
+Vývoj dokončen
+Pouze Digitální verze
+Výrobní zakázky
+Produkovat hru
+Sekundární marketing
+Základní cena
+Prosím, vyberte požadované množství kusů jednotlivých edicí.
+Automatická produkce
+Pokud jste neaktivovali automatizovanou výrobu, musíte určit výrobní množství.
+Výroba <NAME1> dokončena
+Možnosti distribuce
+<b>Možnosti distribuce</b><br>Zde můžete spravovat vlastní distribuci.
+Obsah lze změnit, pouze pokud je sklad prázdný!
+Automaticky stahovat hry z trhu
+Opravdu chcete hru stáhnout z trhu?
+Manuálně jste stáhli <color=blue><NAME></color> z trhu. Produkt již není k dispozici.
+Anti-cheat
+Anti-cheaty
+Vyprázdnit sklad
+Není k dispozici žádný úložný prostor.
+Prodat veškeré zásoby
+Opravdu chcete prodat kompletní zásoby? Distributor levných her vám navrhl nabídku.
+Kterou hru byste chtěli znovu vydat jako <color=blue>Budget hru?</color> Lze vybrat pouze hry, které nejsou k dispozici alespoň <color=blue>jeden rok.</color>
+K dispozici za <color=blue><NUM></color> týdnů
+Týdny k dispozici
+Jaké označení ponese tato verze Budget hry?
+Klasická
+Stříbrná
+Top volba
+Platinová
+<color=blue>Možné znovu-vydání</color>
+Nemůžete si vybrat obsah pro Budget hry!
+Fanoušci jsou rozděleni podle jejich oblíbeného žánru.
+Průzkum trhu
+Celkem fanoušků
+Provést nový výzkum trhu
+Doposud nebyl proveden žádný průzkum trhu. Zahajte průzkum trhu a zjistěte, který <color=blue>žánr</color> se v nejbližší době dostane do trendy nebo o jakou <color=blue>platformu</color> má cílová skupina zájem.
+Průzkum trhu dokončen
+Průzkum trhu ukázal, že platforma <color=blue><NAME></color> se bude prodávat nejvíce.
+Závěrečná zpráva od <color=blue><NAME></color>
+Cílová skupina má nejmenší zájem o platformu <color=blue><NAME></color>.
+Průzkum trhu ukázal, že <color=blue><NUM1></color> hráči preferují <color=blue>maloobchodní verze</color> a <color=blue><NUM2></color> <color=blue>digitální verze</color>.
+Všimli jsme si, že <color=blue><NUM1></color> kupujících má zájem o <color=blue>Luxusní edici</color> a <color=blue><NUM2></color> o <color=blue>Sběratelskou edici</color>.
+Další trend u <color=blue>80%</color> bude <color=blue><NAME1></color> a <color=blue><NAME2></color>.
+U <color=blue>80%</color> se stane nepopulární <color=blue><NAME1></color> a <color=blue><NAME2></color>.
+Průzkum trhu můžete provádět v marketingovém oddělení.
+Chcete-li prodat svůj Engine, musíte nastavit prodejní cenu nebo licenční poplatky.
+Vypnutí zvuku oznámení
+Hry - hodnocení
+Nákupy v aplikaci
+Kosmetické předměty a skiny
+Mazlíčci a koně
+Bonusové balíčky
+Speciální předměty
+Speciální herní postavy
+Instance a území
+Financování
+Vyžaduje funkci <color=orange>Nákupy v aplikaci</color>
+Základní náklady
+Technologie
+Obsah a funkce
+Celkové náklady
+Poplatky a licence
+Snížení rozpočtu může mít negativní<br>vliv na kvalitu hry.
+U <color=orange>Herních kontraktů</color> nelze financování snížit.
+Hra bohužel ukazuje, že na některých místech byl snížen rozpočet.
+[Úroveň technologie Enginu je příliš vysoká]
+Vaši fanoušci se již těší na pokračování <NAME>. Obdrželi jste bonus.
+<b>Úroveň II předměty byly odemknuty</b><br><br>Nyní můžete své kanceláře vybavit předměty nejnovější generace.
+<b> Úroveň III předměty byly odemknuty</b><br><br>Nyní můžete své kanceláře vybavit předměty nejnovější generace.
+<b> Úroveň IV předměty byly odemknuty</b><br><br>Nyní můžete své kanceláře vybavit předměty nejnovější generace.
+<b> Úroveň V předměty byly odemknuty</b><br><br>Nyní můžete své kanceláře vybavit předměty nejnovější generace.
+Úroveň II Předměty
+Úroveň III Předměty
+Úroveň IV Předměty
+Úroveň V Předměty
+<b>Složitost</b><br>Čím obtížnější je vývoj na platformě,<br>tím více času je zapotřebí k vývoji hry.
+Režim pro více hráčů je stále ve vývoji. Chybí některé důležité funkce a může docházet k častému rušení připojení.
+Žádný <color=blue>Anti-cheat</color> nebyl dosud vydán.
+<b>Anti-cheat byl odemčen</b><br>Díky stálému boji s rostoucím počtem pirátských softwarů byl dnes vydán profesionální Anti-cheat software. Nyní můžete do svých her přidat Anti-cheat software.
+Anti-cheaty na prodej
+Zakoupené Anti-cheaty
+Skrýt neaktuální Anti-cheaty
+Opravdu chcete zakoupit tento Anti-cheat?
+Odebrat Anti-cheat
+Žádný Anti-cheat
+Pouze ve hrách pro více hráčů má smysl přidat Anti-cheat.
+Díky Ochraně proti kopírování je v oběhu méně pirátských kopií hry.
+Dostupný nový Anti-cheat
+Tento objekt ještě není k dispozici.
+Speciální platforma
+Musíte si vybrat speciální platformu!
+Technologická úroveň Enginu je vyšší než technologická úroveň speciální platformy!
+žádná platforma
+Speciální žánr a platforma zvyšují<br>šanci na vyjímečné výsledky práce.
+Zobrazit bubliny rozhovorů
+Když podepíšete exkluzivní kontrakt s vydavatelem, jste povinni zajistit distribuci všech her skrz tohoto vydavatele.
+Čekání na server ...
+Neexistuje žádné uložení!
+Hostitel chce hru uložit.
+Port: 7777
+Cena předplatného
+F2P obchodní model
+Převést MMO na F2P
+Přepnout server zap./vyp.
+Skrýt / Zobrazit zdi
+Pokud chcete hostit hru, musíte mít otevřený port 7777.
+Pokud chcete vyvinout hru <color=blue>MMO nebo F2P</color> , musíte přidat funkci <color=blue>Online hry pro více hráčů</color>.
+Předplatné
+Nastavte prosím cenu za měsíční předplatné.
+Celkové příjmy
+Prodej
+Opravdu chcete vypnout servery? Ztratíte tak všechny předplatitele na hostovaném serveru.
+Chcete spustit servery? Budete muset znovu platit měsíční náklady na server.
+Server nefunguje
+Herní průkaz
+MMO
+F2P
+Pro kterou MMO chcete vyvinout dodatek?
+Vyšší úroveň
+Nové předměty
+Nová zvířata a koně
+Nové vedlejší úkoly
+Noví nepřátelé
+Nové postavy a třídy hráčů
+Nový herní svět a instance
+Nová série hlavních úkolů
+<b>Speciální možnosti ve standardní hře</b><br>▪ Vytváření dodatků & Samostatné dodatky<br>▪ Vytváření remaků<br>▪ Vydání Budget hry<br>▪ Vydání balíčků
+<b>Speciální možnosti v MMO</b><br>▪ Vytváření MMO dodatků
+<b>Speciální možnosti ve F2P</b><br>▪ Vytváření F2P dodatků<br>▪ Pouze digitální distribuce<br>▪ Není potřeba žádný vydavatel.
+Musíte si vybrat minimálně 3 nové obsahy pro MMO-dodatek!
+Vývoj dodatku MMO <NAME> byl zrušen,<br>protože hlavní hra byla stažena z trhu.
+Servery se přehřívají!<br><color=red>-50% výkonu</color>
+Platforma umožňuje připojení k internetu
+Pokud chcete vytvořit MMO nebo F2P hru, musí být všechny platformy připojitelné k internetu!
+Průvodce
+Další
+Zpět
+Automaticky pozastavit
+Jakmile hráč otevře nabídku, hra se automaticky pozastaví.
+<color=green> >> Koupil novou nemovitost << </color>
+<color=green> >> Vydal novou hru '<NAME>' << </color>
+<color=green> >> Vydal nový Engine '<NAME>' << </color>
+Informace z banky! Na vašem firemním účtu jste již několik měsíců v mínusu. K vyrovnání dluhu máte <color=blue>12 měsíců</color>. Jinak vám hrozí <color=blue>exekuce</color>.
+Upozornění
+Počet měsíců do vyrovnání vašeho účtu.
+Konec hry
+<b>Vaše společnost je v exekuci!</b><br><br>Hra končí! Bohužel, vaše společnost je nyní pohřbena na přeplněném hřbitově technologických společností.<br>Příště víc štěstí!
+Zvýšená náhodnost recenzí
+<NAME> studio
+Hledat
+Automaticky zaktualizovat na ty nejnovější produkty
+Opravdu chcete aktualizovat veškeré předměty v místnosti?
+Tato funkce je dostupná jen při online hře.
+Můžete hráče podpořit nebo sabotovat. Co chcete udělat?
+Podpora
+Sabotáž
+Zaměstnanec mrzne!
+Všechny objekty jsou aktuální!
+Zaměstnanec tu musí pracovat ve špíně!
+Zaměstnanec se zde necítí dobře!
+Uživ. hodnocení
+Tisková hodnocení
+Uživatel
+Tisk
+Začátek vývoje
+Označit jako oblíbené
+Oblíbené
+Posouvat pomocí okraje obrazovky
+Zakázat prodej Enginů
+Otevřít / zavřít všechny herní panely
+<b>Vánoční období</b><br>+50% z prodaných jednotek
+<b>Letní krize</b><br>-30% z prodaných jednotek
+V <NAME> jsou nejúčinnější následující profese: <color=blue><TEXT></color>.
+<b>Znudění fanoušci</b><br>Vaši fanoušci se nudí, protože stále vydáváte hry stejného žánru (<color=blue><NAME></color>).<br>▪ -50% prodaných jednotek<br>▪ Žádní noví fanoušci.
+Zaměstnanec je zde příliš přetížený!
+Zakázat ikony pracovníků
+Zakázat stížnosti pracovníků
+Zabanován
+Náklady na překlad závisí na velikosti hry.
+Port
+Platinová deska
+Diamantová deska
+Obdržena platinová deska
+Obdržena diamantová deska
+Prodej-systém <color=blue>+<NUM> <NAME></color>
+<b>Exkluzivní hra</b><br>Prostřednictvím této hry bylo prodáno odhadem <color=blue><NUM> <NAME></color>.
+Zakázat efekty počasí
+<b>Havárie nemovitostí<br><color=blue>-50% ceny nemovitostí</color></b><br><br>Ceny nemovitostí celosvětově klesají. Odborníci již dříve hovořili o znepokojivé krizi.<br>To nás samozřejmě nemůže rozčílit. Naopak máme radost z nízkých výkupních cen.
+Engine třetí strany
+<b>Rozzlobení fanoušci</b><br>Vaši fanoušci se zlobí, protože jste vydali extrémně zabugovanou hru.<br>▪ -30% prodaných kusů<br>▪ Žádní nový fanoušci
+<b>Chaotický</b><br>Těmto zaměstnancům je jedno, jestli musí pracovat ve špinavé kanceláři.
+<b>Filantrop</b><br>Tito zaměstnanci si nestěžují na přeplněné kanceláře.
+Finanční podpora
+Výzkumná podpora
+Darovat Engine
+Darovat licenci
+Hráči
+Výše finanční podpory
+>> Poskytl <NUM> jako finanční podporu <<
+Poskytli jste <color=blue><NAME> </color> finanční podporu ve výši <color=blue><NUM> </color>.
+Daroval jste <color=blue><NAME1> </color> Engine <color=blue><NAME2> </color>.
+>> Vám daroval Engine <NAME> <<
+Daroval jste zdarma <color=blue><NAME1> </color> licenci <color=blue><NAME2> </color>.
+>> Vám daroval licenci <NAME> <<
+Zakázat automatické pozastavení [Singleplayer]
+Čas zobrazení zprávy fanouška
+Maratón
+Smazat všechny uložené pozice
+POZOR! <br> Opravdu chcete nenávratně smazat všechny uložené pozice?
+Darovali jste <color=blue><NAME1> </color> technologii <color=blue>'<NAME2>' </color>.
+>> Vám daroval technologii '<NAME>' <<
+Můžete použít pouze hry, které byly vydány jako <color=blue>Budget hra</color> a již byly <color=blue>staženy z trhu</color>.
+Název balíčku
+Kvalita balíčku
+Musí být vybrány alespoň dvě hry!
+Není vybrána žádná hra
+Volný slot
+Musíte zadat název balíčku!
+U balíčků si nemůžete vybrat žádný obsah!
+Tento měsíc byly opět vydány balíčky se staršími hrami. Pečlivě se podíváme na obsah a řekneme vám, zda se uchytí.
+Tyto hry jsou součástí balíčku
+Balíček doplňků
+GOTY edice
+U balíčku doplňků musíte zvolit <color=blue>hlavní hru</color> a alespoň <color=blue>jeden doplněk</color>. Všechny vybrané produkty musí být již <color=blue>staženy z trhu</color>.
+Doplňky
+Balíček doplňků
+Nejprve musíte vybrat hlavní hru!
+Dostupné produkty
+Musíte vybrat alespoň jednu hlavní hru a jeden doplněk!
+Kompletní edice
+GOTY edice
+Kterou hru byste chtěl vydat v <color=blue>GOTY edici</color>? Můžete vybrat jen ty hry, které byly oceněny jako <color=blue>Hra roku (Game of the Year)</color> a <color=blue>byla již stažena z trhu</color>.
+G.O.T.Y.
+Jak by se měla tato edice jmenovat?
+Přizpůsobení pracovní rychlosti
+Zobrazit pouze název hry v panelu minimalizovaných her
+Speciální marketing
+Pomocí nákupů v aplikaci lze vydělat více peněz! <br> Pokud budou příliš drahé, <br>budou všichni hráči negativní.
+Odhadované výdělky hráč/měsíc
+Nepopulární obchodní model
+Pro nákupy v aplikaci potřebujete mít herní funkce <color=blue>Nákupy v aplikaci a Online multiplayer</color>!
+Příjmy z předplatného
+Příjmy z nákupů v aplikaci
+Spravovat nákupy v aplikaci
+Pro odemknutí dokončete výzkum <color=blue>Nákupy v aplikaci</color>.
+Odstranit aplikaci
+Ve hře předem dojednané dle <color=orange>herního kontraktu</color> nelze nastavit nákupy v aplikaci.
+Automatický výzkum zrušen! <br> Další průzkum již není k dispozici.
+Kvůli špatným licencím her poklesla důvěra mezi poskytovateli licencí.<br>V poslední době začínají poskytovatelé licencí odmítat spolupracovat s herním průmyslem.
+Ladit hru
+Která hra by měla být doladěna? Ladění trvá <color=blue>déle</color>, ale zvyšuje kvalitu hry.
+Populární žánry
+Populární
+Nepopulární
+Tento displej vás informuje<br>, pokud místnosti není přidělen žádný úkol.<br><br><color=blue>Kliknutím přejdete do místnosti</color>.
+<b>Kyber-útok<br><color=blue>-30% výkonu serveru</color></b><br><br>Anonymní skupina hackerů zahájila globální útok na sítě.<br>Všechny servery v okolí byly hacknuty a jejich výkonnost byla výrazně snížena.
+Nečekat na pokles
+Přejmenovat skupinu
+Prosím zadejte jméno skupiny
+Pro<color=blue>F2P hra</color>musí být vybrán alespoň jeden nákup v aplikaci!
+Online distribuce
+Za kolik týdnů by měla být hra vydána na všech online platformách?
+Počet týdnů ke stažení
+Aktivní hráči
+F2P update
+Mód celé obrazovky
+Celá obrazovka
+Exkluzivní celá obrazovka
+Maximalizované okno
+Které MMO chcete převést na F2P hru? Můžete převádět pouze MMO, které <color=blue>již bylo staženo z trhu</color> nebo které jste <color=blue>distribuoval sám</color>.
+Chcete opravdu změnit<color=blue>MMO</color>na<color=blue>F2P</color> hru?
+Náklady na převod
+[F2P]
+Automatická pauza [Hra pro více hráčů]
+Spustit automaticky
+Již máte Budget hru na trhu. Počkejte prosím, než bude Budget hra odstraněna z trhu.
+Již máte GOTY edici na trhu. Počkejte prosím, než bude GOTY edice odstraněna z trhu.
+Cena aktualizace
+Automaticky spustit opravu chyb
+Automaticky spustit ladění hry
+Archiv
+Archivované herní koncepty, enginy nebo herní zprávy jsou skryty ve všech nabídkách a seznamech.
+Dostupné
+V archivu
+Speciální marketing je levný, ale může mít také <color=blue> negativní dopad</color>. Každou akci lze použít <color=blue>na hru pouze 1x</color>.
+Vydat beta demo
+Předběžné vydání pro novináře
+Vytvořit extra-očekávání
+Falešné uživatelské recenze
+Během vývoje
+Po vydání hry
+Demo může vytvořit očekávání nebo snížit očekávání <br>v závislosti na kvalitě hry.
+Pokud pošlete předběžný přístup novinářům,<br>může to mít pozitivní nebo negativní dopad na hodnocení hry.
+Můžete generovat extra-očekávání pouze  tehdy,<br>pokud má vaše hra očekávání alespoň 90.<br>Dejte si pozor, aby vaši fanoušci nebyli zklamáni,<br>pokud vaše hra nezíská příliš vysoké hodnocení.
+Pokud vytvoříte falešné uživatelské recenze a necháte se odhalit,<br> neudělá to dobrý dojem.
+Bylo již provedeno
+Speciální marketingová kampaň pro <NAME1> byla dokončena
+Analyzovali jsme všechny komentáře a zjistili jsme, že mnoho hráčů není spokojeno s beta demo. Vaše hra kvůli tomu ztratila nějaké očekávání.
+Obdrželi jsme většinou pozitivní komentáře k beta demu. Vaši fanoušci se těší na vydání hry. Očekávání vaší hry roste.
+Novináři otestoval předběžnou verzi vaší hry. Bohužel, předběžné recenze byly většinou negativní. Musíme očekávat, že to bude mít negativní dopad na konečné hodnocení hry.
+Novináři otestovali předběžnou verzi vaší hry. Tato hra byla ve všech předběžných recenzích velmi chválena. Můžeme předpokládat, že tento výsledek bude mít pozitivní dopad na konečné hodnocení hry.
+Bohužel jsme nebyli schopni u hry zvýšit očekávání tak, jak bychom si přáli. Očekávání hry zůstává na normální úrovni.
+Byli jsme schopni extrémně zvýšit očekávání hry. Doufejme, že nezklameme fanoušky průměrným produktem.
+Někteří hráči si všimli, že mnoho uživatelských recenzí je falešných. Kvůli tomuto podvodu jsme ztratili velké množství fanoušků.
+Naše marketingové oddělení vytvořilo pro naší hru několik uživatelských recenzí. Naštěstí si tohoto podvod nikdo nevšiml.
+Publikovat demo
+Mnoho hráčů je zklamaných kvalitou demo verze. Vaše hra kvůli tomu ztratila trochu očekávání.
+Mnoho hráčů demo verze baví, a proto si chtějí hru brzy koupit. Očekávání vaší hry roste.
+Hra bohužel nedokázala uspokojit očekávání. Mnoho fanoušků je zklamaných a očekává mnohem víc. Ztratili jste spoustu fanoušků a očekávání hry kleslo na normální úroveň.
+Vhodnost
+Ne každá herní funkce je vhodná pro daný žánr. <br> Zvláště vhodné funkce, <br> mají bonus 50%. <br> Nevhodné funkce mají pouze 10% účinek. 
+Zaměstnanci nesmí opustit svou budovu
+Přiště nezobrazovat
+Opravdu chcete zakázat přesouvání předmětů?
+Opravdu chcete zakázat výběr zaměstnanců?
+Vyberte prosím speciální žánr vaší společnosti. Speciální žánr poskytuje bonus <color=blue> + 3%</color> k recenzím vašich her.
+Povolit/zakázat všechny příslušné funkce
+„Čističe Sputnik 3000“ nesmí opustit svou budovu
+Hra pro více hráčů
+Automatické uložení
+Každých 12 měsíců
+Každých 9 měsíců
+Každých 6 měsíců
+Každé 3 měsíce
+Přátelské pro začátečníky
+Inovace
+Design postavy
+Design úrovně
+Design mise
+Nezávadný obsah
+Závadný obsah
+Lehké
+Těžké
+Zaměření designu
+Směr designu
+Musíte utratit všechny dostupné designové body!
+Utratili jste příliš mnoho designových bodů!
+Čas zobrazení zprávy
+Neznámá garážová společnost
+Garážová společnost
+Indie studio
+Malý vývojář her
+Obyčejný vývojář her
+Známé herní studio
+Prestižní herní studio
+Populární herní studio
+Známá herní společnost
+Vlivná herní společnost
+Legendární herní společnost
+Nové hodnocení studia
+Počítač
+Konzole
+Přenosné herní konzole
+Mobilní telefon
+Mil
+Typ platformy
+Aktivní uživatelé
+Zájem
+Když poklesne zájem o F2P hry,<br>měli byste vytvořit aktualizaci.<br>Tím se opět zvýší zájem <br>a zvýší se životnost hry.
+Aktualizace F2P hry zvyšuje zájem a prodlužuje životnost hry. Aktualizace F2P jsou hráčům poskytovány zdarma.
+Pro jakou F2P hru by měla být aktualizace vyvinuta?
+Nové sociální funkce
+Aktualizace F2P pro <NAME> byla dokončena.
+Celkový počet aktivních uživatelů pro vybrané platformy.
+▪ Hodnocení studia ovlivňuje hry distribuované vlastními silami.<br>▪ Vyšší hodnocení studia přiláká lepší zaměstnance.
+Zkopírovat pouze nastavení designu
+Když poklesne zájem o MMO hry, <br> měli byste si vytvořit  MMO doplněk.<br>Tím se opět zvýší zájem <br> <br> a prodlouží se životnost hry.
+Dokud není odemčena digitální distribuce, nemůžete vyvíjet mobilní hry!
+Mobilní hry - prodej
+Celkový prodej mobilních her
+Nová mobilní hra
+Nová arkádová hra pro herní box
+<b>Nová mobilní hra</b><br>Náklady na vývoj mobilních her jsou výrazně nižší.
+Za jakou cenu by měla být mobilní hra nabízena v obchodech s mobilními aplikacemi?
+Nastavit cenu
+Nemůžete vydat doplněk, dokud nebude vydána hlavní hra
+MadMobileGames.com
+<b>Mobilní hry byly odemčeny</b><br><br>Byl vydán první smartphone. Nyní můžete vyvíjet mobilní hry.
+Odemkne se, jakmile vyjde první <color=blue>smartphone</color>.
+Dílna
+Pomocí dílny lze vyrábět herní arkádové boxy. Průzkum najdete pod názvem <color=blue>"Ostatní"</color>.
+Výroba arkádových boxů
+Prodej arkádových boxů
+V <color=blue>Dílnách</color> lze vyrábět herní arkádové boxy.
+Základní deska boxu
+Nelze nastavit herní platby v <color=orange>herních arkádových boxech</color>.
+Arkády
+<b>Arkádové hry</b><br>▪ Není potřeba vydavatele<br>▪ Nejsou dostupné dodatky<br>▪ MMOs a F2Ps nejsou podporovány<br>▪ Nemá vliv na letní krizi<br>▪ Negeneruje hovory a e-maily<br>▪ Anticheaty a Ochrana proti kopírování nejsou k dispozici <br>▪ Znovu-vydání není k dispozici <br>▪ Nemá vliv na podíl na trhu s platformami
+<b>Mobilní hry</b><br>▪ Není potřeba vydavatele<br>▪ Výrazně nižší náklady na vývoj<br>▪ Dodatky nejsou dostupné<br>▪ Není dostupné znovu-vydání
+<b>Počítačové a konzolové hry</b><br>▪ Přístupné pro exkluzivní smlouvy vydavatele
+Arkádové hry - prodej
+Celkový prodej arkádových her
+Celkový prodej počítačových a konzolových her
+Průzkum trhu ukázal, že nejžádanější jsou následující platformy:
+Cílová skupina projevila nejmenší zájem o následující platformy:
+Za jakou cenu by se měl tento arkádový box prodávat?
+Kvalita komponentů
+Skříň
+Displej
+Vstupní zařízení
+Ozvučení
+Ceny herních arkádových boxů
+Ceny mobilních her
+Kvalitu komponentů nelze měnit zpětně
+<color=blue><NUM></color> z cílové skupiny hrají <color=blue>arkádové boxy</color>.
+Nevytváříte zisk! Zvyšte cenu vašich arkádových boxů.
+Spin-off
+<b>Spin-off</b><br>Spin-off těží z úspěchu hlavního seriálu.<br>Bonusy nejsou tak vysoké,<br>jako u pokračování.<br>Je však možné vytvořit neomezené množství spin-offů<br>a změnit hlavní žánr.
+Odemkne se, když se jedna z vašich her<br>prodá alespoň <color=blue>50,000</color> krát.
+<b>Spin-off byl odemčen</b><br><br>Prodejní čísla jedné z vašich her jsou vynikající. Měli byste nechat vyvinout spin-off. Třeba se úspěch podaří zopakovat.
+Tato recenze se týká pokračování hry <NAME>. Ověříme za vás, zda nejnovější díl série stojí za to.
+Obdrželi jsme testovací vzorek spin-offu od <NAME>. Zde se dozvíte, zda spin-off stojí za zhlédnutí.
+Z jaké IP byste chtěli vyvinout spin-off?
+Vaši fanoušci mají ze spin-offu <NAME> radost. Hra získala bonus za očekávání.
+Která hra by měla být portována na jiný typ platformy?
+Na který typ platformy by měla být <color=blue><NAME></color> portována?
+Počítač a herní konzole
+Hra je již na tomto typu platformy k dispozici.
+<b>Port hry</b><br>▪ Na jeden typ platformy je možné provést pouze jednu portaci<br>▪ Očekávání je převzato z původní hry<br>▪ Náklady na vývoj jsou nižší<br>▪ Porty pro arkádové boxy mají pozitivní<br>vliv na prodejní čísla původní hry.
+Na arkádový box nelze portovat žádné MMO a F2P hry<br>.
+[P]
+Vaši fanoušci mají radost z portu hry <NAME> na jiný systém. Hra získá současně očekávání původní hry.
+Ukazuje, kolik her s touto tematikou je na trhu.
+Moje IP
+Celkové prodeje
+Celkové tržby
+Oblíbenost IP
+<b>Oblíbenost IP</b><br>Oblíbenost ovlivňuje všechny hry dané IP.<br>Hry s dobrým hodnocením nebo<br>hry, které získají ocenění, zvyšují oblíbenost.
+Všechny hry <color=blue><NAME></color> IP
+Mil
+Počet her a doplňků:
+Výroba arkádových boxů
+Vlastní engine
+<b>Chamtivý</b><br>Zaměstnanci, kteří jsou chamtiví, požadují výrazně vyšší platy.
+<b>Imunitně slabý</b><br>Zaměstnanci s oslabenou imunitou onemocní výrazně častěji.
+<b>Nestresovaný</b><br>Zaměstnanci odolní vůči stresu si v době krize klidně dělají přestávky.
+<b>Nesoustředěný</b><br>Tito zaměstnanci se častěji nesoustředí a<br>tudíž častěji vytvářejí chyby.
+<b>Netalentovaný</b><br>Netalentovaní zaměstnanci se učí pomaleji než jejich kolegové v práci.
+<b>Pixelový umělec</b><br>Tito zaměstnanci vytvářejí při vývoji retro hry vyšší počet grafických bodů.
+<b>Specialista na portování</b><br>Tito zaměstnanci generují vyšší technické body při portování hry.
+<b>Imaginátor</b><br>Zaměstnanci zabývající se imaginací mají neustále nové nápady na pokračování.<br>Při vývoji pokračování hry generují tito zaměstnanci vyšší herní body.
+<b>Engine expert</b><br>Tito zaměstnanci dokáží vyvíjet enginy mnohem rychleji.
+Nejlepší hra
+Nejhorší hra
+Průměrné skóre
+Celkové statistiky
+Celkové náklady
+<b>Smolař</b><br>Tito zaměstnanci nikdy nemají vyjímečné pracovní výsledky.
+<b>Workaholik</b><br>Tito zaměstnanci dokáží dokončit práci na zakázku mnohem rychleji.
+<b>Efektivní</b><br>Tito zaměstnanci dokáží dokončit všechny úkoly nepatrně rychleji.
+Cenu můžete změnit pouze v případě, že nejsou žádné předběžné objednávky.
+Název konzole
+Vývoj konzolí
+Jakou konzoli chcete vyvinout? Stacionární konzoli do obývacího pokoje? Nebo mobilní konzoli na cesty?
+Nová stacionární konzole
+Nová mobilní konzole
+Na konzoli můžete předinstalovat již vydanou hru.<br>Emulace hry na této konzoli probíhá automaticky.
+Čím více vstupních zařízení se ke konzoli přidá,<br> tím vyšší jsou výrobní náklady.
+Vizuálně moderní konzole může mít<br>pozitivní vliv na nákupní chování.
+Procesor
+Operační paměť
+Grafický čip
+Zvukový čip
+Interní / externí úložiště
+Chladicí systém
+Nosiče dat
+Displej
+Technologicky nejstarší komponenta rozhoduje<br>o konečné technologické úrovni konzole.
+Vstupní zařízení
+Skříň
+Funkce konzole
+Potřebné pouze u mobilních konzolí
+Potřebné pouze pro stacionární konzole
+Pouze pro mobilní konzole
+Pouze pro stacionární konzole
+Hodnocení komponent
+Součást konzole
+Vzhled
+Předinstalovaná klasická hra
+Počet připojených vstupních zařízení
+Smícháním zastaralých a nových komponent,<br>vzrůstá složitost konzole.<br>To zvyšuje nároky na vývoj a náklady.
+Komponenta zvyšující výkon
+Vzhled nebo přídavné zařízení
+Body výkonu
+Odstín
+Sytost
+Není vybrána žádná hra
+Odebrat hru
+Funkce konzole
+Vyžaduje možnost připojení k internetu
+Povolit/zakázat všechny funkce
+Možnost připojení k internetu
+Konzoli lze připojit k internetu
+Některé funkce konzoly vyžadují přístup k internetu.
+Zatím není k dispozici
+Konzole se musí pojmenovat!
+Název konzoly již byl přidělen!
+Žádný čas na zkrácení
+Jas
+Nepovinný název IP
+<color=green> >> Zveřejnil konzoli '<NAME>'. << </color>
+Vedoucí technik
+▪ Vedoucí technik by měl mít vysoké znalosti v oboru <color=blue>Hardware & Technika</color>.<br>Všichni pracovníci pracující na této konzoli,<br>obdrží bonus v závislosti na této hodnotě.<br>To může zkrátit dobu vývoje.<br><br>▪ Vedoucí technik musí být v této místnosti.
+Vybrat jako vedoucího technika
+Platforma je stále ve vývoji!
+Ještě nebyly vydány všechny platformy!<br>Pro vydání tohoto produktu musí být všechny cílové platformy komerčně dostupné.
+Konzole byla dokončena
+Zveřejněte konzoli
+Vyřadit konzoli
+Vaše hardwarové oddělení dokončilo prototyp konzole připravený k uvedení na trh. Konzoli můžete vydat nyní, nebo její vydání odložit na pozdější dobu.
+Opravdu chcete tuto konzoli vyřadit? Tuto operaci nelze vzít zpět!
+Prodejní cena konzole
+Aktuální výrobní náklady konzole
+Optimalizované výrobní procesy a klesající náklady na hardware,<br>snižují výrobní náklady v čase.
+Vývojová sada
+Za jakou cenu chcete konzoli prodávat?
+Cena vývojové sady
+Povolení her třetích stran
+Automaticky nastavit prodejní cenu
+Snížení aktuální ceny
+Hodnocení konzole
+Tisk porovnal výkon a celkové balení vaší nové konzole s již dostupnými konzolemi.
+Odstranit konzoli z trhu
+Hodnocení výkonu
+Celkové hodnocení konzole
+Jste si jisti, že chcete konzoli stáhnout z trhu?
+Výroba konzole
+Vývoj konzole
+Výkon ve srovnání s jinými konzolemi
+>> Zakoupili jste vývojovou sadu pro <NUM>. <<
+Společnost <color=blue><NAME1></color> zakoupila Platformu od výrobce <color=blue><NAME2></color>.
+Hru nelze publikovat, protože není vybrána žádná hlavní platforma! Nejprve vyberte hlavní platformu v nabídce "Změnit platformu".
+Podrobnosti o konzoli
+<NUM> Konzole
+Technické komponenty
+Nezobrazovat okno se zprávou "Zrušit úlohu".
+Přesycení trhu
+Maximum
+Automaticky aktualizovat objekty v každé místnosti.
+Opravdu chcete aktualizovat předměty ve všech místnostech?
+Nejvyšší pozice v žebříčku
+Automaticky použít známé optimální nastavení.
+Pracoviště
+Udává, kolik zaměstnanců může v této místnosti pracovat,<br>bez stížností na přeplněnost.
+<DATE1> až <DATE2>
+Tato uložená hra je zastaralá.<br>U zastaralých uložených her se mohou vyskytnout chyby,<br>a některé funkce nemusí fungovat.
+Všechny konzole
+Stacionární konzole
+Kapesní počítače
+Konzole - prodej
+Historie prodejů
+Konkurent vydá hru pro vaši konzoli
+Přeplněnost <b><NUM></b> pracovišť
+<NUM> Zbývající výhody
+Pokračovat, jakmile budou k dispozici nové zakázky
+Čekání na nové zakázky
+Velmi těžké
+Zrušení
+Jít do místnosti
+Zveřejnit později
+Automaticky držet prodejní cenu na <color=blue><NUM></color> zisku
+Zavírat nabídky pravým tlačítkem myši
+Alespoň jedna funkce Enginu má vyšší technologickou úroveň než vybrané Platformy.
+Technologická úroveň vybraného Enginu
+Technologická úroveň nejslabší Platformy
+Výhradní hra výrobce
+▪ Exkluzivní hry výrobce mohou být vydány pouze na vašich vlastních konzolích.<br>Exkluzivita může o něco zvýšit prodej vašich konzolí.
+Pokud chcete vyvinout exkluzivní hru výrobce, můžete si vybrat pouze vlastní konzole!
+<b>Exkluzivní hra výrobce</b><br>Díky této hře se prodalo odhadem <color=blue><NUM></color> vašich konzolí.
+Počkejte, až budou k dispozici nové hry
+Počkejte, až bude možné vytvořit zprávu o nové hře
+Pokračovat
+Přichycení pro otáčení
+Automatický prodej zbývajících zásob
+Zrušit výběr položky
+Ve frontě
+Dokončit vývoj
+Dokončit vývoj a uvolnit produkt<br>později.
+Vyhledávání zaměstnanců
+Odborné zkušenosti
+Inzerát o zaměstnání
+Mladí odborníci
+Kvalifikovaný pracovník
+Specialista
+Šance na úspěch
+Potřebný čas
+▪ Čím více pracovních zkušeností je požadováno,<br> tím menší je šance na nalezení zaměstnance.<br>▪ Vysoké hodnocení studia může zvýšit šanci na úspěch.<br>▪ Doba potřebná k nalezení vhodného zaměstnance<br>záleží na zvolené pracovní zkušenosti.
+Náklady: <NUM>
+<color=blue><NAME></color> se přihlásil na naši pracovní pozici. Chcete tuto osobu zaměstnat?
+<b>Vyhledání zaměstnance</b><br>Naneštěstí se nepodařilo najít žádného vhodného zaměstnance.
+Vyhledávání zaměstnanců bylo úspěšně ukončeno
+Automatické nastavení prodejních cen
+Hardware konzole je zastaralý.<br>To zvyšuje výrobní náklady.
+Herní funkce
+Dokončeno
+Máte povoleno příliš mnoho herních funkcí.
+Hráč je připraven
+Připraveno
+Vydavatelské nabídky
+Kterou hru chcete distribuovat?
+▪ Čím vyšší je reputace vašeho studia, tím více her vám bude nabídnuto.<br>▪ Za tyto hry nezískáte zkušenosti.<br>▪ IP a herní koncept zůstává<br>vlastnictvím vývojáře. Proto nemůžete vyvíjet pokračování, <br>dodatky, aktualizace ani hru portovat.
+Výše záruky
+Podíl na obratu
+Odhadovaná kvalita
+Počet nabídek na vydání
+Nabídka smlouvy
+Pošlete vývojáři <color=blue><NAME1></color> nabídku smlouvy na hru <color=blue><NAME2></color>.
+Nálada
+Učinit nabídku
+Jednání o smlouvě se nezdařilo! Vývojář bude hledat jiného vydavatele.
+Podepište smlouvu
+Naštvaný
+Napjaté
+Spokojený
+Smazat
+Distribuce
+Distribuované hry
+Maloobchodní + digitální
+Pouze maloobchodní prodej
+Pouze digitální
+Tuto hru nesmíte distribuovat jako krabicovou verzi.
+Tuto hru nesmíte distribuovat digitálně.
+Nabídku můžete vývojáři zaslat pouze jednou týdně.
+Průměrná dovednost
+Zaměstnanci podle profesí
+Celkový počet dovedností
+Žadatelé podle profesí
+Není nutné vyrobit všechny edice.<br>Pokud není vydaná Luxusní nebo Sběratelská edice,<br>kupující si automaticky zakoupí Standardní edici.
+Komerční neúspěch
+Navzdory dobrému hodnocení se <color=blue><NAME></color> nedokáže udržet na trhu a zdá se, že se stane komerčním neúspěchem.
+Zjištěné chyby
+Kupující hry <color=blue><NAME></color> nahlásili chyby, které naše kontrola kvality přehlédla. Delší doba ladění snižuje pravděpodobnost, že chyby zůstanou neodhaleny. Bylo by vhodné vyvinout opravu co nejdříve.
+Hra obsahuje chyby
+Překvapivý zásah
+Štěstí je na naší straně. Prodejní čísla <color=modrá><NAME></color> jsou mnohem vyšší, než se očekávalo. Tato hra by mohla být překvapivým hitem roku.
+Nejlepší dovednost
+Nejnovější uchazeči
+<b>Nová kombinace žánrů</b><br>▪ +10 % prodaných kusů
+<b>Nová kombinace témat</b><br>▪ +3 % prodaných kusů
+Nová kombinace žánrů
+Nová kombinace témat
+Průmyslový park
+Palm Beach Resort
+[K dispozici výukový program]
+Giant Warehouse
+Skrýt hry na zakázku
+Doba vývoje: <color=blue><NUM> týdnů</color>
+Automatický výběr nejlepšího zaměstnance
+Není vybrán žádný vedoucí technik!
+Nejoblíbenější IP
+F2P ke stažení
+Počítačové a konzolové hry
+Možnosti filtrování her
+Standardní hry
+IP adresy
+Sdílení
+Zobrazit vše
+Zobrazit pouze hry pro PC a konzole
+Zobrazit pouze arkádové automaty
+Zobrazit pouze mobilní hry
+Zobrazit pouze vlastní konzole
+Náhodné kombinace žánrů
+Komponenty
+Zobrazit pouze hry ve frontě
+Nejhranější F2P hry
+Budgetové hry
+Herní balíčky
+Mobilní hry
+Arkádové automaty
+Dosažený pokrok
+Skrýt odemčený pokrok
+<NUM1> z <NUM2> úrovní pokroku
++<NUM>% prodaných her pro PC a konzole
++<NUM>% prodaných her pro arkádové automaty
++<NUM>% prodaných mobilních her
++<NUM>% prodaných doplňků
++<NUM>% prodejů sekundárního marketingu
++<NUM>% nákupů v aplikacích
++<NUM>% prodaných vlastních konzolí
++<NUM>% fanoušků získaných prostřednictvím her
++<NUM>% rychlost tréninku
++<NUM>% rychlost práce
+Celkový bonus
+Vývoj nelze zahájit, protože tuto zakázku již přijal jiný hráč.
+Zakázku nelze přijmout, protože jste ještě nevyzkoumali příslušný žánr.
+Zakázku nelze přijmout, protože jste ještě nevyzkoumali příslušnou velikost hry.
+Váš engine byl použit pro zakázkovou hru <color=blue><NAME1></color>. Díky tomu máte nárok na podíl ze zisku.
+Odstranit/archivovat vše
+Ochrana proti kopírování a podvodům
+Během vývoje můžete změnit Ochranu proti kopírování a software proti podvodům.
+Další náklady na vývoj
+Z jaké <color=blue>IP</color> by mělo být zboží nabízeno?
+Minimálně jedna položka zboží není skladem!
+Položky zboží se automaticky doobjednávají
+▪ Minimální objednací množství jednoho zboží je 5 000 kusů.<br>▪ Čím známější je IP, tím více zboží lze prodat.<br>▪ Počet vašich fanoušků zvyšuje prodejní čísla.
+Šálek
+Tričko
+Obrázkový sešit
+Náhrdelník
+Čepice
+Kovová kartička
+Mince
+Sběratelská figurka
+Předmět
+Objednané množství
+Nákupní cena
+Údaje o prodeji
+Náklady na objednávku
+Automatické doobjednání
+Minulý týden: <b><NUM1></b><br>Celkem: <b><NUM2></b>
+Použít prodejní ceny na všechny IP
+Prodejní ceny byly přijaty pro <NUM> IP.
+Objednávka zboží
+Zboží
+Zboží v hodnotě <NUM> bylo objednáno pro <NAME>.
+Automaticky přeobjednat pro všechny IP
+Automatické přepínání pro všechny IP
+Zisk z prodeje zboží
+Požadovaná oblíbenost IP
+Správa Fanshopu
+Příjem objednávek
+Poptávka
+Aktuální / minulý měsíc
+Zakázat prodej
+Z této IP nebude prodáváno žádné zboží.
+Prodej zboží z této IP.
+Přepnutí prodeje pro všechny IP
+IP a Ceny
+Vaši zaměstnanci mají za úkol vyřizovat <color=blue>objednávky</color> <color=blue>zboží</color>. Čím vyšší je <color=blue>poptávka</color>, tím více zaměstnanců je potřeba.
+Pro jaký typ platformy bude pokračování hry <NAME> vyvinuto?
+Pro jaký typ platformy bude vyvinut spin-off hry <NAME>?
+Čím vyšší je hodnota rubriky, tím větší je<br> šance, že zaměstnanec získá za danou rubriku body.
+Prioritu návrhu můžete v průběhu vývoje změnit. To se doporučuje zejména v případě, že je některá rubrika silně zanedbaná.
+Otočit kameru o 90 stupňů
+Exkluzivní hry
+Příští týden
+Vlastní vyvinuté hry
+Stoly
+Skříně
+Televizory a rádia
+Obrázky
+Koberce
+Ocenění
+Stoly
+Rostliny
+Svítidla
+Různé
+Sedací soupravy
+Úklidový robot
+Sanitární předměty
+Zábava
+Stroje
+Server
+Chladicí systémy
+Úložná místa
+Školící objekty
+Zvuková studia
+Zachycení pohybu
+Pracovní stoly
+Pracoviště
+<b>Globální výpadky v zásobování<br><color=blue>-50 % prodaného zboží fanouškům</color></b><br><br>V souvislosti s nedostatkem surovin dochází celosvětově k logistickým problémům.<br>V důsledku toho nelze uspokojit poptávku po zboží.
+Zobrazit pouze hry, které již byly staženy z trhu.
+Odemkne se po zveřejnění <color=blue>první hry</color>.
+Zobrazí pouze platformy s odpovídající technologickou úrovní
+Skrýt témata, která neodpovídají
+Odpovídající témata
+Neshodující se témata
+[A]
+Hry s nejvyššími příjmy
+Přehlížená IP
+Nejnovější hra byla vydána před <NUM> týdny.
+Skrýt porty
+Skrýt doplňky
+Všechny žánry
+Nejvyšší počet předplatného
+Nejvyšší počet hráčů
+Špička
+Aktuální počet předplatitelů
+Aktuální počet hráčů
+Nízký
+Střední
+Vysoký
+Žánry vašich posledních vydaných her.<br>Pokud budete používat stejný žánr příliš často, vaši fanoušci se začnou nudit.<br>Vaše speciální žánry <NAME> jsou z tohoto vyjmuty.
+Není určeno k prodeji
+Zrušení smlouvy
+Chcete-li smlouvu předčasně ukončit, musíte zaplatit pokutu ve výši <NUM>. Kromě toho dojde ke zhoršení vztahu s tímto vydavatelem.
+Opravdu chcete zrušit exkluzivní smlouvu s <NAME>?
+Kritická chyba! Neexistuje žádné připojení ke službě Steam.
+Popularita platformy zvyšuje její životnost
+Když vyvíjíte exkluzivní hru, získáte od výrobce platformy finanční dotaci na snížení nákladů na vývoj.
+U exkluzivní hry není možné změnit platformu!
+Nezobrazovat "Mad Games Convention"
+Nezobrazovat "Mad Games Awards"
+Nezobrazovat náhodné události
+Dceřiné společnosti
+Dceřiná společnost
+Skrýt dceřiné společnosti
+Exkluzivní sleva na hry
+Koupit společnost
+Opravdu chcete koupit <NAME> za kupní cenu <NUM>?
+Nastavení studia
+Váš podíl na příjmech
+Otevřít / zavřít dceřinou společnost
+Tato společnost byla uzavřena
+Tato dceřiná společnost není vydavatelem!
+Měsíční administrativní náklady
+Vylepšit dceřinou společnost
+Vylepšit na vydavatele
+Vylepšit na vývojáře
+Opravdu chcete vylepšit <NAME>? Cena vylepšení je <NUM>.
+Opravdu chcete vylepšit <NAME> na vydavatele? Náklady na vylepšení jsou <NUM>.
+Opravdu chcete vylepšit <NAME> na vývojáře? Náklady na vylepšení jsou <NUM>.
+Nezadali jste název společnosti!
+Loga společnosti
+Jakými pokyny se má vaše dceřiná společnost řídit?
+Pokrok
+Činnost
+Povolená doba vývoje
+Téměř dokončeno
+Vydání produktu přibližně za <NUM> týdnů
+Žádná hra ve vývoji
+Prioritní velikost hry
+Prioritní žánr
+Vydávání her vlastním nákladem
+Vyvíjet pouze exkluzivní hry pro vlastní konzole
+Povolit vývoj MMO her
+Povolit vývoj F2P her
+Povolit vývoj doplňků a MMO doplňků
+Nevyvíjet hry pro arkádové automaty
+Nevyvíjet mobilní hry
+Nevyvíjet retro hry
+Nevyvíjet porty her
+Nevydávat nízkorozpočtové hry
+Nevydávat GOTY edice
+Krátká
+Přiměřená
+Dlouhá
+Bez specifikací
+Nevyvíjet remastery
+Nevyvíjet spin-offy
+Uzavřeno
+Použít nastavení pro všechny dceřiné společnosti
+Prodat dceřinou společnost
+Nastavení bylo použito pro všechny dceřiné společnosti.
+Hry vyvíjené dceřinými společnostmi
+Opravdu chcete prodat svou dceřinou společnost <NAME> za <NUM>?
+Společnost odmítá všechny nabídky na převzetí. Zkuste to znovu později.
+Vaše dceřiná společnost <NAME> má připravený nový produkt k vydání. Chcete jej distribuovat sami, nebo by se o jeho vydání měla postarat vaše dceřiná společnost?
+Hru vydá dceřiná společnost
+Hru vydáte vy sami
+Produkt je připraven k vydání
+Odhadované hodnocení:
+<b>Hru vydá dceřiná společnost</b><br>▪ Dceřiná společnost v případě potřeby vyhledá vydavatele.<br>▪ Dostanete <NUM>% z veškerých prodejů.
+<b>Vlastní distribuce</b><br>▪ Váš podíl na příjmu je <NUM>%.<br>▪ Hry pro hrací automaty, mobilní hry a F2P jsou vždy distribuovány dceřinou společností.
+Podíl na příjmech s vývojáři
+Skrýt hry stažené z trhu
+Hry dceřiných společností na trhu
+Váš podíl na zisku
+Hra dceřiné společnosti
+Vaše dceřiná společnost <NAME1> vám zaslala vyúčtování za hru <NAME2>.
+Nezobrazovat vyúčtování svých dceřiných společností
+Odečitatelné položky
+Když bude tato dceřiná společnost hru distribuovat,<br>vývojář dostane <NUM> z každé prodané hry.
+Prioritní téma
+Zaměřit se na následující IP
+Preferovat distribuci prostřednictvím vlastních vydavatelů
+Nezobrazovat výpovědi zaměstnanců
+Odebrat IP
+Použít firemní Engine
+Odebrat Engine
+Odhadované hodnocení
+Všechny hry, které mají horší než odhadované hodnocení,<br>jsou automaticky vydávány vaší dceřinou společností.
+Kopírovat položku
+Zaměřit se na následující platformy
+Označit hry od dceřiných společností
+Hráč
+Zobrazit pouze hry vlastní produkce
+▪ <b>Hra roku</b><br>Musíte být vývojářem a získat vysoké celkové skóre.<br><br>▪<b>Nejlepší soundtrack</b><br>Musíte být vývojářem a získat vysoké hodnocení zvuku.<br><br>▪ <b>Nejlepší grafika</b><br>Musíte být vývojářem a získat vysoké hodnocení grafiky.<br><br>▪ <b>Vydavatel roku</b><br>Musíte distribuovat a prodávat hodně kvalitních her.<br><br>▪ <b>Nejlepší vývojář</b><br>Musíte vyvinout spoustu vysoce kvalitních her.<br><br>▪ <b>Nejhorší hra roku</b><br>Musíte být vývojářem a vaše hra by neměla být zábavná.
+Přenos IP
+Kterou IP chcete přiřadit své společnosti nebo dceřiné společnosti?
+Pro tuto IP se v současné době vyvíjí nový projekt. Abyste mohli tuto IP převést, musíte nejprve vývoj zrušit.
+Převod IP není v současné době možný.
+<b>Mad Games Awards - Vítěz</b><br>Vaši fanoušci jsou nadšeni, že jste získali ocenění v soutěži "Mad Games Awards".<br>+<NUM>% prodaných her<br>
+Evropské sídlo
+Z důvodu zvýšení ceny <NUM> byly předobjednávky zrušeny!
+Automaticky aktivováno
+Nebylo dosud zkoumáno
+Žánr nebyl zkoumán!
+Žánr nebo téma nebylo zkoumáno!
+Typ hry nebyl zkoumán!
+Vhodný žánr
+Nevhodný žánr
+Hračka
+Stolní hra
+Komiks
+<color=blue><NUM></color> hráčů má přístup k <color=blue>internetu</color>.
+Nejsou dostupné žádné informace!
+<b>Konzolové & počítačové hry</b><br>Pokud týdenní prodeje klesnou pod <color=blue><NUM></color>, hra<br>je automaticky stažena z trhu.
+Otevřete si nabídku "Hra dokončena", když jsou všechny chyby odstraněny.
+Aktuální projekt
+Tato dceřiná společnost není vývojářem
+Set game speed
+Each player has permission to set the game speed.<br>If this function is disabled,<br>only the host may set the game speed.
+Show result of market research
+Calls are chargeable <color=blue>[2$]</color>
+If the support is paid, you will lose<br>significantly more dissatisfied fans.
+You can perform customer support in the support department.
+Number of products
+Standard prices
+Standard prices for newly created IPs
+Propose salary
+-
+Salary negotiation
+An employee asks for a salary increase
+If your employee is angry,<br>he will stop the negotiation
+I would like a monthly salary of <NUM>.
+Willingness to negotiate
+Accept salary increase
+No willingness to negotiate!
+You haven't chosen a main genre yet!
+Remove all
+OK. I agree with your offer. (monthly salary: <NUM>).
+Last chance! I want a monthly salary in the amount of <NUM>.
+Arcade Machines [Orders]
+No platform is <color=blue>internet enabled</color>.
+▪ The better your game is, the higher the chance that you will level up.<br>▪ Addons have a lower chance of getting XP.
+<b>Disappointed fans</b><br>Your fans are disappointed because you released a series of bad games.<br>▪ -40% units sold<br>▪ No new fans
+Announced game
+No game was announced
+<color=blue><NAME1></color> has announced the game <color=blue><NAME2></color>.
+NPC developer announces a game
+Announced games
+Game mode
+▪ In sandbox mode, some stuff is already unlocked and<br>you have infinite money.<br><br>▪ No Steam achievements are unlocked in sandbox mode.
+Standard game
+Sandbox
+<size=20>∞</size>
+This review is about the port of <NAME>. We check how the game performs on the system.
+Automatically place furniture
+Improved pathfinding for your employees [Beta]
+Bigger games have a longer development time.
+You need at least <NUM> gameplay features for the <NAME> game size.
+Min.
+Development time
+Standard
+Realistic
+▪ As the experience level increases, the development costs decrease.<br>▪ The gameplay, graphics, technology and sound points increase.<br>▪ The development time is reduced.<br>▪ Fewer bugs are generated.

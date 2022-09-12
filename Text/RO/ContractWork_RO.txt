@@ -1,0 +1,80 @@
+﻿Optimizați motorul grafic <0>
+Programare sistem audio <0>
+Dezvoltați Editorul de nivel <0>
+Optimizați fizica jocului <0>
+Misiuni de scripting <0>
+Optimizați AI-ul inamicului <0>
+Optimizați timpul de încărcare<0>
+Programarea sistemului de memorie<0>
+Creați interfață cu utilizatorul<0>
+Programarea sistemului de baze de date<0>
+Dezvoltarea unui prototip de joc<0>
+Dezvoltați instrumentul de localizare<0>
+Dezvoltați instrumentul de diagnosticare<0>
+Comprimă game assets<0>
+Programarea sistemului de dialog<0>
+Dezvoltați sistemul de coliziune<0>
+Programarea browserului de fișiere<0>
+Programare nivel de încărcărcare<0>
+Programarea managerului de intrare<0>
+Programarea Sprite Manager<0>
+Dezvoltați controlerul de debug<0>
+Programarea Event Manager<0>
+Dezvoltați sistemul de animație<0>
+Dezvoltați Sprite Editor<0>
+Dezvoltați driverele<0>
+Implementați protecția copyright<0>
+Optimizați sistemul de control<1>
+Proiectare nivele<1>
+Test general a bug-urilor<1>
+Test de proba<1>
+Creați un concept de joc<1>
+Teste de compatibilitate hardware<1>
+Testarea stabilității jocului<1>
+Analizați performanța jocului<1>
+Testați actualizările jocului<1>
+Optimizați echilibrarea jocului<1>
+Testarea plug-in-urilor<1>
+Analiza prototipului<1>
+Testarea interfata utilizator<1>
+Creați un Storyboard<1>
+Scrierea dialogurilor<1>
+Creati caracterul personajelor<2>
+Desenati imaginile de fundal<2>
+Desenati elementele<2>
+Desenati interfata utilizator<2>
+Creati concepte grafice<2>
+Desenati obiecte ambientale<2>
+Creati efectele speciale<2>
+Desenati imaginea de coperta<2>
+Crearea de nivel Tileset<2>
+Creați fonturi<2>
+Animează personajele<2>
+Crearea unei coloane sonore<3>
+Creați sunetele personajelor<3>
+Înregistrați sunetele armelor<3>
+Creați sunetele interfață utilizator<3>
+Creați sunetele dinamice<3>
+Creați sunetele ambientale<3>
+Creați sunetele magice<3>
+Înregistrați zgomotele animalelor<3>
+Creați zgomotele de motor<3>
+Înregistrați muzica clasică<3>
+Creați sunete robotice<3>
+Mixarea sunetelor de explozie<3>
+Înregistrați mișcările de bază<4>
+Înregistrați animație pentru arte marțiale<4>
+Creați animații in scenă<4>
+Creați animații pentru animale<4>
+Înregistrați animație cu sabie<4>
+Creați animații pentru monștri<4>
+Creați animații de dans<4>
+Înregistrați jucătorii de fotbal<4>
+Creați animații emote<4>
+Înregistrați animațiile robotului<4>
+Reparați consolele<7>
+Design-ul consolei prototip<7>
+Diagnosticați consola ptrototip<7>
+Revizuiți placa principală a consolei<7>
+Testați performanța unui prototip<7>
+Optimizați sistemul de răcire<7>

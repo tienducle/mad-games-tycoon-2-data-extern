@@ -1,0 +1,188 @@
+﻿-;-
+Рабочее место I; Рабочее место для разработки. Чем выше качество, <br> тем лучше результат работы.
+Отопление; Замерзающие сотрудники испытывают больше недовольства.
+Лампа I; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Мусорное ведро; Всегда содержите свой офис в чистоте, <br> иначе ваши сотрудники будут недовольны.
+Диспенсер для воды; Жаждущие сотрудники испытывают больше недовольства.
+Рабочее место I; Рабочее место для исследования. Чем выше качество, <br> тем лучше результат работы.
+Растение; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Кактус; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Тропическое растение; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Туалет; Здесь удовлетворяются самые важные потребности.
+Умывальник; Всегда нужно мыть руки!
+Плакат НЛО; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Плакат Робот; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Плакат Aleon; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Ретро плакат; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Плакат «Звездный корабль»; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Золотая награда; Вы получаете эту награду за каждую игру, которая была продана не менее, чем 1.000.000 копий.
+Художественный рисунок I; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Художественный рисунок II; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Художественный рисунок III; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Художественный рисунок IV; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Художественный рисунок V; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Сушилка для рук; Шумит, обдувает и сушит руки.
+Аркадный кабинет I; С этим объектом ваши сотрудники могут обрести новую мотивацию.
+Скамейка - светло-коричневая; <br> здесь ваши сотрудники могут присесть передохнуть.
+Скамейка - темно-коричневый; здесь ваши сотрудники могут <br> присесть на перерыв.
+Скамейка - мята; здесь ваши сотрудники могут <br> присесть на перерыв.
+Кабинет I; Ваши сотрудники более мотивированы, <br> когда работают в хорошо оборудованных офисах.
+Кабинет II; Ваши сотрудники более мотивированы, <br> когда работают в хорошо оборудованных офисах.
+Кабинет III; Ваши сотрудники более мотивированы, <br> когда работают в хорошо оборудованных офисах.
+Шкаф для хранения документов; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Sputnik 3000 Cleaner; Ультрасовременный робот-уборщик удаляет всю грязь.
+Кресло I - коричневое; с этим предметом ваши сотрудники могут обрести новую мотивацию.
+Кресло I - черное; с этим предметом ваши сотрудники могут обрести новую мотивацию.
+Кресло I - Зеленое; с этим предметом ваши сотрудники могут обрести новую мотивацию.
+Производственная машина I; С помощью этой машины вы можете производить игры.
+Аркадный автомат II; с этим объектом ваши сотрудники могут обрести новую мотивацию.
+Аркадный автомат III; с этим предметом ваши сотрудники могут обрести новую мотивацию.
+Часы; Ваши сотрудники более мотивированы, <br> когда работают в хорошо оборудованных офисах.
+Кресло II - Серое; с этим предметом ваши сотрудники могут обрести новую мотивацию.
+Кресло II - Синий; с этим предметом ваши сотрудники могут обрести новую мотивацию.
+Кресло II - Оранжевый; с этим предметом ваши сотрудники могут обрести новую мотивацию.
+Дартс; с этим объектом ваши сотрудники могут получить обрести новую мотивацию.
+Лампа II; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Сервер Intex; серверы необходимы для игр MMO и F2P. <br> Этот сервер может обрабатывать <b><color=blue><NUM></color> </b> игроков.
+Кондиционер; используется для регулирования температуры в серверных.
+Складской стеллаж I; Здесь хранятся созданные вами игры. <br> Этот стеллаж вмещает до <b><color=blue>25.000</color> </b> игр.
+Рабочее место I; Рабочее место отдела маркетинга. Чем выше качество, <br> тем лучше результат работы.
+Лампа III; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Рабочее место II; Рабочее место для разработки. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место III; Рабочее место для разработки. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место IV; Рабочее место для разработки. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место V; Рабочее место для разработки. Чем выше качество, <br> тем лучше результат работы.
+Учебный стол I; позволяет обучать сотрудников. <br> Чем выше качество, тем лучше результат.
+Доска; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Рабочее место II; Рабочее место для исследования. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место II; Рабочее место отдела маркетинга. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место III; Рабочее место отдела маркетинга. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место IV; Рабочее место отдела маркетинга. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место V; Рабочее место отдела маркетинга. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место I; Рабочее место службы поддержки. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место II; Рабочее место службы поддержки. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место III; Рабочее место службы поддержки. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место IV; Рабочее место службы поддержки. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место V; Рабочее место службы поддержки. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место III; Рабочее место для исследований. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место IV; Рабочее место для исследования. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место V; Рабочее место для исследования. Чем выше качество, <br> тем лучше результат работы.
+Кресло III - Красное; с этим предметом ваши сотрудники могут обрести новую мотивацию.
+Кресло III - Зеленое; с этим предметом ваши сотрудники могут обрести новую мотивацию.
+Кресло III - Синее; с этим предметом ваши сотрудники могут обрести новую мотивацию.
+Аптечный шкаф; Позволяет заболевшим сотрудникам лечиться самостоятельно. <br> Больные сотрудники работают медленнее.
+Электрическое отопление; Замерзающие сотрудники испытывают больше недовольства. <br> Этот обогреватель можно разместить в любом положении.
+Рабочее место I; Рабочее место для обеспечения качества. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место I; Рабочее место для графической студии. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место I; Рабочее место для звуковой студии. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место I; Рабочее место для студии захвата движения. Чем выше качество, <br> тем лучше результат работы.
+Клавиатура; с этим объектом ваши сотрудники могут получить новую мотивацию.
+Складской стеллаж II; Здесь хранятся созданные вами игры. <br> Этот стеллаж вмещает до <b><color=blue>50.000</color> </b> игр.
+Складской стеллаж III; Здесь хранятся созданные вами игры. <br> Этот стеллаж вмещает до <b><color=blue>100.000</color> </b> игр.
+Рабочее место II; Рабочее место для звуковой студии. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место III; Рабочее место для звуковой студии. Чем выше качество, <br> тем лучше результат работы.
+Живопись животных I; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Живопись животных II; Ваши сотрудники более мотивированы, когда <br> они работают в хорошо оборудованных офисах.
+Живопись животных III; Ваши сотрудники более мотивированы, когда <br> они работают в хорошо оборудованных офисах.
+Живопись животных IV; Ваши сотрудники более мотивированы, когда <br> они работают в хорошо оборудованных офисах.
+Живопись животных V; Ваши сотрудники более мотивированы, когда <br> они работают в хорошо оборудованных офисах.
+Рабочее место II; Рабочее место для обеспечения качества. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место III; Рабочее место для обеспечения качества. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место IV; Рабочее место для обеспечения качества. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место V; Рабочее место для обеспечения качества. Чем выше качество, <br> тем лучше результат работы.
+Ваш спортивный автомобиль; Продайте свой старый спортивный автомобиль, чтобы заработать немного денег.
+Ковер I; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Ковер II; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Ковер III; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Ковер IV; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Ковер V; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Ковер VI; Ваши сотрудники более мотивированы, когда <br> они работают в хорошо оборудованных офисах.
+Холодильник; Идеально подходит для хранения скоропортящихся продуктов.
+Телевизор; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Современный телевизор; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Радио; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Рабочее место II; Рабочее место для графической студии. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место III; Рабочее место для графической студии. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место IV; Рабочее место для графической студии. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место V; Рабочее место для графической студии. Чем выше качество, <br> тем лучше результат работы.
+Современное радио; Ваши сотрудники более мотивированы, <br> когда они работают в хорошо оборудованных офисах.
+Маленький шкаф I; Ваши сотрудники более мотивированы, когда <br> работают в хорошо оборудованных офисах.
+Маленький шкаф II; Ваши сотрудники более мотивированы, когда <br> они работают в хорошо оборудованных офисах.
+Маленький шкаф III; Ваши сотрудники более мотивированы, когда <br> они работают в хорошо оборудованных офисах.
+Учебный стол II; Позволяет обучать сотрудников. <br> Чем выше качество, тем лучше результат.
+Учебный стол III; Позволяет обучать сотрудников. <br> Чем выше качество, тем лучше результат.
+Учебный стол IV; Позволяет обучать сотрудников. <br> Чем выше качество, тем лучше результат.
+Учебный стол V; Позволяет обучать сотрудников. <br> Чем выше качество, тем лучше результат.
+Производственный станок II; с помощью этой машины вы можете производить игры.
+Производственный станок III; с помощью этой машины вы можете производить игры.
+Производственный станок IV; с помощью этой машины вы можете производить игры.
+Производственный станок V; с помощью этой машины вы можете производить игры.
+Рабочее место IV; Рабочее место для звуковой студии. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место V; Рабочее место для звуковой студии. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место II; Рабочее место для студии захвата движения. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место III; Рабочее место для студии захвата движения. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место IV; Рабочее место для студии захвата движения. Чем выше качество, <br> тем лучше результат работы.
+Рабочее место V; Рабочее место для студии захвата движения. Чем выше качество, <br> тем лучше результат работы.
+Сервер G-Electic; серверы необходимы для игр MMO и F2P. <br> Этот сервер может обрабатывать до <b><color=blue><NUM></color> </b> игроков.
+Сервер Metrics; серверы необходимы для игр MMO и F2P. <br> Этот сервер может обрабатывать <b><color=blue><NUM></color> </b> игроков.
+Сервер DivoTech; серверы необходимы для игр MMO и F2P. <br> Этот сервер может обрабатывать <b><color=blue><NUM></color> </b> игроков.
+Сервер IBN; серверы необходимы для игр MMO и F2P. <br> Этот сервер может обрабатывать <b><color=blue><NUM></color> </b> игроков.
+Платиновая награда; Вы получаете эту награду за каждую игру, <br>которая была продана не менее, чем 5.000.000 копий.
+Бриллиантовая награда; Вы получаете эту награду за каждую игру, <br>которая была продана не менее, чем 10.000.000 копий.
+Coffee maker;The staple food of a game developer is coffee.<br>The most modern coffee maker comes from "Gronky Industries" and<br>can easily keep the coffee warm for 17 hours.
+"Game of the Year" Award;You get this award,<br>when one of your games is chosen as "Game of the Year".
+"Developer of the Year" Award;You get this award,<br>when your studio is chosen as "Developer of the Year".
+"Best Soundtrack" Award;You get this award,<br>when one of your games gets the "Best Soundtrack" award.
+"Best Graphics" Award;You get this award,<br>when one of your games gets the "Best Graphics" award.
+Very small cupboard I;Your employees are more motivated when<br>they work in well-equipped offices.
+Very small cupboard II;Your employees are more motivated when<br>they work in well-equipped offices.
+Very small cupboard III;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet VII;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet VIII;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet IX;Your employees are more motivated when<br>they work in well-equipped offices.
+"Trendsetter" Award;You will receive this award,<br>if one of your games becomes a trendsetter.
+"Publisher of the year" Award;You get this award,<br>when your studio is chosen as "Publisher of the Year".
+Workplace I;The workplace for the workshop. The higher the quality,<br>the better the work result.
+Workplace II;The workplace for the workshop. The higher the quality,<br>the better the work result.
+Workplace III;The workplace for the workshop. The higher the quality,<br>the better the work result.
+Workplace IV;The workplace for the workshop. The higher the quality,<br>the better the work result.
+Workplace V;The workplace for the workshop. The higher the quality,<br>the better the work result.
+Workplace I;The workplace for the console development. The higher the quality,<br>the better the work result.
+Workplace II;The workplace for the console development. The higher the quality,<br>the better the work result.
+Workplace III;The workplace for the console development. The higher the quality,<br>the better the work result.
+Workplace IV;The workplace for the console development. The higher the quality,<br>the better the work result.
+Workplace V;The workplace for the console development. The higher the quality,<br>the better the work result.
+Modern air conditioner;Useful to regulate the temperature in server rooms.
+Stool - Green;With this object your employees can get new motivation.
+Stool - Orange;With this object your employees can get new motivation.
+Stool - Blue;With this object your employees can get new motivation.
+Table I;Your employees are more motivated when<br>they work in well-equipped offices.
+Table II;Your employees are more motivated when<br>they work in well-equipped offices.
+Table III;Your employees are more motivated when<br>they work in well-equipped offices.
+Armchair - Light Brown;Here your employees can<br>sit down for a break.
+Armchair - Dark Brown;Here your employees can<br>sit down for a break.
+Armchair - Mint;Here your employees can<br>sit down for a break.
+Mini Golf;With this object your employees can get new motivation.
+Architecture image I;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image II;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image III;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image V;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image I;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image II;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image III;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image V;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet VII;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet VIII;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet IX;Your employees are more motivated when<br>they work in well-equipped offices.
+Lamp IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Lamp V;Your employees are more motivated when<br>they work in well-equipped offices.eiten.
+Lamp VI;Your employees are more motivated when<br>they work in well-equipped offices.beiten.
+Sunflower;Your employees are more motivated when<br>they work in well-equipped offices.
+Ball Cactus;Your employees are more motivated when<br>they work in well-equipped offices.
+Palm;Your employees are more motivated when<br>they work in well-equipped offices.
+Table IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Modern Heating System;This highly efficient heating system<br>is particularly suitable for open-plan offices.
+Luxury Toilet;A visit to this luxurious toilet<br>even increases motivation.
+Luxury Sink;This sink is so refreshing<br>that it even increases motivation.
