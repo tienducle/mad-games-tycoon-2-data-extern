@@ -1,0 +1,18 @@
+ 0: Skill Game
+ 1: Puzzle Game
+ 2: Adventure
+ 3: Role-Playing Game
+ 4: Strategy
+ 5: Action
+ 6: Platformer
+ 7: Simulation
+ 8: Sports Game
+ 9: Economic Simulation
+10: Fighting Game
+11: Building Game
+12: Interactive Movie
+13: Real-Time Strategy
+14: First-Person Shooter
+15: Visual Novel
+16: Third-Person Shooter
+17: Racing
