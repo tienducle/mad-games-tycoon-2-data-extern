@@ -16,3 +16,24 @@
 15: Visual Novel
 16: Third-Person Shooter
 17: Racing
+
+TheMovieDB
+   28 : Action -> 5
+   12 : Abenteuer -> 2
+   16 : Animation -> 15
+   35 : Komödie -> 2
+   80 : Krimi -> 2
+   99 : Dokumentarfilm -> 7
+   18 : Drama -> 12
+10751 : Familie -> remove
+   14 : Fantasy -> 3
+   36 : Historie -> remove
+   27 : Horror -> 5
+10402 : Musik -> remove
+ 9648 : Mystery -> 2
+10749 : Liebesfilm -> 15
+  878 : Science Fiction -> 5
+10770 : TV-Film -> remove
+   53 : Thriller -> 12
+10752 : Kriegsfilm -> 14
+   37 : Western -> 16
